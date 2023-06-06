@@ -942,7 +942,6 @@
           <cant-alef text="וְעֹ֥שֶׂה חֶ֖סֶד לַאֲלָפִ֑ים לְאֹהֲבַ֖י וּלְשֹׁמְרֵ֥י מִצְוֺתָֽי׃" />
           <cant-bet text="וְעֹ֤שֶׂה חֶ֙סֶד֙ לַאֲלָפִ֔ים לְאֹהֲבַ֖י וּלְשֹׁמְרֵ֥י מִצְוֺתָֽי׃" />
         </cant-all-three>
-        <spi-samekh2 />
       </verse-alt>
       <spi-samekh2 />
       <verse osisID="Exod.20.7" starts-with-sampe="samekh2" ends-with-sampe="pe2" text="לֹ֥א תִשָּׂ֛א אֶת־שֵֽׁם־יְהֹוָ֥ה אֱלֹהֶ֖יךָ לַשָּׁ֑וְא כִּ֣י לֹ֤א יְנַקֶּה֙ יְהֹוָ֔ה אֵ֛ת אֲשֶׁר־יִשָּׂ֥א אֶת־שְׁמ֖וֹ לַשָּֽׁוְא׃" />
@@ -1002,7 +1001,6 @@
           <cant-alef text="לֹ֥א תִרְצָ֖ח" />
           <cant-bet text="לֹ֖א תִּרְצָֽח׃" />
         </cant-all-three>
-        <spi-samekh2 />
       </verse-alt>
       <spi-samekh2 />
       <verse osisID="Exod.20.14" starts-with-sampe="samekh2" ends-with-sampe="samekh2" text="לֹ֣֖א תִּֿנְאָ֑͏ֽף׃" />
@@ -1012,7 +1010,6 @@
           <cant-alef text="לֹ֣א תִנְאָ֑ף" />
           <cant-bet text="לֹ֖א תִּנְאָֽף׃" />
         </cant-all-three>
-        <spi-samekh2 />
       </verse-alt>
       <spi-samekh2 />
       <verse osisID="Exod.20.15" starts-with-sampe="samekh2" ends-with-sampe="samekh2" text="לֹ֣֖א תִּֿגְנֹֽ֔ב׃" />
@@ -1022,7 +1019,6 @@
           <cant-alef text="לֹ֣א תִגְנֹ֔ב" />
           <cant-bet text="לֹ֖א תִּגְנֹֽב׃" />
         </cant-all-three>
-        <spi-samekh2 />
       </verse-alt>
       <spi-samekh2 />
       <verse osisID="Exod.20.16" starts-with-sampe="samekh2" ends-with-sampe="samekh2" text="לֹֽא־תַעֲנֶ֥ה בְרֵעֲךָ֖ עֵ֥ד שָֽׁקֶר׃" />
