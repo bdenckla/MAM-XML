@@ -1411,15 +1411,15 @@
     </chapter>
     <chapter osisID="1Sam.24">
       <verse osisID="1Sam.24.1" ends-with-sampe="samekh2" text="וַיַּ֥עַל דָּוִ֖ד מִשָּׁ֑ם וַיֵּ֖שֶׁב בִּמְצָד֥וֹת עֵֽין־גֶּֽדִי׃" />
-      <versification-note osisID="1Sam.24.1" osisID-of-MAM-src="1Sam.23.29" />
+      <versification-note osisID="1Sam.24.1" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.23.29" />
       <spi-samekh2 />
       <verse osisID="1Sam.24.2" starts-with-sampe="samekh2" ends-with-sampe="samekh2" text="וַיְהִ֗י כַּֽאֲשֶׁר֙ שָׁ֣ב שָׁא֔וּל מֵאַחֲרֵ֖י פְּלִשְׁתִּ֑ים וַיַּגִּ֤דוּ לוֹ֙ לֵאמֹ֔ר הִנֵּ֣ה דָוִ֔ד בְּמִדְבַּ֖ר עֵ֥ין גֶּֽדִי׃" />
-      <versification-note osisID="1Sam.24.2" osisID-of-MAM-src="1Sam.24.1" />
+      <versification-note osisID="1Sam.24.2" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.1" />
       <spi-samekh2 />
       <verse osisID="1Sam.24.3" starts-with-sampe="samekh2" text="וַיִּקַּ֣ח שָׁא֗וּל שְׁלֹ֧שֶׁת אֲלָפִ֛ים אִ֥ישׁ בָּח֖וּר מִכׇּל־יִשְׂרָאֵ֑ל וַיֵּ֗לֶךְ לְבַקֵּ֤שׁ אֶת־דָּוִד֙ וַאֲנָשָׁ֔יו עַל־פְּנֵ֖י צוּרֵ֥י הַיְּעֵלִֽים׃" />
-      <versification-note osisID="1Sam.24.3" osisID-of-MAM-src="1Sam.24.2" />
+      <versification-note osisID="1Sam.24.3" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.2" />
       <verse osisID="1Sam.24.4" text="וַ֠יָּבֹ֠א אֶל־גִּדְר֨וֹת הַצֹּ֤אן עַל־הַדֶּ֙רֶךְ֙ וְשָׁ֣ם מְעָרָ֔ה וַיָּבֹ֥א שָׁא֖וּל לְהָסֵ֣ךְ אֶת־רַגְלָ֑יו וְדָוִד֙ וַאֲנָשָׁ֔יו בְּיַרְכְּתֵ֥י הַמְּעָרָ֖ה יֹשְׁבִֽים׃" />
-      <versification-note osisID="1Sam.24.4" osisID-of-MAM-src="1Sam.24.3" />
+      <versification-note osisID="1Sam.24.4" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.3" />
       <verse osisID="1Sam.24.5">
         <text text="וַיֹּאמְרוּ֩ אַנְשֵׁ֨י דָוִ֜ד אֵלָ֗יו הִנֵּ֨ה הַיּ֜וֹם אֲֽשֶׁר־אָמַ֧ר יְהֹוָ֣ה אֵלֶ֗יךָ הִנֵּ֨ה אָנֹכִ֜י נֹתֵ֤ן אֶת־" />
         <kq>
@@ -1428,13 +1428,13 @@
         </kq>
         <text text=" בְּיָדֶ֔ךָ וְעָשִׂ֣יתָ לּ֔וֹ כַּאֲשֶׁ֖ר יִטַ֣ב בְּעֵינֶ֑יךָ וַיָּ֣קׇם דָּוִ֗ד וַיִּכְרֹ֛ת אֶת־כְּנַֽף־הַמְּעִ֥יל אֲשֶׁר־לְשָׁא֖וּל בַּלָּֽט׃" />
       </verse>
-      <versification-note osisID="1Sam.24.5" osisID-of-MAM-src="1Sam.24.4" />
+      <versification-note osisID="1Sam.24.5" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.4" />
       <verse osisID="1Sam.24.6" text="וַֽיְהִי֙ אַֽחֲרֵי־כֵ֔ן וַיַּ֥ךְ לֵב־דָּוִ֖ד אֹת֑וֹ עַ֚ל אֲשֶׁ֣ר כָּרַ֔ת אֶת־כָּנָ֖ף אֲשֶׁ֥ר לְשָׁאֽוּל׃" />
-      <versification-note osisID="1Sam.24.6" osisID-of-MAM-src="1Sam.24.5" />
+      <versification-note osisID="1Sam.24.6" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.5" />
       <verse osisID="1Sam.24.7" text="וַיֹּ֨אמֶר לַאֲנָשָׁ֜יו חָלִ֧ילָה לִּ֣י מֵיְהֹוָ֗ה אִם־אֶעֱשֶׂה֩ אֶת־הַדָּבָ֨ר הַזֶּ֤ה לַֽאדֹנִי֙ לִמְשִׁ֣יחַ יְהֹוָ֔ה לִשְׁלֹ֥חַ יָדִ֖י בּ֑וֹ כִּֽי־מְשִׁ֥יחַ יְהֹוָ֖ה הֽוּא׃" />
-      <versification-note osisID="1Sam.24.7" osisID-of-MAM-src="1Sam.24.6" />
+      <versification-note osisID="1Sam.24.7" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.6" />
       <verse osisID="1Sam.24.8" ends-with-sampe="samekh2" text="וַיְשַׁסַּ֨ע דָּוִ֤ד אֶת־אֲנָשָׁיו֙ בַּדְּבָרִ֔ים וְלֹ֥א נְתָנָ֖ם לָק֣וּם אֶל־שָׁא֑וּל וְשָׁא֛וּל קָ֥ם מֵהַמְּעָרָ֖ה וַיֵּ֥לֶךְ בַּדָּֽרֶךְ׃" />
-      <versification-note osisID="1Sam.24.8" osisID-of-MAM-src="1Sam.24.7" />
+      <versification-note osisID="1Sam.24.8" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.7" />
       <spi-samekh2 />
       <verse osisID="1Sam.24.9" starts-with-sampe="samekh2" ends-with-sampe="samekh2">
         <text text="וַיָּ֨קׇם דָּוִ֜ד אַחֲרֵי־כֵ֗ן וַיֵּצֵא֙ " />
@@ -1444,10 +1444,10 @@
         </kq>
         <text text=" וַיִּקְרָ֧א אַחֲרֵי־שָׁא֛וּל לֵאמֹ֖ר אֲדֹנִ֣י הַמֶּ֑לֶךְ וַיַּבֵּ֤ט שָׁאוּל֙ אַחֲרָ֔יו וַיִּקֹּ֨ד דָּוִ֥ד אַפַּ֛יִם אַ֖רְצָה וַיִּשְׁתָּֽחוּ׃" />
       </verse>
-      <versification-note osisID="1Sam.24.9" osisID-of-MAM-src="1Sam.24.8" />
+      <versification-note osisID="1Sam.24.9" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.8" />
       <spi-samekh2 />
       <verse osisID="1Sam.24.10" starts-with-sampe="samekh2" text="וַיֹּ֤אמֶר דָּוִד֙ לְשָׁא֔וּל לָ֧מָּה תִשְׁמַ֛ע אֶת־דִּבְרֵ֥י אָדָ֖ם לֵאמֹ֑ר הִנֵּ֣ה דָוִ֔ד מְבַקֵּ֖שׁ רָעָתֶֽךָ׃" />
-      <versification-note osisID="1Sam.24.10" osisID-of-MAM-src="1Sam.24.9" />
+      <versification-note osisID="1Sam.24.10" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.9" />
       <verse osisID="1Sam.24.11">
         <text text="הִנֵּה֩ הַיּ֨וֹם הַזֶּ֜ה רָא֣וּ עֵינֶ֗יךָ אֵ֣ת אֲשֶׁר־נְתָנְךָ֩ יְהֹוָ֨ה" />
         <lp-paseq />
@@ -1455,26 +1455,26 @@
         <lp-paseq />
         <text text="בְּיָדִי֙ בַּמְּעָרָ֔ה וְאָמַ֥ר לַהֲרׇגְךָ֖ וַתָּ֣חׇס עָלֶ֑יךָ וָאֹמַ֗ר לֹֽא־אֶשְׁלַ֤ח יָדִי֙ בַּאדֹנִ֔י כִּֽי־מְשִׁ֥יחַ יְהֹוָ֖ה הֽוּא׃" />
       </verse>
-      <versification-note osisID="1Sam.24.11" osisID-of-MAM-src="1Sam.24.10" />
+      <versification-note osisID="1Sam.24.11" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.10" />
       <verse osisID="1Sam.24.12" text="וְאָבִ֣י רְאֵ֔ה גַּ֗ם רְאֵ֛ה אֶת־כְּנַ֥ף מְעִֽילְךָ֖ בְּיָדִ֑י כִּ֡י בְּכׇרְתִי֩ אֶת־כְּנַ֨ף מְעִֽילְךָ֜ וְלֹ֣א הֲרַגְתִּ֗יךָ דַּ֤ע וּרְאֵה֙ כִּי֩ אֵ֨ין בְּיָדִ֜י רָעָ֤ה וָפֶ֙שַׁע֙ וְלֹא־חָטָ֣אתִי לָ֔ךְ וְאַתָּ֛ה צֹדֶ֥ה אֶת־נַפְשִׁ֖י לְקַחְתָּֽהּ׃" />
-      <versification-note osisID="1Sam.24.12" osisID-of-MAM-src="1Sam.24.11" />
+      <versification-note osisID="1Sam.24.12" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.11" />
       <verse osisID="1Sam.24.13" text="יִשְׁפֹּ֤ט יְהֹוָה֙ בֵּינִ֣י וּבֵינֶ֔ךָ וּנְקָמַ֥נִי יְהֹוָ֖ה מִמֶּ֑ךָּ וְיָדִ֖י לֹ֥א תִֽהְיֶה־בָּֽךְ׃" />
-      <versification-note osisID="1Sam.24.13" osisID-of-MAM-src="1Sam.24.12" />
+      <versification-note osisID="1Sam.24.13" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.12" />
       <verse osisID="1Sam.24.14" text="כַּאֲשֶׁ֣ר יֹאמַ֗ר מְשַׁל֙ הַקַּדְמֹנִ֔י מֵרְשָׁעִ֖ים יֵ֣צֵא רֶ֑שַׁע וְיָדִ֖י לֹ֥א תִֽהְיֶה־בָּֽךְ׃" />
-      <versification-note osisID="1Sam.24.14" osisID-of-MAM-src="1Sam.24.13" />
+      <versification-note osisID="1Sam.24.14" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.13" />
       <verse osisID="1Sam.24.15" text="אַחֲרֵ֨י מִ֤י יָצָא֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל אַחֲרֵ֥י מִ֖י אַתָּ֣ה רֹדֵ֑ף אַֽחֲרֵי֙ כֶּ֣לֶב מֵ֔ת אַחֲרֵ֖י פַּרְעֹ֥שׁ אֶחָֽד׃" />
-      <versification-note osisID="1Sam.24.15" osisID-of-MAM-src="1Sam.24.14" />
+      <versification-note osisID="1Sam.24.15" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.14" />
       <verse osisID="1Sam.24.16" ends-with-sampe="pe2" text="וְהָיָ֤ה יְהֹוָה֙ לְדַיָּ֔ן וְשָׁפַ֖ט בֵּינִ֣י וּבֵינֶ֑ךָ וְיֵ֙רֶא֙ וְיָרֵ֣ב אֶת־רִיבִ֔י וְיִשְׁפְּטֵ֖נִי מִיָּדֶֽךָ׃" />
-      <versification-note osisID="1Sam.24.16" osisID-of-MAM-src="1Sam.24.15" />
+      <versification-note osisID="1Sam.24.16" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.15" />
       <spi-pe2 />
       <verse osisID="1Sam.24.17" starts-with-sampe="pe2">
         <text text="וַיְהִ֣י" />
         <lp-legarmeih />
         <text text=" כְּכַלּ֣וֹת דָּוִ֗ד לְדַבֵּ֞ר אֶת־הַדְּבָרִ֤ים הָאֵ֙לֶּה֙ אֶל־שָׁא֔וּל וַיֹּ֣אמֶר שָׁא֔וּל הֲקֹלְךָ֥ זֶ֖ה בְּנִ֣י דָוִ֑ד וַיִּשָּׂ֥א שָׁא֛וּל קֹל֖וֹ וַיֵּֽבְךְּ׃" />
       </verse>
-      <versification-note osisID="1Sam.24.17" osisID-of-MAM-src="1Sam.24.16" />
+      <versification-note osisID="1Sam.24.17" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.16" />
       <verse osisID="1Sam.24.18" text="וַיֹּ֙אמֶר֙ אֶל־דָּוִ֔ד צַדִּ֥יק אַתָּ֖ה מִמֶּ֑נִּי כִּ֤י אַתָּה֙ גְּמַלְתַּ֣נִי הַטּוֹבָ֔ה וַאֲנִ֖י גְּמַלְתִּ֥יךָ הָרָעָֽה׃" />
-      <versification-note osisID="1Sam.24.18" osisID-of-MAM-src="1Sam.24.17" />
+      <versification-note osisID="1Sam.24.18" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.17" />
       <verse osisID="1Sam.24.19">
         <kq>
           <kq-k text="ואת" />
@@ -1482,14 +1482,15 @@
         </kq>
         <text text=" הִגַּ֣דְתָּ הַיּ֔וֹם אֵ֛ת אֲשֶׁר־עָשִׂ֥יתָה אִתִּ֖י טוֹבָ֑ה אֵת֩ אֲשֶׁ֨ר סִגְּרַ֧נִי יְהֹוָ֛ה בְּיָדְךָ֖ וְלֹ֥א הֲרַגְתָּֽנִי׃" />
       </verse>
-      <versification-note osisID="1Sam.24.19" osisID-of-MAM-src="1Sam.24.18" />
+      <versification-note osisID="1Sam.24.19" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.18" />
       <verse osisID="1Sam.24.20" text="וְכִֽי־יִמְצָ֥א אִישׁ֙ אֶת־אֹ֣יְב֔וֹ וְשִׁלְּח֖וֹ בְּדֶ֣רֶךְ טוֹבָ֑ה וַֽיהֹוָה֙ יְשַׁלֶּמְךָ֣ טוֹבָ֔ה תַּ֚חַת הַיּ֣וֹם הַזֶּ֔ה אֲשֶׁ֥ר עָשִׂ֖יתָה לִֽי׃" />
-      <versification-note osisID="1Sam.24.20" osisID-of-MAM-src="1Sam.24.19" />
+      <versification-note osisID="1Sam.24.20" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.19" />
       <verse osisID="1Sam.24.21" text="וְעַתָּה֙ הִנֵּ֣ה יָדַ֔עְתִּי כִּ֥י מָלֹ֖ךְ תִּמְל֑וֹךְ וְקָ֙מָה֙ בְּיָ֣דְךָ֔ מַמְלֶ֖כֶת יִשְׂרָאֵֽל׃" />
-      <versification-note osisID="1Sam.24.21" osisID-of-MAM-src="1Sam.24.20" />
+      <versification-note osisID="1Sam.24.21" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.20" />
       <verse osisID="1Sam.24.22" text="וְעַתָּ֗ה הִשָּׁ֤בְעָה לִּי֙ בַּֽיהֹוָ֔ה אִם־תַּכְרִ֥ית אֶת־זַרְעִ֖י אַחֲרָ֑י וְאִם־תַּשְׁמִ֥יד אֶת־שְׁמִ֖י מִבֵּ֥ית אָבִֽי׃" />
-      <versification-note osisID="1Sam.24.22" osisID-of-MAM-src="1Sam.24.21" />
+      <versification-note osisID="1Sam.24.22" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.21" />
       <verse osisID="1Sam.24.23" ends-with-sampe="samekh2" text="וַיִּשָּׁבַ֥ע דָּוִ֖ד לְשָׁא֑וּל וַיֵּ֤לֶךְ שָׁאוּל֙ אֶל־בֵּית֔וֹ וְדָוִד֙ וַאֲנָשָׁ֔יו עָל֖וּ עַל־הַמְּצוּדָֽה׃" />
+      <versification-note osisID="1Sam.24.23" bhs-contents-corresponds-to="exactly one c:v in MAM" osisID-of-MAM-src="1Sam.24.22" />
     </chapter>
     <spi-samekh2 />
     <chapter osisID="1Sam.25">
