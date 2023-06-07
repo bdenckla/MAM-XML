@@ -29566,10 +29566,14 @@ l,:,h,a,$,·sh,i,(me),y,v
 SPACE
 y,a,d,(ti),w,o
 SPACE
-v,·,i,𝓂,n,:,h,_,r,-
-START kq-q-velo-k 
-f,·,:,r,a,𝓂,τ
-STOP kq-q-velo-k 
+START kq 
+START kq-k 
+v,n,h,r
+STOP kq-k 
+START kq-q 
+v,·,i,𝓂,n,:,h,_,r,-,f,·,:,r,a,𝓂,τ
+STOP kq-q 
+STOP kq 
 .
 
 2Samuel 8:4 in vtrad vtbhs
