@@ -11646,7 +11646,7 @@ SPACE
 $,·sh,i,$,·sh,·,i,⅃,y,m.
 SPACE
 w,·,$,·sh,:,m,w,o,n,a,⅄,h
-START shirah-space 
+START spi-samekh3 
 w,:,ʕ,o,v,‥,(qa),d
 SPACE
 α,:∵,d,o,(da),m.
