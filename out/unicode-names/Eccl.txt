@@ -5469,7 +5469,7 @@ SPACE
 α,i,m.,-,θ,(ti),w,o,v
 SPACE
 w,:,α,i,m.,-,r,a,𝓂,ʕ,.
-START addendum 
+START good-ending 
 σ,w,f.
 SPACE
 d,v,r
@@ -5497,5 +5497,5 @@ SPACE
 k,l
 SPACE
 h,α,d,m.
-STOP addendum 
+STOP good-ending 
 

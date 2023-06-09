@@ -32158,7 +32158,7 @@ SPACE
 d,‥,r,a,α,(ti),w,o,n.
 SPACE
 l,:,k,oa,l,-,v,·,a,$,·si,a,𝓂,r,.
-START addendum 
+START good-ending 
 w,h,y,h
 SPACE
 m,d,y
@@ -32186,5 +32186,5 @@ SPACE
 α,m,r
 SPACE
 y,h,w,h
-STOP addendum 
+STOP good-ending 
 

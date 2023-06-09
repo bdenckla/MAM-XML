@@ -3197,7 +3197,7 @@ SPACE
 ʕ,a,l,‥,(ti),y,n,w,·
 SPACE
 ʕ,_,d,-,m,:,α,o,𝓂,d,.
-START addendum 
+START good-ending 
 h,$,y,v,n,w
 SPACE
 y,h,w,h
@@ -3211,5 +3211,5 @@ SPACE
 y,m,y,n,w
 SPACE
 k,q,d,m.
-STOP addendum 
+STOP good-ending 
 

@@ -16,7 +16,7 @@ _HANDLERS = {
     #
     ('text', None): handlers.text,
     #
-    ('addendum', None): handlers.addendum,
+    ('good-ending', None): handlers.good_ending,
     ('letter-small', None): handlers.letter_small,
     ('letter-large', None): handlers.letter_large,
     ('letter-hung', None): handlers.letter_hung,

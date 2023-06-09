@@ -97,23 +97,23 @@ def table_data(contents, attr=None):
 
 
 def table(contents, attr=None):
-    return hel_mk('table', attr=attr, contents=contents)
+    return hel_mk('table', attr, contents)
 
 
 def unordered_list(contents, attr=None):
-    return hel_mk('ul', attr=attr, contents=contents)
+    return hel_mk('ul', attr, contents)
 
 
 def list_item(contents, attr=None):
-    return hel_mk('li', attr=attr, contents=contents)
+    return hel_mk('li', attr, contents)
 
 
 def anchor(contents, attr=None):
-    return hel_mk('a', attr=attr, contents=contents)
+    return hel_mk('a', attr, contents)
 
 
 def colgroup(contents, attr=None):
-    return hel_mk('colgroup', attr=attr, contents=contents)
+    return hel_mk('colgroup', attr, contents)
 
 
 def col(attr=None):
@@ -148,8 +148,23 @@ def line_break(attr=None):
     return hel_mk('br', attr=attr, lb1='', noclose=True)
 
 
-def hel_mk(tag, **rest):
-    return {'_hel_tag': tag, **rest}
+def hel_mk(
+        tag,
+        attr=None,
+        contents=None,
+        lb1=None,
+        lb2=None,
+        noclose=None):
+    """ Make an HTML element """
+    opts1 = {
+        'attr': attr,
+        'contents': contents,
+        'lb1': lb1,
+        'lb2': lb2,
+        'noclose': noclose
+    }
+    opts2 = {k: v for k, v in opts1.items() if v is not None}
+    return {'_hel_tag': tag, **opts2}
 
 
 def hel_get_tag(hel):
@@ -162,7 +177,7 @@ def _link_to_css(css_href):
 
 
 def _html_el1(attr, contents):
-    return hel_mk('html', attr=attr, contents=contents)
+    return hel_mk('html', attr, contents)
 
 
 def _attr_str(attr_dict):

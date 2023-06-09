@@ -9,6 +9,7 @@ This module exports:
 
 import unicodedata
 import my_html
+import my_tanakh_book_names as my_tbn
 import my_hebrew_letters as hl
 import my_hebrew_points as hp
 from my_str_defs import CGJ, NBSP
@@ -48,7 +49,8 @@ def hechar_names(string):
 
 
 def write_verse_un(out_fp, bcvt, multiverse):
-    bkid, chnu, vrnu, vtrad = bcvt
+    bkid, chnu, vrnu = my_tbn.bcvt_get_bcv_triple(bcvt)
+    vtrad = my_tbn.bcvt_get_vtrad(bcvt)
     out_fp.write(f'{bkid} {chnu}:{vrnu} in vtrad {vtrad}\n')
     alef, bet = multiverse['cant_alef'], multiverse['cant_bet']
     real_multi = alef or bet

@@ -56,8 +56,8 @@ def paseq(_etel, _ofc1, _ofc2):
     return [THSP, my_html.small((PAS,)), THSP]
 
 
-def addendum(_etel, ofc1, _ofc2):
-    """ Handle an addendum element """
+def good_ending(_etel, ofc1, _ofc2):
+    """ Handle a "good ending" element """
     return [my_html.line_break(), my_html.small(ofc1)]
 
 

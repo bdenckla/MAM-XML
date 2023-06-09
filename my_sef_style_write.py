@@ -41,8 +41,8 @@ def write_bkg(variant, bkg_name, rendered_verses):
     """
     fmt = variant.get('variant_file_format') or 'csv'
     path = _bkg_path_n_title(variant, fmt, bkg_name)[0]
-    write_sef_bkg_in_xxx_fmt = variant['variant_write']
-    write_sef_bkg_in_xxx_fmt(path, variant, rendered_verses)
+    write_bkg_in_xxx_fmt = variant['variant_write']
+    write_bkg_in_xxx_fmt(path, variant, rendered_verses)
     _write_bkg_in_un_fmt(variant, bkg_name, rendered_verses)
 
 

@@ -100,6 +100,11 @@ def short_bcv(bcv):
     return short(bcv[0]) + str(bcv[1]) + ':' + str(bcv[2])
 
 
+def short_bcv_of_bcvt(bcvt):
+    """ Like short_bcv but on a bcvt. """
+    return short_bcv(bcvt_get_bcv_triple(bcvt))
+
+
 def short_bcv2(bkid, chapnver, in_cvjumps):
     """
        Returns a string like short_bcv() but adds:
@@ -140,14 +145,14 @@ def cvjumps(cvs):
     return nexts, prevs
 
 
-def cvjumps_next(in_cvjumps, cnvnvt):
-    """ Return the verse locale after cnvnvt """
-    return in_cvjumps[0].get(cnvnvt) or _simple_next(cnvnvt)
+def cvjumps_next(in_cvjumps, cvt):
+    """ Return the verse locale after cvt """
+    return in_cvjumps[0].get(cvt) or _simple_next(cvt)
 
 
-def cvjumps_prev(in_cvjumps, cnvnvt):
-    """ Return the verse locale before cnvnvt """
-    return in_cvjumps[1].get(cnvnvt) or _simple_prev(cnvnvt)
+def cvjumps_prev(in_cvjumps, cvt):
+    """ Return the verse locale before cvt """
+    return in_cvjumps[1].get(cvt) or _simple_prev(cvt)
 
 
 def has_dualcant(bcvtmam):  # bcv in MAM vtrad
@@ -190,45 +195,45 @@ def is_11th_verse_of_decalogue(bcvtmam):
     return bcvtmam in (bcv_ex, bcv_de)
 
 
-def expand_book_names(book_names):
-    """ For each "part 1" book included in booknames,
-    add the "part 2" ("next") book.
+def add_next_bkids(bkids):
+    """ For each "part 1" bkid included in bkids,
+    add the "part 2" ("next") bkid.
     """
-    nexts = tuple(filter(None, map(next_book_name, book_names)))
-    return tuple(set(book_names + tuple(nexts)))
+    nexts = tuple(filter(None, map(next_bkid, bkids)))
+    return tuple(set(bkids + tuple(nexts)))
 
 
-def next_book_name(book_name):
-    """ If the named book is part 1 of a 2-part book,
-    return the name of part 2. Otherwise return None.
+def next_bkid(bkid):
+    """ If bkid is part 1 of a 2-part book,
+    return the bkid part 2. Otherwise return None.
     """
-    next_bkid = {  # next book ID
+    the_next_bkid = {  # next book ID
         BK_FST_SAMUEL: BK_SND_SAMUEL,
         BK_FST_KINGS: BK_SND_KINGS,
         BK_FST_CHRONICLES: BK_SND_CHRONICLES,
         BK_EZRA: BK_NEXEMIAH,
     }
-    return next_bkid.get(book_name)
+    return the_next_bkid.get(bkid)
 
 
 def mk_bcvtmam(bkid, chnu, vrnu):
     """ Return a bcv qualified with VT_MAM """
-    return bkid, chnu, vrnu, VT_MAM
+    return mk_bcvt(bkid, mk_cvtmam(chnu, vrnu))
 
 
 def mk_bcvtsef(bkid, chnu, vrnu):
     """ Return a bcv with vtrad Sef """
-    return bkid, chnu, vrnu, VT_SEF
+    return mk_bcvt(bkid, mk_cvtsef(chnu, vrnu))
 
 
 def mk_bcvtbhs(bkid, chnu, vrnu):
     """ Return a bcv with vtrad BHS """
-    return bkid, chnu, vrnu, VT_BHS
+    return mk_bcvt(bkid, mk_cvtbhs(chnu, vrnu))
 
 
 def mk_bcvt(bkid, cvt):
     """ Make a bcv from a cv """
-    return bkid, *cvt
+    return '_bcvt', bkid, *cvt
 
 
 def mk_cvtmam(chnu, vrnu):
@@ -251,67 +256,74 @@ def mk_cvt(chnu, vrnu, vtrad):
     return chnu, vrnu, vtrad
 
 
-def bcvt_get_vtrad(bcvt):
-    """ Return the vtrad part of bcvt """
-    return bcvt[-1]
-
-
 def bcvt_get_bkid(bcvt):
     """ Return the book ID part of bcvt """
-    return bcvt[0]
+    return bcvt[1]
+
+
+def bcvt_get_cvt(bcvt):
+    """ Strip the book name """
+    return bcvt[2:]
 
 
 def bcvt_get_chnu(bcvt):
     """ Return the chapter number part of bcvt """
-    return bcvt[1]
+    return cvt_get_chnu(bcvt_get_cvt(bcvt))
 
 
 def bcvt_get_vrnu(bcvt):
     """ Return the verse number part of bcvt """
-    return bcvt[2]
+    return cvt_get_vrnu(bcvt_get_cvt(bcvt))
+
+
+def bcvt_get_vtrad(bcvt):
+    """ Return the vtrad part of bcvt """
+    return cvt_get_vtrad(bcvt_get_cvt(bcvt))
 
 
 def bcvt_get_bcv_triple(bcvt):
     """ Return the book ID, chapter number, and verse number parts of bcvt """
-    return bcvt[0:3]
+    return bcvt_get_bkid(bcvt), bcvt_get_chnu(bcvt), bcvt_get_vrnu(bcvt)
 
 
 def bcvt_is_tmam(bcvt):
     """ Return whether the vtrad is VT_MAM """
-    vtrad = bcvt[-1]
-    return vtrad == VT_MAM
+    return cvt_is_tmam(bcvt_get_cvt(bcvt))
 
 
-def bcvt_strip_b(bcvt):
-    """ Strip the book name """
-    return bcvt[1:]
+def cvt_get_chnu(cvt):
+    """ Return the chnu part of cvt """
+    return cvt[0]
 
 
-def bcvt_stript(bcvt):
-    """ Strip the vtrad """
-    return bcvt[:-1]
+def cvt_get_vrnu(cvt):
+    """ Return the vrnu part of cvt """
+    return cvt[1]
 
 
 def cvt_get_vtrad(cvt):
     """ Return the vtrad part of cvt """
-    return cvt[-1]
+    return cvt[2]
 
 
 def cvt_is_tmam(cvt):
     """ Return whether the vtrad is VT_MAM """
-    vtrad = cvt[-1]
-    return vtrad == VT_MAM
+    return cvt_get_vtrad(cvt) == VT_MAM
 
 
 def cvt_is_tsef(cvt):
     """ Return whether the vtrad is vtrad Sef """
-    vtrad = cvt[-1]
-    return vtrad == VT_SEF
+    return cvt_get_vtrad(cvt) == VT_SEF
 
 
 def cvt_stript(cvt):
     """ Strip the vtrad """
     return cvt[:-1]
+
+
+def eq_mod_vtrad(cvt_a, cvt_b):
+    """ Returns whether these cvts are equal modulo their vtrad. """
+    return cvt_stript(cvt_a) == cvt_stript(cvt_b)
 
 
 def short(bkid):
@@ -351,12 +363,12 @@ def _bkprop_ordered_short(bkprop):
     return bkprop[3]
 
 
-def _simple_next(cnvnvt):
-    return cnvnvt[0], cnvnvt[1] + 1, cnvnvt[2]
+def _simple_next(cvt):
+    return cvt[0], cvt[1] + 1, cvt[2]
 
 
-def _simple_prev(cnvnvt):
-    return cnvnvt[0], cnvnvt[1] - 1, cnvnvt[2]
+def _simple_prev(cvt):
+    return cvt[0], cvt[1] - 1, cvt[2]
 
 
 def _shorts_are_unique():
@@ -365,13 +377,20 @@ def _shorts_are_unique():
 
 
 def _mk_verse_range(bcvt, length):
-    vrnu_start = bcvt[2]
+    vrnu_start = bcvt_get_vrnu(bcvt)
     vrange = range(vrnu_start, vrnu_start + length)
     return tuple(_bcvt_setv(bcvt, vrnu) for vrnu in vrange)
 
 
 def _bcvt_setv(bcvt, new_vrnu):
-    return bcvt[0:2] + (new_vrnu,) + bcvt[3:]
+    bkid, cvt = bcvt_get_bkid(bcvt), bcvt_get_cvt(bcvt)
+    new_cvt = _cvt_setv(cvt, new_vrnu)
+    return mk_bcvt(bkid, new_cvt)
+
+
+def _cvt_setv(cvt, new_vrnu):
+    chnu, vtrad = cvt_get_chnu(cvt), cvt_get_vtrad(cvt)
+    return mk_cvt(chnu, new_vrnu, vtrad)
 
 
 BK_GENESIS = 'Genesis'
