@@ -27,7 +27,7 @@ def book_is_of_sec(in_section, bkid):
 
 def books_of_sec(in_section):
     """ Returns a tuple of all book names in the given section. """
-    return tuple(b for b in ALL_BOOK_NAMES if book_is_of_sec(in_section, b))
+    return tuple(b for b in ALL_BOOK_IDS if book_is_of_sec(in_section, b))
 
 
 def section(bkid):
@@ -42,7 +42,7 @@ def book_is_of_bk24(in_bk24id, bkid):
 
 def bkids_of_bk24(in_bk24na):
     """ Returns a tuple of all book names in the given book24. """
-    return tuple(b for b in ALL_BOOK_NAMES if book_is_of_bk24(in_bk24na, b))
+    return tuple(b for b in ALL_BOOK_IDS if book_is_of_bk24(in_bk24na, b))
 
 
 def bk24id(bkid):
@@ -164,7 +164,7 @@ def has_dualcant(bcvtmam):  # bcv in MAM vtrad
         bcvtmam in _DEDEC_RANGE)
 
 
-def names_of_books_with_dualcant():
+def bkids_of_books_with_dualcant():
     """ Return the names of the 3 books having dual cantillation """
     return BK_GENESIS, BK_EXODUS, BK_DEUTER
 
@@ -372,8 +372,8 @@ def _simple_prev(cvt):
 
 
 def _shorts_are_unique():
-    unique_shorts = set(map(_short_no_check, ALL_BOOK_NAMES))
-    return len(unique_shorts) == len(ALL_BOOK_NAMES)
+    unique_shorts = set(map(_short_no_check, ALL_BOOK_IDS))
+    return len(unique_shorts) == len(ALL_BOOK_IDS)
 
 
 def _mk_verse_range(bcvt, length):
@@ -521,7 +521,7 @@ _BOOK_PROPERTIES = {
     # Zechariah is Zc since Ze would have been ambiguous with Tsefaniah when
     # Tsefaniah was spelled Zephaniah.
 }
-ALL_BOOK_NAMES = tuple(_BOOK_PROPERTIES.keys())
+ALL_BOOK_IDS = tuple(_BOOK_PROPERTIES.keys())
 ALL_SECTION_NAMES = (
     SEC_TORAH, SEC_NEV_RISH, SEC_NEV_AX,
     SEC_SIF_EM, SEC_XAM_MEG, SEC_KET_ACH)

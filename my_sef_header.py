@@ -3,9 +3,9 @@
 import my_sef_cmn
 
 
-def sef_header(bkna):
-    """ Returns Sefaria header for book bkna. """
-    sefmet = _sef_metadata(bkna)
+def sef_header(bkid):
+    """ Returns Sefaria header for book with ID bkid. """
+    sefmet = _sef_metadata(bkid)
     return {
         'Index Title': sefmet['title'],
         'Version Title': sefmet['versionTitle'],
@@ -37,7 +37,7 @@ _VERSION_SOURCE = \
     'https://en.wikisource.org/wiki/User:Dovi/Miqra_according_to_the_Masorah'
 
 
-def _sef_metadata(bkna):
+def _sef_metadata(bkid):
     # The order of keys seems arbitrary,
     # but this is how they downloaded from Sefaria.
     # So, to facilitate comparison, we use that order here.
@@ -45,7 +45,7 @@ def _sef_metadata(bkna):
         priority=None,  # std text has 1.0 (a number not a string)
         versionTitleInHebrew='מקרא על פי המסורה',
         # std text has 'תנ״ך מלווה בטעמי מקרא'
-        title=my_sef_cmn.SEF_ENGLISH_BOOK_NAMES[bkna],  # e.g. 'Deuteronomy'
+        title=my_sef_cmn.SEF_ENGLISH_BOOK_NAMES[bkid],  # e.g. 'Deuteronomy'
         language='he',
         license='CC-BY-SA 3.0',  # std text has "Public Domain"
         status=None,  # std text has "locked"
@@ -54,7 +54,7 @@ def _sef_metadata(bkna):
         versionTitle='Miqra according to the Masorah',
         # std text has "Tanach with Ta'amei Hamikra"
         licenseVetted=None,  # std text has true (a boolean not a string)
-        heTitle=my_sef_cmn.SEF_HEBREW_BOOK_NAMES[bkna],  # e.g. 'דברים'
-        categories=['Tanakh', my_sef_cmn.SEF_TANAKH_SUBCATEGORIES[bkna]],
+        heTitle=my_sef_cmn.SEF_HEBREW_BOOK_NAMES[bkid],  # e.g. 'דברים'
+        categories=['Tanakh', my_sef_cmn.SEF_TANAKH_SUBCATEGORIES[bkid]],
     )
     return dic

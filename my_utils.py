@@ -30,20 +30,17 @@ def show_time(uufileuu, inner_function):
     print(datetime.timedelta(seconds=end-start))
 
 
-def show_progress(uufileuu, bkna, chnu):
+def show_progress(uufileuu, label, chnu):
+    # label is usually some sort of book name
     if chnu % 5 == 0:
-        show_progress_g(uufileuu, bkna, ' ' + str(chnu))
+        show_progress_g(uufileuu, label, ' ' + str(chnu))
 
 
-def show_progress_g(uufileuu, bkna, cns=''):
+def show_progress_g(uufileuu, label, cns=''):
+    # label is usually some sort of book name
     bn_uufile_uu = os.path.basename(uufileuu)
-    pyfilename_and_bookname = bn_uufile_uu + ' ' + bkna
+    pyfilename_and_bookname = bn_uufile_uu + ' ' + label
     print(pyfilename_and_bookname + cns)
-
-
-def show_progress_cv(uufileuu, bkna, chapnver):
-    if chapnver[1] == 1:
-        show_progress(uufileuu, bkna, chapnver[0])
 
 
 def get_book39_tuple_from_args():
@@ -59,7 +56,7 @@ def get_book39_tuple_from_args():
         return (args.book39tbn,)
     if args.section6:
         return my_tbn.books_of_sec(args.section6)
-    return my_tbn.ALL_BOOK_NAMES
+    return my_tbn.ALL_BOOK_IDS
 
 
 def _len_for_szip(obj):
