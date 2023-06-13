@@ -1,4 +1,4 @@
-""" Exports misc. handlers for STEPBible test """
+""" Exports misc. handlers for MAM-XML test """
 
 import my_html
 from my_str_defs import MAQ, NBSP, NUN_HAF, OCTO_NBSP, PAS, THSP

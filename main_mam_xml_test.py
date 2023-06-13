@@ -6,7 +6,7 @@ import my_utils
 import my_osis_book_abbrevs
 import my_sef_cmn
 import my_tanakh_book_names as my_tbn
-import my_stepbible_test_handlers as handlers
+import my_mam_xml_test_handlers as handlers
 import my_sef_style_write
 from my_shrink import shrink
 
@@ -62,7 +62,7 @@ def _handle(etel):  # etel: ElementTree element
 
 
 def _read_book_group(bkg_name):
-    xml_path = f'../MAM-for-STEPBible/out/xml/{bkg_name}.xml'
+    xml_path = f'../MAM-XML/out/xml/{bkg_name}.xml'
     tree = xml.etree.ElementTree.parse(xml_path)
     root = tree.getroot()
     verses_in = root.findall('.//verse')
@@ -88,8 +88,8 @@ def _get_bcvt_from_osis_id(osid_id):
     return my_tbn.mk_bcvtbhs(bkid, chnu, vrnu)
 
 
-VARIANT = {
-    'variant_mam_for_xxx': 'MAM-for-STEPBible',
+_VARIANT = {
+    'variant_mam_for_xxx': 'MAM-XML',
     'variant_path_qual': '-test',
     'variant_write': my_sef_style_write.write_bkg_in_csv_fmt,
 }
@@ -106,7 +106,7 @@ def do_one_book_group(bkg):
             'cant_dual': verses,
         }
         sef_eng_bkna = my_sef_cmn.SEF_ENGLISH_BOOK_NAMES[bkid]
-        my_sef_style_write.write_bkg(VARIANT, sef_eng_bkna, verses_abd)
+        my_sef_style_write.write_bkg(_VARIANT, sef_eng_bkna, verses_abd)
 
 
 def _timed_main():
@@ -118,7 +118,7 @@ def _timed_main():
 
 def main():
     """
-    Test STEPBible XML by using it to create something that should match the
+    Test MAM-XML by using it to create something that should match the
     Sefaria output.
     """
     my_utils.show_time(__file__, _timed_main)

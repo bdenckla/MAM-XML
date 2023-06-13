@@ -232,7 +232,7 @@ def mk_bcvtbhs(bkid, chnu, vrnu):
 
 
 def mk_bcvt(bkid, cvt):
-    """ Make a bcv from a cv """
+    """ Make a bcvt from a cvt """
     return '_bcvt', bkid, *cvt
 
 

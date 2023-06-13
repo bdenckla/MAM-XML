@@ -3,7 +3,7 @@
 import my_tanakh_book_names as my_tbn
 
 
-SEF_BOOK_PROPERTIES = {
+_SEF_BOOK_PROPERTIES = {
     my_tbn.BK_GENESIS: ('Genesis', 'בראשית', 'Torah'),
     my_tbn.BK_EXODUS: ('Exodus', 'שמות', 'Torah'),
     my_tbn.BK_LEVITICUS: ('Leviticus', 'ויקרא', 'Torah'),
@@ -45,7 +45,7 @@ SEF_BOOK_PROPERTIES = {
     my_tbn.BK_SND_CHRONICLES: ('II Chronicles', 'דברי הימים ב', 'Writings'),
 }
 
-SEF_ENGLISH_BOOK_NAMES = {b: p[0] for b, p in SEF_BOOK_PROPERTIES.items()}
-SEF_HEBREW_BOOK_NAMES = {b: p[1] for b, p in SEF_BOOK_PROPERTIES.items()}
-SEF_TANAKH_SUBCATEGORIES = {b: p[2] for b, p in SEF_BOOK_PROPERTIES.items()}
-BKID_FR_SEBN = {p[0]: b for b, p in SEF_BOOK_PROPERTIES.items()}
+SEF_ENGLISH_BOOK_NAMES = {b: p[0] for b, p in _SEF_BOOK_PROPERTIES.items()}
+SEF_HEBREW_BOOK_NAMES = {b: p[1] for b, p in _SEF_BOOK_PROPERTIES.items()}
+SEF_TANAKH_SUBCATEGORIES = {b: p[2] for b, p in _SEF_BOOK_PROPERTIES.items()}
+BKID_FR_SEBN = {p[0]: b for b, p in _SEF_BOOK_PROPERTIES.items()}
