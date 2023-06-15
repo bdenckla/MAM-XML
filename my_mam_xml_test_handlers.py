@@ -131,6 +131,7 @@ def implicit_maqaf(_etel, _ofc1, _ofc2):
 def _ketiv_qere_helper(ofc2, separator=' '):
     """ Handle a kq element """
     kq_or_qk = tuple(ofc2.values())
+    assert len(kq_or_qk) == 2
     inside = kq_or_qk[0] + [separator] + kq_or_qk[1]
     return [my_html.span(inside, {'class': 'mam-kq'})]
 
@@ -144,7 +145,7 @@ def _ketiv_or_qere_helper(the_class, brackets, ofc1, maybe_maqaf=''):
 def _invnun_helper(maybe_trailing=''):
     """ Handle a default (i.e., no trailing space) invnun element """
     span = my_html.span((NUN_HAF,), {'class': 'mam-spi-invnun'})
-    return shrink([span] + [maybe_trailing])
+    return shrink([span, maybe_trailing])
 
 
 def _maybe_sampe(etel):

@@ -1,5 +1,6 @@
 """ Exports OSIS_BOOK_ABBREVS """
 
+import re
 import my_tanakh_book_names as my_tbn
 import my_book_group
 
@@ -19,6 +20,27 @@ def bk24_bkgs(bk39ids):
         bkg_dic[osis_bk24na] = bkids_of_bk24
     bkgs = tuple(my_book_group.bkg_make(*item) for item in bkg_dic.items())
     return bkgs
+
+
+def get_bcv_from_osis_id(osid_id):
+    # Get bkid, chnu, & vrnu triple from an osisID.
+    patt = r'([A-z0-9]*)\.(\d+)\.(\d+)'
+    match = re.match(patt, osid_id)
+    oba, chnu_str, vrnu_str = match.groups()
+    bkid = BKID_FROM_OBA[oba]
+    chnu = int(chnu_str)
+    vrnu = int(vrnu_str)
+    return bkid, chnu, vrnu
+
+
+def get_bc_from_osis_id(osid_id):
+    # Get bkid & chnu pair from an osisID.
+    patt = r'([A-z0-9]*)\.(\d+)'
+    match = re.match(patt, osid_id)
+    oba, chnu_str = match.groups()
+    bkid = BKID_FROM_OBA[oba]
+    chnu = int(chnu_str)
+    return bkid, chnu
 
 
 def _osis_id_of_bkid(bkid):

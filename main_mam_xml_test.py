@@ -1,7 +1,6 @@
 """ Exports read """
 
 import xml.etree.ElementTree
-import re
 import my_utils
 import my_osis_book_abbrevs
 import my_sef_cmn
@@ -55,8 +54,7 @@ def _handle(etel):  # etel: ElementTree element
     if attr_text is not None:
         assert not ofc1
         ofc1 = [attr_text]
-    the_class = etel.attrib.get('class')
-    tag_and_class = etel.tag, the_class
+    tag_and_class = etel.tag, etel.attrib.get('class')
     handler = _HANDLERS[tag_and_class]
     return handler(etel, shrink(ofc1), ofc2)
 
@@ -79,12 +77,7 @@ def _read_book_group(bkg_name):
 
 
 def _get_bcvt_from_osis_id(osid_id):
-    patt = r'([A-z0-9]*)\.(\d+)\.(\d+)'
-    match = re.match(patt, osid_id)
-    oba, chnu_str, vrnu_str = match.groups()
-    bkid = my_osis_book_abbrevs.BKID_FROM_OBA[oba]
-    chnu = int(chnu_str)
-    vrnu = int(vrnu_str)
+    bkid, chnu, vrnu = my_osis_book_abbrevs.get_bcv_from_osis_id(osid_id)
     return my_tbn.mk_bcvtbhs(bkid, chnu, vrnu)
 
 
