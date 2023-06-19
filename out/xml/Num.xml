@@ -1,4 +1,4 @@
-<book24>
+<book24 versification-tradition="vtbhs">
   <book39 osisID="Num">
     <chapter osisID="Num.1">
       <verse osisID="Num.1.1" text="וַיְדַבֵּ֨ר יְהֹוָ֧ה אֶל־מֹשֶׁ֛ה בְּמִדְבַּ֥ר סִינַ֖י בְּאֹ֣הֶל מוֹעֵ֑ד בְּאֶחָד֩ לַחֹ֨דֶשׁ הַשֵּׁנִ֜י בַּשָּׁנָ֣ה הַשֵּׁנִ֗ית לְצֵאתָ֛ם מֵאֶ֥רֶץ מִצְרַ֖יִם לֵאמֹֽר׃" />
@@ -1362,12 +1362,12 @@
       <verse osisID="Num.25.17" text="צָר֖וֹר אֶת־הַמִּדְיָנִ֑ים וְהִכִּיתֶ֖ם אוֹתָֽם׃" />
       <verse osisID="Num.25.18" text="כִּ֣י צֹרְרִ֥ים הֵם֙ לָכֶ֔ם בְּנִכְלֵיהֶ֛ם אֲשֶׁר־נִכְּל֥וּ לָכֶ֖ם עַל־דְּבַר־פְּע֑וֹר וְעַל־דְּבַ֞ר כׇּזְבִּ֨י בַת־נְשִׂ֤יא מִדְיָן֙ אֲחֹתָ֔ם הַמֻּכָּ֥ה בְיוֹם־הַמַּגֵּפָ֖ה עַל־דְּבַר־פְּעֽוֹר׃" />
       <verse osisID="Num.25.19" ends-with-sampe="pe2" text="וַיְהִ֖י אַחֲרֵ֣י הַמַּגֵּפָ֑ה" />
-      <versification-note osisID="Num.25.19" bhs-contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Num.26.1" />
+      <versification-note osisID="Num.25.19" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Num.26.1" />
     </chapter>
     <spi-pe2 />
     <chapter osisID="Num.26">
       <verse osisID="Num.26.1" starts-with-sampe="pe2" text="וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה וְאֶ֧ל אֶלְעָזָ֛ר בֶּן־אַהֲרֹ֥ן הַכֹּהֵ֖ן לֵאמֹֽר׃" />
-      <versification-note osisID="Num.26.1" bhs-contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Num.26.1" />
+      <versification-note osisID="Num.26.1" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Num.26.1" />
       <verse osisID="Num.26.2">
         <text text="שְׂא֞וּ אֶת־רֹ֣אשׁ" />
         <lp-legarmeih />

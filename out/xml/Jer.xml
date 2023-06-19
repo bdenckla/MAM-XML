@@ -1,4 +1,4 @@
-<book24>
+<book24 versification-tradition="vtbhs">
   <book39 osisID="Jer">
     <chapter osisID="Jer.1">
       <verse osisID="Jer.1.1" text="דִּבְרֵ֥י יִרְמְיָ֖הוּ בֶּן־חִלְקִיָּ֑הוּ מִן־הַכֹּֽהֲנִים֙ אֲשֶׁ֣ר בַּעֲנָת֔וֹת בְּאֶ֖רֶץ בִּנְיָמִֽן׃" />
@@ -1752,62 +1752,62 @@
     </chapter>
     <chapter osisID="Jer.31">
       <verse osisID="Jer.31.1" ends-with-sampe="samekh2" text="בָּעֵ֤ת הַהִיא֙ נְאֻם־יְהֹוָ֔ה אֶֽהְיֶה֙ לֵֽאלֹהִ֔ים לְכֹ֖ל מִשְׁפְּח֣וֹת יִשְׂרָאֵ֑ל וְהֵ֖מָּה יִֽהְיוּ־לִ֥י לְעָֽם׃" />
-      <versification-note osisID="Jer.31.1" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.30.25" />
+      <versification-note osisID="Jer.31.1" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.30.25" />
       <spi-samekh2 />
       <verse osisID="Jer.31.2" starts-with-sampe="samekh2" text="כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה מָצָ֥א חֵן֙ בַּמִּדְבָּ֔ר עַ֖ם שְׂרִ֣ידֵי חָ֑רֶב הָל֥וֹךְ לְהַרְגִּיע֖וֹ יִשְׂרָאֵֽל׃" />
-      <versification-note osisID="Jer.31.2" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.1" />
+      <versification-note osisID="Jer.31.2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.1" />
       <verse osisID="Jer.31.3" text="מֵרָח֕וֹק יְהֹוָ֖ה נִרְאָ֣ה לִ֑י וְאַהֲבַ֤ת עוֹלָם֙ אֲהַבְתִּ֔יךְ עַל־כֵּ֖ן מְשַׁכְתִּ֥יךְ חָֽסֶד׃" />
-      <versification-note osisID="Jer.31.3" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.2" />
+      <versification-note osisID="Jer.31.3" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.2" />
       <verse osisID="Jer.31.4" text="ע֤וֹד אֶבְנֵךְ֙ וְֽנִבְנֵ֔ית בְּתוּלַ֖ת יִשְׂרָאֵ֑ל ע֚וֹד תַּעְדִּ֣י תֻפַּ֔יִךְ וְיָצָ֖את בִּמְח֥וֹל מְשַׂחֲקִֽים׃" />
-      <versification-note osisID="Jer.31.4" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.3" />
+      <versification-note osisID="Jer.31.4" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.3" />
       <verse osisID="Jer.31.5" text="ע֚וֹד תִּטְּעִ֣י כְרָמִ֔ים בְּהָרֵ֖י שֹֽׁמְר֑וֹן נָטְע֥וּ נֹטְעִ֖ים וְחִלֵּֽלוּ׃" />
-      <versification-note osisID="Jer.31.5" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.4" />
+      <versification-note osisID="Jer.31.5" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.4" />
       <verse osisID="Jer.31.6" ends-with-sampe="pe2" text="כִּ֣י יֶשׁ־י֔וֹם קָרְא֥וּ נֹצְרִ֖ים בְּהַ֣ר אֶפְרָ֑יִם ק֚וּמוּ וְנַעֲלֶ֣ה צִיּ֔וֹן אֶל־יְהֹוָ֖ה אֱלֹהֵֽינוּ׃" />
-      <versification-note osisID="Jer.31.6" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.5" />
+      <versification-note osisID="Jer.31.6" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.5" />
       <spi-pe2 />
       <verse osisID="Jer.31.7" starts-with-sampe="pe2">
         <text text="כִּי־כֹ֣ה" />
         <lp-legarmeih />
         <text text=" אָמַ֣ר יְהֹוָ֗ה רׇנּ֤וּ לְיַֽעֲקֹב֙ שִׂמְחָ֔ה וְצַהֲל֖וּ בְּרֹ֣אשׁ הַגּוֹיִ֑ם הַשְׁמִ֤יעוּ הַֽלְלוּ֙ וְאִמְר֔וּ הוֹשַׁ֤ע יְהֹוָה֙ אֶֽת־עַמְּךָ֔ אֵ֖ת שְׁאֵרִ֥ית יִשְׂרָאֵֽל׃" />
       </verse>
-      <versification-note osisID="Jer.31.7" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.6" />
+      <versification-note osisID="Jer.31.7" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.6" />
       <verse osisID="Jer.31.8" text="הִנְנִי֩ מֵבִ֨יא אוֹתָ֜ם מֵאֶ֣רֶץ צָפ֗וֹן וְקִבַּצְתִּים֮ מִיַּרְכְּתֵי־אָ֒רֶץ֒ בָּ֚ם עִוֵּ֣ר וּפִסֵּ֔חַ הָרָ֥ה וְיֹלֶ֖דֶת יַחְדָּ֑ו קָהָ֥ל גָּד֖וֹל יָשׁ֥וּבוּ הֵֽנָּה׃" />
-      <versification-note osisID="Jer.31.8" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.7" />
+      <versification-note osisID="Jer.31.8" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.7" />
       <verse osisID="Jer.31.9" ends-with-sampe="pe2" text="בִּבְכִ֣י יָבֹ֗אוּ וּֽבְתַחֲנוּנִים֮ אֽוֹבִילֵם֒ אֽוֹלִיכֵם֙ אֶל־נַ֣חֲלֵי מַ֔יִם בְּדֶ֣רֶךְ יָשָׁ֔ר לֹ֥א יִכָּשְׁל֖וּ בָּ֑הּ כִּֽי־הָיִ֤יתִי לְיִשְׂרָאֵל֙ לְאָ֔ב וְאֶפְרַ֖יִם בְּכֹ֥רִי הֽוּא׃" />
-      <versification-note osisID="Jer.31.9" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.8" />
+      <versification-note osisID="Jer.31.9" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.8" />
       <spi-pe2 />
       <verse osisID="Jer.31.10" starts-with-sampe="pe2" text="שִׁמְע֤וּ דְבַר־יְהֹוָה֙ גּוֹיִ֔ם וְהַגִּ֥ידוּ בָאִיִּ֖ים מִמֶּרְחָ֑ק וְאִמְר֗וּ מְזָרֵ֤ה יִשְׂרָאֵל֙ יְקַבְּצֶ֔נּוּ וּשְׁמָר֖וֹ כְּרֹעֶ֥ה עֶדְרֽוֹ׃" />
-      <versification-note osisID="Jer.31.10" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.9" />
+      <versification-note osisID="Jer.31.10" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.9" />
       <verse osisID="Jer.31.11" text="כִּֽי־פָדָ֥ה יְהֹוָ֖ה אֶֽת־יַעֲקֹ֑ב וּגְאָל֕וֹ מִיַּ֖ד חָזָ֥ק מִמֶּֽנּוּ׃" />
-      <versification-note osisID="Jer.31.11" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.10" />
+      <versification-note osisID="Jer.31.11" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.10" />
       <verse osisID="Jer.31.12" text="וּבָ֘אוּ֮ וְרִנְּנ֣וּ בִמְרוֹם־צִיּוֹן֒ וְנָהֲר֞וּ אֶל־ט֣וּב יְהֹוָ֗ה עַל־דָּגָן֙ וְעַל־תִּירֹ֣שׁ וְעַל־יִצְהָ֔ר וְעַל־בְּנֵי־צֹ֖אן וּבָקָ֑ר וְהָיְתָ֤ה נַפְשָׁם֙ כְּגַ֣ן רָוֶ֔ה וְלֹא־יוֹסִ֥יפוּ לְדַאֲבָ֖ה עֽוֹד׃" />
-      <versification-note osisID="Jer.31.12" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.11" />
+      <versification-note osisID="Jer.31.12" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.11" />
       <verse osisID="Jer.31.13" text="אָ֣ז תִּשְׂמַ֤ח בְּתוּלָה֙ בְּמָח֔וֹל וּבַחֻרִ֥ים וּזְקֵנִ֖ים יַחְדָּ֑ו וְהָפַכְתִּ֨י אֶבְלָ֤ם לְשָׂשׂוֹן֙ וְנִ֣חַמְתִּ֔ים וְשִׂמַּחְתִּ֖ים מִיגוֹנָֽם׃" />
-      <versification-note osisID="Jer.31.13" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.12" />
+      <versification-note osisID="Jer.31.13" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.12" />
       <verse osisID="Jer.31.14" ends-with-sampe="pe2" text="וְרִוֵּיתִ֛י נֶ֥פֶשׁ הַכֹּהֲנִ֖ים דָּ֑שֶׁן וְעַמִּ֛י אֶת־טוּבִ֥י יִשְׂבָּ֖עוּ נְאֻם־יְהֹוָֽה׃" />
-      <versification-note osisID="Jer.31.14" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.13" />
+      <versification-note osisID="Jer.31.14" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.13" />
       <spi-pe2 />
       <verse osisID="Jer.31.15" starts-with-sampe="pe2" ends-with-sampe="samekh2">
         <text text="כֹּ֣ה" />
         <lp-legarmeih />
         <text text=" אָמַ֣ר יְהֹוָ֗ה ק֣וֹל בְּרָמָ֤ה נִשְׁמָע֙ נְהִי֙ בְּכִ֣י תַמְרוּרִ֔ים רָחֵ֖ל מְבַכָּ֣ה עַל־בָּנֶ֑יהָ מֵאֲנָ֛ה לְהִנָּחֵ֥ם עַל־בָּנֶ֖יהָ כִּ֥י אֵינֶֽנּוּ׃" />
       </verse>
-      <versification-note osisID="Jer.31.15" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.14" />
+      <versification-note osisID="Jer.31.15" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.14" />
       <spi-samekh2 />
       <verse osisID="Jer.31.16" starts-with-sampe="samekh2">
         <text text="כֹּ֣ה" />
         <lp-legarmeih />
         <text text=" אָמַ֣ר יְהֹוָ֗ה מִנְעִ֤י קוֹלֵךְ֙ מִבֶּ֔כִי וְעֵינַ֖יִךְ מִדִּמְעָ֑ה כִּי֩ יֵ֨שׁ שָׂכָ֤ר לִפְעֻלָּתֵךְ֙ נְאֻם־יְהֹוָ֔ה וְשָׁ֖בוּ מֵאֶ֥רֶץ אוֹיֵֽב׃" />
       </verse>
-      <versification-note osisID="Jer.31.16" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.15" />
+      <versification-note osisID="Jer.31.16" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.15" />
       <verse osisID="Jer.31.17" text="וְיֵשׁ־תִּקְוָ֥ה לְאַחֲרִיתֵ֖ךְ נְאֻם־יְהֹוָ֑ה וְשָׁ֥בוּ בָנִ֖ים לִגְבוּלָֽם׃" />
-      <versification-note osisID="Jer.31.17" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.16" />
+      <versification-note osisID="Jer.31.17" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.16" />
       <verse osisID="Jer.31.18" text="שָׁמ֣וֹעַ שָׁמַ֗עְתִּי אֶפְרַ֙יִם֙ מִתְנוֹדֵ֔ד יִסַּרְתַּ֙נִי֙ וָֽאִוָּסֵ֔ר כְּעֵ֖גֶל לֹ֣א לֻמָּ֑ד הֲשִׁבֵ֣נִי וְאָשׁ֔וּבָה כִּ֥י אַתָּ֖ה יְהֹוָ֥ה אֱלֹהָֽי׃" />
-      <versification-note osisID="Jer.31.18" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.17" />
+      <versification-note osisID="Jer.31.18" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.17" />
       <verse osisID="Jer.31.19" text="כִּֽי־אַחֲרֵ֤י שׁוּבִי֙ נִחַ֔מְתִּי וְאַֽחֲרֵי֙ הִוָּ֣דְעִ֔י סָפַ֖קְתִּי עַל־יָרֵ֑ךְ בֹּ֚שְׁתִּי וְגַם־נִכְלַ֔מְתִּי כִּ֥י נָשָׂ֖אתִי חֶרְפַּ֥ת נְעוּרָֽי׃" />
-      <versification-note osisID="Jer.31.19" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.18" />
+      <versification-note osisID="Jer.31.19" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.18" />
       <verse osisID="Jer.31.20" ends-with-sampe="samekh2" text="הֲבֵן֩ יַקִּ֨יר לִ֜י אֶפְרַ֗יִם אִ֚ם יֶ֣לֶד שַׁעֲשֻׁעִ֔ים כִּֽי־מִדֵּ֤י דַבְּרִי֙ בּ֔וֹ זָכֹ֥ר אֶזְכְּרֶ֖נּוּ ע֑וֹד עַל־כֵּ֗ן הָמ֤וּ מֵעַי֙ ל֔וֹ רַחֵ֥ם אֲֽרַחֲמֶ֖נּוּ נְאֻם־יְהֹוָֽה׃" />
-      <versification-note osisID="Jer.31.20" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.19" />
+      <versification-note osisID="Jer.31.20" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.19" />
       <spi-samekh2 />
       <verse osisID="Jer.31.21" starts-with-sampe="samekh2">
         <text text="הַצִּ֧יבִי לָ֣ךְ צִיֻּנִ֗ים שִׂ֤מִי לָךְ֙ תַּמְרוּרִ֔ים שִׁ֣תִי לִבֵּ֔ךְ לַֽמְסִלָּ֖ה דֶּ֣רֶךְ " />
@@ -1817,59 +1817,59 @@
         </kq>
         <text text=" שׁ֚וּבִי בְּתוּלַ֣ת יִשְׂרָאֵ֔ל שֻׁ֖בִי אֶל־עָרַ֥יִךְ אֵֽלֶּה׃" />
       </verse>
-      <versification-note osisID="Jer.31.21" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.20" />
+      <versification-note osisID="Jer.31.21" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.20" />
       <verse osisID="Jer.31.22" ends-with-sampe="pe2" text="עַד־מָתַי֙ תִּתְחַמָּקִ֔ין הַבַּ֖ת הַשּֽׁוֹבֵבָ֑ה כִּֽי־בָרָ֨א יְהֹוָ֤ה חֲדָשָׁה֙ בָּאָ֔רֶץ נְקֵבָ֖ה תְּס֥וֹבֵֽב גָּֽבֶר׃" />
-      <versification-note osisID="Jer.31.22" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.21" />
+      <versification-note osisID="Jer.31.22" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.21" />
       <spi-pe2 />
       <verse osisID="Jer.31.23" starts-with-sampe="pe2" text="כֹּֽה־אָמַ֞ר יְהֹוָ֤ה צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל ע֣וֹד יֹאמְר֞וּ אֶת־הַדָּבָ֣ר הַזֶּ֗ה בְּאֶ֤רֶץ יְהוּדָה֙ וּבְעָרָ֔יו בְּשׁוּבִ֖י אֶת־שְׁבוּתָ֑ם יְבָרֶכְךָ֧ יְהֹוָ֛ה נְוֵה־צֶ֖דֶק הַ֥ר הַקֹּֽדֶשׁ׃" />
-      <versification-note osisID="Jer.31.23" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.22" />
+      <versification-note osisID="Jer.31.23" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.22" />
       <verse osisID="Jer.31.24" text="וְיָ֥שְׁבוּ בָ֛הּ יְהוּדָ֥ה וְכׇל־עָרָ֖יו יַחְדָּ֑ו אִכָּרִ֕ים וְנָסְע֖וּ בַּעֵֽדֶר׃" />
-      <versification-note osisID="Jer.31.24" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.23" />
+      <versification-note osisID="Jer.31.24" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.23" />
       <verse osisID="Jer.31.25" text="כִּ֥י הִרְוֵ֖יתִי נֶ֣פֶשׁ עֲיֵפָ֑ה וְכׇל־נֶ֥פֶשׁ דָּאֲבָ֖ה מִלֵּֽאתִי׃" />
-      <versification-note osisID="Jer.31.25" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.24" />
+      <versification-note osisID="Jer.31.25" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.24" />
       <verse osisID="Jer.31.26" ends-with-sampe="samekh2" text="עַל־זֹ֖את הֱקִיצֹ֣תִי וָאֶרְאֶ֑ה וּשְׁנָתִ֖י עָ֥רְבָה לִּֽי׃" />
-      <versification-note osisID="Jer.31.26" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.25" />
+      <versification-note osisID="Jer.31.26" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.25" />
       <spi-samekh2 />
       <verse osisID="Jer.31.27" starts-with-sampe="samekh2" text="הִנֵּ֛ה יָמִ֥ים בָּאִ֖ים נְאֻם־יְהֹוָ֑ה וְזָרַעְתִּ֗י אֶת־בֵּ֤ית יִשְׂרָאֵל֙ וְאֶת־בֵּ֣ית יְהוּדָ֔ה זֶ֥רַע אָדָ֖ם וְזֶ֥רַע בְּהֵמָֽה׃" />
-      <versification-note osisID="Jer.31.27" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.26" />
+      <versification-note osisID="Jer.31.27" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.26" />
       <verse osisID="Jer.31.28" text="וְהָיָ֞ה כַּאֲשֶׁ֧ר שָׁקַ֣דְתִּי עֲלֵיהֶ֗ם לִנְת֧וֹשׁ וְלִנְת֛וֹץ וְלַהֲרֹ֖ס וּלְהַאֲבִ֣יד וּלְהָרֵ֑עַ כֵּ֣ן אֶשְׁקֹ֧ד עֲלֵיהֶ֛ם לִבְנ֥וֹת וְלִנְטֹ֖עַ נְאֻם־יְהֹוָֽה׃" />
-      <versification-note osisID="Jer.31.28" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.27" />
+      <versification-note osisID="Jer.31.28" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.27" />
       <verse osisID="Jer.31.29" text="בַּיָּמִ֣ים הָהֵ֔ם לֹא־יֹאמְר֣וּ ע֔וֹד אָב֖וֹת אָ֣כְלוּ בֹ֑סֶר וְשִׁנֵּ֥י בָנִ֖ים תִּקְהֶֽינָה׃" />
-      <versification-note osisID="Jer.31.29" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.28" />
+      <versification-note osisID="Jer.31.29" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.28" />
       <verse osisID="Jer.31.30" ends-with-sampe="samekh2" text="כִּ֛י אִם־אִ֥ישׁ בַּעֲוֺנ֖וֹ יָמ֑וּת כׇּל־הָֽאָדָ֛ם הָאֹכֵ֥ל הַבֹּ֖סֶר תִּקְהֶ֥ינָה שִׁנָּֽיו׃" />
-      <versification-note osisID="Jer.31.30" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.29" />
+      <versification-note osisID="Jer.31.30" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.29" />
       <spi-samekh2 />
       <verse osisID="Jer.31.31" starts-with-sampe="samekh2" text="הִנֵּ֛ה יָמִ֥ים בָּאִ֖ים נְאֻם־יְהֹוָ֑ה וְכָרַתִּ֗י אֶת־בֵּ֧ית יִשְׂרָאֵ֛ל וְאֶת־בֵּ֥ית יְהוּדָ֖ה בְּרִ֥ית חֲדָשָֽׁה׃" />
-      <versification-note osisID="Jer.31.31" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.30" />
+      <versification-note osisID="Jer.31.31" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.30" />
       <verse osisID="Jer.31.32" text="לֹ֣א כַבְּרִ֗ית אֲשֶׁ֤ר כָּרַ֙תִּי֙ אֶת־אֲבוֹתָ֔ם בְּיוֹם֙ הֶחֱזִיקִ֣י בְיָדָ֔ם לְהוֹצִיאָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם אֲשֶׁר־הֵ֜מָּה הֵפֵ֣רוּ אֶת־בְּרִיתִ֗י וְאָנֹכִ֛י בָּעַ֥לְתִּי בָ֖ם נְאֻם־יְהֹוָֽה׃" />
-      <versification-note osisID="Jer.31.32" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.31" />
+      <versification-note osisID="Jer.31.32" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.31" />
       <verse osisID="Jer.31.33" text="כִּ֣י זֹ֣את הַבְּרִ֡ית אֲשֶׁ֣ר אֶכְרֹת֩ אֶת־בֵּ֨ית יִשְׂרָאֵ֜ל אַחֲרֵ֨י הַיָּמִ֤ים הָהֵם֙ נְאֻם־יְהֹוָ֔ה נָתַ֤תִּי אֶת־תּֽוֹרָתִי֙ בְּקִרְבָּ֔ם וְעַל־לִבָּ֖ם אֶכְתְּבֶ֑נָּה וְהָיִ֤יתִי לָהֶם֙ לֵֽאלֹהִ֔ים וְהֵ֖מָּה יִֽהְיוּ־לִ֥י לְעָֽם׃" />
-      <versification-note osisID="Jer.31.33" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.32" />
+      <versification-note osisID="Jer.31.33" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.32" />
       <verse osisID="Jer.31.34" ends-with-sampe="samekh2" text="וְלֹ֧א יְלַמְּד֣וּ ע֗וֹד אִ֣ישׁ אֶת־רֵעֵ֜הוּ וְאִ֤ישׁ אֶת־אָחִיו֙ לֵאמֹ֔ר דְּע֖וּ אֶת־יְהֹוָ֑ה כִּֽי־כוּלָּם֩ יֵדְע֨וּ אוֹתִ֜י לְמִקְּטַנָּ֤ם וְעַד־גְּדוֹלָם֙ נְאֻם־יְהֹוָ֔ה כִּ֤י אֶסְלַח֙ לַֽעֲוֺנָ֔ם וּלְחַטָּאתָ֖ם לֹ֥א אֶזְכָּר־עֽוֹד׃" />
-      <versification-note osisID="Jer.31.34" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.33" />
+      <versification-note osisID="Jer.31.34" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.33" />
       <spi-samekh2 />
       <verse osisID="Jer.31.35" starts-with-sampe="samekh2">
         <text text="כֹּ֣ה" />
         <lp-legarmeih />
         <text text=" אָמַ֣ר יְהֹוָ֗ה נֹתֵ֥ן שֶׁ֙מֶשׁ֙ לְא֣וֹר יוֹמָ֔ם חֻקֹּ֛ת יָרֵ֥חַ וְכוֹכָבִ֖ים לְא֣וֹר לָ֑יְלָה רֹגַ֤ע הַיָּם֙ וַיֶּהֱמ֣וּ גַלָּ֔יו יְהֹוָ֥ה צְבָא֖וֹת שְׁמֽוֹ׃" />
       </verse>
-      <versification-note osisID="Jer.31.35" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.34" />
+      <versification-note osisID="Jer.31.35" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.34" />
       <verse osisID="Jer.31.36" ends-with-sampe="samekh2" text="אִם־יָמֻ֜שׁוּ הַחֻקִּ֥ים הָאֵ֛לֶּה מִלְּפָנַ֖י נְאֻם־יְהֹוָ֑ה גַּם֩ זֶ֨רַע יִשְׂרָאֵ֜ל יִשְׁבְּת֗וּ מִהְי֥וֹת גּ֛וֹי לְפָנַ֖י כׇּל־הַיָּמִֽים׃" />
-      <versification-note osisID="Jer.31.36" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.35" />
+      <versification-note osisID="Jer.31.36" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.35" />
       <spi-samekh2 />
       <verse osisID="Jer.31.37" starts-with-sampe="samekh2" ends-with-sampe="samekh2">
         <text text="כֹּ֣ה" />
         <lp-legarmeih />
         <text text=" אָמַ֣ר יְהֹוָ֗ה אִם־יִמַּ֤דּוּ שָׁמַ֙יִם֙ מִלְמַ֔עְלָה וְיֵחָקְר֥וּ מוֹסְדֵי־אֶ֖רֶץ לְמָ֑טָּה גַּם־אֲנִ֞י אֶמְאַ֨ס בְּכׇל־זֶ֧רַע יִשְׂרָאֵ֛ל עַֽל־כׇּל־אֲשֶׁ֥ר עָשׂ֖וּ נְאֻם־יְהֹוָֽה׃" />
       </verse>
-      <versification-note osisID="Jer.31.37" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.36" />
+      <versification-note osisID="Jer.31.37" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.36" />
       <spi-samekh2 />
       <verse osisID="Jer.31.38" starts-with-sampe="samekh2">
         <text text="הִנֵּ֛ה יָמִ֥ים " />
         <kq-q-velo-k text="בָּאִ֖ים" />
         <text text=" נְאֻם־יְהֹוָ֑ה וְנִבְנְתָ֤ה הָעִיר֙ לַיהֹוָ֔ה מִמִּגְדַּ֥ל חֲנַנְאֵ֖ל שַׁ֥עַר הַפִּנָּֽה׃" />
       </verse>
-      <versification-note osisID="Jer.31.38" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.37" />
+      <versification-note osisID="Jer.31.38" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.37" />
       <verse osisID="Jer.31.39">
         <text text="וְיָצָ֨א ע֜וֹד " />
         <kq>
@@ -1878,7 +1878,7 @@
         </kq>
         <text text=" הַמִּדָּה֙ נֶגְדּ֔וֹ עַ֖ל גִּבְעַ֣ת גָּרֵ֑ב וְנָסַ֖ב גֹּעָֽתָה׃" />
       </verse>
-      <versification-note osisID="Jer.31.39" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.38" />
+      <versification-note osisID="Jer.31.39" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.38" />
       <verse osisID="Jer.31.40" ends-with-sampe="pe2">
         <text text="וְכׇל־הָעֵ֣מֶק הַפְּגָרִ֣ים" />
         <lp-paseq />
@@ -1889,7 +1889,7 @@
         </kq>
         <text text=" עַד־נַ֨חַל קִדְר֜וֹן עַד־פִּנַּ֨ת שַׁ֤עַר הַסּוּסִים֙ מִזְרָ֔חָה קֹ֖דֶשׁ לַיהֹוָ֑ה לֹא־יִנָּתֵ֧שׁ וְֽלֹא־יֵהָרֵ֛ס ע֖וֹד לְעוֹלָֽם׃" />
       </verse>
-      <versification-note osisID="Jer.31.40" bhs-contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.39" />
+      <versification-note osisID="Jer.31.40" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Jer.31.39" />
     </chapter>
     <spi-pe2 />
     <chapter osisID="Jer.32">
