@@ -11,19 +11,20 @@ from my_shrink import shrink
 
 
 def _handle(etel):  # etel: ElementTree element
-    ofc1 = []
+    ofc1_raw = []
     ofc2 = {}
     for child in etel:
         output_for_child = _handle(child)
-        ofc1.extend(output_for_child)
+        ofc1_raw.extend(output_for_child)
         ofc2[child] = output_for_child
+    ofc1 = shrink(ofc1_raw)
     attr_text = etel.attrib.get('text')
     if attr_text is not None:
         assert not ofc1
         ofc1 = [attr_text]
     tag_and_class = etel.tag, etel.attrib.get('class')
     handler = my_mam4sef_handlers.HANDLERS[tag_and_class]
-    return handler(etel, shrink(ofc1), ofc2)
+    return shrink(handler(etel, ofc1, ofc2))
 
 
 def _read_book_group(bkg_name):

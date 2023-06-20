@@ -44,10 +44,10 @@ def _invnun(etel, _ofc1, _ofc2):
         These are the 7 Psalm 107 invnuns,
         at the start of verses 23-28 and 40.
     """
-    maybe_nbsp_dic = {'including-trailing-space': NBSP, None: ''}
+    maybe_nbsp_dic = {'including-trailing-space': [NBSP], None: []}
     maybe_nbsp = maybe_nbsp_dic[etel.attrib.get('class')]
     span = my_html.span((NUN_HAF,), {'class': 'mam-spi-invnun'})
-    return shrink([span, maybe_nbsp])
+    return [span, *maybe_nbsp]
 
 
 def _legarmeih(_etel, _ofc1, _ofc2):
@@ -126,8 +126,7 @@ def _implicit_maqaf(_etel, _ofc1, _ofc2):
 
 
 def _ketiv_or_qere_helper(the_class, brackets, ofc1, maybe_maqaf=''):
-    brac_ofc1 = [brackets[0], *ofc1, brackets[1]]
-    brac_ofc1_m = brac_ofc1 + [maybe_maqaf]
+    brac_ofc1_m = [brackets[0], *ofc1, brackets[1] + maybe_maqaf]
     return [my_html.span(shrink(brac_ofc1_m), {'class': the_class})]
 
 
