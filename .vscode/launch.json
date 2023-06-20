@@ -8,7 +8,7 @@
             "name": "MAM for Sef: all",
             "type": "python",
             "request": "launch",
-            "program": "main_mam4sef.py",
+            "program": "py/main_mam4sef.py",
             "console": "integratedTerminal"
         }
     ]
