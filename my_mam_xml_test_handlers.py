@@ -1,7 +1,7 @@
-""" Exports misc. handlers for MAM-XML test """
+""" Exports HANDLERS """
 
 import my_html
-from my_str_defs import MAQ, NBSP, NUN_HAF, OCTO_NBSP, PAS, THSP
+from my_str_defs import MAQ, PAS, NUN_HAF, NBSP, OCTO_NBSP, THSP
 from my_shrink import shrink
 
 # etel: ElementTree element
@@ -9,118 +9,115 @@ from my_shrink import shrink
 # ofc2: output for all children, per child
 
 
-def verse(etel, ofc1, _ofc2):
-    """ Handle a verse element """
+def _verse(etel, ofc1, _ofc2):
     return ofc1 + _maybe_sampe(etel)
 
 
-def text(etel, _ofc1, _ofc2):
-    """ Handle a text element """
+def _text(etel, _ofc1, _ofc2):
     return [etel.attrib['text']]
 
 
-def samekh2_or_3(_etel, _ofc1, _ofc2):
-    """ Handle a samekh2 or samekh3 element """
+def _samekh2_or_3(_etel, _ofc1, _ofc2):
     span = my_html.span(('{ס}',), {'class': 'mam-spi-samekh'})
     return [NBSP, span, OCTO_NBSP]
 
 
-def pe2_or_3(_etel, _ofc1, _ofc2):
-    """ Handle a pe2 or pe3 element """
+def _pe2_or_3(_etel, _ofc1, _ofc2):
     span = my_html.span(('{פ}',), {'class': 'mam-spi-pe'})
     return [NBSP, span, my_html.line_break()]
 
 
-def samekh3_nin(_etel, _ofc1, _ofc2):
+def _samekh3_nin(_etel, _ofc1, _ofc2):
     """ Handle a samekh3 element with class "nu10-invnun-neighbor" """
     return [NBSP]
 
 
-def invnun(_etel, _ofc1, _ofc2):
-    """ Handle a default (i.e., no trailing space) invnun element """
-    return _invnun_helper()
+def _invnun(etel, _ofc1, _ofc2):
+    """
+    Handle either of the following two types of invnun elements:
+
+        Type 1: a default (i.e., no trailing space) invnun element.
+        These are the two Numbers 10 invnuns,
+        at the start of verse 35 and the end of verse 36.
+
+        Type 2: an invnun element with class "including-trailing-space"
+        These are the 7 Psalm 107 invnuns,
+        at the start of verses 23-28 and 40.
+    """
+    maybe_nbsp_dic = {'including-trailing-space': NBSP, None: ''}
+    maybe_nbsp = maybe_nbsp_dic[etel.attrib.get('class')]
+    span = my_html.span((NUN_HAF,), {'class': 'mam-spi-invnun'})
+    return shrink([span, maybe_nbsp])
 
 
-def invnun_its(_etel, _ofc1, _ofc2):
-    """ Handle an invnun element with class "including-trailing-space" """
-    return _invnun_helper(NBSP)
-
-
-def legarmeih(_etel, _ofc1, _ofc2):
-    """ Handle a legarmeih element """
+def _legarmeih(_etel, _ofc1, _ofc2):
     return [THSP, my_html.bold((PAS,))]
 
 
-def paseq(_etel, _ofc1, _ofc2):
-    """ Handle a paseq element """
+def _paseq(_etel, _ofc1, _ofc2):
     return [THSP, my_html.small((PAS,)), THSP]
 
 
-def good_ending(_etel, ofc1, _ofc2):
-    """ Handle a "good ending" element """
+def _good_ending(_etel, ofc1, _ofc2):
     return [my_html.line_break(), my_html.small(ofc1)]
 
 
-def letter_small(_etel, ofc1, _ofc2):
-    """ Handle a letter-small element """
+def _letter_small(_etel, ofc1, _ofc2):
     return [my_html.small(ofc1)]
 
 
-def letter_large(_etel, ofc1, _ofc2):
-    """ Handle a letter-large element """
+def _letter_large(_etel, ofc1, _ofc2):
     return [my_html.big(ofc1)]
 
 
-def letter_hung(_etel, ofc1, _ofc2):
-    """ Handle a letter-hung element """
+def _letter_hung(_etel, ofc1, _ofc2):
     return [my_html.sup(ofc1)]
 
 
-def kq_trivial(_etel, ofc1, _ofc2):
-    """ Handle a kq-trivial element """
+def _kq_trivial(_etel, ofc1, _ofc2):
+    """ Handle a trivial ketiv/qere element """
     return [my_html.span(ofc1, {'class': 'mam-kq-trivial'})]
 
 
-def ketiv_qere(_etel, _ofc1, ofc2):
-    """ Handle a default (i.e. space-separated) kq element """
-    return _ketiv_qere_helper(ofc2)
+def _ketiv_qere(etel, _ofc1, ofc2):
+    assert len(ofc2) == 2
+    sep_dic = {'sep-maqaf': MAQ, None: ' '}
+    separator = sep_dic[etel.attrib.get('class')]
+    kq_or_qk = tuple(ofc2.values())
+    inside = [*kq_or_qk[0], separator, *kq_or_qk[1]]
+    return [my_html.span(inside, {'class': 'mam-kq'})]
 
 
-def ketiv_qere_sep_maqaf(_etel, _ofc1, ofc2):
+def _ketiv(etel, ofc1, _ofc2):
     """
-    Handle a kq element with class "sep-maqaf",
-    i.e. a maqaf-separated kq element
+    Handle a ketiv element that is:
+       * the ketiv part of a ketiv ve qere (common)
+       * a ketiv velo qere (rare)
     """
-    return _ketiv_qere_helper(ofc2, MAQ)
+    maybe_maqaf_dic = {'append-maqaf': MAQ, None: ''}
+    maybe_maqaf = maybe_maqaf_dic[etel.attrib.get('class')]
+    return _ketiv_or_qere_helper('mam-kq-k', '()', ofc1, maybe_maqaf)
 
 
-def kq_k(_etel, ofc1, _ofc2):
-    """ Handle a kq-k element """
-    return _ketiv_or_qere_helper('mam-kq-k', '()', ofc1)
-
-
-def kq_k_append_maqaf(_etel, ofc1, _ofc2):
-    """ Handle a kq-k element with class "append-maqaf" """
-    return _ketiv_or_qere_helper('mam-kq-k', '()', ofc1, MAQ)
-
-
-def kq_q(_etel, ofc1, _ofc2):
-    """ Handle a kq-q element """
+def _qere(_etel, ofc1, _ofc2):
+    """
+    Handle a qere element that is:
+       * the qere part of a ketiv ve qere (common)
+       * a qere velo ketiv (rare)
+    """
     return _ketiv_or_qere_helper('mam-kq-q', '[]', ofc1)
 
 
-def note(_etel, ofc1, _ofc2):
-    """ Handle a note (scroll difference note) element """
+def _note(_etel, ofc1, _ofc2):
+    """ Handle a scroll difference note element """
     return [my_html.sup(['*']), my_html.italic(ofc1, {'class': 'footnote'})]
 
 
-def shirah_space(_etel, _ofc1, _ofc2):
-    """ Handle a shirah-space element """
+def _shirah_space(_etel, _ofc1, _ofc2):
     return [OCTO_NBSP]
 
 
-def implicit_maqaf(_etel, _ofc1, _ofc2):
-    """ Handle an implicit-maqaf element """
+def _implicit_maqaf(_etel, _ofc1, _ofc2):
     return [my_html.span([MAQ], {'class': 'mam-implicit-maqaf'})]
 
 
@@ -128,24 +125,10 @@ def implicit_maqaf(_etel, _ofc1, _ofc2):
 #######################################################################
 
 
-def _ketiv_qere_helper(ofc2, separator=' '):
-    """ Handle a kq element """
-    kq_or_qk = tuple(ofc2.values())
-    assert len(kq_or_qk) == 2
-    inside = kq_or_qk[0] + [separator] + kq_or_qk[1]
-    return [my_html.span(inside, {'class': 'mam-kq'})]
-
-
 def _ketiv_or_qere_helper(the_class, brackets, ofc1, maybe_maqaf=''):
-    brac_ofc1 = [brackets[0]] + ofc1 + [brackets[1]]
+    brac_ofc1 = [brackets[0], *ofc1, brackets[1]]
     brac_ofc1_m = brac_ofc1 + [maybe_maqaf]
     return [my_html.span(shrink(brac_ofc1_m), {'class': the_class})]
-
-
-def _invnun_helper(maybe_trailing=''):
-    """ Handle a default (i.e., no trailing space) invnun element """
-    span = my_html.span((NUN_HAF,), {'class': 'mam-spi-invnun'})
-    return shrink([span, maybe_trailing])
 
 
 def _maybe_sampe(etel):
@@ -153,10 +136,42 @@ def _maybe_sampe(etel):
     if ews is None:
         return []
     sampe_fn_dic = {
-        'samekh2': samekh2_or_3,
-        'samekh3': samekh2_or_3,
-        'pe2': pe2_or_3,
-        'pe3': pe2_or_3,
+        'samekh2': _samekh2_or_3,
+        'samekh3': _samekh2_or_3,
+        'pe2': _pe2_or_3,
+        'pe3': _pe2_or_3,
     }
     sampe_fn = sampe_fn_dic[ews]
     return sampe_fn(None, None, None)
+
+
+HANDLERS = {
+    ('verse', None): _verse,
+    ('text', None): _text,
+    #
+    ('good-ending', None): _good_ending,
+    ('letter-small', None): _letter_small,
+    ('letter-large', None): _letter_large,
+    ('letter-hung', None): _letter_hung,
+    ('note', None): _note,
+    ('kq-k-velo-q', None): _ketiv,
+    ('kq-k-velo-q', 'append-maqaf'): _ketiv,
+    ('kq-q-velo-k', None): _qere,
+    ('kq', None): _ketiv_qere,
+    ('kq', 'sep-maqaf'): _ketiv_qere,
+    ('kq-k', None): _ketiv,
+    ('kq-q', None): _qere,
+    ('kq-trivial', None): _kq_trivial,
+    #
+    ('spi-samekh2', None): _samekh2_or_3,
+    ('spi-samekh3', None): _samekh2_or_3,
+    ('spi-samekh3', 'nu10-invnun-neighbor'): _samekh3_nin,
+    ('spi-pe2', None): _pe2_or_3,
+    ('spi-pe3', None): _pe2_or_3,
+    ('spi-invnun', None): _invnun,
+    ('spi-invnun', 'including-trailing-space'): _invnun,
+    ('shirah-space', None): _shirah_space,
+    ('lp-legarmeih', None): _legarmeih,
+    ('lp-paseq', None): _paseq,
+    ('implicit-maqaf', None): _implicit_maqaf,
+}

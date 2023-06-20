@@ -96,7 +96,6 @@ def _bkg_path_n_title(variant, fmt, bkg_name):
         'csv': f'csv{path_qual}',
         'xml': f'xml{path_qual}',
     }
-    stem = bkg_name
     exts = {
         'unicode_names': '.txt',
         'csv': '.csv',
@@ -104,5 +103,5 @@ def _bkg_path_n_title(variant, fmt, bkg_name):
     }
     mam_for_xxx = variant.get('variant_mam_for_xxx') or 'MAM-for-Sefaria'
     parent = f'../{mam_for_xxx}/out'
-    path = f'{parent}/{folders[fmt]}/{stem}{exts[fmt]}'
+    path = f'{parent}/{folders[fmt]}/{bkg_name}{exts[fmt]}'
     return path, f'{fmt} {bkg_name}'
