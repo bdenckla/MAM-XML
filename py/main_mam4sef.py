@@ -1,11 +1,11 @@
-""" Exports read """
+""" Exports main """
 
 import xml.etree.ElementTree
 import my_utils
 import my_osis_book_abbrevs
 import my_sef_cmn
 import my_tanakh_book_names as my_tbn
-import my_mam_xml_test_handlers
+import my_mam4sef_handlers
 import my_sef_style_write
 from my_shrink import shrink
 
@@ -22,7 +22,7 @@ def _handle(etel):  # etel: ElementTree element
         assert not ofc1
         ofc1 = [attr_text]
     tag_and_class = etel.tag, etel.attrib.get('class')
-    handler = my_mam_xml_test_handlers.HANDLERS[tag_and_class]
+    handler = my_mam4sef_handlers.HANDLERS[tag_and_class]
     return handler(etel, shrink(ofc1), ofc2)
 
 
@@ -48,15 +48,13 @@ def _get_bcvtsef_from_osis_id(osid_id):
     return my_tbn.mk_bcvtsef(bkid, chnu, vrnu)
 
 
-_VARIANT = {
-    'variant_write': my_sef_style_write.write_bkg_in_csv_fmt,
-}
-
-
 def do_one_book_group(bkg):
-    """ Do one book group (do one bkg) """
+    """ Do the book group bkg """
     bkg_name = bkg['bkg-name']
     book39s = _read_book_group(bkg_name)
+    variant = {
+        'variant_write': my_sef_style_write.write_bkg_in_csv_fmt,
+    }
     for bkid, verses in book39s.items():
         verses_abd = {
             'cant_alef': [],
@@ -64,7 +62,7 @@ def do_one_book_group(bkg):
             'cant_dual': verses,
         }
         sef_eng_bkna = my_sef_cmn.SEF_ENGLISH_BOOK_NAMES[bkid]
-        my_sef_style_write.write_bkg(_VARIANT, sef_eng_bkna, verses_abd)
+        my_sef_style_write.write_bkg(variant, sef_eng_bkna, verses_abd)
 
 
 def _timed_main():
@@ -75,10 +73,7 @@ def _timed_main():
 
 
 def main():
-    """
-    Test MAM-XML by using it to create something that should match the
-    Sefaria output.
-    """
+    """ Create the Sefaria MAM from the XML MAM. """
     my_utils.show_time(__file__, _timed_main)
 
 
