@@ -3,7 +3,7 @@
 import csv
 import my_html
 import my_sef_header
-import uni_heb
+import my_uni_heb
 import my_open
 import my_sef_cmn
 import my_tanakh_book_names as my_tbn
@@ -66,7 +66,7 @@ def _write_bkg_in_csv_fmt2(variant, bkid, contents, file_handle):
 
 
 def _write_bkg_in_un_fmt(variant, bkg_name, verses):
-    uni_heb.do_quick_test()
+    my_uni_heb.do_quick_test()
     path, title = _bkg_path_n_title(variant, 'unicode_names', bkg_name)
     if variant.get('variant_exclude_abcants_from_un_output'):
         dic_alef = {}
@@ -83,7 +83,7 @@ def _write_bkg_in_un_fmt(variant, bkg_name, verses):
                 'cant_alef': dic_alef.get(bcvt),
                 'cant_bet': dic_bet.get(bcvt)
             }
-            uni_heb.write_verse_un(out_fp, bcvt, multiverse)
+            my_uni_heb.write_verse_un(out_fp, bcvt, multiverse)
 
     my_open.with_tmp_openw(path, _write_callback)
 
