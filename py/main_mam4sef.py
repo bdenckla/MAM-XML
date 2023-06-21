@@ -53,9 +53,7 @@ def do_one_book_group(bkg):
     """ Do the book group bkg """
     bkg_name = bkg['bkg-name']
     book39s = _read_book_group(bkg_name)
-    variant = {
-        'variant_write': my_sef_style_write.write_bkg_in_csv_fmt,
-    }
+    variant = {}
     for bkid, verses in book39s.items():
         verses_abd = {
             'cant_alef': [],
@@ -63,7 +61,7 @@ def do_one_book_group(bkg):
             'cant_dual': verses,
         }
         sef_eng_bkna = my_sef_cmn.SEF_ENGLISH_BOOK_NAMES[bkid]
-        my_sef_style_write.write_bkg(variant, sef_eng_bkna, verses_abd)
+        my_sef_style_write.write(variant, sef_eng_bkna, verses_abd)
 
 
 def _timed_main():

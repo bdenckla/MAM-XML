@@ -1,4 +1,4 @@
-""" Exports write_bkg_in_csv_fmt, write_bkg """
+""" Exports write_bkg """
 
 import csv
 import my_html
@@ -9,7 +9,19 @@ import my_sef_cmn
 import my_tanakh_book_names as my_tbn
 
 
-def write_bkg_in_csv_fmt(path, variant, verses):
+def write(variant, bkg_name, rendered_verses):
+    """ Write a Sefaria-style book in two formats:
+        1. an "external" format (CSV or XML)
+        2. "Unicode names" format
+    """
+    fmt = variant.get('variant_file_format') or 'csv'
+    write_fn = variant.get('variant_write') or _write_bkg_in_csv_fmt
+    path = _bkg_path_n_title(variant, fmt, bkg_name)[0]
+    write_fn(path, variant, rendered_verses)
+    _write_bkg_in_un_fmt(variant, bkg_name, rendered_verses)
+
+
+def _write_bkg_in_csv_fmt(path, variant, verses):
     """ Write Sefaria-style file in CSV format """
     book_out = {}
     bkid = None
@@ -32,18 +44,6 @@ def write_bkg_in_csv_fmt(path, variant, verses):
         _write_bkg_in_csv_fmt2(variant, bkid, book_out, file_handle)
 
     my_open.with_tmp_openw(path, _write_callback, newline='')
-
-
-def write_bkg(variant, bkg_name, rendered_verses):
-    """ Write a Sefaria-style book in two formats:
-        1. an "external" format (CSV or XML)
-        2. "Unicode names" format
-    """
-    fmt = variant.get('variant_file_format') or 'csv'
-    path = _bkg_path_n_title(variant, fmt, bkg_name)[0]
-    write_bkg_in_xxx_fmt = variant['variant_write']
-    write_bkg_in_xxx_fmt(path, variant, rendered_verses)
-    _write_bkg_in_un_fmt(variant, bkg_name, rendered_verses)
 
 
 def _html_str(html_els):

@@ -49,17 +49,20 @@ def hechar_names(string):
 
 
 def write_verse_un(out_fp, bcvt, multiverse):
+    """ Write verse in "unicode names" format """
     bkid, chnu, vrnu = my_tbn.bcvt_get_bcv_triple(bcvt)
     vtrad = my_tbn.bcvt_get_vtrad(bcvt)
     out_fp.write(f'{bkid} {chnu}:{vrnu} in vtrad {vtrad}\n')
-    alef, bet = multiverse['cant_alef'], multiverse['cant_bet']
-    real_multi = alef or bet
-    assert alef and bet or not real_multi
-    cant = 'cant_dual' if real_multi else None
-    _write_segments(out_fp, multiverse['cant_dual'], cant)
-    if real_multi:
+    dual = multiverse['cant_dual']
+    alef = multiverse['cant_alef']
+    bet = multiverse['cant_bet']
+    if alef or bet:
+        assert alef and bet
+        _write_segments(out_fp, dual, 'cant_dual')
         _write_segments(out_fp, alef, 'cant_alef')
         _write_segments(out_fp, bet, 'cant_bet')
+    else:
+        _write_segments(out_fp, dual, None)
     out_fp.write('\n')
 
 
@@ -75,9 +78,9 @@ def _shorten_fullname_prefix(word1, word2):
     return _SHORTEN_DIC.get((word1, word2)) or word1 + ' ' + word2
 
 
-def _write_segments(out_fp, segments, cant=None, indent=''):
-    if cant:
-        out_fp.write(f'{cant}\n')
+def _write_segments(out_fp, segments, cant_dab=None, indent=''):
+    if cant_dab:
+        out_fp.write(f'{cant_dab}\n')
         indent = '    '
     for segment in segments:
         if isinstance(segment, str):
