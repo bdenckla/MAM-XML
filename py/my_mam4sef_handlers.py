@@ -58,6 +58,14 @@ def _paseq(_etel, _ofc1, _ofc2):
     return [THSP, my_html.small((PAS,)), THSP]
 
 
+def _empty(_etel, _ofc1, _ofc2):
+    return []
+
+
+def _pass_thru(_etel, ofc1, _ofc2):
+    return ofc1
+
+
 def _good_ending(_etel, ofc1, _ofc2):
     return [my_html.line_break(), my_html.small(ofc1)]
 
@@ -153,6 +161,7 @@ HANDLERS = {
     ('letter-large', None): _letter_large,
     ('letter-hung', None): _letter_hung,
     ('note', None): _note,
+    #
     ('kq-k-velo-q', None): _ketiv,
     ('kq-k-velo-q', 'append-maqaf'): _ketiv,
     ('kq-q-velo-k', None): _qere,
@@ -161,6 +170,11 @@ HANDLERS = {
     ('kq-k', None): _ketiv,
     ('kq-q', None): _qere,
     ('kq-trivial', None): _kq_trivial,
+    #
+    ('cant-dual', None): _pass_thru,
+    ('cant-alef', None): _empty,
+    ('cant-bet', None): _empty,
+    ('cant-all-three', None): _pass_thru,
     #
     ('spi-samekh2', None): _samekh2_or_3,
     ('spi-samekh3', None): _samekh2_or_3,

@@ -231,6 +231,11 @@ def mk_bcvtbhs(bkid, chnu, vrnu):
     return mk_bcvt(bkid, mk_cvtbhs(chnu, vrnu))
 
 
+def mk_bcvtxxx(bkid, chnu, vrnu, vtrad):
+    """ Return a bcv with the given vtrad """
+    return mk_bcvt(bkid, mk_cvt(chnu, vrnu, vtrad))
+
+
 def mk_bcvt(bkid, cvt):
     """ Make a bcvt from a cvt """
     return '_bcvt', bkid, *cvt
