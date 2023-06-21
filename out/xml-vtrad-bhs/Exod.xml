@@ -873,32 +873,21 @@
     <chapter osisID="Exod.20">
       <verse osisID="Exod.20.1" starts-with-sampe="samekh2" ends-with-sampe="samekh2" text="וַיְדַבֵּ֣ר אֱלֹהִ֔ים אֵ֛ת כׇּל־הַדְּבָרִ֥ים הָאֵ֖לֶּה לֵאמֹֽר׃" />
       <spi-samekh2 />
-      <verse osisID="Exod.20.2" starts-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Exod.20.2" text="אָֽנֹכִ֖י֙ יְהֹוָ֣ה אֱלֹהֶ֑֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣֥ית עֲבָדִ֑͏ֽים׃" />
-      <verse-alt osisID="Exod.20.2" starts-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Exod.20.2">
+      <verse osisID="Exod.20.2" starts-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Exod.20.2">
         <cant-all-three>
           <cant-dual text="אָֽנֹכִ֖י֙ יְהֹוָ֣ה אֱלֹהֶ֑֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣֥ית עֲבָדִ֑͏ֽים׃" />
           <cant-alef text="אָֽנֹכִי֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣ית עֲבָדִ֑ים" />
           <cant-bet text="אָֽנֹכִ֖י יְהֹוָ֣ה אֱלֹהֶ֑יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים׃" />
         </cant-all-three>
-      </verse-alt>
-      <verse osisID="Exod.20.3" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Exod.20.2" text="לֹֽ֣א־יִהְיֶ֥͏ֽה־לְךָ֛֩ אֱלֹהִ֥֨ים אֲחֵרִ֖֜ים עַל־פָּנָֽ͏ַ֗י׃" />
-      <verse-alt osisID="Exod.20.3" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Exod.20.2">
+      </verse>
+      <verse osisID="Exod.20.3" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Exod.20.2">
         <cant-all-three>
           <cant-dual text="לֹֽ֣א־יִהְיֶ֥͏ֽה־לְךָ֛֩ אֱלֹהִ֥֨ים אֲחֵרִ֖֜ים עַל־פָּנָֽ͏ַ֗י׃" />
           <cant-alef text="לֹֽא־יִהְיֶ֥ה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל־פָּנָֽי׃" />
           <cant-bet text="לֹ֣א יִהְיֶֽה־לְךָ֩ אֱלֹהִ֨ים אֲחֵרִ֜ים עַל־פָּנַ֗י" />
         </cant-all-three>
-      </verse-alt>
-      <verse osisID="Exod.20.4" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.3">
-        <text text="לֹֽ֣א־תַֽעֲשֶׂ֨ה־לְךָ֥֣ פֶ֣֙סֶל֙" />
-        <lp-paseq />
-        <text text="וְכׇל־תְּמוּנָ֔֡ה אֲשֶׁ֤֣ר בַּשָּׁמַ֣֙יִם֙" />
-        <lp-paseq />
-        <text text="מִמַּ֔֡עַל וַֽאֲשֶׁ֥ר֩ בָּאָ֖֨רֶץ מִתָּ֑͏ַ֜חַת וַאֲשֶׁ֥ר בַּמַּ֖֣יִם" />
-        <lp-legarmeih />
-        <text text=" מִתַּ֥֣חַת לָאָֽ֗רֶץ׃" />
       </verse>
-      <verse-alt osisID="Exod.20.4" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.3">
+      <verse osisID="Exod.20.4" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.3">
         <cant-all-three>
           <cant-dual>
             <text text="לֹֽ֣א־תַֽעֲשֶׂ֨ה־לְךָ֥֣ פֶ֣֙סֶל֙" />
@@ -920,9 +909,8 @@
             <text text=" מִתַּ֣חַת לָאָ֗רֶץ" />
           </cant-bet>
         </cant-all-three>
-      </verse-alt>
-      <verse osisID="Exod.20.5" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.4" text="לֹֽא־תִשְׁתַּחֲוֶ֥֣ה לָהֶ֖ם֮ וְלֹ֣א תׇעׇבְדֵ֑ם֒ כִּ֣י אָֽנֹכִ֞י יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ אֵ֣ל קַנָּ֔א פֹּ֠קֵ֠ד עֲוֺ֨ן אָבֹ֧ת עַל־בָּנִ֛ים עַל־שִׁלֵּשִׁ֥ים וְעַל־רִבֵּעִ֖ים לְשֹׂנְאָֽ֑י׃" />
-      <verse-alt osisID="Exod.20.5" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.4">
+      </verse>
+      <verse osisID="Exod.20.5" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.4">
         <cant-all-three>
           <cant-dual text="לֹֽא־תִשְׁתַּחֲוֶ֥֣ה לָהֶ֖ם֮ וְלֹ֣א תׇעׇבְדֵ֑ם֒" />
           <cant-alef text="לֹֽא־תִשְׁתַּחֲוֶ֥ה לָהֶ֖ם וְלֹ֣א תׇעׇבְדֵ֑ם" />
@@ -934,42 +922,32 @@
           <cant-alef text="לְשֹׂנְאָֽי׃" />
           <cant-bet text="לְשֹׂנְאָ֑י" />
         </cant-all-three>
-      </verse-alt>
-      <verse osisID="Exod.20.6" ends-with-sampe="samekh2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.5" text="וְעֹ֥֤שֶׂה חֶ֖֙סֶד֙ לַאֲלָפִ֑֔ים לְאֹהֲבַ֖י וּלְשֹׁמְרֵ֥י מִצְוֺתָֽי׃" />
-      <verse-alt osisID="Exod.20.6" ends-with-sampe="samekh2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.5">
+      </verse>
+      <verse osisID="Exod.20.6" ends-with-sampe="samekh2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.5">
         <cant-all-three>
           <cant-dual text="וְעֹ֥֤שֶׂה חֶ֖֙סֶד֙ לַאֲלָפִ֑֔ים לְאֹהֲבַ֖י וּלְשֹׁמְרֵ֥י מִצְוֺתָֽי׃" />
           <cant-alef text="וְעֹ֥שֶׂה חֶ֖סֶד לַאֲלָפִ֑ים לְאֹהֲבַ֖י וּלְשֹׁמְרֵ֥י מִצְוֺתָֽי׃" />
           <cant-bet text="וְעֹ֤שֶׂה חֶ֙סֶד֙ לַאֲלָפִ֔ים לְאֹהֲבַ֖י וּלְשֹׁמְרֵ֥י מִצְוֺתָֽי׃" />
         </cant-all-three>
-      </verse-alt>
+      </verse>
       <spi-samekh2 />
       <verse osisID="Exod.20.7" starts-with-sampe="samekh2" ends-with-sampe="pe2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.6" text="לֹ֥א תִשָּׂ֛א אֶת־שֵֽׁם־יְהֹוָ֥ה אֱלֹהֶ֖יךָ לַשָּׁ֑וְא כִּ֣י לֹ֤א יְנַקֶּה֙ יְהֹוָ֔ה אֵ֛ת אֲשֶׁר־יִשָּׂ֥א אֶת־שְׁמ֖וֹ לַשָּֽׁוְא׃" />
       <spi-pe2 />
-      <verse osisID="Exod.20.8" starts-with-sampe="pe2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.7" text="זָכ֛וֹר֩ אֶת־י֥֨וֹם הַשַּׁבָּ֖֜ת לְקַדְּשֽׁ֗וֹ׃" />
-      <verse-alt osisID="Exod.20.8" starts-with-sampe="pe2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.7">
+      <verse osisID="Exod.20.8" starts-with-sampe="pe2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.7">
         <cant-all-three>
           <cant-dual text="זָכ֛וֹר֩ אֶת־י֥֨וֹם הַשַּׁבָּ֖֜ת לְקַדְּשֽׁ֗וֹ׃" />
           <cant-alef text="זָכ֛וֹר אֶת־י֥וֹם הַשַּׁבָּ֖ת לְקַדְּשֽׁוֹ׃" />
           <cant-bet text="זָכוֹר֩ אֶת־י֨וֹם הַשַּׁבָּ֜ת לְקַדְּשׁ֗וֹ" />
         </cant-all-three>
-      </verse-alt>
-      <verse osisID="Exod.20.9" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.8" text="שֵׁ֤֣שֶׁת יָמִ֣ים֙ תַּֽעֲבֹ֔ד֮ וְעָשִׂ֖֣יתָ כׇּֿל־מְלַאכְתֶּֽךָ֒׃" />
-      <verse-alt osisID="Exod.20.9" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.8">
+      </verse>
+      <verse osisID="Exod.20.9" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.8">
         <cant-all-three>
           <cant-dual text="שֵׁ֤֣שֶׁת יָמִ֣ים֙ תַּֽעֲבֹ֔ד֮ וְעָשִׂ֖֣יתָ כׇּֿל־מְלַאכְתֶּֽךָ֒׃" />
           <cant-alef text="שֵׁ֤שֶׁת יָמִים֙ תַּֽעֲבֹ֔ד וְעָשִׂ֖יתָ כׇּל־מְלַאכְתֶּֽךָ׃" />
           <cant-bet text="שֵׁ֣שֶׁת יָמִ֣ים תַּֽעֲבֹד֮ וְעָשִׂ֣יתָ כׇל־מְלַאכְתֶּ֒ךָ֒" />
         </cant-all-three>
-      </verse-alt>
-      <verse osisID="Exod.20.10" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.9">
-        <text text="וְי֨וֹם֙ הַשְּׁבִיעִ֔֜י שַׁבָּ֖֣ת" />
-        <lp-legarmeih />
-        <text text=" לַיהֹוָ֣ה אֱלֹהֶ֑֗יךָ לֹֽ֣א־תַעֲשֶׂ֣֨ה כׇל־מְלָאכָ֜֡ה אַתָּ֣ה" />
-        <lp-legarmeih />
-        <text text=" וּבִנְךָ֣͏ֽ־וּ֠בִתֶּ֗ךָ עַבְדְּךָ֤֨ וַאֲמָֽתְךָ֜֙ וּבְהֶמְתֶּ֔֗ךָ וְגֵרְךָ֖֙ אֲשֶׁ֥֣ר בִּשְׁעָרֶֽ֔יךָ׃" />
       </verse>
-      <verse-alt osisID="Exod.20.10" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.9">
+      <verse osisID="Exod.20.10" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.9">
         <cant-all-three>
           <cant-dual>
             <text text="וְי֨וֹם֙ הַשְּׁבִיעִ֔֜י שַׁבָּ֖֣ת" />
@@ -989,37 +967,34 @@
             <text text=" לַיהֹוָ֣ה אֱלֹהֶ֗יךָ לֹ֣א תַעֲשֶׂ֣ה כׇל־מְלָאכָ֡ה אַתָּ֣ה וּבִנְךָֽ־וּ֠בִתֶּ֠ךָ עַבְדְּךָ֨ וַאֲמָֽתְךָ֜ וּבְהֶמְתֶּ֗ךָ וְגֵרְךָ֙ אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ" />
           </cant-bet>
         </cant-all-three>
-      </verse-alt>
+      </verse>
       <verse osisID="Exod.20.11" ends-with-sampe="samekh2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.10" text="כִּ֣י שֵֽׁשֶׁת־יָמִים֩ עָשָׂ֨ה יְהֹוָ֜ה אֶת־הַשָּׁמַ֣יִם וְאֶת־הָאָ֗רֶץ אֶת־הַיָּם֙ וְאֶת־כׇּל־אֲשֶׁר־בָּ֔ם וַיָּ֖נַח בַּיּ֣וֹם הַשְּׁבִיעִ֑י עַל־כֵּ֗ן בֵּרַ֧ךְ יְהֹוָ֛ה אֶת־י֥וֹם הַשַּׁבָּ֖ת וַֽיְקַדְּשֵֽׁהוּ׃" />
       <spi-samekh2 />
       <verse osisID="Exod.20.12" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Exod.20.11" text="כַּבֵּ֥ד אֶת־אָבִ֖יךָ וְאֶת־אִמֶּ֑ךָ לְמַ֙עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃" />
       <spi-samekh2 />
-      <verse osisID="Exod.20.13" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Exod.20.12" text="לֹ֥֖א תִּֿרְצָ֖͏ֽח׃" />
-      <verse-alt osisID="Exod.20.13" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Exod.20.12">
+      <verse osisID="Exod.20.13" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Exod.20.12">
         <cant-all-three>
           <cant-dual text="לֹ֥֖א תִּֿרְצָ֖͏ֽח׃" />
           <cant-alef text="לֹ֥א תִרְצָ֖ח" />
           <cant-bet text="לֹ֖א תִּרְצָֽח׃" />
         </cant-all-three>
-      </verse-alt>
+      </verse>
       <spi-samekh2 />
-      <verse osisID="Exod.20.14" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Exod.20.12" text="לֹ֣֖א תִּֿנְאָ֑͏ֽף׃" />
-      <verse-alt osisID="Exod.20.14" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Exod.20.12">
+      <verse osisID="Exod.20.14" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Exod.20.12">
         <cant-all-three>
           <cant-dual text="לֹ֣֖א תִּֿנְאָ֑͏ֽף׃" />
           <cant-alef text="לֹ֣א תִנְאָ֑ף" />
           <cant-bet text="לֹ֖א תִּנְאָֽף׃" />
         </cant-all-three>
-      </verse-alt>
+      </verse>
       <spi-samekh2 />
-      <verse osisID="Exod.20.15" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Exod.20.12" text="לֹ֣֖א תִּֿגְנֹֽ֔ב׃" />
-      <verse-alt osisID="Exod.20.15" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Exod.20.12">
+      <verse osisID="Exod.20.15" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Exod.20.12">
         <cant-all-three>
           <cant-dual text="לֹ֣֖א תִּֿגְנֹֽ֔ב׃" />
           <cant-alef text="לֹ֣א תִגְנֹ֔ב" />
           <cant-bet text="לֹ֖א תִּגְנֹֽב׃" />
         </cant-all-three>
-      </verse-alt>
+      </verse>
       <spi-samekh2 />
       <verse osisID="Exod.20.16" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Exod.20.12" text="לֹֽא־תַעֲנֶ֥ה בְרֵעֲךָ֖ עֵ֥ד שָֽׁקֶר׃" />
       <spi-samekh2 />

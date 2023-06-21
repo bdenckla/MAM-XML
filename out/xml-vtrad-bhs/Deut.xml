@@ -248,32 +248,21 @@
       </verse>
       <verse osisID="Deut.5.5" ends-with-sampe="samekh2" text="אָ֠נֹכִ֠י עֹמֵ֨ד בֵּין־יְהֹוָ֤ה וּבֵֽינֵיכֶם֙ בָּעֵ֣ת הַהִ֔וא לְהַגִּ֥יד לָכֶ֖ם אֶת־דְּבַ֣ר יְהֹוָ֑ה כִּ֤י יְרֵאתֶם֙ מִפְּנֵ֣י הָאֵ֔שׁ וְלֹֽא־עֲלִיתֶ֥ם בָּהָ֖ר לֵאמֹֽר׃" />
       <spi-samekh2 />
-      <verse osisID="Deut.5.6" starts-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Deut.5.6" text="אָֽנֹכִ֖י֙ יְהֹוָ֣ה אֱלֹהֶ֑֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣֥ית עֲבָדִ֑͏ֽים׃" />
-      <verse-alt osisID="Deut.5.6" starts-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Deut.5.6">
+      <verse osisID="Deut.5.6" starts-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Deut.5.6">
         <cant-all-three>
           <cant-dual text="אָֽנֹכִ֖י֙ יְהֹוָ֣ה אֱלֹהֶ֑֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣֥ית עֲבָדִ֑͏ֽים׃" />
           <cant-alef text="אָֽנֹכִי֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣ית עֲבָדִ֑ים" />
           <cant-bet text="אָֽנֹכִ֖י יְהֹוָ֣ה אֱלֹהֶ֑יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים׃" />
         </cant-all-three>
-      </verse-alt>
-      <verse osisID="Deut.5.7" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Deut.5.6" text="לֹ֣א־יִהְיֶ֥͏ֽה־לְךָ֛֩ אֱלֹהִ֥֨ים אֲחֵרִ֖֜ים עַל־פָּנָֽ͏ַ֗י׃" />
-      <verse-alt osisID="Deut.5.7" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Deut.5.6">
+      </verse>
+      <verse osisID="Deut.5.7" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Deut.5.6">
         <cant-all-three>
           <cant-dual text="לֹ֣א־יִהְיֶ֥͏ֽה־לְךָ֛֩ אֱלֹהִ֥֨ים אֲחֵרִ֖֜ים עַל־פָּנָֽ͏ַ֗י׃" />
           <cant-alef text="לֹא־יִהְיֶ֥ה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל־פָּנָֽי׃" />
           <cant-bet text="לֹ֣א יִהְיֶֽה־לְךָ֩ אֱלֹהִ֨ים אֲחֵרִ֜ים עַל־פָּנַ֗י" />
         </cant-all-three>
-      </verse-alt>
-      <verse osisID="Deut.5.8" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.7">
-        <text text="לֹֽ֣א־תַעֲשֶֽׂ֨ה־לְךָ֥֣ פֶ֣֙סֶל֙" />
-        <lp-paseq />
-        <text text="כׇּל־תְּמוּנָ֔֡ה אֲשֶׁ֤֣ר בַּשָּׁמַ֣֙יִם֙" />
-        <lp-paseq />
-        <text text="מִמַּ֔֡עַל וַאֲשֶׁ֥ר֩ בָּאָ֖֨רֶץ מִתָּ֑͏ַ֜חַת וַאֲשֶׁ֥ר בַּמַּ֖֣יִם" />
-        <lp-legarmeih />
-        <text text=" מִתַּ֥֣חַת לָאָֽ֗רֶץ׃" />
       </verse>
-      <verse-alt osisID="Deut.5.8" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.7">
+      <verse osisID="Deut.5.8" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.7">
         <cant-all-three>
           <cant-dual>
             <text text="לֹֽ֣א־תַעֲשֶֽׂ֨ה־לְךָ֥֣ פֶ֣֙סֶל֙" />
@@ -295,9 +284,8 @@
             <text text=" מִתַּ֣חַת לָאָ֗רֶץ" />
           </cant-bet>
         </cant-all-three>
-      </verse-alt>
-      <verse osisID="Deut.5.9" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.8" text="לֹא־תִשְׁתַּחֲוֶ֥֣ה לָהֶ֖ם֮ וְלֹ֣א תׇעׇבְדֵ֑ם֒ כִּ֣י אָנֹכִ֞י יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ אֵ֣ל קַנָּ֔א פֹּ֠קֵ֠ד עֲוֺ֨ן אָב֧וֹת עַל־בָּנִ֛ים וְעַל־שִׁלֵּשִׁ֥ים וְעַל־רִבֵּעִ֖ים לְשֹׂנְאָֽ֑י׃" />
-      <verse-alt osisID="Deut.5.9" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.8">
+      </verse>
+      <verse osisID="Deut.5.9" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.8">
         <cant-all-three>
           <cant-dual text="לֹא־תִשְׁתַּחֲוֶ֥֣ה לָהֶ֖ם֮ וְלֹ֣א תׇעׇבְדֵ֑ם֒" />
           <cant-alef text="לֹא־תִשְׁתַּחֲוֶ֥ה לָהֶ֖ם וְלֹ֣א תׇעׇבְדֵ֑ם" />
@@ -309,16 +297,8 @@
           <cant-alef text="לְשֹׂנְאָֽי׃" />
           <cant-bet text="לְשֹׂנְאָ֑י" />
         </cant-all-three>
-      </verse-alt>
-      <verse osisID="Deut.5.10" ends-with-sampe="samekh2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.9">
-        <text text="וְעֹ֥֤שֶׂה חֶ֖֙סֶד֙ לַֽאֲלָפִ֑֔ים לְאֹהֲבַ֖י וּלְשֹׁמְרֵ֥י " />
-        <kq>
-          <kq-k text="מצותו" />
-          <kq-q text="מִצְוֺתָֽי" />
-        </kq>
-        <text text="׃" />
       </verse>
-      <verse-alt osisID="Deut.5.10" ends-with-sampe="samekh2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.9">
+      <verse osisID="Deut.5.10" ends-with-sampe="samekh2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.9">
         <cant-all-three>
           <cant-dual text="וְעֹ֥֤שֶׂה חֶ֖֙סֶד֙ לַֽאֲלָפִ֑֔ים" />
           <cant-alef text="וְעֹ֥שֶׂה חֶ֖סֶד לַֽאֲלָפִ֑ים" />
@@ -330,16 +310,11 @@
           <kq-q text="מִצְוֺתָֽי" />
         </kq>
         <text text="׃" />
-      </verse-alt>
+      </verse>
       <spi-samekh2 />
       <verse osisID="Deut.5.11" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.10" text="לֹ֥א תִשָּׂ֛א אֶת־שֵֽׁם־יְהֹוָ֥ה אֱלֹהֶ֖יךָ לַשָּׁ֑וְא כִּ֣י לֹ֤א יְנַקֶּה֙ יְהֹוָ֔ה אֵ֛ת אֲשֶׁר־יִשָּׂ֥א אֶת־שְׁמ֖וֹ לַשָּֽׁוְא׃" />
       <spi-samekh2 />
       <verse osisID="Deut.5.12" starts-with-sampe="samekh2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.11">
-        <text text="שָׁמ֛֣וֹר אֶת־י֥וֹם֩ הַשַּׁבָּ֖֨ת לְקַדְּשׁ֑֜וֹ כַּאֲשֶׁ֥ר צִוְּךָ֖֣" />
-        <lp-legarmeih />
-        <text text=" יְהֹוָ֥֣ה אֱלֹהֶֽ֗יךָ׃" />
-      </verse>
-      <verse-alt osisID="Deut.5.12" starts-with-sampe="samekh2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.11">
         <cant-all-three>
           <cant-dual>
             <text text="שָׁמ֛֣וֹר אֶת־י֥וֹם֩ הַשַּׁבָּ֖֨ת לְקַדְּשׁ֑֜וֹ כַּאֲשֶׁ֥ר צִוְּךָ֖֣" />
@@ -353,21 +328,15 @@
             <text text=" יְהֹוָ֣ה אֱלֹהֶ֗יךָ" />
           </cant-bet>
         </cant-all-three>
-      </verse-alt>
-      <verse osisID="Deut.5.13" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.12" text="שֵׁ֤֣שֶׁת יָמִ֣ים֙ תַּֽעֲבֹ֔ד֮ וְעָשִׂ֖֣יתָ כׇּֿל־מְלַאכְתֶּֽךָ֒׃" />
-      <verse-alt osisID="Deut.5.13" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.12">
+      </verse>
+      <verse osisID="Deut.5.13" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.12">
         <cant-all-three>
           <cant-dual text="שֵׁ֤֣שֶׁת יָמִ֣ים֙ תַּֽעֲבֹ֔ד֮ וְעָשִׂ֖֣יתָ כׇּֿל־מְלַאכְתֶּֽךָ֒׃" />
           <cant-alef text="שֵׁ֤שֶׁת יָמִים֙ תַּֽעֲבֹ֔ד וְעָשִׂ֖יתָ כׇּל־מְלַאכְתֶּֽךָ׃" />
           <cant-bet text="שֵׁ֣שֶׁת יָמִ֣ים תַּֽעֲבֹד֮ וְעָשִׂ֣יתָ כׇל־מְלַאכְתֶּ֒ךָ֒" />
         </cant-all-three>
-      </verse-alt>
-      <verse osisID="Deut.5.14" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.13">
-        <text text="וְי֨וֹם֙ הַשְּׁבִיעִ֔֜י שַׁבָּ֖֣ת" />
-        <lp-legarmeih />
-        <text text=" לַיהֹוָ֣ה אֱלֹהֶ֑֗יךָ לֹ֣א תַעֲשֶׂ֣ה כׇל־מְלָאכָ֡ה אַתָּ֣ה וּבִנְךָֽ־וּבִתֶּ֣ךָ וְעַבְדְּךָֽ־וַ֠אֲמָתֶ֠ךָ וְשׁוֹרְךָ֨ וַחֲמֹֽרְךָ֜ וְכׇל־בְּהֶמְתֶּ֗ךָ וְגֵֽרְךָ֙ אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ לְמַ֗עַן יָנ֛וּחַ עַבְדְּךָ֥ וַאֲמָתְךָ֖ כָּמֽ֑וֹךָ׃" />
       </verse>
-      <verse-alt osisID="Deut.5.14" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.13">
+      <verse osisID="Deut.5.14" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.13">
         <cant-all-three>
           <cant-dual>
             <text text="וְי֨וֹם֙ הַשְּׁבִיעִ֔֜י שַׁבָּ֖֣ת" />
@@ -387,13 +356,8 @@
           <cant-alef text="כָּמֽוֹךָ׃" />
           <cant-bet text="כָּמ֑וֹךָ" />
         </cant-all-three>
-      </verse-alt>
-      <verse osisID="Deut.5.15" ends-with-sampe="samekh2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.14">
-        <text text="וְזָכַרְתָּ֗֞ כִּ֣י־עֶ֤֥בֶד הָיִ֣֙יתָ֙" />
-        <lp-legarmeih />
-        <text text=" בְּאֶ֣רֶץ מִצְרַ֔֗יִם וַיֹּצִ֨אֲךָ֜֩ יְהֹוָ֤֨ה אֱלֹהֶ֤֙יךָ֙ מִשָּׁ֔ם֙ בְּיָ֥֤ד חֲזָקָ֖ה֙ וּבִזְרֹ֣עַ נְטוּיָ֑֔ה עַל־כֵּ֗ן צִוְּךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לַעֲשׂ֖וֹת אֶת־י֥וֹם הַשַּׁבָּֽת׃" />
       </verse>
-      <verse-alt osisID="Deut.5.15" ends-with-sampe="samekh2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.14">
+      <verse osisID="Deut.5.15" ends-with-sampe="samekh2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.14">
         <cant-all-three>
           <cant-dual>
             <text text="וְזָכַרְתָּ֗֞ כִּ֣י־עֶ֤֥בֶד הָיִ֣֙יתָ֙" />
@@ -407,7 +371,7 @@
             <text text=" בְּאֶ֣רֶץ מִצְרַ֗יִם וַיֹּצִאֲךָ֩ יְהֹוָ֨ה אֱלֹהֶ֤יךָ מִשָּׁם֙ בְּיָ֤ד חֲזָקָה֙ וּבִזְרֹ֣עַ נְטוּיָ֔ה עַל־כֵּ֗ן צִוְּךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לַעֲשׂ֖וֹת אֶת־י֥וֹם הַשַּׁבָּֽת׃" />
           </cant-bet>
         </cant-all-three>
-      </verse-alt>
+      </verse>
       <spi-samekh2 />
       <verse osisID="Deut.5.16" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="a full verse in MAM" osisID-of-MAM-src="Deut.5.15">
         <text text="כַּבֵּ֤ד אֶת־אָבִ֙יךָ֙ וְאֶת־אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהֹוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן" />
@@ -415,32 +379,29 @@
         <text text=" יַאֲרִיכֻ֣ן יָמֶ֗יךָ וּלְמַ֙עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃" />
       </verse>
       <spi-samekh2 />
-      <verse osisID="Deut.5.17" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Deut.5.16" text="לֹ֥֖א תִּֿרְצָ֖͏ֽח׃" />
-      <verse-alt osisID="Deut.5.17" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Deut.5.16">
+      <verse osisID="Deut.5.17" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Deut.5.16">
         <cant-all-three>
           <cant-dual text="לֹ֥֖א תִּֿרְצָ֖͏ֽח׃" />
           <cant-alef text="לֹ֥א תִרְצָ֖ח" />
           <cant-bet text="לֹ֖א תִּרְצָֽח׃" />
         </cant-all-three>
-      </verse-alt>
+      </verse>
       <spi-samekh2 />
-      <verse osisID="Deut.5.18" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Deut.5.16" text="וְלֹ֣֖א תִּֿנְאָ֑͏ֽף׃" />
-      <verse-alt osisID="Deut.5.18" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Deut.5.16">
+      <verse osisID="Deut.5.18" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Deut.5.16">
         <cant-all-three>
           <cant-dual text="וְלֹ֣֖א תִּֿנְאָ֑͏ֽף׃" />
           <cant-alef text="וְלֹ֣א תִנְאָ֑ף" />
           <cant-bet text="וְלֹ֖א תִּנְאָֽף׃" />
         </cant-all-three>
-      </verse-alt>
+      </verse>
       <spi-samekh2 />
-      <verse osisID="Deut.5.19" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Deut.5.16" text="וְלֹ֣֖א תִּֿגְנֹֽ֔ב׃" />
-      <verse-alt osisID="Deut.5.19" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Deut.5.16">
+      <verse osisID="Deut.5.19" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Deut.5.16">
         <cant-all-three>
           <cant-dual text="וְלֹ֣֖א תִּֿגְנֹֽ֔ב׃" />
           <cant-alef text="וְלֹ֣א תִגְנֹ֔ב" />
           <cant-bet text="וְלֹ֖א תִּגְנֹֽב׃" />
         </cant-all-three>
-      </verse-alt>
+      </verse>
       <spi-samekh2 />
       <verse osisID="Deut.5.20" starts-with-sampe="samekh2" ends-with-sampe="samekh2" contents-corresponds-to="less than a full verse in MAM" osisID-of-MAM-src="Deut.5.16" text="וְלֹֽא־תַעֲנֶ֥ה בְרֵֽעֲךָ֖ עֵ֥ד שָֽׁוְא׃" />
       <spi-samekh2 />
