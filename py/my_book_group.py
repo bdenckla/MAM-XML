@@ -1,4 +1,4 @@
-""" exports bkg_make """
+""" Exports bkg_make """
 
 
 def bkg_make(name, bkids):

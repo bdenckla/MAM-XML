@@ -1,4 +1,4 @@
-""" exports names for Unicode Hebrew letters """
+""" Exports names for Unicode Hebrew letters """
 
 ALEF = '\N{HEBREW LETTER ALEF}'
 BET = '\N{HEBREW LETTER BET}'

@@ -1,4 +1,4 @@
-""" This module defines some useful Unicode constants. """
+""" Exports some useful Unicode constants. """
 NBSP = '\N{NO-BREAK SPACE}'
 OCTO_NBSP = NBSP * 8
 THSP = '\N{THIN SPACE}'

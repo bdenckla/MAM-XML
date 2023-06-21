@@ -1,4 +1,4 @@
-""" exports names for Unicode Hebrew points """
+""" Exports names for Unicode Hebrew points """
 
 JSVARIKA = '\N{HEBREW POINT JUDEO-SPANISH VARIKA}'
 DAGESH_OM = '\N{HEBREW POINT DAGESH OR MAPIQ}'
