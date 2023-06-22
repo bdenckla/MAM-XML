@@ -118,6 +118,8 @@ def _qere(_etel, ofc1, _ofc2):
 
 def _note(_etel, ofc1, _ofc2):
     """ Handle a scroll difference note element """
+    # XXX add class footnote-marker to sup element?
+    # I find that difference when I download MAM from Sefaria
     return [my_html.sup(['*']), my_html.italic(ofc1, {'class': 'footnote'})]
 
 

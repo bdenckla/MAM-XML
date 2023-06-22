@@ -9,7 +9,7 @@ import my_sef_cmn
 import my_tanakh_book_names as my_tbn
 
 
-def write(variant, bkg_name, rendered_verses):
+def write(variant, bkg_name, verses):
     """ Write a Sefaria-style book in two formats:
         1. an "external" format (CSV or XML)
         2. "Unicode names" format
@@ -17,23 +17,23 @@ def write(variant, bkg_name, rendered_verses):
     fmt = variant.get('variant_file_format') or 'csv'
     write_fn = variant.get('variant_write') or _write_bkg_in_csv_fmt
     path = _bkg_path_n_title(variant, fmt, bkg_name)[0]
-    write_fn(path, variant, rendered_verses)
-    _write_bkg_in_un_fmt(variant, bkg_name, rendered_verses)
+    write_fn(path, variant, verses)
+    _write_bkg_in_un_fmt(variant, bkg_name, verses)
 
 
 def _write_bkg_in_csv_fmt(path, variant, verses):
     """ Write Sefaria-style file in CSV format """
     book_out = {}
     bkid = None
-    dic_alef = dict(verses['cant_alef'])
-    dic_bet = dict(verses['cant_bet'])
+    dic_alef = dict(verses.get('cant_alef') or [])
+    dic_bet = dict(verses.get('cant_bet') or [])
     for bcvt, html_els in verses['cant_dual']:
         if bkid is None:
             bkid = my_tbn.bcvt_get_bkid(bcvt)
         else:
             assert bkid == my_tbn.bcvt_get_bkid(bcvt)
         dual = _html_str(html_els)
-        if variant.get('variant_include_abcants_in_csv'):
+        if variant.get('variant_include_abcants'):
             alef = _html_str(dic_alef.get(bcvt))
             bet = _html_str(dic_bet.get(bcvt))
             book_out[bcvt] = dual, alef, bet
@@ -68,12 +68,12 @@ def _write_bkg_in_csv_fmt2(variant, bkid, contents, file_handle):
 def _write_bkg_in_un_fmt(variant, bkg_name, verses):
     my_uni_heb.do_quick_test()
     path, title = _bkg_path_n_title(variant, 'unicode_names', bkg_name)
-    if variant.get('variant_exclude_abcants_from_un_output'):
+    if variant.get('variant_include_abcants'):
+        dic_alef = dict(verses.get('cant_alef') or [])
+        dic_bet = dict(verses.get('cant_bet') or [])
+    else:
         dic_alef = {}
         dic_bet = {}
-    else:
-        dic_alef = dict(verses['cant_alef'])
-        dic_bet = dict(verses['cant_bet'])
 
     def _write_callback(out_fp):
         out_fp.write(f'{title}\n')

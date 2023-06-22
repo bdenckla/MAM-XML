@@ -46,16 +46,32 @@ def _read_book_group(variant, bkg_name):
     return tree.getroot()
 
 
-def _process_book_group(variant, root):
+def _get_xpath_query_string(cant_dab):
+    xpath_query_dic = {
+        # For cant_dual, we just look for all verses.
+        'cant_dual': './/verse',
+        # For cant_alef and cant_bet, we look for all verses that have a
+        # "cant-all-three" child.
+        'cant_alef': './/verse/cant-all-three/..',
+        'cant_bet': './/verse/cant-all-three/..',
+    }
+    return xpath_query_dic[cant_dab]
+
+
+def _process_book_group(variant, root, cant_dab):
     handlers = variant['variant_handlers']
     vtrad = variant['variant_vtrad']
-    verses_in = root.findall('.//verse')
+    if tuple(handlers.keys()) == _ALL_3_CANT_DAB_VALUES:
+        handlers2 = handlers[cant_dab]
+    else:
+        handlers2 = handlers
+    verses_in = root.findall(_get_xpath_query_string(cant_dab))
     book39s_out = {}
     for verse in verses_in:
         osis_id = verse.attrib['osisID']
         bcvt = _get_bcvt_from_osis_id(vtrad, osis_id)
         bkid = my_tbn.bcvt_get_bkid(bcvt)
-        verse_out = _handle(handlers, verse)
+        verse_out = _handle(handlers2, verse)
         if bkid not in book39s_out:
             book39s_out[bkid] = []
         book39s_out[bkid].append((bcvt, verse_out))
@@ -67,16 +83,24 @@ def _get_bcvt_from_osis_id(vtrad, osid_id):
     return my_tbn.mk_bcvtxxx(bkid, chnu, vrnu, vtrad)
 
 
+def _do_for_cant_dab(bkg_out, variant, root, cant_dab):
+    book39s = _process_book_group(variant, root, cant_dab)
+    for bkid, verses in book39s.items():
+        if bkid not in bkg_out:
+            bkg_out[bkid] = {}
+        bkg_out[bkid][cant_dab] = verses
+
+
 def do_one_book_group(variant, bkg):
     """ Do the book group bkg """
     bkg_name = bkg['bkg-name']
     root = _read_book_group(variant, bkg_name)
-    book39s = _process_book_group(variant, root)
-    for bkid, verses in book39s.items():
-        verses_abd = {
-            'cant_alef': [],
-            'cant_bet': [],
-            'cant_dual': verses,
-        }
+    bkg_out = {}
+    for cant_dab in _ALL_3_CANT_DAB_VALUES:
+        _do_for_cant_dab(bkg_out, variant, root, cant_dab)
+    for bkid, cant_to_verses in bkg_out.items():
         sef_eng_bkna = my_sef_cmn.SEF_ENGLISH_BOOK_NAMES[bkid]
-        my_sef_style_write.write(variant, sef_eng_bkna, verses_abd)
+        my_sef_style_write.write(variant, sef_eng_bkna, cant_to_verses)
+
+
+_ALL_3_CANT_DAB_VALUES = 'cant_dual', 'cant_alef', 'cant_bet'
