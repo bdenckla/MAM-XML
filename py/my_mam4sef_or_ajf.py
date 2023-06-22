@@ -100,7 +100,8 @@ def do_one_book_group(variant, bkg):
         _do_for_cant_dab(bkg_out, variant, root, cant_dab)
     for bkid, cant_to_verses in bkg_out.items():
         sef_eng_bkna = my_sef_cmn.SEF_ENGLISH_BOOK_NAMES[bkid]
-        my_sef_style_write.write(variant, sef_eng_bkna, cant_to_verses)
+        my_sef_style_write.write_bkg_in_csv_and_un_fmts(
+            variant, sef_eng_bkna, cant_to_verses)
 
 
 _ALL_3_CANT_DAB_VALUES = 'cant_dual', 'cant_alef', 'cant_bet'

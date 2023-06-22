@@ -1,4 +1,9 @@
-""" Exports write_bkg """
+"""
+Exports:
+    write_bkg_in_csv_and_un_fmts
+    write_bkg_in_un_fmt
+    bkg_path
+"""
 
 import csv
 import my_html
@@ -9,16 +14,14 @@ import my_sef_cmn
 import my_tanakh_book_names as my_tbn
 
 
-def write(variant, bkg_name, verses):
+def write_bkg_in_csv_and_un_fmts(variant, bkg_name, verses):
     """ Write a Sefaria-style book in two formats:
-        1. an "external" format (CSV or XML)
+        1. Sefaria format (CSV/HTML)
         2. "Unicode names" format
     """
-    fmt = variant.get('variant_file_format') or 'csv'
-    write_fn = variant.get('variant_write') or _write_bkg_in_csv_fmt
-    path = _bkg_path_n_title(variant, fmt, bkg_name)[0]
-    write_fn(path, variant, verses)
-    _write_bkg_in_un_fmt(variant, bkg_name, verses)
+    csv_path = bkg_path(variant, bkg_name)
+    _write_bkg_in_csv_fmt(csv_path, variant, verses)
+    write_bkg_in_un_fmt(variant, bkg_name, verses)
 
 
 def _write_bkg_in_csv_fmt(path, variant, verses):
@@ -65,9 +68,11 @@ def _write_bkg_in_csv_fmt2(variant, bkid, contents, file_handle):
         writer.writerow((bcv_str, *verse))
 
 
-def _write_bkg_in_un_fmt(variant, bkg_name, verses):
+def write_bkg_in_un_fmt(variant, bkg_name, verses):
+    """ Write book group in "Unicode names" format. """
     my_uni_heb.do_quick_test()
-    path, title = _bkg_path_n_title(variant, 'unicode_names', bkg_name)
+    path = bkg_path(variant, bkg_name, fmt_is_unicode_names=True)
+    title = f'unicode_names {bkg_name}'
     if variant.get('variant_include_abcants'):
         dic_alef = dict(verses.get('cant_alef') or [])
         dic_bet = dict(verses.get('cant_bet') or [])
@@ -88,7 +93,12 @@ def _write_bkg_in_un_fmt(variant, bkg_name, verses):
     my_open.with_tmp_openw(path, _write_callback)
 
 
-def _bkg_path_n_title(variant, fmt, bkg_name):
+def bkg_path(variant, bkg_name, fmt_is_unicode_names=False):
+    """ Return path based on book group name bkg_name. """
+    if fmt_is_unicode_names:
+        fmt = 'unicode_names'
+    else:
+        fmt = variant.get('variant_file_format') or 'csv'
     path_qual = variant.get('variant_path_qual') or ''
     # vpq examples include '' (the empty string) and '-ajf'
     folders = {
@@ -104,4 +114,4 @@ def _bkg_path_n_title(variant, fmt, bkg_name):
     mam_for_xxx = variant.get('variant_mam_for_xxx') or 'MAM-for-Sefaria'
     parent = f'../{mam_for_xxx}/out'
     path = f'{parent}/{folders[fmt]}/{bkg_name}{exts[fmt]}'
-    return path, f'{fmt} {bkg_name}'
+    return path
