@@ -66,10 +66,6 @@ def _pass_thru(_etel, ofc1, _ofc2):
     return ofc1
 
 
-def _good_ending(_etel, ofc1, _ofc2):
-    return [my_html.line_break(), my_html.small(ofc1)]
-
-
 def _letter_small(_etel, ofc1, _ofc2):
     return [my_html.small(ofc1)]
 
@@ -118,9 +114,9 @@ def _qere(_etel, ofc1, _ofc2):
 
 def _note(_etel, ofc1, _ofc2):
     """ Handle a scroll difference note element """
-    # XXX add class footnote-marker to sup element?
-    # I find that difference when I download MAM from Sefaria
-    return [my_html.sup(['*']), my_html.italic(ofc1, {'class': 'footnote'})]
+    el_sup = my_html.sup(['*'], {'class': 'footnote-marker'})
+    el_italic = my_html.italic(ofc1, {'class': 'footnote'})
+    return [el_sup, el_italic]
 
 
 def _shirah_space(_etel, _ofc1, _ofc2):
@@ -158,7 +154,7 @@ HANDLERS = {
     ('verse', None): _verse,
     ('text', None): _text,
     #
-    ('good-ending', None): _good_ending,
+    ('good-ending', None): _empty,
     ('letter-small', None): _letter_small,
     ('letter-large', None): _letter_large,
     ('letter-hung', None): _letter_hung,

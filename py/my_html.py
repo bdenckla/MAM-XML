@@ -25,17 +25,16 @@ def el_to_str(elem):
     if contents:
         assert isinstance(contents, (tuple, list))
         contents_str = ''.join(map(el_to_str, contents))
-    lb2 = elem.get('lb2', '\n')
-    noclose = elem.get('noclose')
     eltag = hel_get_tag(elem)
-    fields = dict(
-        tag_name=eltag,
-        attr=_attr_str(elem.get('attr')),
-        contents=contents_str,
-        close='' if noclose else f'</{eltag}>{lb2}',
-        lb1=elem.get('lb1', '\n'),
-    )
-    return '<{tag_name}{attr}>{lb1}{contents}{close}'.format(**fields)
+    fields = {
+        'tag_name': eltag,
+        'attr': _attr_str(elem.get('attr')),
+        'contents': contents_str,
+        'close': '' if elem.get('noclose') else f'</{eltag}>',
+        'lb1': elem.get('lb1', '\n'),
+        'lb2': elem.get('lb2', '\n'),
+    }
+    return '<{tag_name}{attr}>{lb1}{contents}{close}{lb2}'.format(**fields)
 
 
 def el_to_xml(xml_parent, elem):
@@ -70,7 +69,7 @@ def html_el2(title_text, body_contents, css_hrefs=(), other=None):
     if other is None:
         other = {}
     other = {**other_defaults, **other}
-    meta = hel_mk('meta', attr=dict(charset='utf-8'), noclose=True)
+    meta = hel_mk('meta', attr=dict(charset='utf-8'), noclose=True, lb2='')
     title = hel_mk('title', contents=(title_text,))
     links_to_css = tuple(map(_link_to_css, css_hrefs))
     if other['head_style'] is None:
@@ -86,6 +85,10 @@ def html_el2(title_text, body_contents, css_hrefs=(), other=None):
 
 def para(contents, attr=None):
     return hel_mk('p', attr=attr, contents=contents, lb1='')
+
+
+def img(contents, attr=None):
+    return hel_mk('img', attr=attr, contents=contents, lb1='')
 
 
 def table_row(contents):
@@ -108,6 +111,18 @@ def list_item(contents, attr=None):
     return hel_mk('li', attr, contents)
 
 
+def heading_level_1(contents, attr=None):
+    return hel_mk('h1', attr, contents)
+
+
+def heading_level_2(contents, attr=None):
+    return hel_mk('h2', attr, contents)
+
+
+def heading_level_3(contents, attr=None):
+    return hel_mk('h3', attr, contents)
+
+
 def anchor(contents, attr=None):
     return hel_mk('a', attr, contents)
 
@@ -117,7 +132,7 @@ def colgroup(contents, attr=None):
 
 
 def col(attr=None):
-    return hel_mk('col', attr=attr, noclose=True)
+    return hel_mk('col', attr=attr, noclose=True, lb2='')
 
 
 def span(contents, attr=None):
@@ -145,6 +160,17 @@ def sup(contents, attr=None):
 
 
 def line_break(attr=None):
+    """
+    A <br> that is NOT followed by a newline in the source code.
+    (The lb2='' suppresses this newline.)
+    """
+    return hel_mk('br', attr=attr, lb1='', noclose=True, lb2='')
+
+
+def line_break2(attr=None):
+    """
+    A <br> that is followed by a newline in the source code.
+    """
     return hel_mk('br', attr=attr, lb1='', noclose=True)
 
 
@@ -173,7 +199,7 @@ def hel_get_tag(hel):
 
 def _link_to_css(css_href):
     link_to_css_attr = dict(rel='stylesheet', href=css_href)
-    return hel_mk('link', attr=link_to_css_attr, noclose=True)
+    return hel_mk('link', attr=link_to_css_attr, noclose=True, lb2='')
 
 
 def _html_el1(attr, contents):

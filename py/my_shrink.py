@@ -7,7 +7,7 @@ import xml.etree.ElementTree as ET
 def shrink(parts):
     """
     Coalesce (or "collapse") adjacent strings in an iterable whose parts are
-    a mix of strings and dicts.
+    a mix of strings and non-strings.
     """
     acc = []
     for part in parts:
@@ -16,7 +16,6 @@ def shrink(parts):
         if acc and _both_str(acc[-1], part):
             acc[-1] += part
             continue
-        assert isinstance(part, (dict, str))
         acc.append(part)
     type_of_parts = type(parts)  # presumably list or tuple
     return type_of_parts(acc)
