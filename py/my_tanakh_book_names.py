@@ -195,17 +195,18 @@ def is_11th_verse_of_decalogue(bcvtmam):
     return bcvtmam in (bcv_ex, bcv_de)
 
 
-def add_next_bkids(bkids):
-    """ For each "part 1" bkid included in bkids,
-    add the "part 2" ("next") bkid.
+def add_part2_bkids(bkids):
     """
-    nexts = tuple(filter(None, map(next_bkid, bkids)))
+    For each "part 1" bkid included in bkids, add the "part 2" ("next") bkid.
+    """
+    nexts = tuple(filter(None, map(part2_bkid, bkids)))
     return tuple(set(bkids + tuple(nexts)))
 
 
-def next_bkid(bkid):
-    """ If bkid is part 1 of a 2-part book,
-    return the bkid part 2. Otherwise return None.
+def part2_bkid(bkid):
+    """
+    If bkid is part 1 of a 2-part book, return the bkid of part 2.
+    Otherwise return None.
     """
     the_next_bkid = {  # next book ID
         BK_FST_SAMUEL: BK_SND_SAMUEL,
