@@ -125,8 +125,9 @@ def comma_shunna(string):
     return ','.join(shunna(string))
 
 
-def shunna(string):
+def shunna(string: str):
     """ Tuple of shortened unicode names """
+    assert isinstance(string, str)
     return tuple(map(shortened_unicode_name, string))
 
 
