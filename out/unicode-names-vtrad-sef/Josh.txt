@@ -9744,7 +9744,7 @@ SPACE
 SPACE
 m,∵,𝓂,l,∵,k.,:,-,h,_,v,·,a,$,·sh,a,◆,n.
 SPACE
-w,:,k,oa,l,-,x,_,w,·,hhfv,(me),τ
+w,:,k,oa,l,-,x,_,w,·,ḥḥfv,(me),τ
 SPACE
 y,a,α,i,⟓,y,r
 SPACE
@@ -15295,7 +15295,7 @@ v,·,:,k,oa,l,-,d,·,:,r,a,k,a,⟓,y,w
 SPACE
 w,:,l,i,$,·sh,:,m,o,(me),r
 SPACE
-m,i,ц,:,w,hhfv,τ,a,(ti),y,w
+m,i,ц,:,w,ḥḥfv,τ,a,(ti),y,w
 SPACE
 w,·,l,:,d,oa,v,:,q,a,h,-,v,⅄,w,o
 SPACE
@@ -15676,7 +15676,7 @@ v,·,_,y,h,o,w,a,𝓂,h,.
 Joshua 22:17 in vtrad vtsef
 h,_,m,:,ʕ,_,θ,-,l,a,(p),n,w,·,(p)
 SPACE
-α,∵,τ,-,ʕ,:_,w,hhfv,⅃,n.
+α,∵,τ,-,ʕ,:_,w,ḥḥfv,⅃,n.
 SPACE
 f,·,:,ʕ,ƶ,w,o,r
 SPACE
@@ -15814,7 +15814,7 @@ l,o,(me),α
 SPACE
 g,a,w,_,(ti),ʕ
 SPACE
-v,·,_,ʕ,:_,w,hhfv,n,𝓂,w,o,.
+v,·,_,ʕ,:_,w,ḥḥfv,n,𝓂,w,o,.
 START spi-samekh2 
 
 Joshua 22:21 in vtrad vtsef

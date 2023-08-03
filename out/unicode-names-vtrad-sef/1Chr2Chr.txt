@@ -1240,7 +1240,7 @@ w,_,y,·,i,q,·,_,⅃,x
 SPACE
 g,·,:,$,·sh,𝓂,w,·,r,-,w,_,⌕,α,:_,r,a,⌕,m.
 SPACE
-α,∵,τ,-,x,_,w,·,hhfv,(qa),τ
+α,∵,τ,-,x,_,w,·,ḥḥfv,(qa),τ
 SPACE
 y,a,α,i,(da),y,r
 SPACE
@@ -18775,7 +18775,7 @@ SPACE
 SPACE
 l,_,ʕ,:_,$,·si,⟓,w,o,τ
 SPACE
-m,i,ц,:,w,hhfv,τ,_,(me),y
+m,i,ц,:,w,ḥḥfv,τ,_,(me),y
 SPACE
 w,·,m,i,$,·sh,:,f,·,a,θ,_,(ti),y
 SPACE
@@ -18800,7 +18800,7 @@ $,·sh,i,m,:,r,⅃,w,·
 SPACE
 w,:,d,i,r,:,$,·sh,ƶ,w,·
 SPACE
-k,·,oa,l,-,m,i,ц,:,w,hhfv,(ti),τ
+k,·,oa,l,-,m,i,ц,:,w,ḥḥfv,(ti),τ
 SPACE
 y,:,h,o,w,a,⅃,h
 SPACE
@@ -19051,7 +19051,7 @@ w,:,h,_,m,·,i,z,:,l,a,g,(da),w,o,τ
 SPACE
 w,:,h,_,m,·,i,z,:,r,a,q,⟓,w,o,τ
 SPACE
-w,:,h,_,q,·,:,$,·si,a,w,hhfv,(ti),τ
+w,:,h,_,q,·,:,$,·si,a,w,ḥḥfv,(ti),τ
 SPACE
 z,a,h,a,⅃,v
 SPACE
@@ -19765,9 +19765,9 @@ $,·sh,a,l,‥,ƶ,m.
 SPACE
 l,i,$,·sh,:,m,w,o,r,(p)
 SPACE
-m,i,ц,:,w,hhfv,τ,∵,ƶ,y,k.,a
+m,i,ц,:,w,ḥḥfv,τ,∵,ƶ,y,k.,a
 SPACE
-ʕ,‥,d,:,w,hhfv,τ,∵,(ti),y,k.,a
+ʕ,‥,d,:,w,ḥḥfv,τ,∵,(ti),y,k.,a
 SPACE
 w,:,x,u,q,·,∵,⅄,y,k.,a
 SPACE
@@ -24585,7 +24585,7 @@ w,_,𝓂,ʕ,:_,z,_,v,:,τ,·,∵,m.,(p)
 SPACE
 x,u,q,·,w,o,τ,_,⅃,y
 SPACE
-w,·,m,i,ц,:,w,hhfv,τ,_,ƶ,y
+w,·,m,i,ц,:,w,ḥḥfv,τ,_,ƶ,y
 SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
@@ -29687,7 +29687,7 @@ SPACE
 SPACE
 d,·,a,r,a,ƶ,$,·sh
 SPACE
-w,·,v,:,m,i,ц,:,w,hhfv,τ,a,(ti),y,w
+w,·,v,:,m,i,ц,:,w,ḥḥfv,τ,a,(ti),y,w
 SPACE
 h,a,l,a,⅄,k.,:
 SPACE
@@ -31903,7 +31903,7 @@ l,i,f,:,n,‥,⅃,y
 SPACE
 y,:,h,o,w,a,ƶ,h
 SPACE
-l,:,h,i,𝓂,$,·sh,:,τ,·,_,x,:_,w,hhfv,(ti),τ
+l,:,h,i,𝓂,$,·sh,:,τ,·,_,x,:_,w,ḥḥfv,(ti),τ
 SPACE
 l,_,y,h,o,w,a,𝓂,h,.
 
@@ -34655,7 +34655,7 @@ SPACE
 SPACE
 ʕ,o,v,:,r,i,(ge),y,m.
 SPACE
-α,∵,τ,-,m,i,ц,:,w,hhfv,<,τ
+α,∵,τ,-,m,i,ц,:,w,ḥḥfv,<,τ
 SPACE
 y,:,h,o,w,a,h,(p)
 SPACE
@@ -40732,7 +40732,7 @@ w,:,τ,i,y,r,⅃,w,o,$,·sh
 SPACE
 w,:,y,i,ц,:,h,a,⅄,r
 SPACE
-w,:,α,u,𝓂,r,a,w,hhfv,τ,(p)
+w,:,α,u,𝓂,r,a,w,ḥḥfv,τ,(p)
 SPACE
 l,:,k,oa,l,-,v,·,:,h,‥,m,a,⅃,h
 SPACE
@@ -42596,9 +42596,9 @@ y,:,h,o,w,a,◆,h
 SPACE
 w,:,l,i,$,·sh,:,m,<,w,o,r
 SPACE
-α,∵,τ,-,m,i,ц,:,w,hhfv,τ,a,y,w,(p)
+α,∵,τ,-,m,i,ц,:,w,ḥḥfv,τ,a,y,w,(p)
 SPACE
-w,:,ʕ,‥,d,:,w,hhfv,τ,a,⅃,y,w
+w,:,ʕ,‥,d,:,w,ḥḥfv,τ,a,⅃,y,w
 SPACE
 w,:,x,u,q,·,a,ƶ,y,w
 SPACE
