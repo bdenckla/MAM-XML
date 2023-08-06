@@ -2,7 +2,6 @@
     Exports
         szip
         show_time
-        show_progress
         show_progress_g
         show_progress_cv
         get_book39_tuple_from_args
@@ -30,17 +29,11 @@ def show_time(uufileuu, inner_function):
     print(datetime.timedelta(seconds=end-start))
 
 
-def show_progress(uufileuu, label, chnu):
+def show_progress_g(uufileuu, *rest):
     # label is usually some sort of book name
-    if chnu % 5 == 0:
-        show_progress_g(uufileuu, label, ' ' + str(chnu))
-
-
-def show_progress_g(uufileuu, label, cns=''):
-    # label is usually some sort of book name
-    bn_uufile_uu = os.path.basename(uufileuu)
-    pyfilename_and_bookname = bn_uufile_uu + ' ' + label
-    print(pyfilename_and_bookname + cns)
+    bn_uufileuu = os.path.basename(uufileuu)
+    bn_and_rest = ' '.join((bn_uufileuu, *rest))
+    print(bn_and_rest)
 
 
 def get_book39_tuple_from_args():
