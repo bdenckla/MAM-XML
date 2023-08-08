@@ -9790,7 +9790,7 @@ k,·,i,y,m,‥,(me),y
 SPACE
 h,_,$,·sh,·,a,m,_,(ti),y,i,m.
 SPACE
-ʕ,_,l,-,h,a,α,a,𝓂,r,∵,ц.,.
+ʕ,_,l,-,h,a,α,a,𝓂,r,∵,ц.
 START note 
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -9806,6 +9806,7 @@ v,ц,d,HPU GERSHAYIM,y
 SPACE
 g,d,w,l,h,RIGHT PARENTHESIS
 STOP note 
+.
 START spi-samekh2 
 
 Deuter 11:22 in vtrad vtsef
@@ -16679,6 +16680,7 @@ k,·,i,⅃,y
 SPACE
 y,i,q,·,a,r,‥,⅃,α
 SPACE
+q,_,n.,-,ц,i,f,·,⅃,w,o,r
 START note 
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -16693,7 +16695,6 @@ v,q,w,HPU GERSHAYIM,f.
 SPACE
 g,d,w,l,h,RIGHT PARENTHESIS
 STOP note 
-q,_,n.,-,ц,i,f,·,⅃,w,o,r
 START lp-paseq 
 l,:,f,a,n,∵,μ,y,k.,a
 SPACE

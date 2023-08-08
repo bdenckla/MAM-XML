@@ -243,7 +243,7 @@ SPACE
 SPACE
 n,i,q,·,:,v,(ti),w,·
 SPACE
-v,·,:,$,·sh,‥,m,o,𝓂,τ,.
+v,·,:,$,·sh,‥,m,o,𝓂,τ
 START note 
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -253,6 +253,7 @@ w,α,$,k,n,z
 SPACE
 v,·,:,$,·sh,‥,m,𝓂,w,o,τ,RIGHT PARENTHESIS
 STOP note 
+.
 
 Numbers 1:18 in vtrad vtbhs
 w,:,α,‥,(qa),τ
@@ -21013,7 +21014,7 @@ l,⟓,w,o
 SPACE
 α,∵,τ,-,v,·,:,r,i,y,τ,i,(ti),y
 SPACE
-$,·sh,a,l,𝓂,w,o,m.,.
+$,·sh,a,l,𝓂,w,o,m.
 START note 
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -21025,6 +21026,7 @@ w,y,HPU GERSHAYIM,w
 SPACE
 q,θ,y,ʕ,α,RIGHT PARENTHESIS
 STOP note 
+.
 
 Numbers 25:13 in vtrad vtbhs
 w,:,h,a,<,y,:,τ,a,h
