@@ -1061,12 +1061,13 @@
       <verse osisID="Deut.22.5" starts-with-sampe="samekh2" ends-with-sampe="pe2" text="לֹא־יִהְיֶ֤ה כְלִי־גֶ֙בֶר֙ עַל־אִשָּׁ֔ה וְלֹא־יִלְבַּ֥שׁ גֶּ֖בֶר שִׂמְלַ֣ת אִשָּׁ֑ה כִּ֧י תוֹעֲבַ֛ת יְהֹוָ֥ה אֱלֹהֶ֖יךָ כׇּל־עֹ֥שֵׂה אֵֽלֶּה׃" />
       <spi-pe2 />
       <verse osisID="Deut.22.6" starts-with-sampe="pe2">
-        <text text="כִּ֣י יִקָּרֵ֣א קַן־צִפּ֣וֹר" />
+        <text text="כִּ֣י יִקָּרֵ֣א " />
         <note>
           <text text="(בספרי תימן " />
           <letter-large text="קַ" />
           <text text="ן בקו״ף גדולה)" />
         </note>
+        <text text="קַן־צִפּ֣וֹר" />
         <lp-paseq />
         <text text="לְפָנֶ֡יךָ בַּדֶּ֜רֶךְ בְּכׇל־עֵ֣ץ" />
         <lp-legarmeih />
