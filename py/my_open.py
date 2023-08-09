@@ -53,10 +53,13 @@ def _tmp_path(path):
 def _std_json_dump_to_file_pointer(
     dumpable,
     out_fp,
-    indent=0, sort_keys=False
+    indent=0,
+    sort_keys=False
 ):
     json.dump(
         dumpable,
         out_fp,
-        ensure_ascii=False, indent=indent, sort_keys=sort_keys)
+        ensure_ascii=False,
+        indent=indent,
+        sort_keys=sort_keys)
     out_fp.write('\n')
