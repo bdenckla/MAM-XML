@@ -65,11 +65,11 @@ def _is_text_singleton(array):  # "array": tuple or list
 
 
 def html_el2(title_text, body_contents, css_hrefs=(), other=None):
-    other_defaults = dict(lang='en', head_style=None)
+    other_defaults = {'lang': 'en', 'head_style': None}
     if other is None:
         other = {}
     other = {**other_defaults, **other}
-    meta = hel_mk('meta', attr=dict(charset='utf-8'), noclose=True, lb2='')
+    meta = hel_mk('meta', attr={'charset': 'utf-8'}, noclose=True, lb2='')
     title = hel_mk('title', contents=(title_text,))
     links_to_css = tuple(map(_link_to_css, css_hrefs))
     if other['head_style'] is None:
@@ -80,7 +80,7 @@ def html_el2(title_text, body_contents, css_hrefs=(), other=None):
     head_cont = (meta, title) + style_els + links_to_css
     _head = hel_mk('head', contents=head_cont)
     _body = hel_mk('body', contents=body_contents)
-    return _html_el1(dict(lang=other['lang']), (_head, _body))
+    return _html_el1({'lang': other['lang']}, (_head, _body))
 
 
 def para(contents, attr=None):
@@ -198,7 +198,7 @@ def hel_get_tag(hel):
 
 
 def _link_to_css(css_href):
-    link_to_css_attr = dict(rel='stylesheet', href=css_href)
+    link_to_css_attr = {'rel': 'stylesheet', 'href': css_href}
     return hel_mk('link', attr=link_to_css_attr, noclose=True, lb2='')
 
 
