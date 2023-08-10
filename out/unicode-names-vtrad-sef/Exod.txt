@@ -24723,7 +24723,7 @@ START letter-large
 n,o
 STOP letter-large 
 ц,‥,(me),r
-START note 
+START note-on-slh-word 
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -24733,7 +24733,7 @@ SPACE
 v,n,w,HPU GERSHAYIM,n.
 SPACE
 r,g,y,l,h,RIGHT PARENTHESIS
-STOP note 
+STOP note-on-slh-word 
 SPACE
 x,∵,(p),σ,∵,d,(p)
 SPACE

@@ -2955,7 +2955,7 @@ START letter-small
 m
 STOP letter-small 
 w,o,q,:,d,a,(qa),h,‾
-START note 
+START note-on-slh-word 
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -2965,7 +2965,7 @@ SPACE
 v,m,HPU GERSHAYIM,m.
 SPACE
 r,g,y,l,h,RIGHT PARENTHESIS
-STOP note 
+STOP note-on-slh-word 
 SPACE
 ʕ,_,l,-,h,_,m,·,i,z,:,v,·,‥,<,x,_
 SPACE
