@@ -14457,11 +14457,13 @@ y,:,n,_,q,·,∵,⅄,h
 SPACE
 y,:,h,o,w,a,◆,h
 SPACE
+START slh-word 
 v,·,:
 START letter-small 
 σ
 STOP letter-small 
 w,·,f,a,<,h
+STOP slh-word 
 SPACE
 w,·,v,i,$,·si,:,ʕ,a,r,a,h,(p)
 SPACE
@@ -26538,10 +26540,12 @@ SPACE
 START spi-pe2 
 
 Malachi 3:22 in vtrad vtbhs
+START slh-word 
 START letter-large 
 z,i
 STOP letter-large 
 k,:,r,Ƶ,w,·
+STOP slh-word 
 SPACE
 τ,·,w,o,r,_,(ti),τ
 SPACE

@@ -21627,10 +21627,12 @@ v,·,_,ʕ,:_,ц,‥,y,-,y,a,⅄,ʕ,_,r
 SPACE
 n,a,θ,_,(me),ʕ
 SPACE
+START slh-word 
 α,o,(ti),r,∵
 START letter-small 
 n.
 STOP letter-small 
+STOP slh-word 
 SPACE
 w,:,g,∵,(me),$,·sh,∵,m.
 SPACE
@@ -27304,10 +27306,12 @@ v,·,_,y,·,a,𝓂,ʕ,_,r,.
 START spi-pe2 
 
 Isaiah 56:10 in vtrad vtsef
+START slh-word 
 START letter-large 
 ц,o
 STOP letter-large 
 f,a,(G),w
+STOP slh-word 
 SPACE
 ʕ,i,w,:,r,i,<,y,m.
 SPACE

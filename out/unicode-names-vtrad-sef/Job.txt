@@ -2569,11 +2569,13 @@ r,i,(de),m,·,a,h
 SPACE
 START kq 
 START kq-k 
+START slh-word 
 w
 START letter-small 
 g
 STOP letter-small 
 y,$
+STOP slh-word 
 STOP kq-k 
 START kq-q 
 w,:,g,⅃,w,·,$,·sh
@@ -3551,11 +3553,13 @@ y,a,σ,‥,⅃,r
 SPACE
 m,‥,ʕ,a,l,_,⅃,y
 SPACE
+START slh-word 
 $,·sh,i,v,:
 START letter-large 
 θ,⅄
 STOP letter-large 
 w,o
+STOP slh-word 
 SPACE
 w,:,γ,α,‥,m,a,τ,◆,w,o
 SPACE
@@ -5929,10 +5933,12 @@ m,:,r,‥,r,a,τ,i,𝓂,y,.
 Job 16:14 in vtrad vtsef
 y,i,f,:,r,:,ц,‥,⅃,n,i,y
 SPACE
+START slh-word 
 f,∵,(de),r,∵
 START letter-small 
 ц.
 STOP letter-small 
+STOP slh-word 
 SPACE
 ʕ,_,l,-,f,·,:,n,‥,y,-,f,a,⅄,r,∵,ц.
 SPACE
@@ -11647,10 +11653,12 @@ v,·,:,𝓂,l,i,(ol),y
 START implicit-maqaf 
 f,a,(me),$,·sh,_,ʕ
 SPACE
+START slh-word 
 START letter-small 
 x,_,(me)
 STOP letter-small 
 f.
+STOP slh-word 
 SPACE
 α,a,n,o,k,i,⅄,y
 SPACE
@@ -13703,11 +13711,13 @@ h,a,α,a,⅄,r,∵,ц.
 SPACE
 w,:,y,i,n,·,a,ʕ,:_,r,(ti),w,·
 SPACE
+START slh-word 
 r,:,$,·sh,a
 START letter-hung 
 ʕ,i,⅃
 STOP letter-hung 
 y,m.
+STOP slh-word 
 SPACE
 m,i,m,·,∵,𝓂,n,·,a,h,.
 
@@ -13727,11 +13737,13 @@ l,:,v,𝓂,w,·,$,·sh,.
 Job 38:15 in vtrad vtsef
 w,:,y,i,m,·,a,n,_,⅃,ʕ
 SPACE
+START slh-word 
 m,‥,r,:,$,·sh,a
 START letter-hung 
 ʕ,i,⅃
 STOP letter-hung 
 y,m.
+STOP slh-word 
 SPACE
 α,w,o,r,a,⅄,m.
 SPACE

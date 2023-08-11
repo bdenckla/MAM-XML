@@ -368,10 +368,12 @@ z,w,o,l,‥,l,a,𝓂,h,.
 START spi-samekh2 
 
 Lamentations 1:12 in vtrad vtsef
+START slh-word 
 START letter-small 
 l,⅃
 STOP letter-small 
 w,o,α
+STOP slh-word 
 SPACE
 α,:_,l,‥,y,k,∵,m.,~
 SPACE
@@ -987,10 +989,12 @@ SPACE
 START spi-samekh2 
 
 Lamentations 2:9 in vtrad vtsef
+START slh-word 
 START letter-small 
 θ,a
 STOP letter-small 
 v,:,ʕ,<,w,·
+STOP slh-word 
 SPACE
 v,a,α,a,(p),r,∵,ц.,(p)
 SPACE
@@ -1917,11 +1921,13 @@ SPACE
 START spi-samekh3 
 
 Lamentations 3:36 in vtrad vtsef
+START slh-word 
 l,:
 START letter-small 
 ʕ,_
 STOP letter-small 
 w,·,‥,<,τ
+STOP slh-word 
 SPACE
 α,a,d,a,m.,(p)
 SPACE

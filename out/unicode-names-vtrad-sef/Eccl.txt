@@ -2816,10 +2816,12 @@ SPACE
 h,_,$,·sh,·,a,𝓂,m,∵,$,·sh,.
 
 Ecclesiastes 7:1 in vtrad vtsef
+START slh-word 
 START letter-large 
 θ,(me)
 STOP letter-large 
 w,o,v
+STOP slh-word 
 SPACE
 $,·sh,‥,(ti),m.
 SPACE
@@ -5428,10 +5430,12 @@ SPACE
 v,·,a,$,·si,a,𝓂,r,.
 
 Ecclesiastes 12:13 in vtrad vtsef
+START slh-word 
 START letter-large 
 σ,(me)
 STOP letter-large 
 w,o,f.
+STOP slh-word 
 SPACE
 d,·,a,v,a,(ti),r
 SPACE

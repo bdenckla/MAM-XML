@@ -1,9 +1,11 @@
 unicode_names Song
 Song of Songs 1:1 in vtrad vtbhs
+START slh-word 
 START letter-large 
 $,·sh,i,(me)
 STOP letter-large 
 y,r
+STOP slh-word 
 SPACE
 h,_,$,·sh,·,i,y,r,i,(ti),y,m.
 SPACE

@@ -5950,10 +5950,12 @@ w,·,d,:,v,a,𝓂,$,·sh,.
 START spi-pe2 
 
 Deuter 6:4 in vtrad vtbhs
+START slh-word 
 $,·sh,:,m,_,(ti)
 START letter-large 
 ʕ
 STOP letter-large 
+STOP slh-word 
 SPACE
 y,i,$,·si,:,r,a,α,‥,⅄,l
 SPACE
@@ -5963,10 +5965,12 @@ SPACE
 SPACE
 y,:,h,o,w,a,(me),h
 START lp-paseq 
+START slh-word 
 α,∵,x,a,𝓂
 START letter-large 
 d
 STOP letter-large 
+STOP slh-word 
 .
 
 Deuter 6:5 in vtrad vtbhs
@@ -9792,11 +9796,13 @@ LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
 SPACE
+START slh-word 
 h,a,α,a,𝓂,r,∵
 START letter-large 
 ц.
 STOP letter-large 
 .
+STOP slh-word 
 SPACE
 v,ц,d,HPU GERSHAYIM,y
 SPACE
@@ -16681,10 +16687,12 @@ LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
 SPACE
+START slh-word 
 START letter-large 
 q,_
 STOP letter-large 
 n.
+STOP slh-word 
 SPACE
 v,q,w,HPU GERSHAYIM,f.
 SPACE
@@ -22858,11 +22866,13 @@ w,·,v,:,q,∵,⅃,ц,∵,f.
 SPACE
 g,·,a,d,⅄,w,o,l
 SPACE
+START slh-word 
 w,_,y,·,_,$,·sh,:
 START letter-large 
 l,i
 STOP letter-large 
 k,‥,⟓,m.
+STOP slh-word 
 SPACE
 α,∵,l,-,α,∵,(me),r,∵,ц.
 SPACE
@@ -24546,9 +24556,11 @@ SPACE
 w,·,f,:,τ,_,l,:,τ,·,o,𝓂,l,.
 
 Deuter 32:6 in vtrad vtbhs
+START slh-word 
 START letter-large 
 h,_
 STOP letter-large 
+STOP slh-word 
 SPACE
 l,:,y,:,h,o,w,a,h,(p)
 START note 
@@ -24556,10 +24568,12 @@ LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
 SPACE
+START slh-word 
 START letter-large 
 h,_,𝓂
 STOP letter-large 
 l,:,y,h,o,w,a,h,(p)
+STOP slh-word 
 SPACE
 v,τ,y,v,h
 SPACE
@@ -24844,10 +24858,12 @@ Deuter 32:18 in vtrad vtbhs
 SPACE
 y,:,l,a,d,:,k.,a,(ti)
 SPACE
+START slh-word 
 τ,·,∵,⅄,$,·sh,i
 START letter-small 
 y
 STOP letter-small 
+STOP slh-word 
 SPACE
 w,_,τ,·,i,$,·sh,:,k,·,_,(ti),x
 SPACE
@@ -26289,10 +26305,12 @@ LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
 SPACE
+START slh-word 
 START letter-large 
 α,_
 STOP letter-large 
 $,·sh,:,r,∵,(qa),y,k.,a
+STOP slh-word 
 SPACE
 v,α,l,HPU GERSHAYIM,f.
 SPACE

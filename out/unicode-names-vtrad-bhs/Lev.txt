@@ -1,9 +1,11 @@
 unicode_names Lev
 Levit 1:1 in vtrad vtbhs
+START slh-word 
 w,_,y,·,i,q,:,r,a,(ti)
 START letter-small 
 α
 STOP letter-small 
+STOP slh-word 
 SPACE
 α,∵,l,-,m,o,$,·sh,∵,⅄,h
 SPACE
@@ -7333,11 +7335,13 @@ k,·,o,l,(tq)
 SPACE
 h,w,o,l,‥,(qa),k.,:
 SPACE
+START slh-word 
 ʕ,_,l,-,g,·,a,x,(ge)
 START letter-large 
 w,o
 STOP letter-large 
 n.
+STOP slh-word 
 SPACE
 w,:,k,o,⅃,l
 START lp-legarmeih 
@@ -8593,11 +8597,13 @@ SPACE
 m,i,n.,-,h,a,ʕ,𝓂,w,o,r,.
 
 Levit 13:33 in vtrad vtbhs
+START slh-word 
 w,:,h,i,(qa),τ,:
 START letter-large 
 g,·,_
 STOP letter-large 
 l,·,a,ƶ,x
+STOP slh-word 
 SPACE
 w,:,α,∵,τ,-,h,_,n,·,∵,(ti),τ,∵,q
 SPACE

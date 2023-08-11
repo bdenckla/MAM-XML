@@ -41609,11 +41609,13 @@ w,_,y,·,_,μ,k.,:
 SPACE
 α,∵,l,:,x,a,n,a,n.,(tq)
 SPACE
+START slh-word 
 v,·,∵,n.,-,y,_,ʕ,:
 START letter-small 
 r,‥,(qa)
 STOP letter-small 
 y
+STOP slh-word 
 SPACE
 α,o,r,:,g,i,(ge),y,m.
 SPACE

@@ -24947,10 +24947,12 @@ SPACE
 SPACE
 l,:,α,‥,⅃,l
 SPACE
+START slh-word 
 α,_,x,‥,⅄
 START letter-large 
 r
 STOP letter-large 
+STOP slh-word 
 SPACE
 k,·,i,<,y
 SPACE

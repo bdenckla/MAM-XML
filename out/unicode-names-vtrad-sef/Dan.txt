@@ -6714,6 +6714,7 @@ v,·,‥,α,d,_,⅃,y,i,n.
 SPACE
 m,_,l,:,k,·,a,ƶ,α
 SPACE
+START slh-word 
 v,·,i,$,·sh,:
 START letter-small 
 f,·,_
@@ -6723,6 +6724,7 @@ START letter-large
 f,·,a
 STOP letter-large 
 r,a,(ti),α
+STOP slh-word 
 SPACE
 y,:,q,⅃,w,·,m.
 SPACE

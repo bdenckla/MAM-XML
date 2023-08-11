@@ -2,8 +2,11 @@
   <book39 osisID="Prov">
     <chapter osisID="Prov.1">
       <verse osisID="Prov.1.1">
-        <letter-large text="מִ֭" />
-        <text text="שְׁלֵי שְׁלֹמֹ֣ה בֶן־דָּוִ֑ד מֶ֝֗לֶךְ יִשְׂרָאֵֽל׃" />
+        <slh-word>
+          <letter-large text="מִ֭" />
+          <text text="שְׁלֵי" />
+        </slh-word>
+        <text text=" שְׁלֹמֹ֣ה בֶן־דָּוִ֑ד מֶ֝֗לֶךְ יִשְׂרָאֵֽל׃" />
       </verse>
       <verse osisID="Prov.1.2" text="לָדַ֣עַת חׇכְמָ֣ה וּמוּסָ֑ר לְ֝הָבִ֗ין אִמְרֵ֥י בִינָֽה׃" />
       <verse osisID="Prov.1.3" text="לָ֭קַחַת מוּסַ֣ר הַשְׂכֵּ֑ל צֶ֥דֶק וּ֝מִשְׁפָּ֗ט וּמֵשָׁרִֽים׃" />
@@ -1490,9 +1493,12 @@
       </verse>
       <spi-pe2 />
       <verse osisID="Prov.28.17" starts-with-sampe="pe2">
-        <text text="אָ֭" />
-        <letter-small text="דָ" />
-        <text text="ם עָשֻׁ֣ק בְּדַם־נָ֑פֶשׁ עַד־בּ֥וֹר יָ֝נ֗וּס אַל־יִתְמְכוּ־בֽוֹ׃" />
+        <slh-word>
+          <text text="אָ֭" />
+          <letter-small text="דָ" />
+          <text text="ם" />
+        </slh-word>
+        <text text=" עָשֻׁ֣ק בְּדַם־נָ֑פֶשׁ עַד־בּ֥וֹר יָ֝נ֗וּס אַל־יִתְמְכוּ־בֽוֹ׃" />
       </verse>
       <verse osisID="Prov.28.18" text="הוֹלֵ֣ךְ תָּ֭מִים יִוָּשֵׁ֑עַ וְנֶעְקַ֥שׁ דְּ֝רָכַ֗יִם יִפּ֥וֹל בְּאֶחָֽת׃" />
       <verse osisID="Prov.28.19" text="עֹבֵ֣ד אַ֭דְמָתוֹ יִֽשְׂבַּֽע־לָ֑חֶם וּמְרַדֵּ֥ף רֵ֝יקִ֗ים יִֽשְׂבַּֽע־רִֽישׁ׃" />
@@ -1586,10 +1592,14 @@
       <verse osisID="Prov.30.15" starts-with-sampe="pe2">
         <text text="לַ֥עֲלוּקָ֨ה" />
         <lp-legarmeih />
-        <text text=" שְׁתֵּ֥י בָנוֹת֮ הַ֤" />
-        <letter-small text="ב" />
-        <lp-legarmeih />
-        <text text=" הַ֥֫ב שָׁל֣וֹשׁ הֵ֭נָּה לֹ֣א תִשְׂבַּ֑עְנָה אַ֝רְבַּ֗ע לֹא־אָ֥מְרוּ הֽוֹן׃" />
+        <text text=" שְׁתֵּ֥י בָנוֹת֮ " />
+        <slh-word>
+          <text text="הַ֤" />
+          <letter-small text="ב" />
+          <lp-legarmeih />
+          <text text=" " />
+        </slh-word>
+        <text text="הַ֥֫ב שָׁל֣וֹשׁ הֵ֭נָּה לֹ֣א תִשְׂבַּ֑עְנָה אַ֝רְבַּ֗ע לֹא־אָ֥מְרוּ הֽוֹן׃" />
       </verse>
       <verse osisID="Prov.30.16" text="שְׁאוֹל֮ וְעֹ֢צֶ֫ר רָ֥חַם אֶ֭רֶץ לֹא־שָׂ֣בְעָה מַּ֑יִם וְ֝אֵ֗שׁ לֹא־אָ֥מְרָה הֽוֹן׃" />
       <verse osisID="Prov.30.17" ends-with-sampe="pe2">

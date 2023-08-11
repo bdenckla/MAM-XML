@@ -1626,11 +1626,13 @@ SPACE
 m,i,m,·,∵,𝓂,n,·,i,y,.
 
 Ruth 3:13 in vtrad vtbhs
+START slh-word 
 l,i,⅃,y
 START letter-large 
 n,i
 STOP letter-large 
 y
+STOP slh-word 
 START lp-legarmeih 
 SPACE
 h,_,l,·,_,◆,y,:,l,a,h

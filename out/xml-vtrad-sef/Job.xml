@@ -267,9 +267,11 @@
         <text text="לָ֘בַ֤שׁ בְּשָׂרִ֣י רִ֭מָּה " />
         <kq>
           <kq-k>
-            <text text="ו" />
-            <letter-small text="ג" />
-            <text text="יש" />
+            <slh-word>
+              <text text="ו" />
+              <letter-small text="ג" />
+              <text text="יש" />
+            </slh-word>
           </kq-k>
           <kq-q text="וְג֣וּשׁ" />
         </kq>
@@ -376,9 +378,13 @@
       <verse osisID="Job.9.32" text="כִּֽי־לֹא־אִ֣ישׁ כָּמ֣וֹנִי אֶעֱנֶ֑נּוּ נָב֥וֹא יַ֝חְדָּ֗ו בַּמִּשְׁפָּֽט׃" />
       <verse osisID="Job.9.33" text="לֹ֣א יֵשׁ־בֵּינֵ֣ינוּ מוֹכִ֑יחַ יָשֵׁ֖ת יָד֣וֹ עַל־שְׁנֵֽינוּ׃" />
       <verse osisID="Job.9.34">
-        <text text="יָסֵ֣ר מֵעָלַ֣י שִׁבְ" />
-        <letter-large text="ט֑" />
-        <text text="וֹ וְ֝אֵמָת֗וֹ אַֽל־תְּבַעֲתַֽנִּי׃" />
+        <text text="יָסֵ֣ר מֵעָלַ֣י " />
+        <slh-word>
+          <text text="שִׁבְ" />
+          <letter-large text="ט֑" />
+          <text text="וֹ" />
+        </slh-word>
+        <text text=" וְ֝אֵמָת֗וֹ אַֽל־תְּבַעֲתַֽנִּי׃" />
       </verse>
       <verse osisID="Job.9.35" text="אֲֽ֭דַבְּרָה וְלֹ֣א אִירָאֶ֑נּוּ כִּ֥י לֹא־כֵ֥ן אָ֝נֹכִ֗י עִמָּדִֽי׃" />
     </chapter>
@@ -681,8 +687,11 @@
         <text text=" רַבָּ֗יו יְפַלַּ֣ח כִּ֭לְיוֹתַי וְלֹ֣א יַחְמֹ֑ל יִשְׁפֹּ֥ךְ לָ֝אָ֗רֶץ מְרֵרָתִֽי׃" />
       </verse>
       <verse osisID="Job.16.14">
-        <text text="יִפְרְצֵ֣נִי פֶ֭רֶ" />
-        <letter-small text="ץ" />
+        <text text="יִפְרְצֵ֣נִי " />
+        <slh-word>
+          <text text="פֶ֭רֶ" />
+          <letter-small text="ץ" />
+        </slh-word>
         <text text=" עַל־פְּנֵי־פָ֑רֶץ יָרֻ֖ץ עָלַ֣י כְּגִבּֽוֹר׃" />
       </verse>
       <verse osisID="Job.16.15" text="שַׂ֣ק תָּ֭פַרְתִּי עֲלֵ֣י גִלְדִּ֑י וְעֹלַ֖לְתִּי בֶעָפָ֣ר קַרְנִֽי׃" />
@@ -1356,8 +1365,11 @@
         <text text="זַ֥ךְ אֲנִ֗י בְּֽלִ֫י" />
         <implicit-maqaf />
         <text text="פָ֥שַׁע " />
-        <letter-small text="חַ֥" />
-        <text text="ף אָנֹכִ֑י וְלֹ֖א עָוֺ֣ן לִֽי׃" />
+        <slh-word>
+          <letter-small text="חַ֥" />
+          <text text="ף" />
+        </slh-word>
+        <text text=" אָנֹכִ֑י וְלֹ֖א עָוֺ֣ן לִֽי׃" />
       </verse>
       <verse osisID="Job.33.10" text="הֵ֣ן תְּ֭נוּאוֹת עָלַ֣י יִמְצָ֑א יַחְשְׁבֵ֖נִי לְאוֹיֵ֣ב לֽוֹ׃" />
       <verse osisID="Job.33.11" text="יָשֵׂ֣ם בַּסַּ֣ד רַגְלָ֑י יִ֝שְׁמֹ֗ר כׇּל־אׇרְחֹתָֽי׃" />
@@ -1644,15 +1656,23 @@
         <text text=" מְקֹמֽוֹ׃" />
       </verse>
       <verse osisID="Job.38.13">
-        <text text="לֶ֭אֱחֹז בְּכַנְפ֣וֹת הָאָ֑רֶץ וְיִנָּעֲר֖וּ רְשָׁ" />
-        <letter-hung text="עִ֣" />
-        <text text="ים מִמֶּֽנָּה׃" />
+        <text text="לֶ֭אֱחֹז בְּכַנְפ֣וֹת הָאָ֑רֶץ וְיִנָּעֲר֖וּ " />
+        <slh-word>
+          <text text="רְשָׁ" />
+          <letter-hung text="עִ֣" />
+          <text text="ים" />
+        </slh-word>
+        <text text=" מִמֶּֽנָּה׃" />
       </verse>
       <verse osisID="Job.38.14" text="תִּ֭תְהַפֵּךְ כְּחֹ֣מֶר חוֹתָ֑ם וְ֝יִֽתְיַצְּב֗וּ כְּמ֣וֹ לְבֽוּשׁ׃" />
       <verse osisID="Job.38.15">
-        <text text="וְיִמָּנַ֣ע מֵרְשָׁ" />
-        <letter-hung text="עִ֣" />
-        <text text="ים אוֹרָ֑ם וּזְר֥וֹעַ רָ֝מָ֗ה תִּשָּׁבֵֽר׃" />
+        <text text="וְיִמָּנַ֣ע " />
+        <slh-word>
+          <text text="מֵרְשָׁ" />
+          <letter-hung text="עִ֣" />
+          <text text="ים" />
+        </slh-word>
+        <text text=" אוֹרָ֑ם וּזְר֥וֹעַ רָ֝מָ֗ה תִּשָּׁבֵֽר׃" />
       </verse>
       <verse osisID="Job.38.16" text="הֲ֭בָאתָ עַד־נִבְכֵי־יָ֑ם וּבְחֵ֥קֶר תְּ֝ה֗וֹם הִתְהַלָּֽכְתָּ׃" />
       <verse osisID="Job.38.17" text="הֲנִגְל֣וּ לְ֭ךָ שַׁעֲרֵי־מָ֑וֶת וְשַׁעֲרֵ֖י צַלְמָ֣וֶת תִּרְאֶֽה׃" />

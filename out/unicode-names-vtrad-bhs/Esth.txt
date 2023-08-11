@@ -142,10 +142,12 @@ SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
 Esther 1:6 in vtrad vtbhs
+START slh-word 
 START letter-large 
 x,⅃
 STOP letter-large 
 w,·,r
+STOP slh-word 
 START lp-legarmeih 
 SPACE
 k,·,_,r,:,f,·,_,⅃,σ
@@ -4592,11 +4594,13 @@ START shirah-space
 Esther 9:7 in vtrad vtbhs
 w,:,α,‥,(da),τ
 START lp-paseq 
+START slh-word 
 f,·,_,r,:,$,·sh,_,n,:,d,·,a,⟓
 START letter-small 
 τ,a
 STOP letter-small 
 α
+STOP slh-word 
 START shirah-space 
 w,:,α,‥,(me),τ
 START lp-paseq 
@@ -4624,11 +4628,13 @@ START shirah-space
 Esther 9:9 in vtrad vtbhs
 w,:,α,‥,<,τ
 START lp-paseq 
+START slh-word 
 f,·,_,r,:,m,_,(p)
 START letter-small 
 $,·sh,:
 STOP letter-small 
 τ,·,a,α,(p)
+STOP slh-word 
 START shirah-space 
 w,:,α,‥,⅃,τ
 START lp-paseq 
@@ -4655,6 +4661,7 @@ STOP note
 START shirah-space 
 w,:,α,‥,(me),τ
 START lp-paseq 
+START slh-word 
 START letter-large 
 w,_
 STOP letter-large 
@@ -4662,7 +4669,9 @@ y,:
 START letter-small 
 z,a,𝓂
 STOP letter-small 
-τ,a,α,.
+τ,a,α
+STOP slh-word 
+.
 START shirah-space 
 
 Esther 9:10 in vtrad vtbhs
@@ -5344,11 +5353,13 @@ m,i,z,·,_,r,:,ʕ,a,𝓂,m.,.
 START spi-samekh2 
 
 Esther 9:29 in vtrad vtbhs
+START slh-word 
 w,_,⌕
 START letter-large 
 τ,·,i
 STOP letter-large 
 k,:,τ,·,o,⌕,v
+STOP slh-word 
 SPACE
 α,∵,σ,:,τ,·,‥,(qa),r
 SPACE

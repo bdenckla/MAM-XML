@@ -42,8 +42,11 @@
       </verse>
       <spi-samekh2 />
       <verse osisID="Lam.1.12" starts-with-sampe="samekh2" ends-with-sampe="samekh2">
-        <letter-small text="ל֣" />
-        <text text="וֹא אֲלֵיכֶם֮ כׇּל־עֹ֣בְרֵי דֶ֒רֶךְ֒ הַבִּ֣יטוּ וּרְא֔וּ אִם־יֵ֤שׁ מַכְאוֹב֙ כְּמַכְאֹבִ֔י אֲשֶׁ֥ר עוֹלַ֖ל לִ֑י אֲשֶׁר֙ הוֹגָ֣ה יְהֹוָ֔ה בְּי֖וֹם חֲר֥וֹן אַפּֽוֹ׃" />
+        <slh-word>
+          <letter-small text="ל֣" />
+          <text text="וֹא" />
+        </slh-word>
+        <text text=" אֲלֵיכֶם֮ כׇּל־עֹ֣בְרֵי דֶ֒רֶךְ֒ הַבִּ֣יטוּ וּרְא֔וּ אִם־יֵ֤שׁ מַכְאוֹב֙ כְּמַכְאֹבִ֔י אֲשֶׁ֥ר עוֹלַ֖ל לִ֑י אֲשֶׁר֙ הוֹגָ֣ה יְהֹוָ֔ה בְּי֖וֹם חֲר֥וֹן אַפּֽוֹ׃" />
       </verse>
       <spi-samekh2 />
       <verse osisID="Lam.1.13" starts-with-sampe="samekh2" ends-with-sampe="samekh2" text="מִמָּר֛וֹם שָֽׁלַח־אֵ֥שׁ בְּעַצְמֹתַ֖י וַיִּרְדֶּ֑נָּה פָּרַ֨שׂ רֶ֤שֶׁת לְרַגְלַי֙ הֱשִׁיבַ֣נִי אָח֔וֹר נְתָנַ֙נִי֙ שֹֽׁמֵמָ֔ה כׇּל־הַיּ֖וֹם דָּוָֽה׃" />
@@ -129,8 +132,11 @@
       </verse>
       <spi-samekh2 />
       <verse osisID="Lam.2.9" starts-with-sampe="samekh2" ends-with-sampe="samekh2">
-        <letter-small text="טָ" />
-        <text text="בְע֤וּ בָאָ֙רֶץ֙ שְׁעָרֶ֔יהָ אִבַּ֥ד וְשִׁבַּ֖ר בְּרִיחֶ֑יהָ מַלְכָּ֨הּ וְשָׂרֶ֤יהָ בַגּוֹיִם֙ אֵ֣ין תּוֹרָ֔ה גַּם־נְבִיאֶ֕יהָ לֹא־מָצְא֥וּ חָז֖וֹן מֵיְהֹוָֽה׃" />
+        <slh-word>
+          <letter-small text="טָ" />
+          <text text="בְע֤וּ" />
+        </slh-word>
+        <text text=" בָאָ֙רֶץ֙ שְׁעָרֶ֔יהָ אִבַּ֥ד וְשִׁבַּ֖ר בְּרִיחֶ֑יהָ מַלְכָּ֨הּ וְשָׂרֶ֤יהָ בַגּוֹיִם֙ אֵ֣ין תּוֹרָ֔ה גַּם־נְבִיאֶ֕יהָ לֹא־מָצְא֥וּ חָז֖וֹן מֵיְהֹוָֽה׃" />
       </verse>
       <spi-samekh2 />
       <verse osisID="Lam.2.10" starts-with-sampe="samekh2" ends-with-sampe="samekh2" text="יֵשְׁב֨וּ לָאָ֤רֶץ יִדְּמוּ֙ זִקְנֵ֣י בַת־צִיּ֔וֹן הֶֽעֱל֤וּ עָפָר֙ עַל־רֹאשָׁ֔ם חָגְר֖וּ שַׂקִּ֑ים הוֹרִ֤ידוּ לָאָ֙רֶץ֙ רֹאשָׁ֔ן בְּתוּלֹ֖ת יְרוּשָׁלָֽ͏ִם׃" />
@@ -262,9 +268,12 @@
       <verse osisID="Lam.3.35" starts-with-sampe="samekh3" ends-with-sampe="samekh3" text="לְהַטּוֹת֙ מִשְׁפַּט־גָּ֔בֶר נֶ֖גֶד פְּנֵ֥י עֶלְיֽוֹן׃" />
       <spi-samekh3 />
       <verse osisID="Lam.3.36" starts-with-sampe="samekh3" ends-with-sampe="samekh2">
-        <text text="לְ" />
-        <letter-small text="עַ" />
-        <text text="וֵּ֤ת אָדָם֙ בְּרִיב֔וֹ אֲדֹנָ֖י לֹ֥א רָאָֽה׃" />
+        <slh-word>
+          <text text="לְ" />
+          <letter-small text="עַ" />
+          <text text="וֵּ֤ת" />
+        </slh-word>
+        <text text=" אָדָם֙ בְּרִיב֔וֹ אֲדֹנָ֖י לֹ֥א רָאָֽה׃" />
       </verse>
       <spi-samekh2 />
       <verse osisID="Lam.3.37" starts-with-sampe="samekh2" ends-with-sampe="samekh3" text="מִ֣י זֶ֤ה אָמַר֙ וַתֶּ֔הִי אֲדֹנָ֖י לֹ֥א צִוָּֽה׃" />

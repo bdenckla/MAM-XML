@@ -434,12 +434,16 @@
       <verse osisID="Deut.6.3" ends-with-sampe="pe2" text="וְשָׁמַעְתָּ֤ יִשְׂרָאֵל֙ וְשָׁמַרְתָּ֣ לַעֲשׂ֔וֹת אֲשֶׁר֙ יִיטַ֣ב לְךָ֔ וַאֲשֶׁ֥ר תִּרְבּ֖וּן מְאֹ֑ד כַּאֲשֶׁר֩ דִּבֶּ֨ר יְהֹוָ֜ה אֱלֹהֵ֤י אֲבֹתֶ֙יךָ֙ לָ֔ךְ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב וּדְבָֽשׁ׃" />
       <spi-pe2 />
       <verse osisID="Deut.6.4" starts-with-sampe="pe2">
-        <text text="שְׁמַ֖" />
-        <letter-large text="ע" />
+        <slh-word>
+          <text text="שְׁמַ֖" />
+          <letter-large text="ע" />
+        </slh-word>
         <text text=" יִשְׂרָאֵ֑ל יְהֹוָ֥ה אֱלֹהֵ֖ינוּ יְהֹוָ֥ה" />
         <lp-paseq />
-        <text text="אֶחָֽ" />
-        <letter-large text="ד" />
+        <slh-word>
+          <text text="אֶחָֽ" />
+          <letter-large text="ד" />
+        </slh-word>
         <text text="׃" />
       </verse>
       <verse osisID="Deut.6.5" text="וְאָ֣הַבְתָּ֔ אֵ֖ת יְהֹוָ֣ה אֱלֹהֶ֑יךָ בְּכׇל־לְבָבְךָ֥ וּבְכׇל־נַפְשְׁךָ֖ וּבְכׇל־מְאֹדֶֽךָ׃" />
@@ -666,9 +670,13 @@
       <verse osisID="Deut.11.21" ends-with-sampe="samekh2">
         <text text="לְמַ֨עַן יִרְבּ֤וּ יְמֵיכֶם֙ וִימֵ֣י בְנֵיכֶ֔ם עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁ֨ר נִשְׁבַּ֧ע יְהֹוָ֛ה לַאֲבֹתֵיכֶ֖ם לָתֵ֣ת לָהֶ֑ם כִּימֵ֥י הַשָּׁמַ֖יִם עַל־הָאָֽרֶץ" />
         <note>
-          <text text="(בספרי תימן הָאָֽרֶ" />
-          <letter-large text="ץ" />
-          <text text="׃ בצד״י גדולה)" />
+          <text text="(בספרי תימן " />
+          <slh-word>
+            <text text="הָאָֽרֶ" />
+            <letter-large text="ץ" />
+            <text text="׃" />
+          </slh-word>
+          <text text=" בצד״י גדולה)" />
         </note>
         <text text="׃" />
       </verse>
@@ -1060,8 +1068,11 @@
         <text text="כִּ֣י יִקָּרֵ֣א " />
         <note>
           <text text="(בספרי תימן " />
-          <letter-large text="קַ" />
-          <text text="ן בקו״ף גדולה)" />
+          <slh-word>
+            <letter-large text="קַ" />
+            <text text="ן" />
+          </slh-word>
+          <text text=" בקו״ף גדולה)" />
         </note>
         <text text="קַן־צִפּ֣וֹר" />
         <lp-paseq />
@@ -1509,9 +1520,13 @@
       <verse osisID="Deut.29.25" text="וַיֵּלְכ֗וּ וַיַּֽעַבְדוּ֙ אֱלֹהִ֣ים אֲחֵרִ֔ים וַיִּֽשְׁתַּחֲו֖וּ לָהֶ֑ם אֱלֹהִים֙ אֲשֶׁ֣ר לֹֽא־יְדָע֔וּם וְלֹ֥א חָלַ֖ק לָהֶֽם׃" />
       <verse osisID="Deut.29.26" text="וַיִּחַר־אַ֥ף יְהֹוָ֖ה בָּאָ֣רֶץ הַהִ֑וא לְהָבִ֤יא עָלֶ֙יהָ֙ אֶת־כׇּל־הַקְּלָלָ֔ה הַכְּתוּבָ֖ה בַּסֵּ֥פֶר הַזֶּֽה׃" />
       <verse osisID="Deut.29.27">
-        <text text="וַיִּתְּשֵׁ֤ם יְהֹוָה֙ מֵעַ֣ל אַדְמָתָ֔ם בְּאַ֥ף וּבְחֵמָ֖ה וּבְקֶ֣צֶף גָּד֑וֹל וַיַּשְׁ" />
-        <letter-large text="לִ" />
-        <text text="כֵ֛ם אֶל־אֶ֥רֶץ אַחֶ֖רֶת כַּיּ֥וֹם הַזֶּֽה׃" />
+        <text text="וַיִּתְּשֵׁ֤ם יְהֹוָה֙ מֵעַ֣ל אַדְמָתָ֔ם בְּאַ֥ף וּבְחֵמָ֖ה וּבְקֶ֣צֶף גָּד֑וֹל " />
+        <slh-word>
+          <text text="וַיַּשְׁ" />
+          <letter-large text="לִ" />
+          <text text="כֵ֛ם" />
+        </slh-word>
+        <text text=" אֶל־אֶ֥רֶץ אַחֶ֖רֶת כַּיּ֥וֹם הַזֶּֽה׃" />
       </verse>
       <verse osisID="Deut.29.28" ends-with-sampe="samekh2" text="הַנִּ֨סְתָּרֹ֔ת לַיהֹוָ֖ה אֱלֹהֵ֑ינוּ וְהַנִּגְלֹ֞ת לָ֤ׄנׄוּׄ וּׄלְׄבָׄנֵ֙ׄיׄנׄוּ֙ׄ עַׄד־עוֹלָ֔ם לַעֲשׂ֕וֹת אֶת־כׇּל־דִּבְרֵ֖י הַתּוֹרָ֥ה הַזֹּֽאת׃" />
     </chapter>
@@ -1643,12 +1658,17 @@
         <text text="דּ֥וֹר עִקֵּ֖שׁ וּפְתַלְתֹּֽל׃" />
       </verse>
       <verse osisID="Deut.32.6">
-        <letter-large text="הַ" />
+        <slh-word>
+          <letter-large text="הַ" />
+        </slh-word>
         <text text=" לְיְהֹוָה֙" />
         <note>
           <text text="(בספרי תימן " />
-          <letter-large text="הַֽ" />
-          <text text="לְיהֹוָה֙ בתיבה אחת)" />
+          <slh-word>
+            <letter-large text="הַֽ" />
+            <text text="לְיהֹוָה֙" />
+          </slh-word>
+          <text text=" בתיבה אחת)" />
         </note>
         <text text=" תִּגְמְלוּ־זֹ֔את" />
         <shirah-space />
@@ -1727,8 +1747,11 @@
         <shirah-space />
       </verse>
       <verse osisID="Deut.32.18">
-        <text text="צ֥וּר יְלָדְךָ֖ תֶּ֑שִׁ" />
-        <letter-small text="י" />
+        <text text="צ֥וּר יְלָדְךָ֖ " />
+        <slh-word>
+          <text text="תֶּ֑שִׁ" />
+          <letter-small text="י" />
+        </slh-word>
         <text text=" וַתִּשְׁכַּ֖ח אֵ֥ל מְחֹלְלֶֽךָ׃" />
         <shirah-space />
       </verse>
@@ -1932,8 +1955,11 @@
         <text text="אַשְׁרֶ֨יךָ" />
         <note>
           <text text="(בספרי תימן " />
-          <letter-large text="אַ" />
-          <text text="שְׁרֶ֨יךָ באל״ף גדולה)" />
+          <slh-word>
+            <letter-large text="אַ" />
+            <text text="שְׁרֶ֨יךָ" />
+          </slh-word>
+          <text text=" באל״ף גדולה)" />
         </note>
         <text text=" יִשְׂרָאֵ֜ל מִ֣י כָמ֗וֹךָ עַ֚ם נוֹשַׁ֣ע בַּֽיהֹוָ֔ה מָגֵ֣ן עֶזְרֶ֔ךָ וַאֲשֶׁר־חֶ֖רֶב גַּאֲוָתֶ֑ךָ וְיִכָּחֲשׁ֤וּ אֹיְבֶ֙יךָ֙ לָ֔ךְ וְאַתָּ֖ה עַל־בָּמוֹתֵ֥ימוֹ תִדְרֹֽךְ׃" />
       </verse>

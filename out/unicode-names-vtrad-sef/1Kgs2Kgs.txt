@@ -38318,10 +38318,12 @@ w,:,h,a,ʕ,_,w,·,i,⟓,y,m.
 SPACE
 ʕ,a,$,·si,(me),w,·
 SPACE
+START slh-word 
 n,i,v,:,x,_,(ti)
 START letter-large 
 z
 STOP letter-large 
+STOP slh-word 
 SPACE
 w,:,α,∵,τ,-,τ,·,_,r,:,τ,·,a,⅄,q
 SPACE

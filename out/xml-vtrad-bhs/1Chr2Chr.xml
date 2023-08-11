@@ -2,8 +2,11 @@
   <book39 osisID="1Chr">
     <chapter osisID="1Chr.1">
       <verse osisID="1Chr.1.1">
-        <letter-large text="אָ" />
-        <text text="דָ֥ם שֵׁ֖ת אֱנֽוֹשׁ׃" />
+        <slh-word>
+          <letter-large text="אָ" />
+          <text text="דָ֥ם" />
+        </slh-word>
+        <text text=" שֵׁ֖ת אֱנֽוֹשׁ׃" />
       </verse>
       <verse osisID="1Chr.1.2" text="קֵינָ֥ן מַהֲלַלְאֵ֖ל יָֽרֶד׃" />
       <verse osisID="1Chr.1.3" text="חֲנ֥וֹךְ מְתוּשֶׁ֖לַח לָֽמֶךְ׃" />

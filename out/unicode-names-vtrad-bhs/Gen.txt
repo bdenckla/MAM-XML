@@ -1,9 +1,11 @@
 unicode_names Gen
 Genesis 1:1 in vtrad vtbhs
+START slh-word 
 START letter-large 
 v,·,:
 STOP letter-large 
 r,‥,α,$,·sh,i,(ti),y,τ
+STOP slh-word 
 SPACE
 v,·,a,r,a,⅃,α
 SPACE
@@ -836,11 +838,13 @@ h,_,$,·sh,·,a,m,_,⟓,y,i,m.
 SPACE
 w,:,h,a,α,a,(ti),r,∵,ц.
 SPACE
+START slh-word 
 v,·,:
 START letter-small 
 h,i
 STOP letter-small 
 v,·,a,𝓂,r,:,α,a,⅄,m.
+STOP slh-word 
 SPACE
 v,·,:,y,◆,w,o,m.
 SPACE
@@ -2627,10 +2631,12 @@ LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
 SPACE
+START slh-word 
 START letter-large 
 σ,‥,ƶ
 STOP letter-large 
 f,∵,r
+STOP slh-word 
 SPACE
 v,σ,m,HPU GERSHAYIM,k.
 SPACE
@@ -13574,11 +13580,14 @@ l,i,σ,:,f,·,o,(me),d
 SPACE
 l,:,$,·si,a,r,a,(ti),h
 SPACE
+START slh-word 
 w,:,l,i,v,:
 START letter-small 
 k,·,o
 STOP letter-small 
-τ,a,𝓂,h,·,.
+τ,a,𝓂,h,·
+STOP slh-word 
+.
 
 Genesis 23:3 in vtrad vtbhs
 w,_,y,·,a,(p),q,oa,m.,(p)
@@ -18446,10 +18455,12 @@ r,i,v,:,q,a,h,(p)
 SPACE
 α,∵,l,-,y,i,ц,:,x,a,ƶ,q
 SPACE
+START slh-word 
 START letter-small 
 q,_,⅃
 STOP letter-small 
 ц,:,τ,·,i,y
+STOP slh-word 
 SPACE
 v,:,x,_,y,·,_,ƶ,y
 SPACE

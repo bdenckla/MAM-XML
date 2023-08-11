@@ -9476,11 +9476,13 @@ q,a,d,:,r,⅃,w,·
 SPACE
 l,a,α,a,⅄,r,∵,ц.
 SPACE
+START slh-word 
 w,:
 START letter-small 
 ц,i
 STOP letter-small 
 w,:,x,_,(me),τ
+STOP slh-word 
 SPACE
 y,:,r,𝓂,w,·,$,·sh,a,l,_,(ti),CGJ,i,m.
 SPACE
@@ -28631,10 +28633,12 @@ n,:,v,w,·,z,_,r,:,α,:_,d,a,⅃,n.
 SPACE
 r,_,v,-,θ,_,v,·,a,x,i,◆,y,m.
 SPACE
+START slh-word 
 w,·,n,:,v,𝓂,w,·,$,·sh,_,z,:,v,·,a
 START letter-small 
 n.,(p)
 STOP letter-small 
+STOP slh-word 
 SPACE
 r,_,v,-,σ,a,r,i,ƶ,y,σ
 SPACE

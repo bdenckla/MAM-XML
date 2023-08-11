@@ -14727,11 +14727,13 @@ w,i,⌕,y,h,w,o,n,a,τ,a,⌕,n.
 SPACE
 v,·,∵,n.,-,g,·,‥,r,:,$,·sh,o,(qa),m.
 SPACE
+START slh-word 
 v,·,∵,n.,-,m,:
 START letter-hung 
 n,_
 STOP letter-hung 
 $,·sh,·,∵,(ge),h
+STOP slh-word 
 SPACE
 h,⅃,w,·,α
 SPACE

@@ -12015,10 +12015,12 @@ v,·,_,m,·,i,d,:,v,·,a,𝓂,r,.
 Numbers 14:17 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,Ƶ,h
 SPACE
+START slh-word 
 START letter-large 
 y,i
 STOP letter-large 
 g,:,d,·,_,l,-,n,a,(ti),α
+STOP slh-word 
 SPACE
 k,·,o,⅃,x,_
 SPACE
@@ -20964,11 +20966,13 @@ n,h,w,g
 SPACE
 l,k,τ,w,v
 SPACE
+START slh-word 
 f,·,i,𝓂
 START letter-small 
 y
 STOP letter-small 
 n,:,x,a,(qa),σ
+STOP slh-word 
 SPACE
 v,y,w,HPU GERSHAYIM,d
 SPACE
@@ -22610,10 +22614,13 @@ w,_,y,·,_,q,:,r,‥,(me),v
 SPACE
 m,o,$,·sh,∵,⟓,h
 SPACE
-α,∵,τ,-,m,i,$,·sh,:,f,·,a,θ,a,(ti)
+α,∵,τ,-
+START slh-word 
+m,i,$,·sh,:,f,·,a,θ,a,(ti)
 START letter-large 
 n.
 STOP letter-large 
+STOP slh-word 
 SPACE
 l,i,f,:,n,‥,(me),y
 SPACE

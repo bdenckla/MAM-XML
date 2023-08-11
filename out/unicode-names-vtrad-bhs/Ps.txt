@@ -20926,11 +20926,13 @@ y,:,k,_,r,:,σ,:,m,∵,⅃,n,·,a,𝓂,h
 SPACE
 x,:_,z,i,⅃,y,r
 SPACE
+START slh-word 
 m,i,y,·,a,⅄
 START letter-hung 
 ʕ,_
 STOP letter-hung 
 r
+STOP slh-word 
 SPACE
 w,:,z,i,(ti),y,z
 SPACE
@@ -20960,11 +20962,13 @@ SPACE
 z,o,𝓂,α,τ,.
 
 Psalms 80:16 in vtrad vtbhs
+START slh-word 
 w,:,(de)
 START letter-large 
 k,_
 STOP letter-large 
 n,·,a,h
+STOP slh-word 
 SPACE
 α,:_,$,·sh,∵,r,-,n,a,θ,:,ʕ,a,⅃,h
 SPACE
@@ -21671,10 +21675,12 @@ SPACE
 w,·,d,:,r,<,w,o,r
 START lp-legarmeih 
 SPACE
+START slh-word 
 START letter-large 
 q,‥,(me)
 STOP letter-large 
 n.
+STOP slh-word 
 SPACE
 l,a,h,·,~
 SPACE

@@ -1,9 +1,11 @@
 unicode_names Prov
 Proverbs 1:1 in vtrad vtsef
+START slh-word 
 START letter-large 
 m,i,(de)
 STOP letter-large 
 $,·sh,:,l,‥,y
+STOP slh-word 
 SPACE
 $,·sh,:,l,o,m,o,⅃,h
 SPACE
@@ -11924,11 +11926,13 @@ y,a,m,i,𝓂,y,m.,.
 START spi-pe2 
 
 Proverbs 28:17 in vtrad vtsef
+START slh-word 
 α,a,(de)
 START letter-small 
 d,a
 STOP letter-small 
 m.
+STOP slh-word 
 SPACE
 ʕ,a,$,·sh,u,⅃,q
 SPACE
@@ -12745,12 +12749,14 @@ $,·sh,:,τ,·,‥,(me),y
 SPACE
 v,a,n,w,o,τ,~
 SPACE
+START slh-word 
 h,_,<
 START letter-small 
 v
 STOP letter-small 
 START lp-legarmeih 
 SPACE
+STOP slh-word 
 h,_,(me),(ol),v
 SPACE
 $,·sh,a,l,⅃,w,o,$,·sh
