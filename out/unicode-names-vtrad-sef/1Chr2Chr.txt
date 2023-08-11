@@ -1,11 +1,11 @@
 unicode_names 1Chr2Chr
 1Chronicles 1:1 in vtrad vtsef
-START slh-word 
-START letter-large 
+START slh-word
+START letter-large
 α,a
-STOP letter-large 
+STOP letter-large
 d,a,(me),m.
-STOP slh-word 
+STOP slh-word
 SPACE
 $,·sh,‥,(ti),τ
 SPACE
@@ -33,7 +33,7 @@ SPACE
 x,a,(me),m.
 SPACE
 w,a,y,a,𝓂,f,∵,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:5 in vtrad vtsef
 v,·,:,n,‥,⅃,y
@@ -53,7 +53,7 @@ SPACE
 w,·,m,∵,(ti),$,·sh,∵,k.,:
 SPACE
 w,:,τ,i,y,r,a,𝓂,σ,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:6 in vtrad vtsef
 w,·,v,:,n,‥,(ti),y
@@ -65,7 +65,7 @@ SPACE
 w,:,d,i,y,f,_,(ti),τ
 SPACE
 w,:,τ,w,o,g,_,r,:,m,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:7 in vtrad vtsef
 w,·,v,:,n,‥,(me),y
@@ -79,7 +79,7 @@ SPACE
 k,·,i,τ,·,i,(ti),y,m.
 SPACE
 w,:,r,w,o,d,a,n,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:8 in vtrad vtsef
 v,·,:,n,‥,(ti),y
@@ -116,7 +116,7 @@ SPACE
 $,·sh,:,v,a,(me),α
 SPACE
 w,·,d,:,d,a,𝓂,n.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:10 in vtrad vtsef
 w,:,k,(ti),w,·,$,·sh
@@ -134,7 +134,7 @@ SPACE
 g,·,i,v,·,(ti),w,o,r
 SPACE
 v,·,a,α,a,𝓂,r,∵,ц.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:11 in vtrad vtsef
 w,·,m,i,ц,:,r,_,μ,y,i,m.
@@ -142,14 +142,14 @@ SPACE
 y,a,l,_,(G),d
 SPACE
 α,∵,τ,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 l,w,·,d,i,(da),y,m.
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 l,w,d,y,y,m.
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 w,:,α,∵,τ,-,ʕ,:_,n,a,m,i,⟓,y,m.
 SPACE
@@ -171,7 +171,7 @@ SPACE
 f,·,:,l,i,$,·sh,:,τ,·,i,(ti),y,m.
 SPACE
 w,:,α,∵,τ,-,k,·,_,f,:,τ,·,o,r,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:13 in vtrad vtsef
 w,·,k,:,n,_,◆,ʕ,_,n.
@@ -206,7 +206,7 @@ SPACE
 w,:,α,∵,τ,-,h,_,ц,·,:,m,a,r,i,(ti),y
 SPACE
 w,:,α,∵,τ,-,h,_,x,:_,m,a,τ,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:17 in vtrad vtsef
 v,·,:,n,‥,⅃,y
@@ -230,7 +230,7 @@ SPACE
 w,:,g,∵,(me),τ,∵,r
 SPACE
 w,a,m,∵,𝓂,$,·sh,∵,k.,:,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:18 in vtrad vtsef
 w,:,α,_,r,:,f,·,_,k,:,$,·sh,_,(ti),d
@@ -313,11 +313,11 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 y,oa,q,:,θ,a,𝓂,n.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:24 in vtrad vtsef
 $,·sh,‥,(me),m.
-START lp-paseq 
+START lp-paseq
 α,_,r,:,f,·,_,k,:,$,·sh,_,(ti),d
 SPACE
 $,·sh,a,𝓂,l,_,x,.
@@ -342,7 +342,7 @@ SPACE
 h,(me),w,·,α
 SPACE
 α,_,v,:,r,a,h,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:28 in vtrad vtsef
 v,·,:,n,‥,y,(p)
@@ -352,7 +352,7 @@ SPACE
 y,i,ц,:,x,a,(ti),q
 SPACE
 w,:,y,i,$,·sh,:,m,a,ʕ,‥,𝓂,α,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:29 in vtrad vtsef
 α,‥,(ti),l,·,∵,h
@@ -396,7 +396,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 y,i,$,·sh,:,m,a,ʕ,‥,𝓂,α,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:32 in vtrad vtsef
 w,·,v,:,n,‥,(qa),y
@@ -428,7 +428,7 @@ SPACE
 $,·sh,:,v,a,(me),α
 SPACE
 w,·,d,:,d,a,𝓂,n.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:33 in vtrad vtsef
 w,·,v,:,n,‥,⅃,y
@@ -450,7 +450,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 q,:,θ,w,·,r,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:34 in vtrad vtsef
 w,_,y,·,(me),w,o,l,∵,d
@@ -466,7 +466,7 @@ SPACE
 ʕ,‥,$,·si,a,(ti),w
 SPACE
 w,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:35 in vtrad vtsef
 v,·,:,n,‥,(ti),y
@@ -482,7 +482,7 @@ SPACE
 w,:,y,_,ʕ,:,l,a,(me),m.
 SPACE
 w,:,q,o,𝓂,r,_,x,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:36 in vtrad vtsef
 v,·,:,n,‥,(ti),y
@@ -502,7 +502,7 @@ SPACE
 w,:,τ,i,m,:,n,a,(me),ʕ
 SPACE
 w,_,ʕ,:_,m,a,l,‥,𝓂,q,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:37 in vtrad vtsef
 v,·,:,n,‥,(ti),y
@@ -516,7 +516,7 @@ SPACE
 $,·sh,_,m,·,a,(me),h
 SPACE
 w,·,m,i,z,·,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:38 in vtrad vtsef
 w,·,v,:,n,‥,⅃,y
@@ -536,7 +536,7 @@ SPACE
 w,:,α,‥,(ti),ц,∵,r
 SPACE
 w,:,d,i,y,$,·sh,a,𝓂,n.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:39 in vtrad vtsef
 w,·,v,:,n,‥,(me),y
@@ -552,7 +552,7 @@ SPACE
 l,w,o,θ,a,(ti),n.
 SPACE
 τ,·,i,m,:,n,a,𝓂,ʕ,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:40 in vtrad vtsef
 v,·,:,n,‥,⅃,y
@@ -576,7 +576,7 @@ SPACE
 α,_,y,·,a,(me),h
 SPACE
 w,_,ʕ,:_,n,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 1:41 in vtrad vtsef
 v,·,:,n,‥,(me),y
@@ -613,7 +613,7 @@ SPACE
 ʕ,(me),w,·,ц.
 SPACE
 w,_,α,:_,r,a,𝓂,n.,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 1:43 in vtrad vtsef
 w,:,α,‥,⅃,l,·,∵,h
@@ -701,14 +701,14 @@ w,:,$,·sh,‥,(me),m.
 SPACE
 ʕ,i,y,r,(ti),w,o
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,y,w,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,:_,w,i,𝓂,y,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
 
 1Chronicles 1:47 in vtrad vtsef
@@ -791,7 +791,7 @@ z,a,h,a,𝓂,v,.
 w,_,y,·,a,(ti),m,oa,τ
 SPACE
 h,:_,d,a,⅄,d
-START spi-pe3 
+START spi-pe3
 w,_,y,·,i,𝓂,h,:,y,w,·,(p)
 SPACE
 α,_,l,·,w,·,f,‥,⅃,y
@@ -804,14 +804,14 @@ SPACE
 SPACE
 α,_,l,·,(me),w,·,f.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,_,𝓂,l,:,w,a,(ti),h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,_,l,·,(me),w,·,f.
 SPACE
@@ -857,7 +857,7 @@ SPACE
 α,_,l,·,w,·,f,‥,(me),y
 SPACE
 α,:∵,d,𝓂,w,o,m.,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 2:1 in vtrad vtsef
 α,‥,(ti),l,·,∵,h
@@ -890,7 +890,7 @@ SPACE
 g,·,a,(me),d
 SPACE
 w,:,α,a,$,·sh,‥,𝓂,r,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 2:3 in vtrad vtsef
 v,·,:,n,‥,⅃,y
@@ -916,7 +916,7 @@ SPACE
 w,_,y,:,h,i,(G),y
 SPACE
 ʕ,‥,⅃,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,k,⅃,w,o,r
 SPACE
@@ -929,7 +929,7 @@ SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 w,_,y,:,m,i,y,τ,‥,𝓂,h,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 2:4 in vtrad vtsef
 w,:,τ,a,m,a,r,(p)
@@ -949,7 +949,7 @@ SPACE
 y,:,h,w,·,d,a,(ti),h
 SPACE
 x,:_,m,i,$,·sh,·,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 2:5 in vtrad vtsef
 v,·,:,n,‥,y,-,f,∵,(ti),r,∵,ц.
@@ -957,7 +957,7 @@ SPACE
 x,∵,ц,:,r,(me),w,o,n.
 SPACE
 w,:,x,a,m,𝓂,w,·,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 2:6 in vtrad vtsef
 w,·,v,:,n,‥,⅃,y
@@ -977,7 +977,7 @@ SPACE
 k,·,u,l,·,a,(me),m.
 SPACE
 x,:_,m,i,$,·sh,·,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 2:7 in vtrad vtsef
 w,·,v,:,n,‥,(ti),y
@@ -995,7 +995,7 @@ SPACE
 m,a,ʕ,_,(ti),l
 SPACE
 v,·,_,x,‥,𝓂,r,∵,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 2:8 in vtrad vtsef
 w,·,v,:,n,‥,(me),y
@@ -1003,7 +1003,7 @@ SPACE
 α,‥,y,τ,a,(ti),n.
 SPACE
 ʕ,:_,z,_,r,:,y,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 2:9 in vtrad vtsef
 w,·,v,:,n,‥,(me),y
@@ -1186,7 +1186,7 @@ SPACE
 h,w,o,l,i,(me),y,d
 SPACE
 α,∵,τ,-,v,·,:,ц,_,l,:,α,‥,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 2:21 in vtrad vtsef
 w,:,α,_,x,_,◆,r
@@ -1235,7 +1235,7 @@ SPACE
 v,·,:,α,∵,(ti),r,∵,ц.
 SPACE
 h,_,g,·,i,l,:,ʕ,a,𝓂,d,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 2:23 in vtrad vtsef
 w,_,y,·,i,q,·,_,⅃,x
@@ -1288,7 +1288,7 @@ SPACE
 α,:_,v,i,(me),y
 SPACE
 τ,:,q,𝓂,w,o,ʕ,_,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 2:25 in vtrad vtsef
 w,_,y,·,i,h,:,y,(da),w,·
@@ -1300,7 +1300,7 @@ SPACE
 x,∵,ц,:,r,(ti),w,o,n.
 SPACE
 h,_,v,·,:,k,⅃,w,o,r
-START lp-paseq 
+START lp-paseq
 r,a,⅄,m.
 SPACE
 w,·,v,w,·,n,a,(me),h
@@ -1329,7 +1329,7 @@ SPACE
 α,‥,(me),m.
 SPACE
 α,w,o,n,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 2:27 in vtrad vtsef
 w,_,y,·,i,h,:,y,(me),w,·
@@ -1436,7 +1436,7 @@ SPACE
 l,o,(me),α
 SPACE
 v,a,n,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 2:33 in vtrad vtsef
 w,·,v,:,n,‥,(me),y
@@ -1572,7 +1572,7 @@ SPACE
 h,o,l,i,(me),y,d
 SPACE
 α,∵,τ,-,α,:∵,l,i,y,$,·sh,a,m,a,𝓂,ʕ,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 2:42 in vtrad vtsef
 w,·,v,:,n,‥,<,y
@@ -1660,7 +1660,7 @@ SPACE
 h,o,l,i,(me),y,d
 SPACE
 α,∵,τ,-,g,·,a,z,‥,𝓂,z,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 2:47 in vtrad vtsef
 w,·,v,:,n,‥,(ti),y
@@ -1714,7 +1714,7 @@ SPACE
 w,·,v,_,τ,-,k,·,a,l,‥,(ti),v
 SPACE
 ʕ,_,k,:,σ,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 2:50 in vtrad vtsef
 α,‥,<,l,·,∵,h
@@ -1793,7 +1793,7 @@ SPACE
 h,_,ц,·,a,⅃,r,:,ʕ,a,τ,i,ƶ,y
 SPACE
 w,:,h,a,α,∵,$,·sh,:,τ,·,a,(ti),α,u,𝓂,l,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 2:54 in vtrad vtsef
 v,·,:,n,‥,⅃,y
@@ -1823,14 +1823,14 @@ w,·,m,i,$,·sh,:,f,·,:,x,<,w,o,τ
 SPACE
 σ,o,𝓂,f,:,r,i,y,m.,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,$,v,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,o,$,·sh,:,v,‥,⅃,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 y,_,ʕ,:,v,·,‥,ƶ,ц.
 SPACE
@@ -1851,7 +1851,7 @@ SPACE
 α,:_,v,i,(me),y
 SPACE
 v,‥,y,τ,-,r,‥,k,a,𝓂,v,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 3:1 in vtrad vtsef
 w,:,α,‥,<,l,·,∵,h
@@ -1869,7 +1869,7 @@ SPACE
 v,·,:,x,∵,v,:,r,⅄,w,o,n.
 SPACE
 h,_,v,·,:,k,⅃,w,o,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,_,m,:,n,o,◆,n.
 SPACE
@@ -1945,7 +1945,7 @@ SPACE
 m,a,l,_,(ti),k.,:
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 3:5 in vtrad vtsef
 w,:,α,‥,(me),l,·,∵,h
@@ -2005,7 +2005,7 @@ SPACE
 w,:,τ,a,m,a,(me),r
 SPACE
 α,:_,x,w,o,τ,a,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 3:10 in vtrad vtsef
 w,·,v,∵,n.,-,$,·sh,:,l,o,m,o,(ti),h
@@ -2220,21 +2220,21 @@ SPACE
 w,:,ʕ,_,z,:,r,i,y,q,a,(ti),m.
 SPACE
 $,·sh,:,l,o,$,·sh,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 3:24 in vtrad vtsef
 w,·,v,:,n,‥,⅃,y
 SPACE
 α,∵,l,:,y,w,o,ʕ,‥,y,n,_,◆,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,w,d,y,w,h,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,w,o,d,_,w,:,y,a,μ,h,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,α,∵,l,:,y,a,$,·sh,i,μ,y,v
 SPACE
@@ -2249,7 +2249,7 @@ SPACE
 w,_,ʕ,:_,n,a,(ti),n,i,y
 SPACE
 $,·sh,i,v,:,ʕ,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 4:1 in vtrad vtsef
 v,·,:,n,‥,(ti),y
@@ -2288,7 +2288,7 @@ SPACE
 m,i,$,·sh,:,f,·,:,x,(me),w,o,τ
 SPACE
 h,_,ц,·,a,𝓂,r,:,ʕ,a,τ,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 4:3 in vtrad vtsef
 w,:,α,‥,(p),l,·,∵,h,(p)
@@ -2381,14 +2381,14 @@ x,∵,l,:,α,a,⅄,h
 SPACE
 ц,∵,(me),r,∵,τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,ц,x,r
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,ц,o,(ti),x,_,r
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,α,∵,τ,:,n,a,𝓂,n.,.
 
@@ -2472,7 +2472,7 @@ SPACE
 α,‥,(me),τ
 SPACE
 α,:_,$,·sh,∵,r,-,$,·sh,a,α,a,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 4:11 in vtrad vtsef
 w,·,k,:,l,(me),w,·,v
@@ -2513,7 +2513,7 @@ SPACE
 α,_,n,:,$,·sh,‥,(me),y
 SPACE
 r,‥,k,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 4:13 in vtrad vtsef
 w,·,v,:,n,‥,⅃,y
@@ -2554,7 +2554,7 @@ SPACE
 x,:_,r,a,$,·sh,i,(ti),y,m.
 SPACE
 h,a,y,𝓂,w,·,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 4:15 in vtrad vtsef
 w,·,v,:,n,‥,y,(p)
@@ -2649,7 +2649,7 @@ SPACE
 l,a,q,_,(ti),x
 SPACE
 m,a,𝓂,r,∵,d,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 4:19 in vtrad vtsef
 w,·,v,:,n,‥,y,(p)
@@ -2683,14 +2683,14 @@ w,:,r,i,n,·,a,ƶ,h
 SPACE
 v,·,∵,n.,-,x,a,n,a,(ti),n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,τ,w,l,w,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,τ,i,y,l,⅄,w,o,n.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,v,:,n,‥,⅃,y
 SPACE
@@ -2770,7 +2770,7 @@ SPACE
 y,a,(me),$,·sh,:,v,w,·
 SPACE
 $,·sh,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 4:24 in vtrad vtsef
 v,·,:,n,‥,(ti),y
@@ -2849,7 +2849,7 @@ SPACE
 ʕ,_,d,-,v,·,:,n,‥,(me),y
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 4:28 in vtrad vtsef
 w,_,y,·,‥,(me),$,·sh,:,v,⟓,w,·
@@ -2928,7 +2928,7 @@ SPACE
 h,a,α,‥,(ti),l,·,∵,h
 SPACE
 ʕ,_,d,-,v,·,a,⅄,ʕ,_,l
-START spi-samekh3 
+START spi-samekh3
 z,o,(ye),α,τ
 SPACE
 m,𝓂,w,o,$,·sh,:,v,o,τ,a,ƶ,m.
@@ -3062,7 +3062,7 @@ SPACE
 v,·,:,$,·sh,‥,m,(ge),w,o,τ
 SPACE
 v,·,i,y,m,‥,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 y,:,x,i,z,:,q,i,y,·,a,⅃,h,w,·
 SPACE
@@ -3073,14 +3073,14 @@ SPACE
 α,∵,τ,-,α,oa,h,:a,l,‥,y,h,∵,(ge),m.
 SPACE
 w,:,α,∵,τ,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 h,_,m,·,:,ʕ,w,·,n,i,(qa),y,m.
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 h,m,ʕ,y,n,y,m.
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 α,:_,$,·sh,∵,<,r
 SPACE
@@ -3104,7 +3104,7 @@ $,·sh,a,𝓂,m.,.
 
 1Chronicles 4:42 in vtrad vtsef
 w,·,m,‥,h,∵,⅃,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,i,n.,-,v,·,:,n,‥,⅃,y
 SPACE
@@ -3154,7 +3154,7 @@ SPACE
 h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 5:1 in vtrad vtsef
 w,·,v,:,n,‥,(qa),y
@@ -3207,7 +3207,7 @@ SPACE
 w,:,h,_,v,·,:,k,o,r,a,(ti),h
 SPACE
 l,:,y,w,o,σ,‥,𝓂,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 5:3 in vtrad vtsef
 v,·,:,n,‥,(me),y
@@ -3362,7 +3362,7 @@ SPACE
 m,i,z,:,r,a,(me),x
 SPACE
 l,_,g,·,i,l,:,ʕ,a,𝓂,d,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 5:11 in vtrad vtsef
 w,·,v,:,n,‥,y,-,g,a,⅃,d
@@ -3414,11 +3414,11 @@ SPACE
 w,a,ʕ,‥,(ti),v,∵,r
 SPACE
 $,·sh,i,v,:,ʕ,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 5:14 in vtrad vtsef
 α,‥,⅃,l,·,∵,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,n,‥,⅃,y
 SPACE
@@ -3482,7 +3482,7 @@ SPACE
 y,a,r,oa,v,:,ʕ,a,(me),m.
 SPACE
 m,∵,l,∵,k.,:,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 5:18 in vtrad vtsef
 v,·,:,n,‥,y,-,r,:,α,w,·,v,‥,(qa),n.
@@ -3618,7 +3618,7 @@ SPACE
 τ,_,x,:,τ,·,‥,y,h,∵,(ti),m.
 SPACE
 ʕ,_,d,-,h,_,g,·,o,l,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 5:23 in vtrad vtsef
 w,·,v,:,n,‥,◆,y
@@ -3713,7 +3713,7 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,(ge),l
 SPACE
 α,∵,τ,-,r,⅃,w,·,x,_
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 f,·,⅃,w,·,l
 SPACE
@@ -3758,7 +3758,7 @@ SPACE
 h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 5:27 in vtrad vtsef
 v,·,:,n,‥,(ti),y
@@ -3783,7 +3783,7 @@ SPACE
 w,:,x,∵,v,:,r,(ti),w,o,n.
 SPACE
 w,:,ʕ,u,z,·,i,y,α,‥,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 5:29 in vtrad vtsef
 w,·,v,:,n,‥,⅃,y
@@ -3795,7 +3795,7 @@ SPACE
 w,·,m,o,$,·sh,∵,(ti),h
 SPACE
 w,·,m,i,r,:,y,a,⅄,m.
-START spi-samekh3 
+START spi-samekh3
 w,·,v,:,n,‥,⅃,y
 SPACE
 α,_,𝓂,h,:_,r,o,ƶ,n.
@@ -3975,7 +3975,7 @@ SPACE
 v,·,:,y,_,(ti),d
 SPACE
 n,:,v,u,k,_,d,:,n,∵,α,ц,·,_,𝓂,r,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 6:1 in vtrad vtsef
 v,·,:,n,‥,(ti),y
@@ -4011,7 +4011,7 @@ SPACE
 w,:,x,∵,v,:,r,(ti),w,o,n.
 SPACE
 w,:,ʕ,u,z,·,i,y,α,‥,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 6:4 in vtrad vtsef
 v,·,:,n,‥,(me),y
@@ -4121,14 +4121,14 @@ w,_,α,:_,x,i,y,m,𝓂,w,o,τ,.
 1Chronicles 6:11 in vtrad vtsef
 α,∵,l,:,q,a,n,a,⅄,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 v,n,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,·,:,n,‥,y,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,∵,l,:,q,a,n,a,ƶ,h
 SPACE
@@ -4163,7 +4163,7 @@ SPACE
 w,_,$,·sh,:,n,i,(ti),y
 SPACE
 w,_,α,:_,v,i,y,·,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 6:14 in vtrad vtsef
 v,·,:,n,‥,(me),y
@@ -4196,7 +4196,7 @@ SPACE
 ʕ,:_,$,·si,a,y,a,(me),h
 SPACE
 v,:,n,𝓂,w,o,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 6:16 in vtrad vtsef
 w,:,α,‥,◆,l,·,∵,h
@@ -4276,14 +4276,14 @@ v,·,∵,n.,-,τ,·,𝓂,w,o,x,_,.
 
 1Chronicles 6:20 in vtrad vtsef
 v,·,∵,n.,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 ц,w,·,f.,(p)
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 ц,y,f.
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 v,·,∵,n.,-,α,∵,l,:,q,a,n,a,ƶ,h
 SPACE
@@ -4317,7 +4317,7 @@ SPACE
 v,·,∵,n.,-,l,‥,w,i,(ti),y
 SPACE
 v,·,∵,n.,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 6:24 in vtrad vtsef
 w,:,α,a,x,i,⅃,y,w
@@ -4361,7 +4361,7 @@ SPACE
 v,·,∵,n.,-,g,·,‥,r,:,$,·sh,o,(ti),m.
 SPACE
 v,·,∵,n.,-,l,‥,w,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 6:29 in vtrad vtsef
 w,·,v,:,n,‥,(da),y
@@ -4402,7 +4402,7 @@ SPACE
 v,·,∵,n.,-,m,:,r,a,r,i,(ti),y
 SPACE
 v,·,∵,n.,-,l,‥,w,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 6:33 in vtrad vtsef
 w,_,α,:_,x,‥,y,h,∵,(ti),m.
@@ -4457,7 +4457,7 @@ SPACE
 ʕ,∵,(me),v,∵,d
 SPACE
 h,a,α,:∵,l,o,h,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 6:35 in vtrad vtsef
 w,:,α,‥,(ti),l,·,∵,h
@@ -4512,7 +4512,7 @@ SPACE
 α,:_,x,i,y,m,_,(me),ʕ,_,ц.
 SPACE
 v,·,:,n,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 6:39 in vtrad vtsef
 w,:,α,‥,(p),l,·,∵,h,(p)
@@ -4566,7 +4566,7 @@ SPACE
 l,:,k,a,l,‥,(me),v
 SPACE
 v,·,∵,n.,-,y,:,f,u,n,·,∵,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 6:42 in vtrad vtsef
 w,:,l,i,v,:,n,‥,⅃,y
@@ -4610,7 +4610,7 @@ SPACE
 $,·sh,∵,(ti),m,∵,$,·sh
 SPACE
 w,:,α,∵,τ,-,m,i,g,:,r,a,$,·sh,∵,𝓂,y,h,a,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 6:45 in vtrad vtsef
 w,·,m,i,m,·,_,θ,·,‥,⅃,h
@@ -4636,7 +4636,7 @@ SPACE
 ʕ,i,(ti),y,r
 SPACE
 v,·,:,m,i,$,·sh,:,f,·,:,x,w,o,τ,‥,y,h,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 6:46 in vtrad vtsef
 w,:,l,i,v,:,n,‥,(qa),y
@@ -4662,7 +4662,7 @@ SPACE
 ʕ,a,r,i,(me),y,m.
 SPACE
 ʕ,a,𝓂,$,·si,∵,r,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 6:47 in vtrad vtsef
 w,:,l,i,v,:,n,‥,(qa),y
@@ -4694,7 +4694,7 @@ SPACE
 $,·sh,:,l,o,(me),$,·sh
 SPACE
 ʕ,∵,$,·si,:,r,‥,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 6:48 in vtrad vtsef
 l,i,v,:,n,‥,(qa),y
@@ -4720,7 +4720,7 @@ SPACE
 $,·sh,:,τ,·,‥,(me),y,m.
 SPACE
 ʕ,∵,$,·si,:,r,‥,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 6:49 in vtrad vtsef
 w,_,y,·,i,τ,·,:,n,(me),w,·
@@ -4763,7 +4763,7 @@ SPACE
 α,∵,τ,:,h,∵,(ti),m.
 SPACE
 v,·,:,$,·sh,‥,m,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 6:51 in vtrad vtsef
 w,·,m,i,𝓂,m,·,i,$,·sh,:,f,·,:,x,(ti),w,o,τ
@@ -4843,7 +4843,7 @@ SPACE
 l,i,v,:,n,‥,𝓂,y,-,q,:,h,a,(ti),τ
 SPACE
 h,_,n,·,w,o,τ,a,r,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 6:56 in vtrad vtsef
 l,i,v,:,n,‥,y,~
@@ -4889,7 +4889,7 @@ SPACE
 w,:,α,∵,τ,-,ʕ,a,n,‥,(ti),m.
 SPACE
 w,:,α,∵,τ,-,m,i,g,:,r,a,$,·sh,∵,𝓂,y,h,a,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 6:59 in vtrad vtsef
 w,·,m,i,m,·,_,θ,·,‥,⅃,h
@@ -4912,7 +4912,7 @@ SPACE
 w,:,α,∵,τ,-,r,:,x,o,(ti),v
 SPACE
 w,:,α,∵,τ,-,m,i,g,:,r,a,$,·sh,∵,𝓂,y,h,a,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 6:61 in vtrad vtsef
 w,·,m,i,m,·,_,θ,·,‥,⅃,h
@@ -4932,7 +4932,7 @@ SPACE
 w,:,α,∵,τ,-,q,i,r,:,y,a,τ,_,(ti),y,i,m.
 SPACE
 w,:,α,∵,τ,-,m,i,g,:,r,a,$,·sh,∵,𝓂,y,h,a,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 6:62 in vtrad vtsef
 l,i,v,:,n,‥,⅃,y
@@ -5008,7 +5008,7 @@ SPACE
 w,:,α,∵,τ,-,y,_,ʕ,:,z,‥,(ti),y,r
 SPACE
 w,:,α,∵,τ,-,m,i,g,:,r,a,$,·sh,∵,𝓂,y,h,a,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 7:1 in vtrad vtsef
 w,:,l,i,v,:,n,‥,⅃,y
@@ -5019,19 +5019,19 @@ SPACE
 SPACE
 w,·,f,w,·,α,a,⟓,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,$,y,v
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,a,$,·sh,(me),w,·,v
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,$,·sh,i,m,:,r,(ti),w,o,n.
 SPACE
 α,_,r,:,v,·,a,ʕ,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 7:2 in vtrad vtsef
 w,·,v,:,n,‥,⅃,y
@@ -5075,7 +5075,7 @@ SPACE
 w,:,$,·sh,‥,(me),$,·sh
 SPACE
 m,‥,α,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 7:3 in vtrad vtsef
 w,·,v,:,n,‥,(me),y
@@ -5151,7 +5151,7 @@ SPACE
 h,i,τ,:,y,_,x,:,$,·si,a,(ti),m.
 SPACE
 l,_,k,·,o,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 7:6 in vtrad vtsef
 v,·,i,n,:,y,a,m,i,◆,n.
@@ -5262,14 +5262,14 @@ w,·,v,:,n,‥,⅃,y
 SPACE
 v,i,l,:,h,a,◆,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,ʕ,y,$
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,:,ʕ,μ,w,·,$,·sh
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,⌕,v,i,n,:,y,a,m,i,⌕,n.
 SPACE
@@ -5341,7 +5341,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 v,i,l,:,h,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 7:14 in vtrad vtsef
 v,·,:,n,‥,⅃,y
@@ -5466,7 +5466,7 @@ SPACE
 w,:,l,i,q,:,x,i,(ti),y
 SPACE
 w,_,α,:_,n,i,y,ʕ,a,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 7:20 in vtrad vtsef
 w,·,v,:,n,‥,(me),y
@@ -5675,7 +5675,7 @@ SPACE
 y,w,o,σ,‥,(ti),f.
 SPACE
 v,·,∵,n.,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 7:30 in vtrad vtsef
 v,·,:,n,‥,⅃,y
@@ -5707,14 +5707,14 @@ h,(ti),w,·,α
 SPACE
 α,:_,v,i,(me),y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 v,r,z,w,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,i,r,:,z,a,𝓂,y,i,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
 
 1Chronicles 7:32 in vtrad vtsef
@@ -5758,23 +5758,23 @@ $,·sh,a,⅄,m,∵,r
 SPACE
 α,:_,x,i,(me),y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,r,w,h,g,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,r,oa,h,:,g,·,a,(ti),h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,x,v,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,x,u,v,·,a,(me),h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,_,α,:_,r,a,𝓂,m.,.
 
@@ -5875,7 +5875,7 @@ SPACE
 w,:,$,·sh,i,$,·sh,·,a,(ti),h
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 8:1 in vtrad vtsef
 w,·,v,i,(qa),n,:,y,a,m,i,ƶ,n.
@@ -6166,14 +6166,14 @@ w,:,ʕ,_,n,:,τ,o,τ,i,y,·,a,𝓂,h,.
 1Chronicles 8:25 in vtrad vtsef
 w,:,y,i,f,:,d,:,y,a,(me),h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,f,n,y,α,l
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,·,f,:,n,w,·,α,‥,(ti),l
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,:,n,‥,(me),y
 SPACE
@@ -6269,7 +6269,7 @@ SPACE
 v,i,y,r,w,·,$,·sh,a,l,_,(ti),CGJ,i,m.
 SPACE
 ʕ,i,m.,-,α,:_,x,‥,y,h,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 8:33 in vtrad vtsef
 w,:,n,‥,r,(p)
@@ -6378,7 +6378,7 @@ SPACE
 $,·sh,:,m,w,o,τ,a,◆,m.
 SPACE
 ʕ,_,z,:,r,i,y,q,a,(me),m.
-START lp-paseq 
+START lp-paseq
 v,·,o,(p),k,:,r,w,·,(p)
 SPACE
 w,:,y,i,$,·sh,:,m,a,ʕ,‥,⅃,α,l
@@ -6444,7 +6444,7 @@ SPACE
 m,i,v,·,:,n,‥,(me),y
 SPACE
 v,i,n,:,y,a,m,i,𝓂,n.,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 9:1 in vtrad vtsef
 w,:,k,oa,l,-,y,i,$,·si,:,r,a,α,‥,l,(p)
@@ -6468,7 +6468,7 @@ SPACE
 l,:,v,a,v,∵,(ti),l
 SPACE
 v,·,:,m,_,ʕ,:_,l,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 9:2 in vtrad vtsef
 w,:,h,_,y,·,𝓂,w,o,$,·sh,:,v,i,y,m.,(p)
@@ -6519,19 +6519,19 @@ v,·,∵,n.,-,α,i,m,:,r,i,⅃,y
 SPACE
 v,∵,n.,-
 START kq class=sep-maqaf
-START kq-k 
+START kq-k
 v,n,y,m,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,·,a,n,i,ƶ,y
 SPACE
 m,i,n.,-
-STOP kq-q 
+STOP kq-q
 STOP kq class=sep-maqaf
 v,·,:,n,‥,y,-,f,∵,(ti),r,∵,ц.
 SPACE
 v,·,∵,n.,-,y,:,h,w,·,d,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 9:5 in vtrad vtsef
 w,·,m,i,n.,-,h,_,$,·sh,·,i,⅃,y,l,w,o,n,i,ƶ,y
@@ -6609,7 +6609,7 @@ SPACE
 l,:,v,‥,(me),y,τ
 SPACE
 α,:_,v,o,τ,‥,y,h,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 9:10 in vtrad vtsef
 w,·,m,i,n.,-,h,_,𝓂,k,·,o,h,:_,n,i,⅄,y,m.
@@ -6638,7 +6638,7 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 h,a,α,:∵,l,o,h,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 9:12 in vtrad vtsef
 w,_,ʕ,:_,d,a,y,a,h,(p)
@@ -6826,7 +6826,7 @@ SPACE
 l,:,f,a,n,i,(ti),y,m.
 SPACE
 y,:,h,o,w,a,(me),h
-START lp-paseq 
+START lp-paseq
 ʕ,i,m,·,𝓂,w,o,.
 
 1Chronicles 9:21 in vtrad vtsef
@@ -7074,14 +7074,14 @@ l,_,l,:,w,i,y,·,i,⟓,m.
 SPACE
 v,·,_,l,·,:,$,·sh,a,k,o,(ti),τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 f,θ,y,r,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 f,·,:,θ,w,·,r,i,⅄,y,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 k,·,i,𝓂,y,-,y,w,o,m,a,(me),m.
 SPACE
@@ -7109,7 +7109,7 @@ SPACE
 y,a,$,·sh,:,v,(me),w,·
 SPACE
 v,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 9:35 in vtrad vtsef
 w,·,v,:,g,i,v,:,ʕ,⟓,w,o,n.
@@ -7118,14 +7118,14 @@ y,a,$,·sh,:,v,(me),w,·
 SPACE
 α,:_,v,i,y,-,g,i,v,:,ʕ,(ti),w,o,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,ʕ,w,α,l
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,:,ʕ,i,y,α,‥,⅄,l
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,$,·sh,‥,(me),m.
 SPACE
@@ -7177,7 +7177,7 @@ SPACE
 v,i,y,r,w,·,$,·sh,a,l,_,(ti),CGJ,i,m.
 SPACE
 ʕ,i,m.,-,α,:_,x,‥,y,h,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 9:39 in vtrad vtsef
 w,:,n,‥,r,(p)
@@ -7282,7 +7282,7 @@ SPACE
 $,·sh,:,m,w,o,τ,a,◆,m.
 SPACE
 ʕ,_,z,:,r,i,y,q,a,(me),m.
-START lp-paseq 
+START lp-paseq
 v,·,o,(p),k,:,r,w,·,(p)
 SPACE
 w,:,y,i,$,·sh,:,m,a,ʕ,‥,⅃,α,l
@@ -7298,7 +7298,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 α,a,ц,_,𝓂,l,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 10:1 in vtrad vtsef
 w,·,f,:,l,i,$,·sh,:,τ,·,i,(ti),y,m.
@@ -7379,7 +7379,7 @@ SPACE
 $,·sh,:,l,o,(me),f.
 SPACE
 x,_,r,:,v,·,:,k.,a,⅃
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 w,:,d,oa,q,:,r,‥,⅃,n,i,y
 SPACE
@@ -7406,7 +7406,7 @@ SPACE
 y,a,r,‥,(ti),α
 SPACE
 m,:,α,o,⅄,d
-START spi-samekh2 
+START spi-samekh2
 w,_,y,·,i,q,·,_,<,x
 SPACE
 $,·sh,a,α,w,·,l,(p)
@@ -7435,7 +7435,7 @@ SPACE
 ʕ,_,l,-,h,_,x,∵,(ti),r,∵,v
 SPACE
 w,_,y,·,a,m,o,𝓂,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 10:6 in vtrad vtsef
 w,_,y,·,a,<,m,oa,τ
@@ -7484,7 +7484,7 @@ SPACE
 w,_,y,·,‥,$,·sh,:,v,(ti),w,·
 SPACE
 v,·,a,h,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 10:8 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -7548,7 +7548,7 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 d,·,a,g,𝓂,w,o,n.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 10:11 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,:,ʕ,ƶ,w,·
@@ -7647,7 +7647,7 @@ SPACE
 l,:,d,a,w,i,(ti),y,d
 SPACE
 v,·,∵,n.,-,y,i,$,·sh,a,𝓂,y,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 11:1 in vtrad vtsef
 w,_,y,·,i,q,·,a,v,:,ц,(da),w,·
@@ -7755,7 +7755,7 @@ SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 v,·,:,y,_,d,-,$,·sh,:,m,w,·,α,‥,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 11:4 in vtrad vtsef
 w,_,y,·,‥,(qa),l,∵,k.,:
@@ -7884,7 +7884,7 @@ SPACE
 ц,:,v,a,α,(ti),w,o,τ
 SPACE
 ʕ,i,m,·,𝓂,w,o,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 11:10 in vtrad vtsef
 w,:,α,‥,(qa),l,·,∵,h
@@ -7912,7 +7912,7 @@ SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 ʕ,_,l,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 11:11 in vtrad vtsef
 w,:,α,‥,⟓,l,·,∵,h
@@ -7931,14 +7931,14 @@ v,·,∵,n.,-,x,_,k,:,m,w,o,n,i,◆,y
 SPACE
 r,o,(ye),α,$,·sh
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,$,l,w,$,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,$,·sh,·,a,⅃,l,i,y,$,·sh,i,ƶ,y,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,𝓂,w,·,α,-,ʕ,w,o,r,‥,(da),r
 SPACE
@@ -8189,14 +8189,14 @@ m,‥,α,(ti),w,o,τ
 SPACE
 x,a,l,a,⅄,l
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,l,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,l,w,o,-
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 $,·sh,‥,(ti),m.
 SPACE
 v,·,_,$,·sh,·,:,l,w,o,$,·sh,a,𝓂,h,.
@@ -8217,7 +8217,7 @@ SPACE
 w,:,ʕ,_,d,-,h,_,$,·sh,·,:,l,w,o,$,·sh,a,(ti),h
 SPACE
 l,o,α,-,v,a,𝓂,α,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 11:22 in vtrad vtsef
 v,·,:,n,a,y,a,(qa),h
@@ -8268,7 +8268,7 @@ SPACE
 α,i,(me),y,$,·sh
 SPACE
 m,i,d,·,a,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 x,a,m,‥,⅃,$,·sh
 SPACE
@@ -8335,7 +8335,7 @@ SPACE
 d,a,w,i,(ti),y,d
 SPACE
 ʕ,_,l,-,m,i,$,·sh,:,m,_,ʕ,:,τ,·,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 11:26 in vtrad vtsef
 w,:,g,i,v,·,w,o,r,‥,(ti),y
@@ -8347,7 +8347,7 @@ SPACE
 α,:_,x,i,⅃,y
 SPACE
 y,w,o,α,a,ƶ,v
-START spi-samekh3 
+START spi-samekh3
 α,∵,l,:,x,a,n,a,(me),n.
 SPACE
 v,·,∵,n.,-,d,·,w,o,d,(ti),w,o
@@ -8355,17 +8355,17 @@ SPACE
 m,i,v,·,‥,(me),y,τ
 SPACE
 l,a,𝓂,x,∵,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:27 in vtrad vtsef
 $,·sh,_,m,·,w,o,τ,(p)
 SPACE
 h,_,h,:_,r,w,o,r,i,ƶ,y
-START spi-samekh3 
+START spi-samekh3
 x,∵,(ti),l,∵,ц.
 SPACE
 h,_,f,·,:,l,w,o,n,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:28 in vtrad vtsef
 ʕ,i,y,r,a,<,α
@@ -8373,33 +8373,33 @@ SPACE
 v,∵,n.,-,ʕ,i,q,·,‥,$,·sh,(p)
 SPACE
 h,_,τ,·,:,q,w,o,ʕ,i,ƶ,y
-START spi-samekh3 
+START spi-samekh3
 α,:_,v,i,y,ʕ,∵,(ti),z,∵,r
 SPACE
 h,a,ʕ,_,n,·,:,τ,w,o,τ,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:29 in vtrad vtsef
 σ,i,v,·,:,k,_,y,(p)
 SPACE
 h,_,x,u,⅃,$,·sh,a,τ,i,ƶ,y
-START spi-samekh3 
+START spi-samekh3
 ʕ,i,y,l,_,(ti),y
 SPACE
 h,a,α,:_,x,w,o,x,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:30 in vtrad vtsef
 m,_,h,:,r,_,y,(p)
 SPACE
 h,_,n,·,:,θ,o,⅃,f,a,τ,i,ƶ,y
-START spi-samekh3 
+START spi-samekh3
 x,‥,(me),l,∵,d
 SPACE
 v,·,∵,𝓂,n.,-,v,·,_,ʕ,:_,n,a,(ti),h
 SPACE
 h,_,n,·,:,θ,w,o,f,a,τ,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:31 in vtrad vtsef
 α,i,y,τ,_,⅃,y
@@ -8411,11 +8411,11 @@ SPACE
 v,·,:,n,‥,⅃,y
 SPACE
 v,i,n,:,y,a,m,i,ƶ,n.
-START spi-samekh3 
+START spi-samekh3
 v,·,:,n,a,y,a,(ti),h
 SPACE
 h,_,f,·,i,r,:,ʕ,a,τ,o,n,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:32 in vtrad vtsef
 x,w,·,r,_,y,(p)
@@ -8423,21 +8423,21 @@ SPACE
 m,i,n,·,_,⅃,x,:_,l,‥,y
 SPACE
 g,a,ƶ,ʕ,_,$,·sh
-START spi-samekh3 
+START spi-samekh3
 α,:_,v,i,y,α,‥,(ti),l
 SPACE
 h,a,ʕ,_,r,:,v,a,τ,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:33 in vtrad vtsef
 ʕ,_,z,:,m,a,(p),w,∵,τ,(p)
 SPACE
 h,_,v,·,_,⅃,x,:_,r,w,·,m,i,ƶ,y
-START spi-samekh3 
+START spi-samekh3
 α,∵,l,:,y,_,x,:,v,·,a,(ti),α
 SPACE
 h,_,$,·sh,·,_,ʕ,_,l,:,v,o,n,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:34 in vtrad vtsef
 v,·,:,n,‥,◆,y
@@ -8445,13 +8445,13 @@ SPACE
 h,a,$,·sh,‥,m.,(p)
 SPACE
 h,_,g,·,i,⅃,z,w,o,n,i,ƶ,y
-START spi-samekh3 
+START spi-samekh3
 y,w,o,n,a,τ,a,(me),n.
 SPACE
 v,·,∵,n.,-,$,·sh,a,g,‥,(ti),h
 SPACE
 h,_,h,:_,r,a,r,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:35 in vtrad vtsef
 α,:_,x,i,y,α,a,(da),m.
@@ -8459,11 +8459,11 @@ SPACE
 v,·,∵,n.,-,$,·si,a,k,a,⟓,r
 SPACE
 h,_,h,:_,r,a,r,i,(ti),y
-START spi-samekh3 
+START spi-samekh3
 α,:∵,l,i,y,f,_,(me),l
 SPACE
 v,·,∵,n.,-,α,𝓂,w,·,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:36 in vtrad vtsef
 x,‥,(ye),f,∵,r
@@ -8473,17 +8473,17 @@ SPACE
 α,:_,x,i,y,·,a,(ti),h
 SPACE
 h,_,f,·,:,l,o,n,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:37 in vtrad vtsef
 x,∵,ц,:,r,w,o,(p)
 SPACE
 h,_,𝓂,k,·,_,r,:,m,:,l,i,ƶ,y
-START spi-samekh3 
+START spi-samekh3
 n,_,ʕ,:_,r,_,(ti),y
 SPACE
 v,·,∵,n.,-,α,∵,z,:,v,·,a,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:38 in vtrad vtsef
 y,w,o,α,‥,l,(p)
@@ -8491,11 +8491,11 @@ SPACE
 α,:_,x,i,⅃,y
 SPACE
 n,a,τ,a,ƶ,n.
-START spi-samekh3 
+START spi-samekh3
 m,i,v,:,x,a,(ti),r
 SPACE
 v,·,∵,n.,-,h,_,g,:,r,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:39 in vtrad vtsef
 ц,∵,(ti),l,∵,q
@@ -8513,27 +8513,27 @@ SPACE
 y,w,o,α,a,(me),v
 SPACE
 v,·,∵,n.,-,ц,:,r,w,·,y,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:40 in vtrad vtsef
 ʕ,i,y,r,a,α,(p)
 SPACE
 h,_,y,·,i,τ,:,r,i,ƶ,y
-START spi-samekh3 
+START spi-samekh3
 g,·,a,r,‥,(ti),v
 SPACE
 h,_,y,·,i,τ,:,r,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:41 in vtrad vtsef
 α,𝓂,w,·,r,i,y,·,a,h,(p)
 SPACE
 h,_,x,i,τ,·,i,ƶ,y
-START spi-samekh3 
+START spi-samekh3
 z,a,v,a,(ti),d
 SPACE
 v,·,∵,n.,-,α,_,x,:,l,a,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:42 in vtrad vtsef
 ʕ,:_,d,i,y,n,a,(qa),α
@@ -8549,7 +8549,7 @@ SPACE
 w,:,ʕ,a,l,a,(me),y,w
 SPACE
 $,·sh,:,l,o,$,·sh,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:43 in vtrad vtsef
 x,a,n,a,n.,(p)
@@ -8559,30 +8559,30 @@ SPACE
 w,:,y,w,o,$,·sh,a,f,a,(ti),θ
 SPACE
 h,_,m,·,i,τ,:,n,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:44 in vtrad vtsef
 ʕ,u,z,·,i,y,·,a,(ti),α
 SPACE
 h,a,ʕ,_,$,·sh,:,τ,·,:,r,a,τ,i,⅄,y
-START spi-samekh3 
+START spi-samekh3
 $,·sh,a,m,a,ʕ,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,y,ʕ,w,α,l
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,i,y,ʕ,i,y,α,‥,ƶ,l
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,:,n,‥,(ti),y
 SPACE
 x,w,o,τ,a,(me),m.
 SPACE
 h,a,ʕ,:_,r,o,ʕ,‥,r,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:45 in vtrad vtsef
 y,:,d,i,𝓂,y,ʕ,:_,α,‥,l,(p)
@@ -8594,7 +8594,7 @@ SPACE
 α,a,x,i,(ti),y,w
 SPACE
 h,_,τ,·,i,y,ц,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 11:46 in vtrad vtsef
 α,:∵,l,i,y,α,‥,l,(p)
@@ -8608,7 +8608,7 @@ SPACE
 v,·,:,n,‥,⅃,y
 SPACE
 α,∵,l,:,n,a,⅄,ʕ,_,m.
-START spi-samekh3 
+START spi-samekh3
 w,:,y,i,τ,:,m,a,(ti),h
 SPACE
 h,_,m,·,w,o,α,a,v,i,𝓂,y,.
@@ -8617,11 +8617,11 @@ h,_,m,·,w,o,α,a,v,i,𝓂,y,.
 α,:∵,l,i,y,α,‥,⅃,l
 SPACE
 w,:,ʕ,w,o,v,‥,ƶ,d
-START spi-samekh3 
+START spi-samekh3
 w,:,y,_,ʕ,:_,$,·si,i,y,α,‥,(ti),l
 SPACE
 h,_,m,·,:,ц,o,v,a,y,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 12:1 in vtrad vtsef
 w,:,α,‥,◆,l,·,∵,h
@@ -8684,14 +8684,14 @@ h,_,$,·sh,·,:,m,a,ʕ,a,⅃,h
 SPACE
 h,_,g,·,i,v,:,ʕ,a,τ,i,ƶ,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,y,z,w,α,l
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,i,y,z,i,y,α,‥,(me),l
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,a,f,∵,(ti),l,∵,θ
 SPACE
@@ -8726,7 +8726,7 @@ SPACE
 w,:,y,w,o,z,a,v,a,(ti),d
 SPACE
 h,_,g,·,:,d,‥,𝓂,r,a,τ,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 12:6 in vtrad vtsef
 α,∵,l,:,ʕ,w,·,z,_,<,y
@@ -8739,14 +8739,14 @@ w,·,$,·sh,:,m,_,r,:,y,a,ƶ,h,w,·
 SPACE
 w,·,$,·sh,:,f,_,θ,:,y,a,(ti),h,w,·
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,x,r,y,f,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,x,:_,r,w,·,f,i,𝓂,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
 
 1Chronicles 12:7 in vtrad vtsef
@@ -8862,7 +8862,7 @@ SPACE
 ʕ,_,$,·sh,:,τ,·,‥,(me),y
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 12:15 in vtrad vtsef
 α,‥,(me),l,·,∵,h
@@ -8903,14 +8903,14 @@ SPACE
 m,:,m,_,l,·,‥,(ti),α
 SPACE
 ʕ,_,l,-,k,·,oa,l,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 g,·,:,d,w,o,τ,a,⅄,y,w
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 g,d,y,τ,y,w
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 w,_,y,·,_,v,:,r,i,(p),y,x,w,·,(p)
 SPACE
@@ -8919,7 +8919,7 @@ SPACE
 l,_,m,·,i,z,:,r,a,(ti),x
 SPACE
 w,:,l,_,𝓂,m,·,_,ʕ,:_,r,a,𝓂,v,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 12:17 in vtrad vtsef
 w,_,y,·,a,v,o,◆,α,w,·
@@ -8980,7 +8980,7 @@ SPACE
 α,:_,v,w,o,τ,‥,(ti),y,n,w,·
 SPACE
 w,:,y,w,o,k,_,𝓂,x,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 12:19 in vtrad vtsef
 w,:,r,⅃,w,·,x,_
@@ -8991,14 +8991,14 @@ SPACE
 SPACE
 r,o,⅃,α,$,·sh
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,$,l,w,$,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,$,·sh,·,a,l,i,y,$,·sh,i,y,m.,∴
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,:,k.,a,<
 SPACE
@@ -9009,7 +9009,7 @@ SPACE
 v,∵,n.,-,y,i,$,·sh,_,ƶ,y
 SPACE
 $,·sh,a,l,(qa),w,o,m.
-START lp-paseq 
+START lp-paseq
 $,·sh,a,l,(ge),w,o,m.
 SPACE
 l,:,k.,a,◆
@@ -9033,7 +9033,7 @@ SPACE
 v,·,:,r,a,α,$,·sh,‥,(me),y
 SPACE
 h,_,g,·,:,d,𝓂,w,·,d,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 12:20 in vtrad vtsef
 w,·,m,i,𝓂,m,·,:,n,_,$,·sh,·,∵,(G),h
@@ -9082,7 +9082,7 @@ SPACE
 n,a,f,:,l,⅃,w,·
 SPACE
 ʕ,a,l,a,⅃,y,w
-START lp-paseq 
+START lp-paseq
 m,i,𝓂,m,·,:,n,_,$,·sh,·,∵,μ,h
 SPACE
 ʕ,_,⌕,d,:,n,_,⌕,x
@@ -9148,7 +9148,7 @@ SPACE
 k,·,:,m,_,x,:_,n,‥,(me),h
 SPACE
 α,:∵,l,o,h,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 12:24 in vtrad vtsef
 w,:,⌕,α,‥,⌕,l,·,∵,h
@@ -9178,7 +9178,7 @@ SPACE
 k,·,:,f,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 12:25 in vtrad vtsef
 v,·,:,n,‥,⅃,y
@@ -9202,7 +9202,7 @@ SPACE
 x,:_,l,w,·,ц,‥,(me),y
 SPACE
 ц,a,v,a,𝓂,α,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 12:26 in vtrad vtsef
 m,i,n.,-,v,·,:,n,‥,⅃,y
@@ -9220,7 +9220,7 @@ SPACE
 α,:_,l,a,f,i,(ti),y,m.
 SPACE
 w,·,m,‥,α,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 12:27 in vtrad vtsef
 m,i,n.,-,v,·,:,n,‥,y,(p)
@@ -9234,7 +9234,7 @@ SPACE
 w,:,$,·sh,‥,(me),$,·sh
 SPACE
 m,‥,α,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 12:28 in vtrad vtsef
 w,i,y,h,w,o,y,a,d,a,(ti),ʕ
@@ -9252,7 +9252,7 @@ SPACE
 w,·,$,·sh,:,v,_,(me),ʕ
 SPACE
 m,‥,α,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 12:29 in vtrad vtsef
 w,:,ц,a,d,(me),w,o,q
@@ -9270,7 +9270,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 12:30 in vtrad vtsef
 w,·,m,i,n.,-,v,·,:,n,‥,(da),y
@@ -9296,7 +9296,7 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 $,·sh,a,α,𝓂,w,·,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 12:31 in vtrad vtsef
 w,·,m,i,n.,-,v,·,:,n,‥,⅃,y
@@ -9322,7 +9322,7 @@ SPACE
 l,:,v,‥,(me),y,τ
 SPACE
 α,:_,v,w,o,τ,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 12:32 in vtrad vtsef
 w,·,m,‥,𝓂,x,:_,ц,i,y,(p)
@@ -9348,7 +9348,7 @@ SPACE
 l,:,h,_,m,:,l,i,(me),y,k.,:
 SPACE
 α,∵,τ,-,d,·,a,w,i,𝓂,y,d,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 12:33 in vtrad vtsef
 w,·,m,i,v,·,:,n,‥,⅃,y
@@ -9374,7 +9374,7 @@ SPACE
 w,:,k,oa,l,-,α,:_,x,‥,y,h,∵,(ti),m.
 SPACE
 ʕ,_,l,-,f,·,i,y,h,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 12:34 in vtrad vtsef
 m,i,z,·,:,v,u,l,(G),w,·,n.
@@ -9400,7 +9400,7 @@ SPACE
 v,·,:,l,o,α,-,l,‥,(me),v
 SPACE
 w,a,l,‥,𝓂,v,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 12:35 in vtrad vtsef
 w,·,m,i,n,·,_,f,:,τ,·,a,l,i,(ti),y
@@ -9420,7 +9420,7 @@ SPACE
 w,:,$,·sh,i,v,:,ʕ,a,(ti),h
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 12:36 in vtrad vtsef
 w,·,m,i,n.,-,h,_,d,·,a,n,i,y,(p)
@@ -9436,7 +9436,7 @@ SPACE
 w,:,$,·sh,‥,(me),$,·sh
 SPACE
 m,‥,α,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 12:37 in vtrad vtsef
 w,·,m,‥,𝓂,α,a,$,·sh,‥,◆,r
@@ -9452,7 +9452,7 @@ SPACE
 α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 12:38 in vtrad vtsef
 w,·,m,‥,ʕ,‥,⅃,v,∵,r
@@ -9464,7 +9464,7 @@ SPACE
 w,:,h,_,g,·,a,d,i,(ge),y
 SPACE
 w,_,x,:_,ц,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·sh,‥,⅃,v,∵,θ
 SPACE
@@ -9483,7 +9483,7 @@ SPACE
 w,:,ʕ,∵,$,·si,:,r,i,(ti),y,m.
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 12:39 in vtrad vtsef
 k,·,oa,l,-,α,‥,(ge),l,·,∵,h
@@ -9563,7 +9563,7 @@ SPACE
 w,·,v,_,g,·,:,m,_,l,·,i,⅃,y,m.
 SPACE
 w,·,v,_,f,·,:,r,a,d,i,⅃,y,m.
-START lp-paseq 
+START lp-paseq
 w,·,𝓂,v,_,v,·,a,q,a,μ,r
 SPACE
 m,_,α,:_,k,a,μ,l
@@ -9587,7 +9587,7 @@ SPACE
 $,·si,i,m,:,x,a,(ti),h
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 13:1 in vtrad vtsef
 w,_,y,·,i,w,·,a,ʕ,_,⅃,ц.
@@ -9608,7 +9608,7 @@ SPACE
 d,·,a,w,i,(ge),y,d
 SPACE
 l,:,k,o,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 q,:,h,_,⅃,l
 SPACE
@@ -9735,7 +9735,7 @@ SPACE
 α,:_,r,(qa),w,o,n.
 SPACE
 h,a,α,:∵,l,o,h,i,(da),y,m.
-START lp-paseq 
+START lp-paseq
 y,:,h,o,w,a,⟓,h
 SPACE
 y,w,o,$,·sh,‥,(me),v
@@ -9945,19 +9945,19 @@ SPACE
 ʕ,o,v,‥,𝓂,d,-,α,:∵,d,o,(ti),m.
 SPACE
 w,:,α,∵,τ,-,k,·,oa,l,-,α,:_,$,·sh,∵,r,-,l,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 14:1 in vtrad vtsef
 w,_,⌕,y,·,i,$,·sh,:,l,_,⌕,x
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 x,y,r,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 x,w,·,r,a,(qa),m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,∵,l,∵,k.,:,-,ц,o,(me),r
 SPACE
@@ -10007,7 +10007,7 @@ SPACE
 ʕ,_,m,·,(me),w,o
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 14:3 in vtrad vtsef
 w,_,y,·,i,q,·,_,(qa),x
@@ -10071,7 +10071,7 @@ SPACE
 w,·,v,:,ʕ,∵,l,:,y,a,d,a,(ti),ʕ
 SPACE
 w,∵,α,:∵,l,i,y,f,a,𝓂,l,∵,θ,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 14:8 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,:,ʕ,⅃,w,·
@@ -10125,14 +10125,14 @@ SPACE
 h,_,α,∵,𝓂,ʕ,:∵,l,∵,h,(p)
 SPACE
 ʕ,_,l,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 f,·,:,l,i,$,·sh,:,τ,·,i,ƶ,y,m.
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 f,l,$,τ,y,y,m.
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 w,·,n,:,τ,_,τ,·,a,(ti),m.
 SPACE
@@ -10203,7 +10203,7 @@ SPACE
 w,_,y,·,i,$,·si,·,a,r,:,f,(ti),w,·
 SPACE
 v,·,a,α,‥,𝓂,$,·sh,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 14:13 in vtrad vtsef
 w,_,y,·,o,σ,i,<,y,f,w,·
@@ -10357,7 +10357,7 @@ SPACE
 α,i,m.,-,h,_,l,:,w,i,y,·,i,⅄,m.
 SPACE
 k,·,i,y,-,v,a,⅃,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,a,x,_,⅃,r
 SPACE
@@ -10372,7 +10372,7 @@ SPACE
 w,·,𝓂,l,:,$,·sh,a,r,:,τ,(ti),w,o
 SPACE
 ʕ,_,d,-,ʕ,w,o,l,a,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 15:3 in vtrad vtsef
 w,_,y,·,_,q,:,h,‥,(me),l
@@ -10405,7 +10405,7 @@ SPACE
 α,_,h,:_,r,o,(ti),n.
 SPACE
 w,:,α,∵,τ,-,h,_,l,:,w,i,y,·,i,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 15:5 in vtrad vtsef
 l,i,v,:,n,‥,(ti),y
@@ -10421,7 +10421,7 @@ SPACE
 m,‥,α,a,(me),h
 SPACE
 w,:,ʕ,∵,$,·si,:,r,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 15:6 in vtrad vtsef
 l,i,v,:,n,‥,(ti),y
@@ -10437,7 +10437,7 @@ SPACE
 m,a,α,τ,_,(me),y,i,m.
 SPACE
 w,:,ʕ,∵,$,·si,:,r,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 15:7 in vtrad vtsef
 l,i,v,:,n,‥,(ti),y
@@ -10453,7 +10453,7 @@ SPACE
 m,‥,α,a,(me),h
 SPACE
 w,·,$,·sh,:,l,o,$,·sh,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 15:8 in vtrad vtsef
 l,i,v,:,n,‥,(ti),y
@@ -10467,7 +10467,7 @@ SPACE
 w,:,α,∵,x,a,(me),y,w
 SPACE
 m,a,α,τ,a,𝓂,y,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 15:9 in vtrad vtsef
 l,i,v,:,n,‥,(ti),y
@@ -10481,7 +10481,7 @@ SPACE
 w,:,α,∵,x,a,(me),y,w
 SPACE
 $,·sh,:,m,w,o,n,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 15:10 in vtrad vtsef
 l,i,v,:,n,‥,(ti),y
@@ -10499,7 +10499,7 @@ SPACE
 w,·,$,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 15:11 in vtrad vtsef
 w,_,y,·,i,q,:,r,a,⅃,α
@@ -10525,7 +10525,7 @@ SPACE
 w,∵,α,:∵,l,i,y,α,‥,(ti),l
 SPACE
 w,:,ʕ,_,m,·,i,y,n,a,d,a,𝓂,v,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 15:12 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -10628,7 +10628,7 @@ SPACE
 v,·,_,m,·,o,θ,(ti),w,o,τ
 SPACE
 ʕ,:_,l,‥,y,h,∵,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 15:16 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -10658,7 +10658,7 @@ SPACE
 l,:,h,a,r,i,𝓂,y,m.,-,v,·,:,q,(ti),w,o,l
 SPACE
 l,:,$,·si,i,m,:,x,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 15:17 in vtrad vtsef
 w,_,y,·,_,𝓂,ʕ,:_,m,i,⅃,y,d,w,·
@@ -10676,7 +10676,7 @@ SPACE
 α,a,σ,a,(ti),f.
 SPACE
 v,·,∵,n.,-,v,·,∵,r,∵,k,:,y,a,⅄,h,w,·
-START spi-samekh3 
+START spi-samekh3
 w,·,m,i,n.,-,v,·,:,n,‥,<,y
 SPACE
 m,:,r,a,r,i,y,(p)
@@ -10703,7 +10703,7 @@ SPACE
 w,·,$,·sh,:,m,i,y,r,a,m,μ,w,o,τ
 SPACE
 w,i,y,x,i,y,α,‥,⅃,l
-START lp-paseq 
+START lp-paseq
 w,:,ʕ,u,n,·,i,μ,y
 SPACE
 α,:∵,l,i,y,α,a,μ,v
@@ -10826,14 +10826,14 @@ w,∵,α,:∵,l,i,y,ʕ,∵,(p),z,∵,r,(p)
 SPACE
 h,_,k,·,o,⅃,h,:_,n,i,ƶ,y,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 m,x,ц,ц,r,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 m,_,x,:,ц,:,r,i,y,m.,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,_,x,:_,ц,o,⅃,ц,:,r,ƶ,w,o,τ
 SPACE
@@ -10879,7 +10879,7 @@ SPACE
 ʕ,o,v,‥,𝓂,d,-,α,:∵,d,o,(ti),m.
 SPACE
 v,·,:,$,·si,i,m,:,x,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 15:26 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -10908,7 +10908,7 @@ SPACE
 w,:,d,a,w,i,(G),y,d
 SPACE
 m,:,k,u,r,:,v,·,a,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,i,m,:,ʕ,i,⅃,y,l
 SPACE
@@ -10981,7 +10981,7 @@ SPACE
 v,·,_,τ,-,$,·sh,a,α,(ge),w,·,l
 SPACE
 n,i,$,·sh,:,q,:,f,a,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,ʕ,_,⅃,d
 SPACE
@@ -11002,7 +11002,7 @@ SPACE
 l,(ti),w,o
 SPACE
 v,·,:,l,i,v,·,a,𝓂,h,·,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 16:1 in vtrad vtsef
 w,_,y,·,a,v,i,(p),y,α,w,·,(p)
@@ -11097,7 +11097,7 @@ SPACE
 α,:∵,l,o,h,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 16:5 in vtrad vtsef
 α,a,σ,a,(me),f.
@@ -11175,7 +11175,7 @@ SPACE
 v,·,:,y,_,d,-,α,a,σ,a,(ti),f.
 SPACE
 w,:,α,∵,x,a,𝓂,y,w,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 16:8 in vtrad vtsef
 h,w,o,d,<,w,·
@@ -11185,7 +11185,7 @@ SPACE
 q,i,r,:,α,⅃,w,·
 SPACE
 v,i,$,·sh,:,m,ƶ,w,o
-START shirah-space 
+START shirah-space
 h,w,o,d,i,(me),y,ʕ,w,·
 SPACE
 v,a,ʕ,_,m,·,i,(ti),y,m.
@@ -11198,7 +11198,7 @@ SPACE
 l,w,o,(p)
 SPACE
 z,_,m,·,:,r,w,·,-,l,ƶ,w,o
-START shirah-space 
+START shirah-space
 $,·si,i,(ti),y,x,w,·
 SPACE
 v,·,:,k,oa,l,-,n,i,f,:,l,:,α,o,τ,a,𝓂,y,w,.
@@ -11209,7 +11209,7 @@ SPACE
 v,·,:,$,·sh,‥,⅃,m.
 SPACE
 q,oa,d,:,$,·sh,ƶ,w,o
-START shirah-space 
+START shirah-space
 y,i,$,·si,:,m,_,Ƶ,x
 SPACE
 l,‥,(ti),v
@@ -11224,7 +11224,7 @@ SPACE
 y,:,h,o,w,a,h,(p)
 SPACE
 w,:,ʕ,u,z,·,ƶ,w,o
-START shirah-space 
+START shirah-space
 v,·,_,q,·,:,$,·sh,(me),w,·
 SPACE
 f,a,n,a,(ti),y,w
@@ -11239,7 +11239,7 @@ SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
 ʕ,a,$,·si,a,ƶ,h
-START shirah-space 
+START shirah-space
 m,o,f,:,τ,a,(ti),y,w
 SPACE
 w,·,m,i,$,·sh,:,f,·,:,θ,‥,y,-,f,i,𝓂,y,h,w,·,.
@@ -11250,7 +11250,7 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,⅃,l
 SPACE
 ʕ,_,v,:,d,·,ƶ,w,o
-START shirah-space 
+START shirah-space
 v,·,:,n,‥,(me),y
 SPACE
 y,_,ʕ,:_,q,o,(ti),v
@@ -11263,7 +11263,7 @@ SPACE
 y,:,h,o,w,a,⅃,h
 SPACE
 α,:∵,l,o,h,‥,ƶ,y,n,w,·
-START shirah-space 
+START shirah-space
 v,·,:,k,oa,l,-,h,a,α,a,(ti),r,∵,ц.
 SPACE
 m,i,$,·sh,:,f,·,a,θ,a,𝓂,y,w,.
@@ -11274,7 +11274,7 @@ SPACE
 l,:,ʕ,w,o,l,a,m.,(p)
 SPACE
 v,·,:,r,i,y,τ,ƶ,w,o
-START shirah-space 
+START shirah-space
 d,·,a,v,a,(me),r
 SPACE
 ц,i,w,·,a,(ti),h
@@ -11289,7 +11289,7 @@ SPACE
 k,·,a,r,_,τ,(p)
 SPACE
 α,∵,τ,-,α,_,v,:,r,a,h,a,ƶ,m.
-START shirah-space 
+START shirah-space
 w,·,$,·sh,:,v,w,·,ʕ,a,τ,(ti),w,o
 SPACE
 l,:,y,i,ц,:,x,a,𝓂,q,.
@@ -11300,7 +11300,7 @@ SPACE
 l,:,y,_,𝓂,ʕ,:_,q,o,v,(p)
 SPACE
 l,:,x,o,ƶ,q
-START shirah-space 
+START shirah-space
 l,:,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 v,·,:,r,i,(me),y,τ
@@ -11315,7 +11315,7 @@ SPACE
 α,∵,τ,·,‥,⅃,n.
 SPACE
 α,∵,𝓂,r,∵,ц.,-,k,·,:,n,a,ƶ,ʕ,_,n.
-START shirah-space 
+START shirah-space
 x,∵,(ti),v,∵,l
 SPACE
 n,_,x,:_,l,_,τ,:,k,∵,𝓂,m.,.
@@ -11326,7 +11326,7 @@ SPACE
 m,:,τ,‥,⅃,y
 SPACE
 m,i,σ,:,f,·,a,ƶ,r
-START shirah-space 
+START shirah-space
 k,·,i,m,:,ʕ,_,(ti),θ
 SPACE
 w,:,g,a,r,i,(me),y,m.
@@ -11339,7 +11339,7 @@ SPACE
 m,i,g,·,⅃,w,o,y
 SPACE
 α,∵,l,-,g,·,ƶ,w,o,y
-START shirah-space 
+START shirah-space
 w,·,m,i,m,·,_,m,:,l,a,k,a,(ti),h
 SPACE
 α,∵,l,-,ʕ,_,(me),m.
@@ -11352,7 +11352,7 @@ SPACE
 l,:,α,i,y,$,·sh,(p)
 SPACE
 l,:,ʕ,oa,$,·sh,:,q,a,ƶ,m.
-START shirah-space 
+START shirah-space
 w,_,y,·,(me),w,o,k,_,x
 SPACE
 ʕ,:_,l,‥,y,h,∵,(ti),m.
@@ -11363,11 +11363,11 @@ m,:,l,a,k,i,𝓂,y,m.,.
 α,_,𝓂,l,-,τ,·,i,g,·,:,ʕ,w,·,(p)
 SPACE
 v,·,i,m,:,$,·sh,i,y,x,a,ƶ,y
-START shirah-space 
+START shirah-space
 w,·,v,i,n,:,v,i,y,α,_,(ti),y
 SPACE
 α,_,l,-,τ,·,a,r,‥,𝓂,ʕ,w,·,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 16:23 in vtrad vtsef
 $,·sh,i,<,y,r,w,·
@@ -11375,7 +11375,7 @@ SPACE
 l,_,𝓂,y,h,o,w,a,h,(p)
 SPACE
 k,·,oa,l,-,h,a,α,a,ƶ,r,∵,ц.
-START shirah-space 
+START shirah-space
 v,·,_,$,·si,·,:,r,(me),w,·
 SPACE
 m,i,y,·,𝓂,w,o,m.,-,α,∵,l,-,y,(ti),w,o,m.
@@ -11388,7 +11388,7 @@ SPACE
 v,_,g,·,w,o,y,i,m.,(p)
 SPACE
 α,∵,τ,-,k,·,:,v,w,o,d,ƶ,w,o
-START shirah-space 
+START shirah-space
 v,·,:,k,oa,l,-,h,a,ʕ,_,m,·,i,(ti),y,m.
 SPACE
 n,i,f,:,l,:,α,o,τ,a,𝓂,y,w,.
@@ -11403,7 +11403,7 @@ SPACE
 w,·,m,:,h,u,l,·,a,l,(p)
 SPACE
 m,:,α,o,ƶ,d
-START shirah-space 
+START shirah-space
 w,:,n,w,o,r,a,(me),α
 SPACE
 h,(ti),w,·,α
@@ -11418,7 +11418,7 @@ SPACE
 h,a,𝓂,ʕ,_,m,·,i,y,m.,(p)
 SPACE
 α,:∵,l,i,y,l,i,ƶ,y,m.
-START shirah-space 
+START shirah-space
 w,_,y,h,o,w,a,(ti),h
 SPACE
 $,·sh,a,m,_,(me),y,i,m.
@@ -11431,7 +11431,7 @@ SPACE
 w,:,h,a,d,a,r,(p)
 SPACE
 l,:,f,a,n,a,ƶ,y,w
-START shirah-space 
+START shirah-space
 ʕ,o,(me),z
 SPACE
 w,:,x,∵,d,:,w,a,(ti),h
@@ -11446,7 +11446,7 @@ SPACE
 m,i,$,·sh,:,f,·,:,x,⅃,w,o,τ
 SPACE
 ʕ,_,m,·,i,ƶ,y,m.
-START shirah-space 
+START shirah-space
 h,a,v,(me),w,·
 SPACE
 l,_,y,h,o,w,a,(ti),h
@@ -11463,7 +11463,7 @@ SPACE
 k,·,:,v,⅃,w,o,d
 SPACE
 $,·sh,:,m,⅄,w,o
-START shirah-space 
+START shirah-space
 $,·si,:,α,<,w,·
 SPACE
 m,i,n,:,x,a,h,(p)
@@ -11477,7 +11477,7 @@ SPACE
 l,_,𝓂,y,h,o,w,a,(ti),h
 SPACE
 v,·,:,h,_,d,:,r,_,τ,-,q,o,𝓂,d,∵,$,·sh,.
-START shirah-space 
+START shirah-space
 
 1Chronicles 16:30 in vtrad vtsef
 x,i,<,y,l,w,·
@@ -11491,7 +11491,7 @@ SPACE
 τ,·,‥,v,‥,(ti),l
 SPACE
 v,·,_,l,-,τ,·,i,m,·,𝓂,w,o,θ,.
-START shirah-space 
+START shirah-space
 
 1Chronicles 16:31 in vtrad vtsef
 y,i,$,·si,:,m,:,x,<,w,·
@@ -11509,7 +11509,7 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 m,a,l,a,𝓂,k.,:,.
-START shirah-space 
+START shirah-space
 
 1Chronicles 16:32 in vtrad vtsef
 y,i,r,:,ʕ,_,<,m.
@@ -11523,7 +11523,7 @@ SPACE
 h,_,$,·si,·,a,d,∵,(ti),h
 SPACE
 w,:,k,oa,l,-,α,:_,$,·sh,∵,r,-,v,·,𝓂,w,o,.
-START shirah-space 
+START shirah-space
 
 1Chronicles 16:33 in vtrad vtsef
 α,a,(me),z
@@ -11543,7 +11543,7 @@ SPACE
 l,i,$,·sh,:,f,·,(me),w,o,θ
 SPACE
 α,∵,τ,-,h,a,α,a,𝓂,r,∵,ц.,.
-START shirah-space 
+START shirah-space
 
 1Chronicles 16:34 in vtrad vtsef
 h,w,o,d,<,w,·
@@ -11559,7 +11559,7 @@ SPACE
 l,:,ʕ,w,o,l,a,(ti),m.
 SPACE
 x,_,σ,:,d,·,𝓂,w,o,.
-START shirah-space 
+START shirah-space
 
 1Chronicles 16:35 in vtrad vtsef
 w,:,α,i,m,:,r,Ƶ,w,·
@@ -11575,7 +11575,7 @@ SPACE
 w,:,h,_,ц,·,i,y,l,‥,(ti),n,w,·
 SPACE
 m,i,n.,-,h,_,g,·,w,o,y,i,⅄,m.
-START shirah-space 
+START shirah-space
 l,:,h,o,d,w,o,τ,(p)
 SPACE
 l,:,$,·sh,‥,⅃,m.
@@ -11585,7 +11585,7 @@ SPACE
 l,:,h,i,$,·sh,:,τ,·,_,v,·,‥,(ti),x,_
 SPACE
 v,·,i,τ,:,h,i,l,·,a,τ,∵,𝓂,k.,a,.
-START shirah-space 
+START shirah-space
 
 1Chronicles 16:36 in vtrad vtsef
 v,·,a,r,<,w,·,k.,:
@@ -11607,11 +11607,11 @@ SPACE
 k,oa,l,-,h,a,ʕ,a,m.,(p)
 SPACE
 α,a,m,‥,ƶ,n.
-START shirah-space 
+START shirah-space
 w,:,h,_,l,·,‥,(ti),l
 SPACE
 l,_,y,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 16:37 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,z,oa,v,-,$,·sh,a,◆,m.
@@ -11648,7 +11648,7 @@ SPACE
 $,·sh,i,$,·sh,·,i,⅃,y,m.
 SPACE
 w,·,$,·sh,:,m,w,o,n,a,⅄,h
-START spi-samekh3 
+START spi-samekh3
 w,:,ʕ,o,v,‥,(qa),d
 SPACE
 α,:∵,d,o,(da),m.
@@ -11661,7 +11661,7 @@ l,:,$,·sh,o,ʕ,:_,r,i,𝓂,y,m.,.
 
 1Chronicles 16:39 in vtrad vtsef
 w,:,α,‥,⅃,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 ц,a,d,⅃,w,o,q
 SPACE
@@ -11780,7 +11780,7 @@ SPACE
 l,:,v,a,r,‥,(me),k.,:
 SPACE
 α,∵,τ,-,v,·,‥,y,τ,𝓂,w,o,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 17:1 in vtrad vtsef
 w,_,y,:,h,i,Ƶ,y
@@ -11839,7 +11839,7 @@ SPACE
 h,a,α,:∵,l,o,h,i,(ti),y,m.
 SPACE
 ʕ,i,m,·,a,𝓂,k.,:,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 17:3 in vtrad vtsef
 w,_,y,:,h,i,(ti),y
@@ -11957,7 +11957,7 @@ SPACE
 l,:,ʕ,_,v,:,d,·,i,⅃,y
 SPACE
 l,:,d,a,w,i,◆,y,d
-START spi-samekh2 
+START spi-samekh2
 k,·,o,<,h
 SPACE
 α,a,m,_,r,(p)
@@ -12181,7 +12181,7 @@ SPACE
 n,a,τ,a,(ti),n.
 SPACE
 α,∵,l,-,d,·,a,w,i,𝓂,y,d,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 17:16 in vtrad vtsef
 w,_,y,·,a,v,o,α,(p)
@@ -12353,7 +12353,7 @@ SPACE
 α,∵,τ,-,ʕ,_,m,·,:,k.,a,(qa)
 SPACE
 y,i,$,·si,:,r,a,α,‥,(da),l
-START lp-paseq 
+START lp-paseq
 l,:,k.,a,⟓
 SPACE
 l,:,ʕ,a,(ti),m.
@@ -12428,7 +12428,7 @@ l,:,f,a,n,∵,𝓂,y,k.,a,.
 
 1Chronicles 17:25 in vtrad vtsef
 k,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,_,τ,·,a,⅃,h
 SPACE
@@ -12499,7 +12499,7 @@ SPACE
 w,·,m,:,v,o,r,a,(ti),k.,:
 SPACE
 l,:,ʕ,w,o,l,a,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 18:1 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -12704,7 +12704,7 @@ SPACE
 m,:,α,o,⅄,d
 SPACE
 v,·,a,⅃,h,·
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 ʕ,a,$,·si,a,⅃,h
 SPACE
@@ -12721,7 +12721,7 @@ SPACE
 k,·,:,l,‥,(me),y
 SPACE
 h,_,n,·,:,x,o,𝓂,$,·sh,∵,τ,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 18:9 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,_,Ƶ,ʕ
@@ -12751,14 +12751,14 @@ SPACE
 SPACE
 α,∵,l,-,h,_,m,·,∵,𝓂,l,∵,k.,:,-,d,·,a,⌕,w,i,⌕,y,d
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,$,α,w,l
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,i,$,·sh,:,α,oa,l,-
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 l,(qa),w,o
 SPACE
 l,:,$,·sh,a,l,(ge),w,o,m.
@@ -12935,7 +12935,7 @@ SPACE
 l,:,y,_,(me),d
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 19:1 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -12962,7 +12962,7 @@ SPACE
 d,·,a,w,i,(ge),y,d
 SPACE
 α,∵,ʕ,:∵,$,·si,∵,h,-,x,∵,⅃,σ,∵,d
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 ʕ,i,m.,-,x,a,n,⅃,w,·,n.
 SPACE
@@ -13098,7 +13098,7 @@ SPACE
 z,:,q,_,n,:,k,∵,(ti),m.
 SPACE
 w,:,$,·sh,_,v,:,τ,·,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 19:6 in vtrad vtsef
 w,_,y,·,i,r,:,α,w,·,(p)
@@ -13169,7 +13169,7 @@ SPACE
 l,i,f,:,n,‥,⅃,y
 SPACE
 m,‥,y,d,:,v,a,⅄,α
-START spi-samekh3 
+START spi-samekh3
 w,·,v,:,n,‥,⅃,y
 SPACE
 ʕ,_,m,·,◆,w,o,n.
@@ -13181,7 +13181,7 @@ SPACE
 w,_,y,·,a,v,o,(ti),α,w,·
 SPACE
 l,_,m,·,i,l,:,x,a,m,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 19:8 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,_,(ti),ʕ
@@ -13285,7 +13285,7 @@ SPACE
 l,·,i,(ti),y
 SPACE
 l,i,τ,:,$,·sh,w,·,ʕ,a,⅄,h
-START spi-samekh2 
+START spi-samekh2
 w,:,α,i,m.,-,v,·,:,n,‥,(me),y
 SPACE
 ʕ,_,m,·,⟓,w,o,n.
@@ -13366,7 +13366,7 @@ SPACE
 y,w,o,α,a,(ti),v
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 19:16 in vtrad vtsef
 w,_,y,·,_,⅃,r,:,α
@@ -13505,7 +13505,7 @@ SPACE
 α,∵,τ,-,v,·,:,n,‥,𝓂,y,-,ʕ,_,m,·,(ti),w,o,n.
 SPACE
 ʕ,𝓂,w,o,d,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 20:1 in vtrad vtsef
 w,_,y,:,h,i,μ,y
@@ -13517,7 +13517,7 @@ SPACE
 h,_,$,·sh,·,a,n,a,(ge),h
 SPACE
 l,:,ʕ,‥,⅃,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 ц,‥,⅃,α,τ
 SPACE
@@ -13532,7 +13532,7 @@ SPACE
 h,_,ц,·,a,v,a,(ge),α
 SPACE
 w,_,y,·,_,$,·sh,:,x,‥,⅃,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,∵,τ,-,α,∵,⅃,r,∵,ц.
 SPACE
@@ -13570,7 +13570,7 @@ SPACE
 r,o,α,$,·sh,(ge),w,o
 SPACE
 w,_,𝓂,y,·,i,m,:,ц,a,α,a,⅃,h,·
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,i,$,·sh,:,q,_,⅃,l
 SPACE
@@ -13634,7 +13634,7 @@ SPACE
 w,:,k,oa,l,-,h,a,ʕ,a,(ti),m.
 SPACE
 y,:,r,𝓂,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 20:4 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -13677,14 +13677,14 @@ SPACE
 α,∵,l,:,x,a,n,a,⅃,n.
 SPACE
 v,·,∵,n.,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 y,a,ʕ,i,◆,y,r
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 y,ʕ,w,r
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 α,∵,τ,-,l,_,x,:,m,i,y,(p)
 SPACE
@@ -13701,7 +13701,7 @@ SPACE
 k,·,i,m,:,n,(ti),w,o,r
 SPACE
 α,o,r,:,g,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 20:6 in vtrad vtsef
 w,_,τ,·,:,h,i,y,-,ʕ,(me),w,o,d
@@ -13711,7 +13711,7 @@ SPACE
 v,·,:,g,_,⅄,τ
 SPACE
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,i,⅃,y,$,·sh
 SPACE
@@ -13760,7 +13760,7 @@ SPACE
 v,:,y,_,d,-,d,·,a,w,i,(ti),y,d
 SPACE
 w,·,v,:,y,_,d,-,ʕ,:_,v,a,d,a,𝓂,y,w,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 21:1 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,m,o,(me),d
@@ -13818,7 +13818,7 @@ SPACE
 y,:,h,o,w,a,(qa),h
 SPACE
 ʕ,_,l,-,ʕ,_,m,·,<,w,o
-START lp-paseq 
+START lp-paseq
 k,·,a,h,‥,m.,(p)
 SPACE
 m,‥,α,a,⅃,h
@@ -13946,7 +13946,7 @@ SPACE
 w,_,y,·,_,(ti),k.,:
 SPACE
 α,∵,τ,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 21:8 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -13980,7 +13980,7 @@ SPACE
 n,i,σ,:,k,·,_,(ti),l,:,τ,·,i,y
 SPACE
 m,:,α,o,𝓂,d,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 21:9 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,<,r
@@ -14061,7 +14061,7 @@ SPACE
 w,:,x,∵,⅃,r,∵,v
 SPACE
 α,w,o,y,:,v,∵,⅃,y,k.,a
-START lp-paseq 
+START lp-paseq
 l,:,m,_,$,·si,·,∵,∴,g,∵,τ,∴
 SPACE
 w,:,α,i,m.,-,$,·sh,:,l,o,⅃,$,·sh,∵,τ
@@ -14095,7 +14095,7 @@ SPACE
 α,∵,τ,-,$,·sh,o,l,:,x,i,(ti),y
 SPACE
 d,·,a,v,a,𝓂,r,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 21:13 in vtrad vtsef
 w,_,y,·,o,(da),α,m,∵,r
@@ -14145,9 +14145,9 @@ SPACE
 w,_,y,·,i,$,·sh,:,l,_,x,(tq)
 SPACE
 h,a,α,:∵,l,o,h,i,(qa),y,m.
-START lp-paseq 
+START lp-paseq
 m,_,l,:,α,a,(me),k.,:
-START lp-paseq 
+START lp-paseq
 l,i,y,r,w,·,$,·sh,a,l,_,≁,CGJ,i,m.,~
 SPACE
 l,:,h,_,$,·sh,:,x,i,y,τ,a,h,·,∴
@@ -14187,7 +14187,7 @@ SPACE
 α,oa,r,:,n,a,(me),n.
 SPACE
 h,_,y,:,v,w,·,σ,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 21:16 in vtrad vtsef
 w,_,y,·,i,$,·si,·,a,(qa),α
@@ -14288,7 +14288,7 @@ SPACE
 l,o,(me),α
 SPACE
 l,:,m,_,g,·,‥,f,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 21:18 in vtrad vtsef
 w,·,m,_,l,:,α,_,(da),k.,:
@@ -14304,7 +14304,7 @@ SPACE
 l,:,d,a,w,i,⅄,y,d
 SPACE
 k,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 y,_,ʕ,:_,l,∵,⅃,h
 SPACE
@@ -14545,7 +14545,7 @@ SPACE
 m,i,z,:,v,·,_,(me),x
 SPACE
 h,a,ʕ,o,l,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 21:27 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -14630,7 +14630,7 @@ SPACE
 m,_,l,:,α,_,(me),k.,:
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 22:1 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -14652,7 +14652,7 @@ SPACE
 l,:,ʕ,o,l,a,(ti),h
 SPACE
 l,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 22:2 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -14687,7 +14687,7 @@ h,a,α,:∵,l,o,h,i,𝓂,y,m.,.
 
 1Chronicles 22:3 in vtrad vtsef
 w,·,v,_,r,:,z,∵,⅃,l
-START lp-paseq 
+START lp-paseq
 l,a,⌕,r,o,⌕,v
 SPACE
 l,_,𝓂,m,·,i,σ,:,m,:,r,i,(G),y,m.
@@ -14732,7 +14732,7 @@ SPACE
 l,a,r,o,(ti),v
 SPACE
 l,:,d,a,w,i,𝓂,y,d,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 22:5 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -14754,7 +14754,7 @@ SPACE
 l,_,𝓂,y,h,o,w,a,◆,h
 SPACE
 l,:,h,_,g,:,d,·,i,(qa),y,l
-START lp-paseq 
+START lp-paseq
 l,:,m,_,(ge),ʕ,:,l,a,h
 SPACE
 l,:,$,·sh,‥,<,m.
@@ -14797,7 +14797,7 @@ SPACE
 α,:∵,l,o,h,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 22:7 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
@@ -14806,14 +14806,14 @@ d,·,a,w,i,(ti),y,d
 SPACE
 l,i,$,·sh,:,l,o,m,o,⅄,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 v,n,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,·,:,n,i,Ƶ,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,:_,n,i,y,(p)
 SPACE
@@ -15124,7 +15124,7 @@ SPACE
 l,i,$,·sh,:,l,o,m,o,(me),h
 SPACE
 v,:,n,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 22:18 in vtrad vtsef
 h,:_,l,o,(qa),α
@@ -15142,7 +15142,7 @@ SPACE
 m,i,σ,·,a,v,i,⅄,y,v
 SPACE
 k,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 n,a,τ,_,⅃,n.
 SPACE
@@ -15208,7 +15208,7 @@ SPACE
 h,_,n,·,i,v,:,n,∵,(me),h
 SPACE
 l,:,$,·sh,‥,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 23:1 in vtrad vtsef
 w,:,d,a,w,i,(me),y,d
@@ -15310,7 +15310,7 @@ SPACE
 ʕ,a,$,·si,i,(ti),y,τ,i,y
 SPACE
 l,:,h,_,l,·,‥,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 23:6 in vtrad vtsef
 w,_,y,·,∵,x,a,l,:,q,‥,(me),m.
@@ -15318,7 +15318,7 @@ SPACE
 d,·,a,w,i,(ti),y,d
 SPACE
 m,_,x,:,l,:,q,⅄,w,o,τ
-START spi-samekh3 
+START spi-samekh3
 l,i,v,:,n,‥,⅃,y
 SPACE
 l,‥,w,i,ƶ,y
@@ -15328,7 +15328,7 @@ SPACE
 q,:,h,a,(me),τ
 SPACE
 w,·,m,:,r,a,r,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 23:7 in vtrad vtsef
 l,_,g,·,‥,r,:,$,·sh,u,n,·,i,(ti),y
@@ -15336,7 +15336,7 @@ SPACE
 l,_,ʕ,:,d,·,a,(me),n.
 SPACE
 w,:,$,·sh,i,m,:,ʕ,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 23:8 in vtrad vtsef
 v,·,:,n,‥,⅃,y
@@ -15352,21 +15352,21 @@ SPACE
 w,:,y,w,o,α,‥,(ti),l
 SPACE
 $,·sh,:,l,o,$,·sh,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 23:9 in vtrad vtsef
 v,·,:,n,‥,⅃,y
 SPACE
 $,·sh,i,m,:,ʕ,i,◆,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 $,l,m,w,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·sh,:,l,o,m,i,(da),y,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,_,x,:_,z,i,y,α,‥,⟓,l
 SPACE
@@ -15381,7 +15381,7 @@ SPACE
 h,a,α,a,v,(ti),w,o,τ
 SPACE
 l,:,l,_,ʕ,:,d,·,a,𝓂,n.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 23:10 in vtrad vtsef
 w,·,v,:,n,‥,⅃,y
@@ -15428,7 +15428,7 @@ SPACE
 l,i,f,:,q,u,d,·,a,(ti),h
 SPACE
 α,∵,x,a,𝓂,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 23:12 in vtrad vtsef
 v,·,:,n,‥,⅃,y
@@ -15444,7 +15444,7 @@ SPACE
 w,:,ʕ,u,z,·,i,y,α,‥,(ti),l
 SPACE
 α,_,r,:,v,·,a,ʕ,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 23:13 in vtrad vtsef
 v,·,:,n,‥,(me),y
@@ -15497,7 +15497,7 @@ SPACE
 ʕ,_,l,-,$,·sh,‥,(me),v,∵,θ
 SPACE
 h,_,l,·,‥,w,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 23:15 in vtrad vtsef
 v,·,:,n,‥,⅃,y
@@ -15541,7 +15541,7 @@ SPACE
 r,a,v,(me),w,·
 SPACE
 l,:,m,a,𝓂,ʕ,:,l,a,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 23:18 in vtrad vtsef
 v,·,:,n,‥,(me),y
@@ -15636,7 +15636,7 @@ SPACE
 w,i,y,r,‥,m,(ti),w,o,τ
 SPACE
 $,·sh,:,l,w,o,$,·sh,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 23:24 in vtrad vtsef
 α,‥,⅃,l,·,∵,h
@@ -15856,7 +15856,7 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 24:1 in vtrad vtsef
 w,:,l,i,v,:,n,‥,(me),y
@@ -15984,7 +15984,7 @@ SPACE
 w,·,v,i,v,:,n,‥,(me),y
 SPACE
 α,i,y,τ,a,m,a,𝓂,r,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 24:6 in vtrad vtsef
 w,_,𝓂,y,·,i,k,:,τ,·,:,v,‥,μ,m.
@@ -16028,11 +16028,11 @@ SPACE
 l,:,α,∵,l,:,ʕ,a,z,a,ƶ,r
 SPACE
 w,:,α,a,x,u,(me),z
-START lp-paseq 
+START lp-paseq
 α,a,x,u,(ti),z
 SPACE
 l,:,α,i,y,τ,a,m,a,𝓂,r,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 24:7 in vtrad vtsef
 w,_,y,·,‥,ц,‥,(G),α
@@ -16042,51 +16042,51 @@ SPACE
 h,a,𝓂,r,i,α,$,·sh,w,o,n.,(p)
 SPACE
 l,i,y,h,⅃,w,o,y,a,r,i,ƶ,y,v
-START spi-samekh3 
+START spi-samekh3
 l,i,y,d,_,𝓂,ʕ,:,y,a,(ti),h
 SPACE
 h,_,$,·sh,·,‥,n,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 24:8 in vtrad vtsef
 l,:,x,a,r,i,m.,(p)
 SPACE
 h,_,$,·sh,·,:,l,i,y,$,·sh,i,ƶ,y
-START spi-samekh3 
+START spi-samekh3
 l,i,$,·si,:,ʕ,o,r,i,(ti),y,m.
 SPACE
 h,a,r,:,v,i,ʕ,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 24:9 in vtrad vtsef
 l,:,m,_,l,:,k,·,i,y,·,a,h,(p)
 SPACE
 h,_,x,:_,m,i,y,$,·sh,i,ƶ,y
-START spi-samekh3 
+START spi-samekh3
 l,:,m,i,y,·,a,m,i,(ti),n.
 SPACE
 h,_,$,·sh,·,i,$,·sh,·,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 24:10 in vtrad vtsef
 l,:,h,_,q,·,w,o,ц.,(p)
 SPACE
 h,_,$,·sh,·,:,v,i,ʕ,i,ƶ,y
-START spi-samekh3 
+START spi-samekh3
 l,_,α,:_,v,i,y,·,a,(ti),h
 SPACE
 h,_,$,·sh,·,:,m,i,y,n,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 24:11 in vtrad vtsef
 l,:,y,‥,$,·sh,(p),w,·,ʕ,_,(p)
 SPACE
 h,_,τ,·,:,$,·sh,i,ʕ,i,ƶ,y
-START spi-samekh3 
+START spi-samekh3
 l,i,$,·sh,:,k,_,n,:,y,a,(ti),h,w,·
 SPACE
 h,a,ʕ,:_,$,·si,i,r,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 24:12 in vtrad vtsef
 l,:,α,∵,l,:,y,a,$,·sh,i,y,v,(p)
@@ -16094,13 +16094,13 @@ SPACE
 ʕ,_,$,·sh,:,τ,·,‥,⅃,y
 SPACE
 ʕ,a,$,·si,a,ƶ,r
-START spi-samekh3 
+START spi-samekh3
 l,:,y,a,q,i,(ti),y,m.
 SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 24:13 in vtrad vtsef
 l,:,x,u,f,·,a,h,(p)
@@ -16108,13 +16108,13 @@ SPACE
 $,·sh,:,l,o,$,·sh,a,⅃,h
 SPACE
 ʕ,a,$,·si,a,ƶ,r
-START spi-samekh3 
+START spi-samekh3
 l,:,y,∵,$,·sh,∵,v,:,α,a,(ti),v
 SPACE
 α,_,r,:,v,·,a,ʕ,a,(me),h
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 24:14 in vtrad vtsef
 l,:,v,i,l,:,g,·,a,h,(p)
@@ -16122,13 +16122,13 @@ SPACE
 x,:_,m,i,$,·sh,·,a,⅃,h
 SPACE
 ʕ,a,$,·si,a,ƶ,r
-START spi-samekh3 
+START spi-samekh3
 l,:,α,i,m,·,‥,(ti),r
 SPACE
 $,·sh,i,$,·sh,·,a,(me),h
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 24:15 in vtrad vtsef
 l,:,x,‥,z,i,y,r,(p)
@@ -16136,13 +16136,13 @@ SPACE
 $,·sh,i,v,:,ʕ,a,⅃,h
 SPACE
 ʕ,a,$,·si,a,ƶ,r
-START spi-samekh3 
+START spi-samekh3
 l,:,h,_,f,·,i,ц,·,‥,(ti),ц.
 SPACE
 $,·sh,:,m,w,o,n,a,(me),h
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 24:16 in vtrad vtsef
 l,i,𝓂,f,:,τ,_,x,:,y,a,h,(p)
@@ -16150,11 +16150,11 @@ SPACE
 τ,·,i,$,·sh,:,ʕ,a,⅃,h
 SPACE
 ʕ,a,$,·si,a,ƶ,r
-START spi-samekh3 
+START spi-samekh3
 l,i,𝓂,y,x,∵,z,:,q,‥,(ti),α,l
 SPACE
 h,a,ʕ,∵,$,·si,:,r,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 24:17 in vtrad vtsef
 l,:,y,a,k,i,y,n.,(p)
@@ -16162,13 +16162,13 @@ SPACE
 α,∵,x,a,⅃,d
 SPACE
 w,:,ʕ,∵,$,·si,:,r,i,ƶ,y,m.
-START spi-samekh3 
+START spi-samekh3
 l,:,g,a,m,(ti),w,·,l
 SPACE
 $,·sh,:,n,_,(me),y,i,m.
 SPACE
 w,:,ʕ,∵,$,·si,:,r,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 24:18 in vtrad vtsef
 l,i,d,:,l,a,y,a,(p),h,w,·,(p)
@@ -16176,13 +16176,13 @@ SPACE
 $,·sh,:,l,o,$,·sh,a,⅃,h
 SPACE
 w,:,ʕ,∵,$,·si,:,r,i,ƶ,y,m.
-START spi-samekh3 
+START spi-samekh3
 l,:,m,_,ʕ,_,z,:,y,a,(ti),h,w,·
 SPACE
 α,_,r,:,v,·,a,ʕ,a,(me),h
 SPACE
 w,:,ʕ,∵,$,·si,:,r,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 24:19 in vtrad vtsef
 α,‥,⅃,l,·,∵,h
@@ -16212,7 +16212,7 @@ SPACE
 α,:∵,l,o,h,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 24:20 in vtrad vtsef
 w,:,l,i,v,:,n,‥,(me),y
@@ -16232,7 +16232,7 @@ SPACE
 $,·sh,w,·,v,a,α,‥,(ti),l
 SPACE
 y,∵,x,:,d,·,:,y,a,𝓂,h,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 24:21 in vtrad vtsef
 l,i,r,:,x,_,v,:,y,a,⅄,h,w,·
@@ -16244,7 +16244,7 @@ SPACE
 h,a,r,o,(ti),α,$,·sh
 SPACE
 y,i,$,·sh,·,i,y,·,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 24:22 in vtrad vtsef
 l,_,y,·,i,ц,:,h,a,r,i,⅃,y
@@ -16256,7 +16256,7 @@ SPACE
 $,·sh,:,l,o,m,(ti),w,o,τ
 SPACE
 y,a,𝓂,x,_,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 24:23 in vtrad vtsef
 w,·,v,:,n,a,(ti),y
@@ -16274,7 +16274,7 @@ SPACE
 y,:,q,_,m,:,ʕ,a,(ti),m.
 SPACE
 h,a,r,:,v,i,y,ʕ,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 24:24 in vtrad vtsef
 v,·,:,n,‥,<,y
@@ -16287,14 +16287,14 @@ l,i,v,:,n,‥,(me),y
 SPACE
 m,i,y,k,a,(ti),h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 $,m,w,r
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·sh,a,m,i,𝓂,y,r
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
 
 1Chronicles 24:25 in vtrad vtsef
@@ -16303,13 +16303,13 @@ SPACE
 m,i,y,k,a,h,(p)
 SPACE
 y,i,$,·sh,·,i,y,·,a,ƶ,h
-START spi-samekh3 
+START spi-samekh3
 l,i,v,:,n,‥,(me),y
 SPACE
 y,i,$,·sh,·,i,y,·,a,(ti),h
 SPACE
 z,:,k,_,r,:,y,a,𝓂,h,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 24:26 in vtrad vtsef
 v,·,:,n,‥,<,y
@@ -16319,13 +16319,13 @@ SPACE
 m,_,x,:,l,i,⅃,y
 SPACE
 w,·,m,w,·,$,·sh,i,ƶ,y
-START spi-samekh3 
+START spi-samekh3
 v,·,:,n,‥,(ti),y
 SPACE
 y,_,ʕ,:_,z,i,y,·,a,(me),h,w,·
 SPACE
 v,:,n,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 24:27 in vtrad vtsef
 v,·,:,n,‥,(ti),y
@@ -16341,7 +16341,7 @@ SPACE
 w,:,z,_,k,·,(ti),w,·,r
 SPACE
 w,:,ʕ,i,v,:,r,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 24:28 in vtrad vtsef
 l,:,m,_,x,:,l,i,y,(p)
@@ -16353,7 +16353,7 @@ SPACE
 l,(ti),w,o
 SPACE
 v,·,a,n,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 24:29 in vtrad vtsef
 l,:,q,i,(ti),y,$,·sh
@@ -16361,7 +16361,7 @@ SPACE
 v,·,:,n,‥,y,-,q,i,(me),y,$,·sh
 SPACE
 y,:,r,_,x,:,m,:,α,‥,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 24:30 in vtrad vtsef
 w,·,v,:,n,‥,⅃,y
@@ -16392,7 +16392,7 @@ SPACE
 g,·,w,o,r,a,l,(ge),w,o,τ
 SPACE
 l,:,ʕ,u,m,·,_,⅃,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:_,x,‥,y,h,∵,⅃,m.
 SPACE
@@ -16425,7 +16425,7 @@ SPACE
 α,a,x,i,(me),y,w
 SPACE
 h,_,q,·,a,θ,a,𝓂,n.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 25:1 in vtrad vtsef
 w,_,y,·,_,v,:,d,·,‥,⅃,l
@@ -16446,14 +16446,14 @@ w,:,h,‥,y,m,a,⅃,n.
 SPACE
 w,i,y,d,w,·,τ,ƶ,w,·,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,n,v,y,α,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,𝓂,n,·,i,v,·,:,α,i,⟓,y,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,:,k,i,n,·,o,r,(me),w,o,τ
 SPACE
@@ -16534,7 +16534,7 @@ SPACE
 w,:,h,_,l,·,‥,(ti),l
 SPACE
 l,_,y,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 25:4 in vtrad vtsef
 l,:,h,‥,y,m,a,⅄,n.
@@ -16680,7 +16680,7 @@ SPACE
 m,‥,v,i,(ti),y,n.
 SPACE
 ʕ,i,m.,-,τ,·,_,l,:,m,i,𝓂,y,d,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 25:9 in vtrad vtsef
 w,_,y,·,‥,ц,‥,(G),α
@@ -16692,7 +16692,7 @@ SPACE
 l,:,α,a,σ,a,(ti),f.
 SPACE
 l,:,y,w,o,σ,‥,⅄,f.
-START spi-samekh3 
+START spi-samekh3
 g,·,:,d,_,l,:,y,a,(p),h,w,·,(p)
 SPACE
 h,_,$,·sh,·,‥,n,i,ƶ,y
@@ -16704,7 +16704,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:10 in vtrad vtsef
 h,_,$,·sh,·,:,l,i,$,·sh,i,⅃,y
@@ -16718,7 +16718,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:11 in vtrad vtsef
 h,a,𝓂,r,:,v,i,y,ʕ,i,y,(p)
@@ -16732,7 +16732,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:12 in vtrad vtsef
 h,_,x,:_,m,i,y,$,·sh,i,⅃,y
@@ -16746,7 +16746,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:13 in vtrad vtsef
 h,_,$,·sh,·,i,$,·sh,·,i,⅃,y
@@ -16760,7 +16760,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:14 in vtrad vtsef
 h,_,$,·sh,·,:,v,i,ʕ,i,⅃,y
@@ -16774,7 +16774,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:15 in vtrad vtsef
 h,_,$,·sh,·,:,m,i,y,n,i,⅃,y
@@ -16788,7 +16788,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:16 in vtrad vtsef
 h,_,τ,·,:,$,·sh,i,y,ʕ,i,⅃,y
@@ -16802,7 +16802,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:17 in vtrad vtsef
 h,a,ʕ,:_,$,·si,i,y,r,i,⅃,y
@@ -16816,7 +16816,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:18 in vtrad vtsef
 ʕ,_,$,·sh,:,τ,·,‥,y,-,ʕ,a,$,·si,a,⅃,r
@@ -16830,7 +16830,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:19 in vtrad vtsef
 h,_,$,·sh,·,:,n,‥,<,y,m.
@@ -16846,7 +16846,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:20 in vtrad vtsef
 l,i,$,·sh,:,l,o,$,·sh,a,<,h
@@ -16862,7 +16862,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:21 in vtrad vtsef
 l,:,α,_,r,:,v,·,a,ʕ,a,<,h
@@ -16878,7 +16878,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:22 in vtrad vtsef
 l,_,x,:_,m,i,$,·sh,·,a,<,h
@@ -16894,7 +16894,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:23 in vtrad vtsef
 l,:,$,·sh,i,$,·sh,·,a,<,h
@@ -16910,7 +16910,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:24 in vtrad vtsef
 l,:,$,·sh,i,v,:,ʕ,a,<,h
@@ -16926,7 +16926,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:25 in vtrad vtsef
 l,i,$,·sh,:,m,w,o,n,a,<,h
@@ -16942,7 +16942,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:26 in vtrad vtsef
 l,:,τ,i,$,·sh,:,ʕ,a,<,h
@@ -16958,7 +16958,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:27 in vtrad vtsef
 l,:,ʕ,∵,$,·si,:,r,i,y,m.,(p)
@@ -16972,7 +16972,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:28 in vtrad vtsef
 l,:,α,∵,x,a,<,d
@@ -16988,7 +16988,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:29 in vtrad vtsef
 l,i,$,·sh,:,n,_,<,y,i,m.
@@ -17004,7 +17004,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:30 in vtrad vtsef
 l,i,$,·sh,:,l,o,$,·sh,a,<,h
@@ -17020,7 +17020,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 25:31 in vtrad vtsef
 l,:,α,_,r,:,v,·,a,ʕ,a,<,h
@@ -17038,7 +17038,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 26:1 in vtrad vtsef
 l,:,m,_,x,:,l,:,q,(ti),w,o,τ
@@ -17134,7 +17134,7 @@ SPACE
 v,‥,r,:,k,(ti),w,o
 SPACE
 α,:∵,l,o,h,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 26:6 in vtrad vtsef
 w,:,l,i,𝓂,$,·sh,:,m,_,ʕ,:,y,a,<,h
@@ -17182,7 +17182,7 @@ w,·,σ,:,m,_,k,:,y,a,𝓂,h,w,·,.
 k,·,oa,l,-,α,‥,(ge),l,·,∵,h
 SPACE
 m,i,v,·,:,n,‥,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 ʕ,o,v,‥,⅃,d
 SPACE
@@ -17220,7 +17220,7 @@ SPACE
 $,·sh,:,m,w,o,n,a,(me),h
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 26:10 in vtrad vtsef
 w,·,l,:,x,o,σ,a,(me),h
@@ -17307,7 +17307,7 @@ SPACE
 l,:,$,·sh,_,(me),ʕ,_,r
 SPACE
 w,a,$,·sh,a,𝓂,ʕ,_,r,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 26:14 in vtrad vtsef
 w,_,y,·,i,f,·,o,(da),l
@@ -17323,7 +17323,7 @@ SPACE
 v,:,n,(ge),w,o
 SPACE
 y,w,o,ʕ,‥,⅃,ц.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,$,·si,∵,◆,k,∵,l
 SPACE
@@ -17372,7 +17372,7 @@ SPACE
 l,:,ʕ,u,m,·,_,(me),τ
 SPACE
 m,i,$,·sh,:,m,a,𝓂,r,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 26:17 in vtrad vtsef
 l,_,m,·,i,z,:,r,a,x,~
@@ -17392,7 +17392,7 @@ SPACE
 l,_,y,·,(ti),w,o,m.
 SPACE
 α,_,r,:,v,·,a,ʕ,a,⅄,h
-START spi-samekh2 
+START spi-samekh2
 w,:,l,a,α,:_,σ,u,f,·,i,(ti),y,m.
 SPACE
 $,·sh,:,n,_,(me),y,i,m.
@@ -17441,7 +17441,7 @@ SPACE
 w,·,l,:,α,o,ц,:,r,(ti),w,o,τ
 SPACE
 h,_,q,·,:a,d,a,$,·sh,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 26:21 in vtrad vtsef
 v,·,:,n,‥,⅃,y
@@ -17463,7 +17463,7 @@ SPACE
 h,_,g,·,‥,r,:,$,·sh,u,n,·,i,(ti),y
 SPACE
 y,:,x,i,y,α,‥,l,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 26:22 in vtrad vtsef
 v,·,:,n,‥,(ti),y
@@ -17481,7 +17481,7 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 26:23 in vtrad vtsef
 l,_,𝓂,ʕ,_,m,:,r,a,m,i,y,(p)
@@ -17502,7 +17502,7 @@ SPACE
 n,a,g,i,(ti),y,d
 SPACE
 ʕ,_,l,-,h,a,α,o,ц,a,r,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 26:25 in vtrad vtsef
 w,:,α,∵,x,a,(ti),y,w
@@ -17525,14 +17525,14 @@ w,:,z,i,k,:,r,i,(me),y
 SPACE
 v,:,n,(ti),w,o
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,$,l,m,w,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,·,$,·sh,:,l,o,m,i,(me),y,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,:,n,𝓂,w,o,.
 
@@ -17612,7 +17612,7 @@ SPACE
 y,_,d,-,$,·sh,:,l,o,m,i,(ti),y,τ
 SPACE
 w,:,α,∵,x,a,𝓂,y,w,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 26:29 in vtrad vtsef
 l,_,y,·,i,ц,:,h,a,r,i,(G),y
@@ -17739,13 +17739,13 @@ SPACE
 w,·,d,:,v,_,(me),r
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 27:1 in vtrad vtsef
 w,·,v,:,n,‥,⅃,y
 SPACE
 y,i,$,·si,:,r,a,α,‥,⅃,l
-START lp-paseq 
+START lp-paseq
 l,:,𝓂,m,i,σ,:,f,·,a,r,a,μ,m.
 SPACE
 r,a,α,$,·sh,‥,⅃,y
@@ -17755,7 +17755,7 @@ SPACE
 w,:,$,·si,a,r,‥,⅃,y
 SPACE
 h,a,α,:_,l,a,f,i,⅃,y,m.
-START lp-paseq 
+START lp-paseq
 w,:,h,_,m,·,‥,α,μ,w,o,τ
 SPACE
 w,:,$,·sh,o,θ,:,r,‥,y,h,∵,m.,(tq)
@@ -17765,7 +17765,7 @@ SPACE
 α,∵,τ,-,h,_,m,·,∵,(ge),l,∵,k.,:
 SPACE
 l,:,k,o,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 d,·,:,v,_,⅃,r
 SPACE
@@ -17794,7 +17794,7 @@ SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,(ti),h
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 27:2 in vtrad vtsef
 ʕ,_,(G),l
@@ -17820,7 +17820,7 @@ SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,(ti),h
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 27:3 in vtrad vtsef
 m,i,n.,-,v,·,:,n,‥,y,-,f,∵,◆,r,∵,ц.
@@ -17834,13 +17834,13 @@ SPACE
 l,_,x,o,(me),d,∵,$,·sh
 SPACE
 h,a,r,i,α,$,·sh,𝓂,w,o,n.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 27:4 in vtrad vtsef
 w,:,ʕ,_,(G),l
 SPACE
 m,_,x,:_,l,o,⅃,q,∵,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 h,_,x,o,⅃,d,∵,$,·sh
 SPACE
@@ -17865,7 +17865,7 @@ SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,(ti),h
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 27:5 in vtrad vtsef
 $,·si,_,⅃,r
@@ -17912,7 +17912,7 @@ SPACE
 ʕ,_,m,·,i,y,z,a,v,a,(ti),d
 SPACE
 v,·,:,n,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 27:7 in vtrad vtsef
 h,a,r,:,v,i,y,ʕ,i,(G),y
@@ -17942,7 +17942,7 @@ SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,(ti),h
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 27:8 in vtrad vtsef
 h,_,x,:_,m,i,y,$,·sh,i,y,(p)
@@ -17966,7 +17966,7 @@ SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,(ti),h
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 27:9 in vtrad vtsef
 h,_,$,·sh,·,i,$,·sh,·,i,y,(p)
@@ -17990,7 +17990,7 @@ SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,(ti),h
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 27:10 in vtrad vtsef
 h,_,$,·sh,·,:,v,i,y,ʕ,i,y,(p)
@@ -18016,7 +18016,7 @@ SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,(ti),h
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 27:11 in vtrad vtsef
 h,_,$,·sh,·,:,m,i,y,n,i,y,(p)
@@ -18040,7 +18040,7 @@ SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,(ti),h
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 27:12 in vtrad vtsef
 h,_,τ,·,:,$,·sh,i,y,ʕ,i,y,(p)
@@ -18053,16 +18053,16 @@ SPACE
 SPACE
 h,a,ʕ,_,n,·,:,τ,w,o,τ,i,(ti),y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,v,n,y,m,y,n,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,_,v,·,‥,⅃,n.
-START lp-paseq 
+START lp-paseq
 y,:,m,i,y,n,i,⅄,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,ʕ,_,l,(p)
 SPACE
@@ -18073,7 +18073,7 @@ SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,(ti),h
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 27:13 in vtrad vtsef
 h,a,ʕ,:_,$,·si,i,y,r,i,y,(p)
@@ -18097,7 +18097,7 @@ SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,(ti),h
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 27:14 in vtrad vtsef
 ʕ,_,$,·sh,:,τ,·,‥,𝓂,y,-,ʕ,a,$,·si,a,r,(p)
@@ -18125,7 +18125,7 @@ SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,(ti),h
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 27:15 in vtrad vtsef
 h,_,$,·sh,·,:,n,‥,<,y,m.
@@ -18153,7 +18153,7 @@ SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,(ti),h
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 27:16 in vtrad vtsef
 w,:,ʕ,_,l,(p)
@@ -18169,13 +18169,13 @@ SPACE
 α,:∵,l,i,y,ʕ,∵,(ti),z,∵,r
 SPACE
 v,·,∵,n.,-,z,i,k,:,r,i,⅄,y
-START spi-samekh3 
+START spi-samekh3
 l,_,$,·sh,·,i,(qa),m,:,ʕ,w,o,n,i,ƶ,y
 SPACE
 $,·sh,:,f,_,θ,:,y,a,(ti),h,w,·
 SPACE
 v,·,∵,𝓂,n.,-,m,_,ʕ,:_,k,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 27:17 in vtrad vtsef
 l,:,l,‥,w,i,⟓,y
@@ -18187,7 +18187,7 @@ SPACE
 l,:,α,_,h,:_,r,o,(me),n.
 SPACE
 ц,a,d,𝓂,w,o,q,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 27:18 in vtrad vtsef
 l,i,y,h,w,·,d,a,Ƶ,h
@@ -18197,13 +18197,13 @@ SPACE
 m,‥,α,:_,x,‥,⅃,y
 SPACE
 d,a,w,i,⅄,y,d
-START spi-samekh3 
+START spi-samekh3
 l,:,y,i,(qa),$,·si,·,a,$,k,a,ƶ,r
 SPACE
 ʕ,oa,m,:,r,i,(ti),y
 SPACE
 v,·,∵,n.,-,m,i,y,k,a,α,‥,𝓂,l,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 27:19 in vtrad vtsef
 l,i,z,:,v,w,·,l,u,Ƶ,n.
@@ -18211,13 +18211,13 @@ SPACE
 y,i,𝓂,$,·sh,:,m,_,ʕ,:,y,a,(ti),h,w,·
 SPACE
 v,·,∵,n.,-,ʕ,o,v,_,d,:,y,a,⅄,h,w,·
-START spi-samekh3 
+START spi-samekh3
 l,:,n,_,(qa),f,:,τ,·,a,l,i,ƶ,y
 SPACE
 y,:,r,i,y,m,(ti),w,o,τ
 SPACE
 v,·,∵,n.,-,ʕ,_,z,:,r,i,y,α,‥,𝓂,l,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 27:20 in vtrad vtsef
 l,i,v,:,n,‥,⅃,y
@@ -18237,7 +18237,7 @@ SPACE
 y,w,o,α,‥,(ti),l
 SPACE
 v,·,∵,n.,-,f,·,:,d,a,y,a,𝓂,h,w,·,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 27:21 in vtrad vtsef
 l,_,𝓂,x,:_,ц,i,<,y
@@ -18249,13 +18249,13 @@ SPACE
 y,i,d,·,(ti),w,o
 SPACE
 v,·,∵,n.,-,z,:,k,_,r,:,y,a,⅄,h,w,·
-START spi-samekh3 
+START spi-samekh3
 l,:,v,i,(qa),n,:,y,a,m,i,ƶ,n.
 SPACE
 y,_,ʕ,:_,$,·si,i,y,α,‥,(ti),l
 SPACE
 v,·,∵,n.,-,α,_,v,:,n,‥,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 27:22 in vtrad vtsef
 l,:,d,a,Ƶ,n.
@@ -18335,7 +18335,7 @@ SPACE
 l,_,m,·,∵,(me),l,∵,k.,:
 SPACE
 d,·,a,w,i,𝓂,y,d,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 27:25 in vtrad vtsef
 w,:,ʕ,_,l,(p)
@@ -18347,7 +18347,7 @@ SPACE
 ʕ,_,z,:,m,a,(ti),w,∵,τ
 SPACE
 v,·,∵,n.,-,ʕ,:_,d,i,y,α,‥,⅄,l
-START spi-samekh3 
+START spi-samekh3
 w,:,ʕ,_,⅃,l
 SPACE
 h,a,α,o,ц,a,r,μ,w,o,τ
@@ -18363,7 +18363,7 @@ SPACE
 y,:,h,w,o,n,a,τ,a,(ti),n.
 SPACE
 v,·,∵,n.,-,ʕ,u,z,·,i,y,·,a,𝓂,h,w,·,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 27:26 in vtrad vtsef
 w,:,ʕ,_,◆,l
@@ -18381,7 +18381,7 @@ SPACE
 ʕ,∵,z,:,r,i,(ti),y
 SPACE
 v,·,∵,n.,-,k,·,:,l,𝓂,w,·,v,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 27:27 in vtrad vtsef
 w,:,ʕ,_,(qa),l,-,h,_,k,·,:,r,a,m,i,ƶ,y,m.
@@ -18389,7 +18389,7 @@ SPACE
 $,·sh,i,m,:,ʕ,i,(ti),y
 SPACE
 h,a,r,a,m,a,τ,i,⅄,y
-START spi-samekh3 
+START spi-samekh3
 w,:,ʕ,_,<,l
 SPACE
 $,·sh,∵,v,·,_,k,·,:,r,a,m,i,y,m.,(p)
@@ -18401,7 +18401,7 @@ SPACE
 z,_,v,:,d,·,i,(ti),y
 SPACE
 h,_,$,·sh,·,i,f,:,m,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 27:28 in vtrad vtsef
 w,:,ʕ,_,l,-,h,_,z,·,‥,y,τ,i,<,y,m.
@@ -18417,13 +18417,13 @@ SPACE
 x,a,n,a,(ti),n.
 SPACE
 h,_,g,·,:,d,‥,r,i,⅄,y
-START spi-samekh3 
+START spi-samekh3
 w,:,ʕ,_,l,-,α,o,ц,:,r,(me),w,o,τ
 SPACE
 h,_,$,·sh,·,∵,(ti),m,∵,n.
 SPACE
 y,w,o,ʕ,a,𝓂,$,·sh,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 27:29 in vtrad vtsef
 w,:,ʕ,_,l,-,h,_,v,·,a,q,a,r,(p)
@@ -18432,17 +18432,17 @@ h,a,r,o,ʕ,i,⅃,y,m.
 SPACE
 v,·,_,$,·sh,·,a,r,ƶ,w,o,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 $,θ,r,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·sh,i,r,:,θ,_,(ti),y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,_,$,·sh,·,a,r,w,o,n,i,⅄,y
-START spi-samekh3 
+START spi-samekh3
 w,:,ʕ,_,l,-,h,_,v,·,a,q,a,r,(p)
 SPACE
 v,·,a,ʕ,:_,m,a,q,i,ƶ,y,m.
@@ -18450,7 +18450,7 @@ SPACE
 $,·sh,a,f,a,(ti),θ
 SPACE
 v,·,∵,n.,-,ʕ,_,d,:,l,a,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 27:30 in vtrad vtsef
 w,:,ʕ,_,(qa),l,-,h,_,g,·,:,m,_,l,·,i,ƶ,y,m.
@@ -18458,13 +18458,13 @@ SPACE
 α,w,o,v,i,(ti),y,l
 SPACE
 h,_,y,·,i,$,·sh,:,m,:,ʕ,‥,l,i,⅄,y
-START spi-samekh3 
+START spi-samekh3
 w,:,ʕ,_,l,-,h,a,⅃,α,:_,τ,o,n,ƶ,w,o,τ
 SPACE
 y,∵,x,:,d,·,:,y,a,(ti),h,w,·
 SPACE
 h,_,m,·,‥,r,o,n,o,τ,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 27:31 in vtrad vtsef
 w,:,ʕ,_,l,-,h,_,ц,·,o,(ti),α,n.
@@ -18484,7 +18484,7 @@ SPACE
 l,_,m,·,∵,(me),l,∵,k.,:
 SPACE
 d,·,a,w,i,𝓂,y,d,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 27:32 in vtrad vtsef
 w,i,y,h,w,o,n,a,τ,a,<,n.
@@ -18506,7 +18506,7 @@ SPACE
 ʕ,i,m.,-,v,·,:,n,‥,(me),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 27:33 in vtrad vtsef
 w,_,α,:_,x,i,y,τ,o,(ti),f,∵,l
@@ -18522,7 +18522,7 @@ SPACE
 r,‥,(me),ʕ,_
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START spi-samekh3 
+START spi-samekh3
 
 1Chronicles 27:34 in vtrad vtsef
 w,:,α,_,x,:_,r,‥,⅃,y
@@ -18540,7 +18540,7 @@ SPACE
 l,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 y,w,o,α,a,𝓂,v,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 28:1 in vtrad vtsef
 w,_,y,·,_,q,:,h,‥,⅃,l
@@ -18574,7 +18574,7 @@ SPACE
 w,:,$,·si,a,r,‥,⅃,y
 SPACE
 k,oa,l,-,r,:,k,w,·,$,·sh,-,w,·,m,i,q,:,n,∵,h,(tq)
-START lp-paseq 
+START lp-paseq
 l,_,m,·,∵,(qa),l,∵,k.,:
 SPACE
 w,·,l,:,v,a,n,a,(ge),y,w
@@ -18873,7 +18873,7 @@ l,a,ʕ,_,𝓂,d,.
 
 1Chronicles 28:10 in vtrad vtsef
 r,:,α,‥,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 ʕ,_,τ,·,a,◆,h
 SPACE
@@ -18890,7 +18890,7 @@ SPACE
 x,:_,z,_,(me),q
 SPACE
 w,_,ʕ,:_,$,·si,‥,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 28:11 in vtrad vtsef
 w,_,y,·,i,τ,·,‥,⅃,n.
@@ -19124,7 +19124,7 @@ SPACE
 m,_,l,:,α,:_,k,(me),w,o,τ
 SPACE
 h,_,τ,·,_,v,:,n,i,𝓂,y,τ,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 28:20 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -19201,7 +19201,7 @@ SPACE
 w,:,k,oa,l,-,h,a,ʕ,a,(ti),m.
 SPACE
 l,:,k,oa,l,-,d,·,:,v,a,r,∵,𝓂,y,k.,a,.
-START spi-samekh2 
+START spi-samekh2
 
 1Chronicles 29:1 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -19252,7 +19252,7 @@ SPACE
 l,:,v,‥,y,τ,-,α,:∵,l,o,h,_,◆,y
 SPACE
 h,_,z,·,a,h,a,⅃,v
-START lp-paseq 
+START lp-paseq
 l,_,⌕,z,·,a,h,a,⌕,v
 SPACE
 w,:,h,_,k,·,∵,(qa),σ,∵,f.
@@ -19380,7 +19380,7 @@ SPACE
 h,a,𝓂,α,a,v,(ge),w,o,τ
 SPACE
 w,:,$,·si,a,r,‥,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·sh,i,v,:,θ,‥,⅃,y
 SPACE
@@ -19486,7 +19486,7 @@ SPACE
 $,·si,i,m,:,x,a,(me),h
 SPACE
 g,:,d,w,o,l,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 29:10 in vtrad vtsef
 w,_,y,:,v,a,<,r,∵,k.,:
@@ -19549,7 +19549,7 @@ SPACE
 w,:,h,_,m,·,i,τ,:,n,_,$,·si,·,‥,(ti),α
 SPACE
 l,:,k,o,(me),l
-START lp-paseq 
+START lp-paseq
 l,:,r,o,𝓂,α,$,·sh,.
 
 1Chronicles 29:12 in vtrad vtsef
@@ -19637,7 +19637,7 @@ SPACE
 k,·,:,k,oa,l,-,α,:_,v,o,τ,‥,⅄,y,n,w,·
 SPACE
 k,·,_,ц,·,‥,(da),l
-START lp-paseq 
+START lp-paseq
 y,a,m,‥,⟓,y,n,w,·
 SPACE
 ʕ,_,l,-,h,a,α,a,(ti),r,∵,ц.
@@ -19671,14 +19671,14 @@ q,oa,d,:,$,·sh,∵,⅄,k.,a
 SPACE
 m,i,y,·,a,d,:,k.,a,(me)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,(ti),w,·,α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,l,:,k.,a,(me)
 SPACE
@@ -19782,7 +19782,7 @@ SPACE
 h,_,v,·,i,y,r,a,(me),h
 SPACE
 α,:_,$,·sh,∵,r,-,h,:_,k,i,y,n,𝓂,w,o,τ,i,y,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 29:20 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -19821,7 +19821,7 @@ w,:,l,_,m,·,∵,𝓂,l,∵,k.,:,.
 w,_,y,·,i,z,:,v,·,:,x,⅃,w,·
 SPACE
 l,_,y,h,o,w,a,⅃,h
-START lp-paseq 
+START lp-paseq
 z,:,⌕,v,a,x,i,⌕,y,m.
 SPACE
 w,_,y,·,_,ʕ,:_,l,(qa),w,·
@@ -19899,7 +19899,7 @@ SPACE
 ʕ,_,l,-,k,·,i,σ,·,‥,(qa),α
 SPACE
 y,:,h,o,w,a,(da),h
-START lp-paseq 
+START lp-paseq
 l,:,m,∵,⟓,l,∵,k.,:
 SPACE
 τ,·,_,x,_,τ,-,d,·,a,w,i,(me),y,d
@@ -19967,7 +19967,7 @@ SPACE
 l,:,f,a,n,a,(ti),y,w
 SPACE
 ʕ,_,l,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2 
+START spi-pe2
 
 1Chronicles 29:26 in vtrad vtsef
 w,:,d,a,w,i,y,d,(p)
@@ -20085,7 +20085,7 @@ SPACE
 k,·,oa,l,-,m,_,m,:,l,:,k,(me),w,o,τ
 SPACE
 h,a,α,:_,r,a,ц,𝓂,w,o,τ,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 1:1 in vtrad vtsef
 w,_,y,·,i,τ,:,x,_,z,·,‥,⟓,q
@@ -20354,13 +20354,13 @@ SPACE
 h,_,z,·,∵,(ti),h
 SPACE
 h,_,g,·,a,d,𝓂,w,o,l,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 1:11 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 α,:∵,l,o,h,i,⅃,y,m.
-START lp-paseq 
+START lp-paseq
 l,i,$,·sh,:,l,o,m,o,μ,h
 SPACE
 y,_,⅃,ʕ,_,n.
@@ -20431,7 +20431,7 @@ SPACE
 α,∵,τ,·,∵,n.,-,l,a,ƶ,k.,:
 SPACE
 α,:_,$,·sh,∵,⅃,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 l,o,α,-,h,a,⅃,y,a,h
 SPACE
@@ -20469,7 +20469,7 @@ SPACE
 w,_,y,·,i,m,:,l,o,(ti),k.,:
 SPACE
 ʕ,_,l,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 1:14 in vtrad vtsef
 w,_,y,·,∵,𝓂,α,:∵,σ,o,⅃,f.
@@ -20638,7 +20638,7 @@ SPACE
 w,:,$,·sh,‥,(me),$,·sh
 SPACE
 m,‥,α,𝓂,w,o,τ,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 2:2 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,⅃,x
@@ -20679,7 +20679,7 @@ SPACE
 v,𝓂,w,o,n,∵,h,-,v,·,_,(ge),y,i,τ
 SPACE
 l,:,$,·sh,‥,⅃,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 y,:,h,o,w,a,⅃,h
 SPACE
@@ -20890,7 +20890,7 @@ SPACE
 n,a,τ,_,(tq),τ,·,i,y,(tq)
 SPACE
 x,i,θ,·,i,(qa),y,m.
-START lp-paseq 
+START lp-paseq
 m,_,k,·,(ge),w,o,τ
 SPACE
 l,_,ʕ,:_,v,a,d,∵,◆,y,k.,a
@@ -20924,7 +20924,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 2:10 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -21119,7 +21119,7 @@ SPACE
 α,o,τ,a,(ti),m.
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 2:16 in vtrad vtsef
 w,_,y,·,i,σ,:,f,·,o,⅃,r
@@ -21315,7 +21315,7 @@ SPACE
 
 2Chronicles 3:5 in vtrad vtsef
 w,:,α,‥,⅃,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 h,_,v,·,_,⅃,y,i,τ
 SPACE
@@ -21378,7 +21378,7 @@ SPACE
 k,·,:,r,w,·,v,i,(ti),y,m.
 SPACE
 ʕ,_,l,-,h,_,q,·,i,y,r,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 3:8 in vtrad vtsef
 w,_,y,·,_,(p),ʕ,_,$,·si,(p)
@@ -21549,7 +21549,7 @@ SPACE
 w,·,f,:,n,‥,y,h,∵,(me),m.
 SPACE
 l,_,v,·,a,𝓂,y,i,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 3:14 in vtrad vtsef
 w,_,y,·,_,(p),ʕ,_,$,·si,(p)
@@ -21569,7 +21569,7 @@ SPACE
 ʕ,a,l,a,(ti),y,w
 SPACE
 k,·,:,r,w,·,v,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 3:15 in vtrad vtsef
 w,_,y,·,_,(ge),ʕ,_,$,·si
@@ -21597,7 +21597,7 @@ SPACE
 α,_,m,·,(me),w,o,τ
 SPACE
 x,a,m,‥,𝓂,$,·sh,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 3:16 in vtrad vtsef
 w,_,y,·,_,<,ʕ,_,$,·si
@@ -21642,14 +21642,14 @@ SPACE
 w,_,y,·,i,q,:,r,a,<,α
 SPACE
 $,·sh,‥,m.,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 h,_,y,:,m,a,n,i,y,(p)
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 h,y,m,y,n,y
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 y,a,k,i,ƶ,y,n.
 SPACE
@@ -21658,7 +21658,7 @@ SPACE
 h,_,$,·si,·,:,m,a,α,l,i,(ti),y
 SPACE
 v,·,o,𝓂,ʕ,_,z,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 4:1 in vtrad vtsef
 w,_,y,·,_,(p),ʕ,_,$,·si,(p)
@@ -21684,7 +21684,7 @@ SPACE
 α,_,m,·,(ti),w,o,τ
 SPACE
 q,w,o,m,a,τ,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 4:2 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,$,·si
@@ -21702,7 +21702,7 @@ SPACE
 α,∵,l,-,$,·si,:,f,a,τ,(ge),w,o
 SPACE
 ʕ,a,g,⅃,w,o,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 σ,a,v,i,◆,y,v
 SPACE
@@ -21734,7 +21734,7 @@ SPACE
 l,(ge),w,o
 SPACE
 σ,a,v,i,<,y,v
-START lp-paseq 
+START lp-paseq
 σ,a,v,i,y,v,(p)
 SPACE
 σ,w,o,v,:,v,i,⅃,y,m.
@@ -21773,17 +21773,17 @@ SPACE
 $,·sh,:,l,o,$,·sh,a,⅃,h
 SPACE
 f,o,n,i,⅃,y,m.
-START lp-paseq 
+START lp-paseq
 ц,a,f,μ,w,o,n,a,h
 SPACE
 w,·,$,·sh,:,l,w,o,$,·sh,a,h,(tq)
 SPACE
 f,o,n,i,(qa),y,m.
-START lp-paseq 
+START lp-paseq
 y,a,(ge),m,·,a,h
 SPACE
 w,·,$,·sh,:,l,o,$,·sh,a,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 f,·,o,n,i,⅃,y,m.
 SPACE
@@ -21829,7 +21829,7 @@ SPACE
 α,:_,l,a,f,i,(ti),y,m.
 SPACE
 y,a,k,i,𝓂,y,l,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 4:6 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,$,·si
@@ -21867,7 +21867,7 @@ SPACE
 l,_,k,·,o,h,:_,n,i,(ti),y,m.
 SPACE
 v,·,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 4:7 in vtrad vtsef
 w,_,⌕,y,·,_,⌕,ʕ,_,$,·si
@@ -21891,7 +21891,7 @@ SPACE
 w,:,x,a,m,‥,(me),$,·sh
 SPACE
 m,i,$,·si,·,:,m,o,𝓂,α,w,l,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 4:8 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,$,·si
@@ -21919,7 +21919,7 @@ SPACE
 z,a,h,a,(ti),v
 SPACE
 m,‥,α,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 4:9 in vtrad vtsef
 w,_,y,·,_,(p),ʕ,_,$,·si,(p)
@@ -21970,14 +21970,14 @@ w,:,α,∵,τ,-,h,_,m,·,i,z,:,r,a,q,⅄,w,o,τ
 SPACE
 w,_,y,:,k,_,⅃,l
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 x,y,r,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 x,w,·,r,a,◆,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,_,ʕ,:_,$,·si,w,o,τ,(p)
 SPACE
@@ -22155,7 +22155,7 @@ SPACE
 m,i,$,·sh,:,q,_,(me),l
 SPACE
 h,_,n,·,:,x,o,𝓂,$,·sh,∵,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 4:19 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,$,·si
@@ -22263,13 +22263,13 @@ SPACE
 l,:,v,‥,⅃,y,τ
 SPACE
 y,:,h,o,w,a,⅄,h
-START spi-samekh2 
+START spi-samekh2
 w,_,y,·,a,v,‥,(qa),α
 SPACE
 $,·sh,:,l,o,m,o,(ge),h
 SPACE
 α,∵,τ,-,q,oa,d,:,$,·sh,‥,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 d,·,a,w,i,⅃,y,d
 SPACE
@@ -22288,7 +22288,7 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 h,a,α,:∵,l,o,h,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 5:2 in vtrad vtsef
 α,a,z,(tq)
@@ -22528,7 +22528,7 @@ SPACE
 v,·,:,ц,‥,α,τ,a,(ti),m.
 SPACE
 m,i,m,·,i,ц,:,r,a,𝓂,y,i,m.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 5:11 in vtrad vtsef
 w,_,y,:,h,i,Ƶ,y
@@ -22594,14 +22594,14 @@ l,:,m,‥,α,a,⅃,h
 SPACE
 w,:,ʕ,∵,$,·si,:,r,i,ƶ,y,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 m,x,ц,r,r,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 m,_,x,:,ц,:,r,i,(ti),y,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,_,x,:_,ц,o,ц,:,r,𝓂,w,o,τ,.
 
@@ -22610,14 +22610,14 @@ w,_,y,:,h,i,⅃,y
 SPACE
 k,:,⌕,α,∵,x,a,⌕,d
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,m,x,ц,ц,r,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,_,m,:,x,_,ц,·,:,r,i,(qa),y,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,l,_,m,:,$,·sh,o,r,:,r,i,(ge),y,m.
 SPACE
@@ -22687,7 +22687,7 @@ SPACE
 α,∵,τ,-,v,·,‥,(me),y,τ
 SPACE
 h,a,α,:∵,l,o,h,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 6:1 in vtrad vtsef
 α,a,(ti),z
@@ -22932,7 +22932,7 @@ SPACE
 α,a,v,i,(ge),y
 SPACE
 w,a,α,‥,$,·sh,‥,⅃,v
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 ʕ,_,l,-,k,·,i,σ,·,‥,⅃,α
 SPACE
@@ -23048,11 +23048,11 @@ SPACE
 k,·,_,f,·,a,(ti),y,w
 SPACE
 h,_,$,·sh,·,a,m,a,𝓂,y,:,m,a,h,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 6:14 in vtrad vtsef
 w,_,y,·,o,α,m,_,◆,r
-START spi-pe3 
+START spi-pe3
 y,:,h,o,w,a,(G),h
 SPACE
 α,:∵,l,o,h,‥,<,y
@@ -23114,7 +23114,7 @@ h,_,z,·,∵,𝓂,h,.
 w,:,ʕ,_,τ,·,a,(G),h
 SPACE
 y,:,h,o,w,a,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -23354,7 +23354,7 @@ h,_,z,·,∵,𝓂,h,.
 
 2Chronicles 6:23 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 τ,·,i,$,·sh,:,m,_,⅃,ʕ
 SPACE
@@ -23385,7 +23385,7 @@ SPACE
 l,(ti),w,o
 SPACE
 k,·,:,ц,i,d,:,q,a,τ,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 6:24 in vtrad vtsef
 w,:,𝓂,α,i,m.,-,y,i,n,·,a,g,‥,(G),f.
@@ -23442,7 +23442,7 @@ SPACE
 l,a,h,∵,(ti),m.
 SPACE
 w,:,l,_,α,:_,v,o,τ,‥,y,h,∵,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 6:26 in vtrad vtsef
 v,·,:,h,‥,ʕ,a,ц,‥,(da),r
@@ -23477,7 +23477,7 @@ SPACE
 
 2Chronicles 6:27 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 τ,·,i,$,·sh,:,m,_,⅃,ʕ
 SPACE
@@ -23516,7 +23516,7 @@ SPACE
 l,:,ʕ,_,m,·,:,k.,a,(ti)
 SPACE
 l,:,n,_,x,:_,l,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 6:28 in vtrad vtsef
 r,a,ʕ,a,(G),v
@@ -23653,7 +23653,7 @@ SPACE
 n,a,τ,_,(ti),τ,·,a,h
 SPACE
 l,_,α,:_,v,o,τ,‥,𝓂,y,n,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 6:32 in vtrad vtsef
 w,:,g,_,⅃,m.
@@ -23671,7 +23671,7 @@ SPACE
 h,w,·,α,∴
 SPACE
 w,·,v,a,⅃,α
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,‥,α,∵,⅃,r,∵,ц.
 SPACE
@@ -23851,7 +23851,7 @@ SPACE
 n,i,$,·sh,:,v,·,w,·,-,$,·sh,a,⅄,m.
 SPACE
 w,:,$,·sh,a,⅃,v,w,·
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 w,:,h,i,𝓂,τ,:,x,_,n,·,:,n,⅃,w,·
 SPACE
@@ -23955,7 +23955,7 @@ SPACE
 h,_,m,·,a,q,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 6:41 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,◆,h
@@ -24008,7 +24008,7 @@ SPACE
 d,·,a,w,i,(me),y,d
 SPACE
 ʕ,_,v,:,d,·,∵,𝓂,k.,a,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 7:1 in vtrad vtsef
 w,·,k,:,k,_,l,·,<,w,o,τ
@@ -24060,7 +24060,7 @@ y,:,h,o,w,a,𝓂,h,.
 
 2Chronicles 7:3 in vtrad vtsef
 w,:,k,o,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,n,‥,⅃,y
 SPACE
@@ -24114,7 +24114,7 @@ SPACE
 l,i,f,:,n,‥,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 7:5 in vtrad vtsef
 w,_,y,·,i,z,:,v,·,_,(G),x
@@ -24188,21 +24188,21 @@ v,·,:,y,a,d,a,⅄,m.
 SPACE
 w,:,h,_,k,·,o,𝓂,h,:_,n,i,y,m.,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 m,x,ц,ц,r,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 m,_,x,:,ц,:,r,i,⅃,y,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 n,∵,g,:,d,·,a,ƶ,m.
 SPACE
 w,:,k,oa,l,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 ʕ,o,m,:,d,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 7:7 in vtrad vtsef
 w,_,y,:,q,_,d,·,‥,⅃,$,·sh
@@ -24296,7 +24296,7 @@ SPACE
 ʕ,:_,ц,a,⅄,r,∵,τ
 SPACE
 k,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 x,:_,n,u,k,·,_,⅃,τ
 SPACE
@@ -24381,7 +24381,7 @@ SPACE
 w,·,v,:,v,‥,y,τ,(ti),w,o
 SPACE
 h,i,ц,:,l,i,𝓂,y,x,_,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 7:12 in vtrad vtsef
 w,_,y,·,‥,r,a,(da),α
@@ -24689,7 +24689,7 @@ SPACE
 ʕ,a,z,:,v,(ge),w,·
 SPACE
 α,∵,τ,-,y,:,h,o,w,a,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -24726,13 +24726,13 @@ SPACE
 k,·,oa,l,-,h,a,r,a,ʕ,a,(ti),h
 SPACE
 h,_,z,·,o,𝓂,α,τ,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 8:1 in vtrad vtsef
 w,_,y,:,h,i,(G),y
 SPACE
 m,i,q,·,‥,⅃,ц.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 ʕ,∵,$,·si,:,r,i,⅃,y,m.
 SPACE
@@ -24860,7 +24860,7 @@ SPACE
 h,_,f,·,a,r,a,$,·sh,i,⅄,y,m.
 SPACE
 w,:,α,‥,⅃,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 k,·,oa,l,-,x,‥,⅃,$,·sh,∵,q
 SPACE
@@ -24966,21 +24966,21 @@ SPACE
 r,i,k,:,v,·,(ti),w,o
 SPACE
 w,·,f,a,r,a,$,·sh,a,𝓂,y,w,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 8:10 in vtrad vtsef
 w,:,α,‥,(qa),l,·,∵,h
 SPACE
 $,·si,a,r,‥,(da),y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,n,ц,y,v,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,n,·,i,ц,·,a,v,i,⟓,y,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,:_,$,·sh,∵,r,-,l,_,m,·,∵,(me),l,∵,k.,:
 SPACE
@@ -25036,7 +25036,7 @@ SPACE
 α,:_,r,(me),w,o,n.
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 8:12 in vtrad vtsef
 α,a,⅃,z
@@ -25182,7 +25182,7 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 8:17 in vtrad vtsef
 α,a,z,(tq)
@@ -25210,14 +25210,14 @@ x,w,·,r,a,(qa),m.
 SPACE
 v,·,:,y,_,d,-,ʕ,:_,v,a,d,a,(ge),y,w
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,w,n,y,w,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,:a,n,i,y,·,◆,w,o,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,_,ʕ,:_,v,a,d,i,y,m.,~
 SPACE
@@ -25250,7 +25250,7 @@ SPACE
 α,∵,l,-,h,_,m,·,∵,(me),l,∵,k.,:
 SPACE
 $,·sh,:,l,o,m,o,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 9:1 in vtrad vtsef
 w,·,m,_,𝓂,l,:,k,·,_,τ,-,$,·sh,:,v,a,◆,α
@@ -25465,7 +25465,7 @@ SPACE
 v,·,a,r,ƶ,w,·,k.,:
 SPACE
 α,:_,$,·sh,∵,⅃,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 x,a,f,‥,⅃,ц.
 SPACE
@@ -25511,7 +25511,7 @@ SPACE
 m,‥,α,a,(me),h
 SPACE
 w,:,ʕ,∵,$,·si,:,r,i,⅃,y,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 k,·,i,k,·,_,⅃,r
 SPACE
@@ -25546,14 +25546,14 @@ $,·sh,:,l,o,m,o,𝓂,h,.
 2Chronicles 9:10 in vtrad vtsef
 w,:,g,_,m.,-,ʕ,_,v,:,d,‥,<,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 x,y,r,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 x,w,·,r,a,m.,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,ʕ,_,v,:,d,‥,⅃,y
 SPACE
@@ -25638,7 +25638,7 @@ SPACE
 h,i,(me),y,α
 SPACE
 w,_,ʕ,:_,v,a,d,∵,𝓂,y,h,a,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 9:13 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -25888,7 +25888,7 @@ SPACE
 $,·sh,a,n,i,(ge),y,m.
 SPACE
 τ,·,a,v,⅃,w,o,α,n,a,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:a,n,i,y,·,⅃,w,o,τ
 SPACE
@@ -25905,7 +25905,7 @@ SPACE
 w,:,q,w,o,f,i,(ti),y,m.
 SPACE
 w,:,τ,w,·,k,·,i,y,·,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 9:22 in vtrad vtsef
 w,_,y,·,i,g,:,d,·,_,l,(p)
@@ -25977,7 +25977,7 @@ SPACE
 d,·,:,v,_,r,-,$,·sh,a,n,a,(ti),h
 SPACE
 v,·,:,$,·sh,a,n,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 9:25 in vtrad vtsef
 w,_,y,:,h,i,(qa),y
@@ -26092,14 +26092,14 @@ h,_,$,·sh,·,i,y,l,w,o,n,i,◆,y
 SPACE
 w,·,v,_,𝓂,x,:_,z,w,o,τ,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,ʕ,d,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,∵,ʕ,:,d,·,⅃,w,o
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,_,x,o,z,∵,ƶ,h
 SPACE
@@ -26142,7 +26142,7 @@ SPACE
 v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 10:1 in vtrad vtsef
 w,_,y,·,‥,(me),l,∵,k.,:
@@ -26254,7 +26254,7 @@ SPACE
 w,_,y,·,‥,(ti),l,∵,k.,:
 SPACE
 h,a,ʕ,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 10:6 in vtrad vtsef
 w,_,y,·,i,w,·,a,ʕ,_,(G),ц.
@@ -26469,7 +26469,7 @@ SPACE
 w,_,α,:_,n,i,(ti),y
 SPACE
 v,·,a,ʕ,_,q,:,r,_,v,·,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 10:12 in vtrad vtsef
 w,_,y,·,a,v,o,(qa),α
@@ -26605,7 +26605,7 @@ SPACE
 h,a,ʕ,a,⅃,m.
 SPACE
 α,∵,τ,-,h,_,m,·,∵,⅃,l,∵,k.,:
-START lp-paseq 
+START lp-paseq
 l,‥,α,m,o,μ,r
 SPACE
 m,_,h,-,l,·,a,(tq),n,w,·,(tq)
@@ -26637,7 +26637,7 @@ SPACE
 k,·,oa,l,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 l,:,α,o,h,a,l,a,𝓂,y,w,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 10:17 in vtrad vtsef
 w,·,v,:,n,‥,⅃,y
@@ -26676,7 +26676,7 @@ SPACE
 α,∵,(ti),v,∵,n.
 SPACE
 w,_,y,·,a,m,o,⅄,τ
-START spi-samekh2 
+START spi-samekh2
 w,:,h,_,m,·,∵,⅃,l,∵,k.,:
 SPACE
 r,:,x,_,v,:,ʕ,a,◆,m.
@@ -26690,7 +26690,7 @@ SPACE
 l,a,n,(ti),w,·,σ
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 10:19 in vtrad vtsef
 w,_,y,·,i,f,:,$,·sh,:,ʕ,<,w,·
@@ -26743,7 +26743,7 @@ SPACE
 α,∵,τ,-,h,_,m,·,_,m,:,l,a,k,a,(ti),h
 SPACE
 l,i,r,:,x,_,v,:,ʕ,a,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 11:2 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -26817,7 +26817,7 @@ SPACE
 m,i,l,·,∵,(me),k,∵,τ
 SPACE
 α,∵,l,-,y,a,r,oa,v,:,ʕ,a,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 11:5 in vtrad vtsef
 w,_,y,·,‥,(me),$,·sh,∵,v
@@ -26920,7 +26920,7 @@ SPACE
 y,:,h,w,·,d,a,(me),h
 SPACE
 w,·,v,i,n,:,y,a,m,i,𝓂,n.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 11:13 in vtrad vtsef
 w,:,h,_,k,·,o,𝓂,h,:_,n,i,y,m.,(p)
@@ -27050,14 +27050,14 @@ SPACE
 SPACE
 α,∵,τ,-,m,a,⅃,x,:_,l,_,ƶ,τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 v,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,·,_,τ,-
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 y,:,r,i,y,m,(ti),w,o,τ
 SPACE
 v,·,∵,n.,-,d,·,a,w,i,⅄,y,d
@@ -27211,7 +27211,7 @@ SPACE
 w,:,k,oa,l,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 ʕ,i,m,·,𝓂,w,o,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 12:2 in vtrad vtsef
 w,_,y,:,h,i,(G),y
@@ -27283,7 +27283,7 @@ SPACE
 w,_,y,·,a,v,o,(ti),α
 SPACE
 ʕ,_,d,-,y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 12:5 in vtrad vtsef
 w,·,𝓂,$,·sh,:,m,_,ʕ,:,y,a,<,h
@@ -27338,7 +27338,7 @@ SPACE
 w,_,y,·,o,α,m,:,r,(ti),w,·
 SPACE
 ц,_,d,·,i,(me),y,q
-START lp-paseq 
+START lp-paseq
 y,:,h,o,w,a,𝓂,h,.
 
 2Chronicles 12:7 in vtrad vtsef
@@ -27355,7 +27355,7 @@ SPACE
 d,:,v,_,r,-,y,:,h,o,w,a,(qa),h
 SPACE
 α,∵,l,-,$,·sh,:,m,_,ʕ,:,y,a,(da),h
-START lp-paseq 
+START lp-paseq
 l,‥,α,m,o,⟓,r
 SPACE
 n,i,k,:,n,:,ʕ,(ti),w,·
@@ -27396,7 +27396,7 @@ SPACE
 m,_,m,:,l,:,k,(me),w,o,τ
 SPACE
 h,a,α,:_,r,a,ц,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 12:9 in vtrad vtsef
 w,_,y,·,_,(qa),ʕ,_,l
@@ -27511,7 +27511,7 @@ SPACE
 d,·,:,v,a,r,i,(me),y,m.
 SPACE
 θ,w,o,v,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 12:13 in vtrad vtsef
 w,_,y,·,i,τ,:,x,_,z,·,‥,(G),q
@@ -27541,7 +27541,7 @@ SPACE
 ʕ,∵,$,·si,:,r,‥,(me),h
 SPACE
 $,·sh,a,n,a,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,a,l,_,⅃,k.,:
 SPACE
@@ -27589,7 +27589,7 @@ SPACE
 l,i,d,:,r,(ti),w,o,$,·sh
 SPACE
 α,∵,τ,-,y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 12:15 in vtrad vtsef
 w,:,d,i,v,:,r,‥,⅃,y
@@ -27644,7 +27644,7 @@ SPACE
 v,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 13:1 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,⟓,τ
@@ -27714,7 +27714,7 @@ SPACE
 α,i,⅃,y,$,·sh
 SPACE
 v,·,a,x,⅄,w,·,r
-START spi-samekh2 
+START spi-samekh2
 w,:,y,a,r,oa,v,:,ʕ,a,◆,m.
 SPACE
 ʕ,a,r,_,<,k.,:
@@ -27736,7 +27736,7 @@ SPACE
 g,·,i,v,·,(me),w,o,r
 SPACE
 x,a,𝓂,y,i,l,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 13:4 in vtrad vtsef
 w,_,y,·,a,⅃,q,oa,m.
@@ -27773,7 +27773,7 @@ SPACE
 k,·,i,(G),y
 SPACE
 y,:,h,o,w,a,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -27796,7 +27796,7 @@ SPACE
 v,·,:,r,i,(me),y,τ
 SPACE
 m,∵,𝓂,l,_,x,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 13:6 in vtrad vtsef
 w,_,y,·,a,(p),q,oa,m.,(p)
@@ -27850,7 +27850,7 @@ l,i,f,:,n,‥,y,h,∵,𝓂,m.,.
 
 2Chronicles 13:8 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,_,τ,·,∵,⅃,m.
 SPACE
@@ -27938,7 +27938,7 @@ SPACE
 l,:,l,o,(me),α
 SPACE
 α,:∵,l,o,h,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 13:10 in vtrad vtsef
 w,_,α,:_,n,_,⟓,x,:,n,w,·
@@ -28022,7 +28022,7 @@ SPACE
 v,a,r,o,(ge),α,$,·sh
 SPACE
 h,a,α,:∵,l,o,h,i,(da),y,m.
-START lp-paseq 
+START lp-paseq
 w,:,k,o,h,:_,n,a,⟓,y,w
 SPACE
 w,_,x,:_,ц,o,ц,:,r,(me),w,o,τ
@@ -28089,14 +28089,14 @@ l,_,y,h,o,w,a,⅄,h
 SPACE
 w,:,h,_,k,·,o,⅃,h,:_,n,i,ƶ,y,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 m,x,ц,ц,r,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 m,_,x,:,ц,:,r,i,(ti),y,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,_,x,:_,ц,o,ц,:,r,𝓂,w,o,τ,.
 
@@ -28220,14 +28220,14 @@ SPACE
 w,:,α,∵,τ,-,v,·,:,n,w,o,τ,∵,⅄,y,h,a
 SPACE
 w,:,α,∵,τ,-
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,f,r,w,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,∵,f,:,r,_,(ti),y,i,n.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,v,:,n,o,τ,∵,𝓂,y,h,a,.
 
@@ -28247,7 +28247,7 @@ SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 w,_,y,·,a,m,o,𝓂,τ,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 13:21 in vtrad vtsef
 w,_,y,·,i,τ,:,x,_,z,·,‥,⅃,q
@@ -28327,7 +28327,7 @@ SPACE
 ʕ,∵,(me),$,·si,∵,r
 SPACE
 $,·sh,a,n,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 14:1 in vtrad vtsef
 w,_,y,·,_,<,ʕ,_,$,·si
@@ -28430,7 +28430,7 @@ SPACE
 l,i,y,h,w,·,d,a,(ge),h
 SPACE
 n,i,v,:,n,∵,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,∵,τ,-,h,∵,ʕ,a,r,i,⅃,y,m.
 SPACE
@@ -28469,7 +28469,7 @@ SPACE
 w,_,y,·,i,v,:,n,(ti),w,·
 SPACE
 w,_,y,·,_,ц,:,l,i,𝓂,y,x,w,·,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 14:7 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -28491,7 +28491,7 @@ SPACE
 m,‥,α,⅃,w,o,τ
 SPACE
 α,∵,ƶ,l,∵,f.
-START spi-samekh3 
+START spi-samekh3
 w,·,m,i,v,·,i,n,:,y,a,m,i,◆,n.
 SPACE
 n,o,$,·si,:,α,‥,<,y
@@ -28610,7 +28610,7 @@ SPACE
 ʕ,i,m,·,:,k.,a,(ti)
 SPACE
 α,:∵,n,𝓂,w,o,$,·sh,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 14:11 in vtrad vtsef
 w,_,y,·,i,g,·,o,<,f.
@@ -28715,7 +28715,7 @@ SPACE
 w,_,y,·,a,$,·sh,u,(ti),v,w,·
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 15:1 in vtrad vtsef
 w,_,ʕ,:_,z,_,r,:,y,a,(p),h,w,·,(p)
@@ -28768,7 +28768,7 @@ SPACE
 y,_,ʕ,:_,z,o,(me),v
 SPACE
 α,∵,τ,:,k,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 15:3 in vtrad vtsef
 w,:,y,a,m,i,(me),y,m.
@@ -28778,7 +28778,7 @@ SPACE
 l,:,y,i,$,·si,:,r,a,α,‥,⅄,l
 SPACE
 l,:,l,o,⅃,α
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -28867,7 +28867,7 @@ SPACE
 $,·si,a,k,a,(ti),r
 SPACE
 l,i,f,:,ʕ,u,l,·,_,τ,:,k,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 15:8 in vtrad vtsef
 w,:,k,i,$,·sh,:,m,o,(qa),ʕ,_
@@ -28952,7 +28952,7 @@ SPACE
 α,:∵,l,o,h,a,(ti),y,w
 SPACE
 ʕ,i,m,·,𝓂,w,o,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 15:10 in vtrad vtsef
 w,_,y,·,i,q,·,a,v,:,ц,(me),w,·
@@ -29082,7 +29082,7 @@ m,i,σ,·,a,v,i,𝓂,y,v,.
 w,:,g,_,𝓂,m.,-,m,_,ʕ,:_,k,a,(G),h
 SPACE
 α,‥,⅃,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,σ,a,⅃,α
 SPACE
@@ -29164,7 +29164,7 @@ SPACE
 l,:,m,_,l,:,k,(me),w,·,τ
 SPACE
 α,a,σ,a,𝓂,α,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 16:1 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,(qa),τ
@@ -29334,7 +29334,7 @@ SPACE
 w,_,y,·,_,$,·sh,:,v,·,‥,(ti),τ
 SPACE
 α,∵,τ,-,m,:,l,_,α,k,:,τ,·,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 16:6 in vtrad vtsef
 w,:,α,a,σ,a,⅃,α
@@ -29366,7 +29366,7 @@ SPACE
 α,∵,τ,-,g,·,∵,(ti),v,_,ʕ
 SPACE
 w,:,α,∵,τ,-,h,_,m,·,i,ц,:,f,·,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 16:7 in vtrad vtsef
 w,·,v,a,ʕ,‥,⅃,τ
@@ -29423,7 +29423,7 @@ SPACE
 h,a,y,(qa),w,·
 SPACE
 l,:,x,_,(da),y,i,l
-START lp-paseq 
+START lp-paseq
 l,a,r,o,⟓,v
 SPACE
 l,:,r,∵,(me),k,∵,v
@@ -29611,7 +29611,7 @@ SPACE
 g,·,:,d,w,o,l,a,(me),h
 SPACE
 ʕ,_,d,-,l,i,m,:,α,o,𝓂,d,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 17:1 in vtrad vtsef
 w,_,y,·,i,m,:,l,o,⟓,k.,:
@@ -29740,7 +29740,7 @@ SPACE
 w,:,α,∵,τ,-,h,a,α,:_,$,·sh,‥,r,i,(ti),y,m.
 SPACE
 m,i,y,h,w,·,d,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 17:7 in vtrad vtsef
 w,·,v,i,$,·sh,:,n,_,(qa),τ
@@ -29782,14 +29782,14 @@ w,·,z,:,v,_,d,:,y,a,μ,h,w,·
 SPACE
 w,_,ʕ,:_,$,·si,a,h,α,‥,μ,l
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,$,m,r,y,m,w,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,·,$,·sh,:,m,i,y,r,a,m,μ,w,o,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,i,y,h,w,o,n,a,τ,a,n.,(tq)
 SPACE
@@ -29836,7 +29836,7 @@ v,·,a,ʕ,a,𝓂,m.,.
 
 2Chronicles 17:10 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 f,·,_,⅃,x,_,d
 SPACE
@@ -29902,7 +29902,7 @@ SPACE
 w,·,$,·sh,:,v,_,(me),ʕ
 SPACE
 m,‥,α,𝓂,w,o,τ,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 17:12 in vtrad vtsef
 w,_,y,:,h,i,(da),y
@@ -29962,7 +29962,7 @@ SPACE
 $,·si,a,r,‥,⅃,y
 SPACE
 α,:_,l,a,f,i,ƶ,y,m.
-START spi-samekh2 
+START spi-samekh2
 ʕ,_,d,:,n,a,⅃,h
 SPACE
 h,_,$,·si,·,a,ƶ,r
@@ -29978,7 +29978,7 @@ SPACE
 m,‥,α,(ti),w,o,τ
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 17:15 in vtrad vtsef
 w,:,ʕ,_,l,-,y,a,d,(ti),w,o
@@ -29994,7 +29994,7 @@ SPACE
 w,·,$,·sh,:,m,w,o,n,i,(ti),y,m.
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 17:16 in vtrad vtsef
 w,:,ʕ,_,l,-,y,a,d,w,o,(p)
@@ -30016,7 +30016,7 @@ SPACE
 g,·,i,v,·,(me),w,o,r
 SPACE
 x,a,𝓂,y,i,l,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 17:17 in vtrad vtsef
 w,·,m,i,(qa),n.,-,v,·,i,n,:,y,a,m,i,ƶ,n.
@@ -30036,7 +30036,7 @@ SPACE
 m,a,α,τ,_,(me),y,i,m.
 SPACE
 α,a,𝓂,l,∵,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 17:18 in vtrad vtsef
 w,:,ʕ,_,l,-,y,a,d,(ti),w,o
@@ -30052,7 +30052,7 @@ SPACE
 x,:_,l,w,·,ц,‥,(me),y
 SPACE
 ц,a,v,a,𝓂,α,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 17:19 in vtrad vtsef
 α,‥,(ti),l,·,∵,h
@@ -30072,7 +30072,7 @@ SPACE
 h,_,m,·,i,v,:,ц,a,(ti),r
 SPACE
 v,·,:,k,oa,l,-,y,:,h,w,·,d,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 18:1 in vtrad vtsef
 w,_,y,:,h,i,(da),y
@@ -30240,7 +30240,7 @@ m,‥,α,o,τ,𝓂,w,o,.
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 m,∵,l,∵,k.,:,-,y,i,$,·si,:,r,a,α,‥,⅃,l
-START lp-paseq 
+START lp-paseq
 α,∵,𝓂,l,-,y,:,h,w,o,$,·sh,a,f,a,μ,θ
 SPACE
 ʕ,⅃,w,o,d
@@ -30302,14 +30302,14 @@ w,_,y,·,o,Ƶ,α,m,∵,r
 SPACE
 m,_,h,‥,(ti),r
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 m,y,k,h,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 m,i,y,k,a,(me),y,:,h,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,∵,n.,-,y,i,m,:,l,a,𝓂,α,.
 
@@ -30404,7 +30404,7 @@ h,_,m,·,∵,𝓂,l,∵,k.,:,.
 w,:,h,_,m,·,_,l,:,α,a,(G),k.,:
 SPACE
 α,:_,$,·sh,∵,r,-,h,a,l,_,⅃,k.,:
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 l,i,q,:,r,o,⅃,α
 SPACE
@@ -30572,7 +30572,7 @@ SPACE
 k,·,i,(me),y
 SPACE
 α,i,m.,-,l,:,r,a,𝓂,ʕ,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 18:18 in vtrad vtsef
 w,_,y,·,o,Ƶ,α,m,∵,r
@@ -30712,7 +30712,7 @@ SPACE
 ʕ,a,l,∵,(ti),y,k.,a
 SPACE
 r,a,ʕ,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 18:23 in vtrad vtsef
 w,_,y,·,i,g,·,_,$,·sh,(p)
@@ -31013,14 +31013,14 @@ l,a,r,_,k,·,a,◆,v
 SPACE
 h,:_,f,o,(da),k.,:
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,d,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,a,d,:,k.,a,⟓
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,h,w,o,ц,‥,α,τ,_,(me),n,i,y
 SPACE
@@ -31075,7 +31075,7 @@ SPACE
 v,·,:,$,·sh,a,l,(ti),w,o,m.
 SPACE
 l,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 19:2 in vtrad vtsef
 w,_,y,·,‥,ц,‥,⅃,α
@@ -31299,14 +31299,14 @@ SPACE
 ʕ,:_,l,‥,y,k,∵,(ge),m.
 SPACE
 m,‥,α,:_,x,‥,y,k,∵,⅃,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 h,_,y,·,o,$,·sh,:,v,i,⅃,y,m.
 SPACE
 v,·,:,ʕ,a,r,‥,y,h,∵,◆,m.
 SPACE
 v,·,‥,𝓂,y,n.,-,d,·,a,⅃,m.
-START lp-paseq 
+START lp-paseq
 l,:,d,a,m.,~
 SPACE
 v,·,‥,y,n.,-,τ,·,w,o,r,a,⅃,h
@@ -31383,7 +31383,7 @@ SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 ʕ,i,m.,-,h,_,θ,·,𝓂,w,o,v,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 20:1 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -31399,7 +31399,7 @@ SPACE
 ʕ,_,m,·,(ge),w,o,n.
 SPACE
 w,:,ʕ,i,m,·,a,h,∵,(da),m.
-START lp-paseq 
+START lp-paseq
 m,‥,h,a,ʕ,_,m,·,w,o,n,i,⟓,y,m.
 SPACE
 ʕ,_,l,-,y,:,h,w,o,$,·sh,a,f,a,(ti),θ
@@ -31541,7 +31541,7 @@ l,:,h,i,τ,:,y,_,ц,·,‥,𝓂,v,.
 
 2Chronicles 20:7 in vtrad vtsef
 h,:_,l,o,⅃,α
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,_,τ,·,a,⅃,h
 SPACE
@@ -31577,7 +31577,7 @@ SPACE
 w,_,y,·,i,v,:,n,(qa),w,·
 SPACE
 l,:,k.,a,(da)
-START lp-paseq 
+START lp-paseq
 v,·,a,⟓,h,·
 SPACE
 m,i,q,:,d,·,a,(ti),$,·sh
@@ -31738,7 +31738,7 @@ SPACE
 n,:,$,·sh,‥,y,h,∵,(me),m.
 SPACE
 w,·,v,:,n,‥,y,h,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 20:14 in vtrad vtsef
 w,:,y,_,x,:_,z,i,y,α,‥,μ,l
@@ -32022,7 +32022,7 @@ SPACE
 n,a,τ,_,⅃,n.
 SPACE
 y,:,h,o,w,a,⅃,h
-START lp-paseq 
+START lp-paseq
 m,:,⌕,α,a,𝓂,r,:,v,i,⌕,y,m.
 SPACE
 ʕ,_,l,-,v,·,:,n,‥,(qa),y
@@ -32254,7 +32254,7 @@ SPACE
 α,:∵,l,o,h,a,(ti),y,w
 SPACE
 m,i,σ,·,a,v,i,𝓂,y,v,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 20:31 in vtrad vtsef
 w,_,y,·,i,m,:,l,o,(me),k.,:
@@ -32491,7 +32491,7 @@ m,∵,l,∵,k.,:,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 w,_,y,·,i,τ,·,‥,⅃,n.
 SPACE
 l,a,h,∵,⅃,m.
-START lp-paseq 
+START lp-paseq
 α,:_,⌕,v,i,y,h,∵,⌕,m.
 SPACE
 m,_,τ,·,a,n,(qa),w,o,τ
@@ -32519,7 +32519,7 @@ SPACE
 k,·,i,y,-,h,(me),w,·,α
 SPACE
 h,_,v,·,:,k,𝓂,w,o,r,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 21:4 in vtrad vtsef
 w,_,y,·,a,(qa),q,oa,m.
@@ -32567,7 +32567,7 @@ v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 w,_,y,·,‥,(ge),l,∵,k.,:
 SPACE
 v,·,:,d,∵,⅃,r,∵,k.,:
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,_,l,:,k,‥,⅃,y
 SPACE
@@ -32739,7 +32739,7 @@ SPACE
 w,_,y,·,_,d,·,_,(ti),x
 SPACE
 α,∵,τ,-,y,:,h,w,·,d,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 21:12 in vtrad vtsef
 w,_,y,·,a,v,o,<,α
@@ -32755,7 +32755,7 @@ SPACE
 l,‥,α,m,o,⅄,r
 SPACE
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -32924,7 +32924,7 @@ SPACE
 n,:,g,a,f,(qa),w,o
 SPACE
 y,:,h,o,w,a,(da),h
-START lp-paseq 
+START lp-paseq
 v,·,:,m,‥,ʕ,a,⟓,y,w
 SPACE
 l,oa,x,:a,l,i,(ti),y
@@ -32937,7 +32937,7 @@ m,_,r,:,f,·,‥,𝓂,α,.
 w,_,y,:,h,i,⅃,y
 SPACE
 l,:,y,a,m,i,⅃,y,m.
-START lp-paseq 
+START lp-paseq
 m,i,y,·,a,m,i,μ,y,m.
 SPACE
 w,·,k,:,ʕ,‥,τ,(tq)
@@ -32947,7 +32947,7 @@ SPACE
 h,_,q,·,‥,(ge),ц.
 SPACE
 l,:,y,a,m,i,⅃,y,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·sh,:,n,_,◆,y,i,m.
 SPACE
@@ -33048,7 +33048,7 @@ SPACE
 m,∵,(me),l,∵,k.,:
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 22:2 in vtrad vtsef
 v,·,∵,n.,-,α,_,r,:,v,·,a,ʕ,i,(qa),y,m.
@@ -33428,7 +33428,7 @@ SPACE
 m,o,l,∵,(me),k,∵,τ
 SPACE
 ʕ,_,l,-,h,a,α,a,𝓂,r,∵,ц.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 23:1 in vtrad vtsef
 w,·,v,_,$,·sh,·,a,n,a,(qa),h
@@ -33707,7 +33707,7 @@ SPACE
 α,∵,τ,-,k,·,oa,l,-,h,a,ʕ,a,(ge),m.
 SPACE
 w,:,α,i,⅃,y,$,·sh
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·sh,i,l,:,x,⅃,w,o
 SPACE
@@ -33761,7 +33761,7 @@ SPACE
 y,:,x,i,(me),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 23:12 in vtrad vtsef
 w,_,τ,·,i,$,·sh,:,m,_,⅃,ʕ
@@ -33836,7 +33836,7 @@ SPACE
 q,∵,(me),$,·sh,∵,r
 SPACE
 q,a,𝓂,$,·sh,∵,r,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 23:14 in vtrad vtsef
 w,_,y,·,w,o,ц,‥,α,(tq)
@@ -33848,7 +33848,7 @@ SPACE
 α,∵,τ,-,$,·si,a,r,‥,(me),y
 SPACE
 h,_,m,·,‥,α,⅃,w,o,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 f,·,:,q,w,·,d,‥,⅃,y
 SPACE
@@ -33906,7 +33906,7 @@ SPACE
 w,_,y,:,m,i,y,τ,(ti),w,·,h,a
 SPACE
 $,·sh,a,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 23:16 in vtrad vtsef
 w,_,y,·,i,k,:,r,o,<,τ
@@ -34040,7 +34040,7 @@ SPACE
 v,·,a,ʕ,a,(ge),m.
 SPACE
 w,:,α,‥,⅃,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 k,·,oa,l,-,ʕ,_,⅃,m.
 SPACE
@@ -34132,7 +34132,7 @@ SPACE
 y,:,h,w,o,y,a,d,a,(me),ʕ
 SPACE
 h,_,k,·,o,h,‥,𝓂,n.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 24:3 in vtrad vtsef
 w,_,y,·,i,$,·si,·,a,α,-,l,(me),w,o
@@ -34190,7 +34190,7 @@ SPACE
 k,·,∵,(ge),σ,∵,f.
 SPACE
 l,:,x,_,z,·,‥,⅃,q
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,∵,τ,-,v,·,‥,⅃,y,τ
 SPACE
@@ -34383,7 +34383,7 @@ SPACE
 ʕ,a,$,·si,w,·,(p)
 SPACE
 l,:,y,⅃,w,o,m.
-START lp-paseq 
+START lp-paseq
 v,·,:,y,ƶ,w,o,m.
 SPACE
 w,_,y,·,_,α,_,σ,:,f,w,·,-,k,∵,(ti),σ,∵,f.
@@ -34508,7 +34508,7 @@ SPACE
 y,:,m,‥,(me),y
 SPACE
 y,:,h,w,o,y,a,d,a,𝓂,ʕ,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 24:15 in vtrad vtsef
 w,_,y,·,i,z,:,q,_,(da),n.
@@ -34547,7 +34547,7 @@ SPACE
 h,a,α,:∵,l,o,h,i,(ti),y,m.
 SPACE
 w,·,v,‥,y,τ,𝓂,w,o,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 24:17 in vtrad vtsef
 w,:,α,_,x,:_,r,‥,(me),y
@@ -34619,7 +34619,7 @@ SPACE
 w,:,l,o,(me),α
 SPACE
 h,∵,α,:∵,z,i,𝓂,y,n,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 24:20 in vtrad vtsef
 w,:,r,⅃,w,·,x,_
@@ -34645,7 +34645,7 @@ SPACE
 l,a,h,∵,(ge),m.
 SPACE
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -34724,11 +34724,11 @@ SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 w,:,y,i,d,:,r,o,𝓂,$,·sh,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 24:23 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 l,i,τ,:,q,w,·,f,_,⅃,τ
 SPACE
@@ -34772,7 +34772,7 @@ SPACE
 α,:_,n,a,$,·sh,i,(ge),y,m.
 SPACE
 v,·,a,⅃,α,w,·
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 x,‥,⅃,y,l
 SPACE
@@ -34875,14 +34875,14 @@ h,_,m,·,w,o,α,a,v,i,𝓂,y,τ,.
 2Chronicles 24:27 in vtrad vtsef
 w,·,v,a,n,a,(G),y,w
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,r,v
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,i,(da),r,∵,v
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,_,m,·,_,$,·si,·,a,⅃,α
 SPACE
@@ -34911,7 +34911,7 @@ SPACE
 v,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 25:1 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(qa),y,m.
@@ -35228,7 +35228,7 @@ SPACE
 l,i,m,:,q,w,o,m,a,(ti),m.
 SPACE
 v,·,oa,x,:a,r,i,y,-,α,a,𝓂,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 25:11 in vtrad vtsef
 w,_,α,:_,m,_,ц,:,y,a,(p),h,w,·,(p)
@@ -35322,7 +35322,7 @@ SPACE
 v,·,i,z,·,a,(me),h
 SPACE
 r,_,v,·,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 25:14 in vtrad vtsef
 w,_,y,:,h,i,◆,y
@@ -35394,7 +35394,7 @@ m,i,y,·,a,d,∵,𝓂,k.,a,.
 
 2Chronicles 25:16 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,d,_,v,·,:,r,⅃,w,o
 SPACE
@@ -35439,7 +35439,7 @@ SPACE
 $,·sh,a,m,_,(ti),ʕ,:,τ,·,a
 SPACE
 l,_,ʕ,:_,ц,a,τ,i,𝓂,y,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 25:17 in vtrad vtsef
 w,_,y,·,i,w,·,a,ʕ,_,◆,ц.
@@ -35698,7 +35698,7 @@ SPACE
 w,_,y,·,a,(ti),$,·sh,oa,v
 SPACE
 $,·sh,o,m,:,r,𝓂,w,o,n.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 25:25 in vtrad vtsef
 w,_,y,:,x,i,(qa),y
@@ -35843,7 +35843,7 @@ SPACE
 $,·sh,:,k,_,𝓂,v,-,h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 ʕ,i,m.,-,α,:_,v,o,τ,a,𝓂,y,w,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 26:3 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,‥,(qa),$,·sh
@@ -35870,14 +35870,14 @@ w,:,$,·sh,‥,⅃,m.
 SPACE
 α,i,m,·,ƶ,w,o
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,k,y,l,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,:,k,oa,l,:,y,a,(ti),h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,i,n.,-,y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
@@ -35966,14 +35966,14 @@ SPACE
 ʕ,_,l,-,f,·,:,l,i,$,·sh,:,τ,·,i,(da),y,m.
 SPACE
 w,:,ʕ,_,l,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 h,a,ʕ,_,r,:,v,i,⟓,y,m.
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 h,ʕ,r,v,y,y,m.
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 h,_,y,·,o,$,·sh,:,v,i,(me),y,m.
 SPACE
@@ -36063,7 +36063,7 @@ SPACE
 α,:_,d,a,m,a,(ti),h
 SPACE
 h,a,y,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 26:11 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -36088,14 +36088,14 @@ f,·,:,q,u,d,·,a,τ,a,ƶ,m.
 SPACE
 v,·,:,y,_,d,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,ʕ,w,α,l
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,:,ʕ,i,y,α,‥,⅃,l
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,_,σ,·,w,o,f,‥,ƶ,r
 SPACE
@@ -36190,7 +36190,7 @@ q,:,l,a,ʕ,i,𝓂,y,m.,.
 
 2Chronicles 26:15 in vtrad vtsef
 w,_,y,·,_,⅃,ʕ,_,$,·si
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,_,(qa),CGJ,i,m.
 SPACE
@@ -36267,7 +36267,7 @@ SPACE
 w,:,ʕ,i,m,·,(G),w,o
 SPACE
 k,·,o,h,:_,n,i,(da),y,m.
-START lp-paseq 
+START lp-paseq
 l,_,y,h,o,w,a,⟓,h
 SPACE
 $,·sh,:,m,w,o,n,i,(ti),y,m.
@@ -36397,7 +36397,7 @@ SPACE
 h,_,m,·,∵,(ge),l,∵,k.,:
 SPACE
 m,:,ц,o,r,a,⅃,ʕ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 ʕ,_,d,-,y,⅃,w,o,m.
 SPACE
@@ -36407,14 +36407,14 @@ w,_,y,·,‥,(ge),$,·sh,∵,v
 SPACE
 v,·,‥,<,y,τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,x,f,$,w,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,𝓂,x,oa,f,:,$,·sh,i,y,τ,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,:,ц,o,r,a,ƶ,ʕ
 SPACE
@@ -36495,7 +36495,7 @@ SPACE
 v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 27:1 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(qa),y,m.
@@ -36723,7 +36723,7 @@ SPACE
 v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 28:1 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,<,y,m.
@@ -36857,7 +36857,7 @@ SPACE
 m,_,k,·,a,(me),h
 SPACE
 g,:,d,w,o,l,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 28:6 in vtrad vtsef
 w,_,y,·,_,h,:_,r,o,g,(tq)
@@ -36894,7 +36894,7 @@ SPACE
 w,_,𝓂,y,·,_,h,:_,r,o,(G),g
 SPACE
 z,i,k,:,r,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 g,·,i,v,·,⅃,w,o,r
 SPACE
@@ -36915,7 +36915,7 @@ SPACE
 m,i,$,·sh,:,n,‥,(me),h
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 28:8 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,v,·,w,·,(tq)
@@ -36947,7 +36947,7 @@ SPACE
 α,∵,τ,-,h,_,$,·sh,·,a,l,a,(ti),l
 SPACE
 l,:,$,·sh,o,m,:,r,𝓂,w,o,n.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 28:9 in vtrad vtsef
 w,:,⌕,$,·sh,a,⌕,m.
@@ -37053,7 +37053,7 @@ SPACE
 α,_,f.,-,y,:,h,o,w,a,(ti),h
 SPACE
 ʕ,:_,l,‥,y,k,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 28:12 in vtrad vtsef
 w,_,y,·,a,q,u,(qa),m,w,·
@@ -37124,7 +37124,7 @@ SPACE
 α,a,(ti),f.
 SPACE
 ʕ,_,l,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 28:14 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,z,o,⅃,v
@@ -37189,7 +37189,7 @@ SPACE
 w,_,y,·,a,$,·sh,(ti),w,·,v,w,·
 SPACE
 $,·sh,o,m,:,r,𝓂,w,o,n.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 28:16 in vtrad vtsef
 v,·,a,ʕ,‥,⅃,τ
@@ -37500,7 +37500,7 @@ SPACE
 v,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 29:1 in vtrad vtsef
 y,:,x,i,z,:,q,i,y,·,a,⅃,h,w,·
@@ -37678,14 +37678,14 @@ w,i,y,r,w,·,$,·sh,a,l,a,⅄,CGJ,i,m.
 SPACE
 w,_,y,·,i,τ,·,:,n,‥,<,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,z,w,ʕ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,:,z,_,ʕ,:_,w,a,h,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,:,$,·sh,_,m,·,a,⅃,h
 SPACE
@@ -37767,7 +37767,7 @@ SPACE
 m,:,$,·sh,a,r,:,τ,i,(me),y,m.
 SPACE
 w,·,m,_,q,:,θ,i,r,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 29:12 in vtrad vtsef
 w,_,y,·,a,q,u,⅃,m,w,·
@@ -37797,7 +37797,7 @@ SPACE
 w,_,ʕ,:_,z,_,r,:,y,a,(ti),h,w,·
 SPACE
 v,·,∵,n.,-,y,:,h,_,l,·,∵,l,:,α,‥,⅄,l
-START spi-samekh3 
+START spi-samekh3
 w,·,m,i,n.,-,h,_,g,·,‥,⅃,r,:,$,·sh,u,n,·,i,ƶ,y
 SPACE
 y,w,o,α,a,x,(p)
@@ -37815,14 +37815,14 @@ SPACE
 SPACE
 $,·sh,i,m,:,r,i,(ti),y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,y,ʕ,w,α,l
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,i,y,ʕ,i,y,α,‥,⅄,l
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,m,i,n.,-,v,·,:,n,‥,⅃,y
 SPACE
@@ -37831,24 +37831,24 @@ SPACE
 z,:,k,_,r,:,y,a,(ti),h,w,·
 SPACE
 w,·,m,_,τ,·,_,n,:,y,a,𝓂,h,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 29:14 in vtrad vtsef
 w,·,m,i,n.,-,v,·,:,n,‥,(me),y
 SPACE
 h,‥,y,m,a,(ti),n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,x,w,α,l
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,:,x,i,y,α,‥,⅃,l
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,$,·sh,i,m,:,ʕ,i,⅄,y
-START spi-samekh3 
+START spi-samekh3
 w,·,m,i,n.,-,v,·,:,n,‥,⅃,y
 SPACE
 y,:,d,w,·,τ,ƶ,w,·,n.
@@ -37961,7 +37961,7 @@ SPACE
 h,a,r,i,α,$,·sh,(ti),w,o,n.
 SPACE
 k,·,i,l,·,𝓂,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 29:18 in vtrad vtsef
 w,_,y,·,a,v,<,w,o,α,w,·
@@ -38020,7 +38020,7 @@ SPACE
 m,i,z,:,v,·,_,(me),x
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 29:20 in vtrad vtsef
 w,_,y,·,_,$,·sh,:,k,·,‥,m.,(p)
@@ -38212,7 +38212,7 @@ SPACE
 w,:,h,_,k,·,o,h,:_,n,i,(ti),y,m.
 SPACE
 v,·,_,x,:_,ц,o,ц,:,r,𝓂,w,o,τ,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 29:27 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
@@ -38256,14 +38256,14 @@ m,:,$,·sh,w,o,r,‥,ƶ,r
 SPACE
 w,:,h,_,x,:_,ц,o,ц,:,r,(ti),w,o,τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 m,x,ц,ц,r,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 m,_,x,:,ц,:,r,i,⅄,y,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,_,k,·,o,Ƶ,l
 SPACE
@@ -38318,7 +38318,7 @@ SPACE
 w,_,𝓂,y,·,i,q,·,:,d,(ti),w,·
 SPACE
 w,_,y,·,i,𝓂,$,·sh,:,τ,·,_,x,:_,w,𝓂,w,·,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 29:31 in vtrad vtsef
 w,_,y,·,_,(qa),ʕ,_,n.
@@ -38493,7 +38493,7 @@ SPACE
 h,a,y,a,(me),h
 SPACE
 h,_,d,·,a,v,a,𝓂,r,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 30:1 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(qa),x
@@ -38781,7 +38781,7 @@ SPACE
 α,i,m.,-,τ,·,a,$,·sh,(ti),w,·,v,w,·
 SPACE
 α,‥,l,a,𝓂,y,w,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 30:10 in vtrad vtsef
 w,_,y,·,i,h,:,y,(qa),w,·
@@ -38791,7 +38791,7 @@ SPACE
 ʕ,o,v,:,r,i,(qa),y,m.
 SPACE
 m,‥,ʕ,i,(da),y,r
-START lp-paseq 
+START lp-paseq
 l,a,ʕ,i,⟓,y,r
 SPACE
 v,·,:,α,∵,r,∵,ц.,-,α,∵,f,:,r,_,(me),y,i,m.
@@ -39034,7 +39034,7 @@ SPACE
 l,i,d,:,r,⟓,w,o,$,·sh
 SPACE
 h,a,α,:∵,l,o,h,i,(me),y,m.
-START lp-paseq 
+START lp-paseq
 y,:,h,o,w,a,(ti),h
 SPACE
 α,:∵,l,o,h,‥,⅃,y
@@ -39046,7 +39046,7 @@ SPACE
 k,·,:,θ,oa,h,:a,r,_,(me),τ
 SPACE
 h,_,q,·,o,𝓂,d,∵,$,·sh,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 30:20 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,m,_,<,ʕ
@@ -39058,7 +39058,7 @@ SPACE
 w,_,y,·,i,r,:,f,·,a,(ti),α
 SPACE
 α,∵,τ,-,h,a,ʕ,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 30:21 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,$,·si,⅃,w,·
@@ -39086,7 +39086,7 @@ SPACE
 l,_,⌕,y,h,o,w,a,⌕,h
 SPACE
 y,⅃,w,o,m.
-START lp-paseq 
+START lp-paseq
 v,·,:,y,(G),w,o,m.
 SPACE
 h,_,l,:,w,i,y,·,i,(da),m.
@@ -39096,7 +39096,7 @@ SPACE
 v,·,i,k,:,l,‥,y,-,ʕ,o,(ti),z
 SPACE
 l,_,y,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 30:22 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,⅃,r
@@ -39134,7 +39134,7 @@ SPACE
 α,:∵,l,o,h,‥,(me),y
 SPACE
 α,:_,v,w,o,τ,‥,y,h,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 30:23 in vtrad vtsef
 w,_,y,·,i,w,·,a,𝓂,ʕ,:_,ц,w,·,(p)
@@ -39175,7 +39175,7 @@ SPACE
 α,:_,l,a,f,i,⅃,y,m.
 SPACE
 ц,o,α,n.,∴
-START spi-samekh3 
+START spi-samekh3
 w,:,h,_,$,·si,·,a,r,i,(G),y,m.
 SPACE
 h,‥,r,i,<,y,m,w,·
@@ -39200,7 +39200,7 @@ l,a,r,o,𝓂,v,.
 
 2Chronicles 30:25 in vtrad vtsef
 w,_,𝓂,y,·,i,$,·si,:,m,:,x,⅃,w,·
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 k,·,oa,l,-,q,:,h,_,⅃,l
 SPACE
@@ -39252,7 +39252,7 @@ SPACE
 k,a,z,o,(ti),α,τ
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 30:27 in vtrad vtsef
 w,_,y,·,a,q,u,(ge),m,w,·
@@ -39278,7 +39278,7 @@ SPACE
 q,oa,d,:,$,·sh,(ti),w,o
 SPACE
 l,_,$,·sh,·,a,m,a,𝓂,y,i,m.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 31:1 in vtrad vtsef
 w,·,k,:,k,_,l,·,⅃,w,o,τ
@@ -39330,7 +39330,7 @@ SPACE
 l,_,α,:_,x,u,z,·,a,τ,(ti),w,o
 SPACE
 l,:,ʕ,a,r,‥,y,h,∵,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 31:2 in vtrad vtsef
 w,_,y,·,_,ʕ,:_,m,‥,⅃,d
@@ -39346,7 +39346,7 @@ SPACE
 ʕ,_,𝓂,l,-,m,_,x,:,l,:,q,w,o,τ,a,(G),m.
 SPACE
 α,i,⅃,y,$,·sh
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 k,·,:,f,i,⅃,y
 SPACE
@@ -39371,7 +39371,7 @@ SPACE
 m,_,x,:_,n,(me),w,o,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 31:3 in vtrad vtsef
 w,·,m,:,n,a,τ,(tq)
@@ -39498,7 +39498,7 @@ SPACE
 ʕ,:_,r,‥,m,(me),w,o,τ
 SPACE
 ʕ,:_,r,‥,m,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 31:7 in vtrad vtsef
 v,·,_,x,o,(p),d,∵,$,·sh,(p)
@@ -39516,7 +39516,7 @@ SPACE
 h,_,$,·sh,·,:,v,i,y,ʕ,i,(ti),y
 SPACE
 k,·,i,l,·,𝓂,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 31:8 in vtrad vtsef
 w,_,y,·,a,v,o,(p),α,w,·,(p)
@@ -39538,7 +39538,7 @@ SPACE
 ʕ,_,m,·,(me),w,o
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 31:9 in vtrad vtsef
 w,_,y,·,i,d,:,r,o,⅃,$,·sh
@@ -39597,7 +39597,7 @@ SPACE
 α,∵,τ,-,h,∵,h,a,m,(me),w,o,n.
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 31:11 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -39629,14 +39629,14 @@ w,_,ʕ,:_,l,‥,y,h,∵,<,m.
 SPACE
 n,a,g,i,y,d,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 k,w,n,n,y,h,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 k,·,oa,𝓂,n,_,n,:,y,a,⅃,h,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,_,l,·,‥,w,i,ƶ,y
 SPACE
@@ -39671,14 +39671,14 @@ f,·,:,q,i,y,d,i,◆,y,m.
 SPACE
 m,i,y,·,_,<,d
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 k,w,n,n,y,h,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 k,·,oa,𝓂,n,_,n,:,y,a,(p),h,w,·,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,$,·sh,i,m,:,ʕ,i,⅃,y
 SPACE
@@ -39891,7 +39891,7 @@ SPACE
 w,·,v,:,k,oa,𝓂,l,-,m,_,ʕ,:_,$,·si,∵,(G),h
 SPACE
 α,:_,$,·sh,∵,r,-,h,‥,x,‥,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,_,ʕ,:_,v,w,o,d,_,⅃,τ
 SPACE
@@ -39910,7 +39910,7 @@ SPACE
 ʕ,a,$,·si,a,(ti),h
 SPACE
 w,:,h,i,ц,:,l,i,𝓂,y,x,_,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 32:1 in vtrad vtsef
 α,_,x,:_,r,‥,(qa),y
@@ -40125,7 +40125,7 @@ SPACE
 y,:,x,i,z,:,q,i,y,·,a,(me),h,w,·
 SPACE
 m,∵,l,∵,k.,:,-,y,:,h,w,·,d,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 32:9 in vtrad vtsef
 α,_,⅃,x,_,r
@@ -40481,7 +40481,7 @@ SPACE
 y,:,d,‥,(me),y
 SPACE
 h,a,α,a,d,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 32:20 in vtrad vtsef
 w,_,y,·,i,τ,:,f,·,_,l,·,‥,(G),l
@@ -40501,7 +40501,7 @@ SPACE
 w,_,𝓂,y,·,i,z,:,ʕ,:_,q,(ti),w,·
 SPACE
 h,_,$,·sh,·,a,m,a,𝓂,y,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 32:21 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,<,x
@@ -40540,14 +40540,14 @@ v,·,‥,⅃,y,τ
 SPACE
 α,:∵,l,o,h,a,ƶ,y,w
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,m,y,ц,y,α,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,·,m,i,y,ц,i,y,α,‥,⅃,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,‥,ʕ,a,ƶ,y,w
 SPACE
@@ -40565,7 +40565,7 @@ SPACE
 α,∵,τ,-,y,:,x,i,z,:,q,i,y,·,a,(ge),h,w,·
 SPACE
 w,:,α,‥,⅃,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 y,o,$,·sh,:,v,‥,⅃,y
 SPACE
@@ -40609,7 +40609,7 @@ SPACE
 k,oa,l,-,h,_,g,·,w,o,y,i,(ti),m.
 SPACE
 m,‥,α,_,x,:_,r,‥,y,-,k,‥,𝓂,n.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 32:24 in vtrad vtsef
 v,·,_,y,·,a,m,i,⅃,y,m.
@@ -40802,7 +40802,7 @@ v,·,:,k,oa,𝓂,l,-,m,_,ʕ,:_,$,·si,‥,𝓂,h,w,·,.
 w,:,k,‥,(G),n.
 SPACE
 v,·,i,m,:,l,i,y,ц,‥,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·si,a,r,‥,⅃,y
 SPACE
@@ -40893,7 +40893,7 @@ SPACE
 v,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 33:1 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,:,τ,·,‥,(me),y,m.
@@ -41120,7 +41120,7 @@ SPACE
 l,_,α,:_,v,𝓂,w,o,τ,‥,y,k,∵,⅄,m.
 SPACE
 r,_,⅃,q
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,i,m.,-,y,i,$,·sh,:,m,:,r,⅃,w,·
 SPACE
@@ -41168,7 +41168,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 33:10 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(da),r
@@ -41276,7 +41276,7 @@ SPACE
 x,w,o,m,a,⅃,h
 SPACE
 x,i,y,ц,w,o,n,a,⅃,h
-START lp-paseq 
+START lp-paseq
 l,:,ʕ,i,y,r,-,d,·,a,w,i,μ,y,d
 SPACE
 m,_,ʕ,:,r,a,(tq),v,a,h,(tq)
@@ -41341,14 +41341,14 @@ SPACE
 l,a,ʕ,i,𝓂,y,r,.
 
 2Chronicles 33:16 in vtrad vtsef
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,y,k,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,_,y,·,i,(p),v,∵,n.,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,∵,τ,-,m,i,z,:,v,·,_,⅃,x
 SPACE
@@ -41485,7 +41485,7 @@ SPACE
 v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 33:21 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(me),y,m.
@@ -41597,7 +41597,7 @@ SPACE
 v,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 34:1 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,:,m,w,o,n,∵,(me),h
@@ -41733,14 +41733,14 @@ SPACE
 $,·si,a,r,_,(ti),f.
 SPACE
 ʕ,_,l,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 m,i,z,:,v,·,:,x,w,o,τ,a,⅄,m.
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 m,z,v,x,w,τ,y,m.
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 w,_,y,:,θ,_,h,‥,(me),r
 SPACE
@@ -41759,16 +41759,16 @@ w,:,$,·sh,i,m,:,ʕ,(ti),w,o,n.
 SPACE
 w,:,ʕ,_,d,-,n,_,f,:,τ,·,a,l,i,⅄,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 v,x,r
 SPACE
 v,τ,y,h,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,·,:,x,_,r,:,v,o,τ,‥,y,h,∵,(ti),m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 σ,a,v,i,𝓂,y,v,.
 
@@ -41796,7 +41796,7 @@ SPACE
 w,_,y,·,a,(ti),$,·sh,oa,v
 SPACE
 l,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 34:8 in vtrad vtsef
 w,·,v,i,$,·sh,:,n,_,(qa),τ
@@ -41843,7 +41843,7 @@ SPACE
 w,_,y,·,a,v,o,(ge),α,w,·
 SPACE
 α,∵,l,-,x,i,l,:,q,i,y,·,a,⅃,h,w,·
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 h,_,k,·,o,h,‥,⅃,n.
 SPACE
@@ -41881,14 +41881,14 @@ w,·,m,i,k,·,oa,l,-,y,:,h,w,·,d,a,(ti),h
 SPACE
 w,·,v,i,n,:,y,a,m,i,⅄,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,y,$,v,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,_,y,·,a,$,·sh,(ti),w,·,v,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
@@ -41957,7 +41957,7 @@ SPACE
 m,_,l,:,k,‥,(me),y
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 34:12 in vtrad vtsef
 w,:,h,a,α,:_,n,a,$,·sh,i,y,m.,(tq)
@@ -41969,7 +41969,7 @@ SPACE
 v,·,_,m,·,:,l,a,α,k,a,◆,h
 SPACE
 w,_,ʕ,:_,l,‥,y,h,∵,⅃,m.
-START lp-paseq 
+START lp-paseq
 m,u,⌕,f,:,q,a,d,i,⌕,y,m.
 SPACE
 y,_,⅃,x,_,τ
@@ -42187,7 +42187,7 @@ SPACE
 v,·,∵,n.,-,m,i,y,k,a,(ge),h
 SPACE
 w,:,α,‥,⅃,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·sh,a,f,a,⅃,n.
 SPACE
@@ -42270,19 +42270,19 @@ SPACE
 h,_,n,·,:,v,i,y,α,a,(ge),h
 SPACE
 α,‥,⅃,$,·sh,∵,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·sh,_,l,·,u,⅃,m.
 SPACE
 v,·,∵,n.,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 τ,·,oa,q,:,h,_,◆,τ
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 τ,w,q,h,τ
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 v,·,∵,n.,-,x,_,σ,:,r,a,h,(p)
 SPACE
@@ -42326,7 +42326,7 @@ SPACE
 α,∵,τ,:,k,∵,(ti),m.
 SPACE
 α,‥,l,a,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 34:24 in vtrad vtsef
 k,·,o,(ye),h
@@ -42367,20 +42367,20 @@ y,:,h,w,·,d,a,𝓂,h,.
 
 2Chronicles 34:25 in vtrad vtsef
 τ,·,_,⅃,x,_,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
 ʕ,:_,z,a,v,◆,w,·,n,i,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,y,q,θ,y,r,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,_,𝓂,y,:,q,_,θ,·,:,r,w,·,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,‥,α,l,o,h,i,⅃,y,m.
 SPACE
@@ -42426,7 +42426,7 @@ SPACE
 τ,o,α,m,:,r,(ti),w,·
 SPACE
 α,‥,l,a,⅄,y,w
-START spi-samekh2 
+START spi-samekh2
 k,·,o,𝓂,h,-,α,a,m,_,<,r
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -42447,7 +42447,7 @@ SPACE
 r,_,k.,:,-,l,:,v,a,(qa),v,:,k.,a,(ge)
 SPACE
 w,_,τ,·,i,k,·,a,n,_,⅃,ʕ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,i,l,·,i,f,:,n,‥,⅃,y
 SPACE
@@ -42519,7 +42519,7 @@ SPACE
 α,∵,τ,-,h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 d,·,a,v,a,𝓂,r,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 34:29 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,l,_,(ti),x
@@ -42687,7 +42687,7 @@ SPACE
 α,:∵,l,o,h,‥,(me),y
 SPACE
 α,:_,v,w,o,τ,‥,y,h,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 35:1 in vtrad vtsef
 w,_,y,·,_,(qa),ʕ,_,$,·si
@@ -42726,21 +42726,21 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 35:3 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
 l,_,⌕,l,:,w,i,y,·,i,⌕,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,m,v,w,n,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,m,·,:,v,i,y,n,i,(qa),y,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,:,k,oa,l,-,y,i,$,·si,:,r,a,α,‥,(ge),l
 SPACE
@@ -42787,14 +42787,14 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 2Chronicles 35:4 in vtrad vtsef
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,h,k,w,n,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,h,a,k,i,(me),y,n,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,:,v,‥,y,τ,-,α,:_,v,w,o,τ,‥,y,k,∵,(ti),m.
 SPACE
@@ -42853,7 +42853,7 @@ SPACE
 k,·,i,d,:,v,_,r,-,y,:,h,o,w,a,(ti),h
 SPACE
 v,·,:,y,_,d,-,m,o,$,·sh,∵,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 35:7 in vtrad vtsef
 w,_,y,·,a,⅃,r,∵,m.
@@ -42893,7 +42893,7 @@ SPACE
 m,‥,r,:,k,(me),w,·,$,·sh
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 35:8 in vtrad vtsef
 w,:,$,·si,a,r,a,(G),y,w
@@ -42939,14 +42939,14 @@ SPACE
 m,‥,α,𝓂,w,o,τ,.
 
 2Chronicles 35:9 in vtrad vtsef
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,k,w,n,n,y,h,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,⌕,k,oa,𝓂,n,_,n,:,y,a,⌕,h,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,$,·sh,:,m,_,ʕ,:,y,a,(qa),h,w,·
 SPACE
@@ -43220,7 +43220,7 @@ SPACE
 w,:,k,oa,l,-,m,_,l,:,k,‥,⅃,y
 SPACE
 y,i,$,·si,:,r,a,α,‥,⅃,l
-START lp-paseq 
+START lp-paseq
 l,o,𝓂,α,-,ʕ,a,$,·si,μ,w,·
 SPACE
 k,·,_,f,·,∵,⅃,σ,_,x
@@ -43242,7 +43242,7 @@ SPACE
 w,:,y,w,o,$,·sh,:,v,‥,(ti),y
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 35:19 in vtrad vtsef
 v,·,i,$,·sh,:,m,w,o,n,∵,<,h
@@ -43298,9 +43298,9 @@ SPACE
 α,‥,l,a,⅃,y,w
 SPACE
 m,_,l,:,α,a,k,i,⅃,y,m.
-START lp-paseq 
+START lp-paseq
 l,‥,α,m,o,r,(tq)
-START lp-paseq 
+START lp-paseq
 m,_,h,-,l,·,i,(qa),y
 SPACE
 w,a,l,a,(ge),k.,:
@@ -43429,7 +43429,7 @@ SPACE
 m,i,𝓂,τ,:,α,_,v,·,:,l,i,(ti),y,m.
 SPACE
 ʕ,_,l,-,y,o,α,$,·sh,i,y,·,a,𝓂,h,w,·,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 35:25 in vtrad vtsef
 w,_,y,:,q,w,o,n,‥,⅃,n.
@@ -43441,7 +43441,7 @@ SPACE
 w,_,y,·,o,α,m,:,r,⅃,w,·
 SPACE
 k,oa,𝓂,l,-,h,_,$,·sh,·,a,r,i,⅃,y,m.
-START lp-paseq 
+START lp-paseq
 w,:,⌕,h,_,$,·sh,·,a,r,⌕,w,o,τ
 SPACE
 v,·,:,q,i,y,n,(qa),w,o,τ,‥,y,h,∵,<,m.
@@ -43493,7 +43493,7 @@ SPACE
 m,_,l,:,k,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 w,i,y,h,w,·,d,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 36:1 in vtrad vtsef
 w,_,y,·,i,q,:,x,w,·,(p)
@@ -43578,7 +43578,7 @@ SPACE
 w,_,y,:,v,i,y,α,‥,(ti),h,w,·
 SPACE
 m,i,ц,:,r,a,𝓂,y,:,m,a,h,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 36:5 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(qa),y,m.
@@ -43683,7 +43683,7 @@ SPACE
 v,·,:,n,(ti),w,o
 SPACE
 τ,·,_,x,:,τ,·,a,𝓂,y,w,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 36:9 in vtrad vtsef
 v,·,∵,n.,-,$,·sh,:,m,w,o,n,∵,<,h
@@ -43744,7 +43744,7 @@ SPACE
 ʕ,_,l,-,y,:,h,w,·,d,a,(ti),h
 SPACE
 w,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-pe2 
+START spi-pe2
 
 2Chronicles 36:11 in vtrad vtsef
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(da),y,m.
@@ -43834,14 +43834,14 @@ w,:,h,a,ʕ,a,m.,(p)
 SPACE
 h,i,r,:,v,·,⅃,w,·
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,m,ʕ,w,l
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,i,m,:,ʕ,oa,l,-
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 m,_,ƶ,ʕ,_,l
 SPACE
 k,·,:,k,o,(ti),l
@@ -43923,14 +43923,14 @@ SPACE
 SPACE
 α,∵,τ,-,m,∵,⅃,l,∵,k.,:
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 k,$,d,y,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 k,·,_,$,·si,:,d,·,i,◆,y,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,_,y,·,_,h,:_,r,o,(qa),g
 SPACE
@@ -43959,7 +43959,7 @@ SPACE
 n,a,τ,_,(me),n.
 SPACE
 v,·,:,y,a,d,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 36:18 in vtrad vtsef
 w,:,⌕,k,o,⌕,l
@@ -44066,7 +44066,7 @@ SPACE
 $,·sh,i,v,:,ʕ,i,(me),y,m.
 SPACE
 $,·sh,a,n,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 36:22 in vtrad vtsef
 w,·,v,i,$,·sh,:,n,_,⅃,τ
@@ -44104,13 +44104,13 @@ SPACE
 w,:,g,_,m.,-,v,·,:,m,i,k,:,τ,·,a,(ti),v
 SPACE
 l,‥,α,m,o,𝓂,r,.
-START spi-samekh2 
+START spi-samekh2
 
 2Chronicles 36:23 in vtrad vtsef
 k,·,o,𝓂,h,-,α,a,m,_,(G),r
 SPACE
 k,·,⅃,w,o,r,∵,$,·sh
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,∵,⅃,l,∵,k.,:
 SPACE

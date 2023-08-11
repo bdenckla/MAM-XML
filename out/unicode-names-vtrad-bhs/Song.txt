@@ -1,11 +1,11 @@
 unicode_names Song
 Song of Songs 1:1 in vtrad vtbhs
-START slh-word 
-START letter-large 
+START slh-word
+START letter-large
 $,·sh,i,(me)
-STOP letter-large 
+STOP letter-large
 y,r
-STOP slh-word 
+STOP slh-word
 SPACE
 h,_,$,·sh,·,i,y,r,i,(ti),y,m.
 SPACE
@@ -73,7 +73,7 @@ SPACE
 m,‥,y,$,·sh,a,r,i,(ti),y,m.
 SPACE
 α,:_,h,‥,v,𝓂,w,·,k.,a,.
-START spi-pe2 
+START spi-pe2
 
 Song of Songs 1:5 in vtrad vtbhs
 $,·sh,:,x,w,o,r,a,<,h
@@ -182,7 +182,7 @@ SPACE
 m,i,$,·sh,:,k,·,:,n,(me),w,o,τ
 SPACE
 h,a,r,o,ʕ,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 Song of Songs 1:9 in vtrad vtbhs
 l,:,σ,u,𝓂,σ,a,τ,i,y,(p)
@@ -234,7 +234,7 @@ Song of Songs 1:13 in vtrad vtbhs
 ц,:,r,(qa),w,o,r
 SPACE
 h,_,m,·,o,<,r
-START lp-paseq 
+START lp-paseq
 d,·,w,o,d,i,y,(p)
 SPACE
 l,i,ƶ,y
@@ -249,7 +249,7 @@ Song of Songs 1:14 in vtrad vtbhs
 α,∵,$,·sh,:,k,·,o,(qa),l
 SPACE
 h,_,k,·,o,<,f,∵,r
-START lp-paseq 
+START lp-paseq
 d,·,w,o,d,i,y,(p)
 SPACE
 l,i,ƶ,y
@@ -259,7 +259,7 @@ SPACE
 ʕ,‥,(me),y,n.
 SPACE
 g,·,∵,𝓂,d,i,y,.
-START spi-samekh2 
+START spi-samekh2
 
 Song of Songs 1:15 in vtrad vtbhs
 h,i,n,·,a,<,k.,:
@@ -298,14 +298,14 @@ v,·,a,τ,·,‥,(p),y,n,w,·,(p)
 SPACE
 α,:_,r,a,z,i,ƶ,y,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 r,x,y,θ,n,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 r,_,h,i,y,θ,‥,(ti),n,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,:,r,w,o,τ,i,𝓂,y,m.,.
 
@@ -419,7 +419,7 @@ SPACE
 h,_,$,·si,·,a,d,∵,⅄,h
 SPACE
 α,i,m.,-,τ,·,a,ʕ,i,(da),y,r,w,·
-START lp-paseq 
+START lp-paseq
 w,:,𝓂,α,i,m.,-,τ,·,:,ʕ,(me),w,o,r,:,r,⟓,w,·
 SPACE
 α,∵,τ,-,h,a,α,_,h,:_,v,a,(ti),h
@@ -427,7 +427,7 @@ SPACE
 ʕ,_,(me),d
 SPACE
 $,·sh,∵,τ,·,∵,x,:,f,·,a,𝓂,ц.,.
-START spi-samekh2 
+START spi-samekh2
 
 Song of Songs 2:8 in vtrad vtbhs
 q,⅃,w,o,l
@@ -538,7 +538,7 @@ SPACE
 f,_,g,·,∵,ƶ,y,h,a
 SPACE
 w,:,h,_,g,·,:,f,a,n,i,(me),y,m.
-START lp-paseq 
+START lp-paseq
 σ,:,m,a,d,_,(ti),r
 SPACE
 n,a,⅃,τ,:,n,w,·
@@ -547,21 +547,21 @@ r,‥,⅄,y,x,_
 SPACE
 q,(me),w,·,m,i,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,k,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,a,⟓,k.,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 r,_,ʕ,:,y,a,τ,i,(me),y
 SPACE
 y,a,f,a,τ,i,(ti),y
 SPACE
 w,·,l,:,k,i,y,-,l,a,𝓂,k.,:,.
-START spi-samekh2 
+START spi-samekh2
 
 Song of Songs 2:14 in vtrad vtbhs
 y,w,o,n,a,τ,i,(G),y
@@ -589,7 +589,7 @@ SPACE
 w,·,m,_,r,:,α,‥,(me),y,k.,:
 SPACE
 n,a,α,w,∵,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Song of Songs 2:15 in vtrad vtbhs
 α,∵,𝓂,x,:∵,z,w,·,-,l,a,(p),n,w,·,(p)
@@ -649,7 +649,7 @@ SPACE
 ʕ,_,l,-,h,a,(me),r,‥,y
 SPACE
 v,a,𝓂,τ,∵,r,.
-START spi-samekh2 
+START spi-samekh2
 
 Song of Songs 3:1 in vtrad vtbhs
 ʕ,_,l,-,m,i,$,·sh,:,k,·,a,v,i,y,(p)
@@ -765,7 +765,7 @@ SPACE
 h,_,$,·si,·,a,d,∵,⅄,h
 SPACE
 α,i,m.,-,τ,·,a,ʕ,i,(da),y,r,w,·
-START lp-paseq 
+START lp-paseq
 w,:,𝓂,α,i,m.,-,τ,·,:,ʕ,(me),w,o,r,:,r,⟓,w,·
 SPACE
 α,∵,τ,-,h,a,α,_,h,:_,v,a,(ti),h
@@ -773,7 +773,7 @@ SPACE
 ʕ,_,(me),d
 SPACE
 $,·sh,∵,τ,·,∵,x,:,f,·,a,𝓂,ц.,.
-START spi-samekh2 
+START spi-samekh2
 
 Song of Songs 3:6 in vtrad vtbhs
 m,i,⅃,y
@@ -839,7 +839,7 @@ SPACE
 m,i,f,·,_,(ti),x,_,d
 SPACE
 v,·,_,l,·,‥,y,l,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 Song of Songs 3:9 in vtrad vtbhs
 α,_,f,·,i,r,:,y,◆,w,o,n.
@@ -883,7 +883,7 @@ y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
 Song of Songs 3:11 in vtrad vtbhs
 ц,:,α,∵,(da),n,a,h
-START lp-paseq 
+START lp-paseq
 w,·,𝓂,r,:,α,∵,⟓,y,n,a,h
 SPACE
 v,·,:,n,(me),w,o,τ
@@ -909,7 +909,7 @@ SPACE
 $,·si,i,m,:,x,_,(me),τ
 SPACE
 l,i,v,·,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 Song of Songs 4:1 in vtrad vtbhs
 h,i,n,·,a,(qa),k.,:
@@ -1061,7 +1061,7 @@ SPACE
 α,‥,(me),y,n.
 SPACE
 v,·,a,𝓂,k.,:,.
-START spi-samekh2 
+START spi-samekh2
 
 Song of Songs 4:8 in vtrad vtbhs
 α,i,τ,·,i,<,y
@@ -1077,7 +1077,7 @@ SPACE
 τ,·,a,v,⅄,w,o,α,i,y
 SPACE
 τ,·,a,$,·sh,⅃,w,·,r,i,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,‥,r,o,⅃,α,$,·sh
 SPACE
@@ -1106,14 +1106,14 @@ k,_,l,·,a,⅄,h
 SPACE
 l,i,v,·,_,v,:,τ,·,i,(p),n,i,y,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 v,α,x,d
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,·,:,α,_,x,_,⅃,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,‥,ʕ,‥,y,n,_,ƶ,y,i,k.,:
 SPACE
@@ -1171,7 +1171,7 @@ l,:,v,a,n,𝓂,w,o,n.,.
 
 Song of Songs 4:12 in vtrad vtbhs
 g,·,_,(me),n.
-START lp-paseq 
+START lp-paseq
 n,a,ʕ,(ti),w,·,l
 SPACE
 α,:_,x,o,τ,i,⅃,y
@@ -1205,7 +1205,7 @@ SPACE
 
 Song of Songs 4:14 in vtrad vtbhs
 n,‥,⅃,r,:,d,·,:
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 w,:,k,_,r,:,k,·,o,◆,m.
 SPACE
@@ -1309,7 +1309,7 @@ SPACE
 w,:,$,·sh,i,k,:,r,(ti),w,·
 SPACE
 d,·,w,o,d,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Song of Songs 5:2 in vtrad vtbhs
 α,:_,n,i,(me),y
@@ -1321,7 +1321,7 @@ SPACE
 ʕ,‥,⅄,r
 SPACE
 q,⅃,w,o,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 d,·,w,o,d,i,⅃,y
 SPACE
@@ -1675,7 +1675,7 @@ SPACE
 h,a,r,o,ʕ,∵,(ti),h
 SPACE
 v,·,_,$,·sh,·,w,o,$,·sh,_,n,·,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Song of Songs 6:4 in vtrad vtbhs
 y,a,f,a,(qa),h
@@ -1796,7 +1796,7 @@ SPACE
 w,·,f,i,𝓂,y,l,_,g,:,$,·sh,i,(ti),y,m.
 SPACE
 w,_,𝓂,y,:,h,_,l,:,l,𝓂,w,·,h,a,.
-START spi-samekh2 
+START spi-samekh2
 
 Song of Songs 6:10 in vtrad vtbhs
 m,i,y,-,z,o,(me),α,τ
@@ -1816,7 +1816,7 @@ SPACE
 α,:_,y,u,m,·,a,(ti),h
 SPACE
 k,·,_,n,·,i,d,:,g,·,a,l,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 Song of Songs 6:11 in vtrad vtbhs
 α,∵,l,-,g,·,i,n,·,_,<,τ
@@ -2056,7 +2056,7 @@ SPACE
 w,:,ʕ,a,l,_,(ti),y
 SPACE
 τ,·,:,$,·sh,w,·,q,a,τ,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 Song of Songs 7:12 in vtrad vtbhs
 l,:,k,a,<,h
@@ -2186,7 +2186,7 @@ SPACE
 y,:,r,w,·,$,·sh,a,l,a,⅄,CGJ,i,m.
 SPACE
 m,_,h,-,τ,·,a,ʕ,i,(da),y,r,w,·
-START lp-paseq 
+START lp-paseq
 w,·,𝓂,m,_,h,-,τ,·,:,ʕ,o,(me),r,:,r,⟓,w,·
 SPACE
 α,∵,τ,-,h,a,α,_,h,:_,v,a,(ti),h
@@ -2194,7 +2194,7 @@ SPACE
 ʕ,_,(me),d
 SPACE
 $,·sh,∵,τ,·,∵,x,:,f,·,a,𝓂,ц.,.
-START spi-samekh2 
+START spi-samekh2
 
 Song of Songs 8:5 in vtrad vtbhs
 m,i,⅃,y
@@ -2292,7 +2292,7 @@ SPACE
 y,a,v,(me),w,·,z,w,·
 SPACE
 l,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 Song of Songs 8:8 in vtrad vtbhs
 α,a,x,(me),w,o,τ
@@ -2358,7 +2358,7 @@ SPACE
 k,·,:,m,w,o,ц,:,α,‥,(me),τ
 SPACE
 $,·sh,a,l,𝓂,w,o,m.,.
-START spi-pe2 
+START spi-pe2
 
 Song of Songs 8:11 in vtrad vtbhs
 k,·,∵,⅃,r,∵,m.
@@ -2421,7 +2421,7 @@ h,_,$,·sh,:,m,i,y,ʕ,i,𝓂,n,i,y,.
 
 Song of Songs 8:14 in vtrad vtbhs
 v,·,:,r,_,⅃,x
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 d,·,w,o,d,i,◆,y
 SPACE

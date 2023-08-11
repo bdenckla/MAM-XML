@@ -204,7 +204,7 @@ SPACE
 l,:,v,_,(ti),d
 SPACE
 ʕ,_,l,-,k,·,oa,l,-,h,i,τ,:,n,_,d,·,‥,𝓂,v,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 1:7 in vtrad vtbhs
 w,:,h,_,m,·,∵,⅃,l,∵,k.,:
@@ -253,7 +253,7 @@ SPACE
 h,_,n,·,a,$,·si,i,(ti),y,α
 SPACE
 l,i,y,h,w,·,d,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 1:9 in vtrad vtbhs
 w,:,α,‥,(ti),l,·,∵,h
@@ -275,7 +275,7 @@ SPACE
 τ,·,i,$,·sh,:,ʕ,a,(me),h
 SPACE
 w,:,ʕ,∵,$,·si,:,r,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 1:10 in vtrad vtbhs
 k,·,:,f,w,o,r,‥,<,y
@@ -332,11 +332,11 @@ SPACE
 m,i,v,·,a,v,∵,(ti),l
 SPACE
 l,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 2:1 in vtrad vtbhs
 w,:,α,‥,⅃,l,·,∵,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,n,‥,⅃,y
 SPACE
@@ -352,14 +352,14 @@ SPACE
 SPACE
 h,∵,g,:,l,a,⟓,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 n,v,w,k,d,n,ц,w,r
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 n,:,v,w,·,k,_,d,:,n,∵,ц,·,_,(me),r
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,∵,𝓂,l,∵,k.,:,-,v,·,a,v,∵,(ti),l
 SPACE
@@ -407,7 +407,7 @@ SPACE
 ʕ,_,(me),m.
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 2:3 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -421,7 +421,7 @@ SPACE
 $,·sh,i,v,:,ʕ,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:4 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -435,7 +435,7 @@ SPACE
 $,·sh,i,v,:,ʕ,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:5 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -449,7 +449,7 @@ SPACE
 x,:_,m,i,$,·sh,·,a,(me),h
 SPACE
 w,:,$,·sh,i,v,:,ʕ,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:6 in vtrad vtbhs
 v,·,:,n,‥,𝓂,y,-,f,_,x,_,(me),τ
@@ -471,7 +471,7 @@ SPACE
 w,·,$,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:7 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -485,7 +485,7 @@ SPACE
 x,:_,m,i,$,·sh,·,i,(me),y,m.
 SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:8 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -499,7 +499,7 @@ SPACE
 w,:,α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 w,_,x,:_,m,i,$,·sh,·,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:9 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -511,7 +511,7 @@ SPACE
 m,‥,α,(ti),w,o,τ
 SPACE
 w,:,$,·sh,i,$,·sh,·,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:10 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -525,7 +525,7 @@ SPACE
 α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:11 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -539,7 +539,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,l,o,$,·sh,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:12 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -553,7 +553,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:13 in vtrad vtbhs
 v,·,:,n,‥,y,(p)
@@ -567,7 +567,7 @@ SPACE
 $,·sh,i,$,·sh,·,i,(me),y,m.
 SPACE
 w,:,$,·sh,i,$,·sh,·,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:14 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -579,7 +579,7 @@ SPACE
 x,:_,m,i,$,·sh,·,i,(me),y,m.
 SPACE
 w,:,$,·sh,i,$,·sh,·,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:15 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -593,7 +593,7 @@ SPACE
 x,:_,m,i,$,·sh,·,i,(me),y,m.
 SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:16 in vtrad vtbhs
 v,·,:,n,‥,𝓂,y,-,α,a,θ,‥,(me),r
@@ -603,7 +603,7 @@ SPACE
 τ,·,i,$,·sh,:,ʕ,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,m,o,n,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:17 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -617,7 +617,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,l,o,$,·sh,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:18 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -629,7 +629,7 @@ SPACE
 w,·,$,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:19 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -641,7 +641,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,l,o,$,·sh,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:20 in vtrad vtbhs
 v,·,:,n,‥,(me),y
@@ -651,7 +651,7 @@ SPACE
 τ,·,i,$,·sh,:,ʕ,i,(me),y,m.
 SPACE
 w,_,x,:_,m,i,$,·sh,·,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:21 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -663,7 +663,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,l,o,$,·sh,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:22 in vtrad vtbhs
 α,_,n,:,$,·sh,‥,(me),y
@@ -673,7 +673,7 @@ SPACE
 x,:_,m,i,$,·sh,·,i,(me),y,m.
 SPACE
 w,:,$,·sh,i,$,·sh,·,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:23 in vtrad vtbhs
 α,_,n,:,$,·sh,‥,⅃,y
@@ -685,7 +685,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,m,o,n,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:24 in vtrad vtbhs
 v,·,:,n,‥,(me),y
@@ -695,7 +695,7 @@ SPACE
 α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:25 in vtrad vtbhs
 v,·,:,n,‥,(qa),y
@@ -715,7 +715,7 @@ SPACE
 w,:,α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,l,o,$,·sh,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:26 in vtrad vtbhs
 v,·,:,n,‥,<,y
@@ -731,7 +731,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,:,α,∵,x,a,𝓂,d,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:27 in vtrad vtbhs
 α,_,n,:,$,·sh,‥,⅃,y
@@ -743,7 +743,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:28 in vtrad vtbhs
 α,_,n,:,$,·sh,‥,<,y
@@ -757,7 +757,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,l,o,$,·sh,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:29 in vtrad vtbhs
 v,·,:,n,‥,(me),y
@@ -767,7 +767,7 @@ SPACE
 x,:_,m,i,$,·sh,·,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:30 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -779,7 +779,7 @@ SPACE
 x,:_,m,i,$,·sh,·,i,(me),y,m.
 SPACE
 w,:,$,·sh,i,$,·sh,·,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:31 in vtrad vtbhs
 v,·,:,n,‥,y,(p)
@@ -795,7 +795,7 @@ SPACE
 x,:_,m,i,$,·sh,·,i,(me),y,m.
 SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:32 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -807,7 +807,7 @@ SPACE
 m,‥,α,(ti),w,o,τ
 SPACE
 w,:,ʕ,∵,$,·si,:,r,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:33 in vtrad vtbhs
 v,·,:,n,‥,y,-,l,o,d,(p)
@@ -823,7 +823,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,_,x,:_,m,i,$,·sh,·,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:34 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -837,7 +837,7 @@ SPACE
 α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 w,_,x,:_,m,i,$,·sh,·,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:35 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -853,11 +853,11 @@ SPACE
 m,‥,α,(ti),w,o,τ
 SPACE
 w,·,$,·sh,:,l,o,$,·sh,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 2:36 in vtrad vtbhs
 h,_,𝓂,k,·,o,h,:_,n,i,⅄,y,m.
-START spi-pe2 
+START spi-pe2
 v,·,:,n,‥,<,y
 SPACE
 y,:,d,_,𝓂,ʕ,:,y,a,h,(p)
@@ -873,7 +873,7 @@ SPACE
 $,·sh,i,v,:,ʕ,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,l,o,$,·sh,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:37 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -885,7 +885,7 @@ SPACE
 x,:_,m,i,$,·sh,·,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:38 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -899,7 +899,7 @@ SPACE
 α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 w,:,$,·sh,i,v,:,ʕ,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:39 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -911,7 +911,7 @@ SPACE
 w,:,$,·sh,i,v,:,ʕ,a,(me),h
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 2:40 in vtrad vtbhs
 h,_,l,:,w,i,y,·,i,⅄,m.
@@ -927,7 +927,7 @@ SPACE
 $,·sh,i,v,:,ʕ,i,(me),y,m.
 SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:41 in vtrad vtbhs
 h,_,𝓂,m,:,$,·sh,o,r,:,r,i,⅄,y,m.
@@ -941,7 +941,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,m,o,n,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:42 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -971,7 +971,7 @@ SPACE
 $,·sh,:,l,o,$,·sh,i,(me),y,m.
 SPACE
 w,:,τ,i,$,·sh,:,ʕ,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 2:43 in vtrad vtbhs
 h,_,n,·,:,τ,i,y,n,i,⅄,y,m.
@@ -983,7 +983,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 θ,_,v,·,a,ʕ,𝓂,w,o,τ,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:44 in vtrad vtbhs
 v,·,:,n,‥,y,-,q,‥,r,o,(me),σ
@@ -993,7 +993,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 f,a,d,𝓂,w,o,n.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:45 in vtrad vtbhs
 v,·,:,n,‥,y,-,l,:,v,a,n,a,(me),h
@@ -1003,25 +1003,25 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 ʕ,_,q,·,𝓂,w,·,v,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:46 in vtrad vtbhs
 v,·,:,n,‥,y,-,x,a,g,a,(me),v
 SPACE
 v,·,:,n,‥,y,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 $,·sh,_,l,:,m,_,(ti),y
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 $,m,l,y
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 v,·,:,n,‥,(me),y
 SPACE
 x,a,n,a,𝓂,n.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:47 in vtrad vtbhs
 v,·,:,n,‥,y,-,g,i,d,·,‥,(me),l
@@ -1031,7 +1031,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 r,:,α,a,y,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:48 in vtrad vtbhs
 v,·,:,n,‥,y,-,r,:,ц,i,(me),y,n.
@@ -1041,7 +1041,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 g,_,z,·,a,𝓂,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:49 in vtrad vtbhs
 v,·,:,n,‥,y,-,ʕ,u,z,·,a,(me),α
@@ -1051,7 +1051,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 v,‥,σ,a,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:50 in vtrad vtbhs
 v,·,:,n,‥,y,-,α,_,σ,:,n,a,(me),h
@@ -1060,16 +1060,16 @@ v,:,n,‥,y,-,m,:,ʕ,w,·,n,i,(ti),y,m.
 SPACE
 v,·,:,n,‥,(me),y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 n,f,y,σ,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 n,:,f,w,·,σ,i,𝓂,y,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:51 in vtrad vtbhs
 v,·,:,n,‥,y,-,v,_,q,:,v,·,(me),w,·,q
@@ -1079,7 +1079,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 x,_,r,:,x,𝓂,w,·,r,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:52 in vtrad vtbhs
 v,·,:,n,‥,y,-,v,_,ц,:,l,(me),w,·,τ
@@ -1089,7 +1089,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 x,_,r,:,$,·sh,a,𝓂,α,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:53 in vtrad vtbhs
 v,·,:,n,‥,y,-,v,_,r,:,q,(me),w,o,σ
@@ -1097,7 +1097,7 @@ SPACE
 v,·,:,𝓂,n,‥,y,-,σ,i,𝓂,y,σ,:,r,a,(ti),α
 SPACE
 v,·,:,n,‥,y,-,τ,a,𝓂,m,_,x,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:54 in vtrad vtbhs
 v,·,:,n,‥,(me),y
@@ -1107,7 +1107,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 x,:_,θ,i,y,f,a,𝓂,α,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:55 in vtrad vtbhs
 v,·,:,n,‥,(ti),y
@@ -1123,7 +1123,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 f,:,r,w,·,d,a,𝓂,α,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:56 in vtrad vtbhs
 v,·,:,n,‥,y,-,y,_,ʕ,:,l,a,(me),h
@@ -1133,7 +1133,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 g,i,d,·,‥,𝓂,l,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:57 in vtrad vtbhs
 v,·,:,n,‥,(da),y
@@ -1151,7 +1151,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 α,a,m,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:58 in vtrad vtbhs
 k,·,oa,(qa),l,-,h,_,n,·,:,τ,i,y,n,i,ƶ,y,m.
@@ -1169,7 +1169,7 @@ SPACE
 τ,·,i,$,·sh,:,ʕ,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 2:59 in vtrad vtbhs
 w,:,α,‥,◆,l,·,∵,h
@@ -1205,7 +1205,7 @@ SPACE
 m,i,y,·,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 h,‥,𝓂,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:60 in vtrad vtbhs
 v,·,:,n,‥,y,-,d,:,l,a,y,a,(me),h
@@ -1223,7 +1223,7 @@ SPACE
 x,:_,m,i,$,·sh,·,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:61 in vtrad vtbhs
 w,·,m,i,v,·,:,n,‥,y,(p)
@@ -1257,7 +1257,7 @@ SPACE
 w,_,y,·,i,q,·,a,r,‥,(ti),α
 SPACE
 ʕ,_,l,-,$,·sh,:,m,a,𝓂,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:62 in vtrad vtbhs
 α,‥,◆,l,·,∵,h
@@ -1363,7 +1363,7 @@ SPACE
 α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 w,_,x,:_,m,i,$,·sh,·,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 2:67 in vtrad vtbhs
 g,·,:,m,_,(qa),l,·,‥,y,h,∵,ƶ,m.
@@ -1387,7 +1387,7 @@ SPACE
 m,‥,α,(ti),w,o,τ
 SPACE
 w,:,ʕ,∵,$,·si,:,r,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 2:68 in vtrad vtbhs
 w,·,m,‥,r,a,α,$,·sh,‥,y,(p)
@@ -1444,7 +1444,7 @@ SPACE
 k,·,o,h,:_,n,i,(ti),y,m.
 SPACE
 m,‥,α,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 2:70 in vtrad vtbhs
 w,_,y,·,‥,$,·sh,:,v,⅃,w,·
@@ -1466,7 +1466,7 @@ SPACE
 w,:,k,oa,l,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 v,·,:,ʕ,a,r,‥,y,h,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 3:1 in vtrad vtbhs
 w,_,y,·,i,g,·,_,ʕ,(p)
@@ -1480,7 +1480,7 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 v,·,∵,ʕ,a,r,i,⅄,y,m.
-START spi-samekh2 
+START spi-samekh2
 w,_,y,·,‥,α,a,σ,:,f,(me),w,·
 SPACE
 h,a,ʕ,a,⟓,m.
@@ -1490,7 +1490,7 @@ SPACE
 α,∵,x,a,(ti),d
 SPACE
 α,∵,l,-,y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 3:2 in vtrad vtbhs
 w,_,y,·,a,(tq),q,oa,m.,(tq)
@@ -1548,14 +1548,14 @@ m,‥,ʕ,_,m,·,‥,(ti),y
 SPACE
 h,a,α,:_,r,a,ц,⅄,w,o,τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,y,ʕ,l
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,_,y,·,_,ʕ,:_,l,(qa),w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,a,l,a,<,y,w
 SPACE
@@ -1676,7 +1676,7 @@ SPACE
 m,∵,𝓂,l,∵,k.,:,-,f,·,a,r,_,(ti),σ
 SPACE
 ʕ,:_,l,‥,y,h,∵,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 3:8 in vtrad vtbhs
 w,·,v,_,$,·sh,·,a,n,a,⅃,h
@@ -1708,7 +1708,7 @@ SPACE
 w,·,$,·sh,:,α,a,(me),r
 SPACE
 α,:_,x,‥,y,h,∵,⅃,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 h,_,k,·,o,h,:_,n,i,⅃,y,m.
 SPACE
@@ -1764,7 +1764,7 @@ SPACE
 v,·,:,v,‥,⅃,y,τ
 SPACE
 h,a,α,:∵,l,o,h,i,⅄,y,m.
-START spi-samekh2 
+START spi-samekh2
 v,·,:,n,‥,y,(p)
 SPACE
 x,‥,𝓂,n,a,d,a,ƶ,d
@@ -1924,7 +1924,7 @@ SPACE
 n,i,$,·sh,:,m,_,(ti),ʕ
 SPACE
 ʕ,_,d,-,l,:,m,‥,r,a,x,𝓂,w,o,q,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 4:1 in vtrad vtbhs
 w,_,𝓂,y,·,i,$,·sh,:,m,:,ʕ,ƶ,w,·
@@ -1974,15 +1974,15 @@ n,i,d,:,r,(ti),w,o,$,·sh
 SPACE
 l,‥,𝓂,α,l,o,h,‥,y,k,∵,⅄,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,l,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,l,⅃,w,o
-START lp-legarmeih 
-STOP kq-q 
-STOP kq 
+START lp-legarmeih
+STOP kq-q
+STOP kq
 SPACE
 α,:_,n,_,⅃,x,:,n,w,·
 SPACE
@@ -2066,14 +2066,14 @@ y,:,d,‥,⅃,y
 SPACE
 ʕ,_,m.,-,y,:,h,w,·,d,a,⅄,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,m,v,l,h,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,·,𝓂,m,:,v,_,h,:_,l,i,(me),y,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,w,o,τ,a,(ti),m.
 SPACE
@@ -2122,7 +2122,7 @@ SPACE
 y,:,h,w,·,d,a,(ti),h
 SPACE
 w,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 4:7 in vtrad vtbhs
 w,·,v,i,y,m,‥,⅃,y
@@ -2158,7 +2158,7 @@ SPACE
 w,·,m,:,τ,u,r,:,g,·,a,(me),m.
 SPACE
 α,:_,r,a,m,i,𝓂,y,τ,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 4:8 in vtrad vtbhs
 r,:,x,⅃,w,·,m.
@@ -2206,27 +2206,27 @@ SPACE
 SPACE
 α,:_,f,a,𝓂,r,:,σ,a,y,‥,◆,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,r,k,w,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,_,r,:,k,·,:a,w,a,y,‥,<,α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,a,v,:,l,a,y,‥,α,(p)
 SPACE
 $,·sh,𝓂,w,·,$,·sh,_,n,:,k,a,y,‥,ƶ,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 d,h,w,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 d,·,∵,h,a,y,‥,(ti),α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,‥,l,:,m,a,y,‥,𝓂,α,.
 
@@ -2285,7 +2285,7 @@ SPACE
 ʕ,:_,v,_,𝓂,r,-,n,_,h,:_,r,a,(ti),h
 SPACE
 w,·,k,:,ʕ,∵,𝓂,n,∵,τ,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 4:12 in vtrad vtbhs
 y,:,d,i,(p),y,ʕ,_,(p)
@@ -2318,28 +2318,28 @@ w,·,v,i,𝓂,α,y,$,·sh,:,τ,·,a,α,(p)
 SPACE
 v,·,a,n,_,ƶ,y,i,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,$,w,r,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,$,·sh,w,·,r,_,y,·,a,⅃,α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,$,k,l,l,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·sh,_,k,:,l,i,ƶ,y,l,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,α,u,$,·sh,·,_,y,·,a,(ti),α
 SPACE
 y,_,x,i,𝓂,y,θ,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 4:13 in vtrad vtbhs
 k,·,:,ʕ,_,◆,n.
@@ -2377,7 +2377,7 @@ SPACE
 m,_,l,:,k,i,(ti),y,m.
 SPACE
 τ,·,:,h,_,n,:,z,i,𝓂,q,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 4:14 in vtrad vtbhs
 k,·,:,ʕ,_,◆,n.
@@ -2497,7 +2497,7 @@ SPACE
 α,i,y,τ,_,(ti),y
 SPACE
 l,a,𝓂,k.,:,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 4:17 in vtrad vtbhs
 f,·,i,τ,:,g,a,m,a,(G),α
@@ -2531,7 +2531,7 @@ SPACE
 $,·sh,:,l,a,(ti),m.
 SPACE
 w,·,k,:,ʕ,∵,𝓂,τ,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 4:18 in vtrad vtbhs
 n,i,$,·sh,:,τ,·,:,w,a,n,a,Ƶ,α
@@ -2653,7 +2653,7 @@ SPACE
 l,:,h,_,n,:,z,a,q,_,(ti),τ
 SPACE
 m,_,l,:,k,i,𝓂,y,n.,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 4:23 in vtrad vtbhs
 α,:∵,d,_,◆,y,i,n.
@@ -2695,7 +2695,7 @@ SPACE
 v,·,:,α,∵,d,:,r,a,(me),ʕ
 SPACE
 w,:,x,a,𝓂,y,i,l,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 4:24 in vtrad vtbhs
 v,·,‥,α,d,_,◆,y,i,n.
@@ -2725,21 +2725,21 @@ SPACE
 d,·,a,r,:,y,a,(me),w,∵,$,·sh
 SPACE
 m,∵,𝓂,l,∵,k.,:,-,f,·,a,r,a,𝓂,σ,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 5:1 in vtrad vtbhs
 w,:,h,i,τ,:,n,_,v,·,i,(G),y
 SPACE
 x,_,g,·,_,⅃,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 n,v,y,α,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 n,:,v,i,y,·,a,◆,α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,z,:,k,_,r,:,y,a,<,h
 SPACE
@@ -2762,7 +2762,7 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 ʕ,:_,l,‥,y,h,𝓂,w,o,n.,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 5:2 in vtrad vtbhs
 v,·,‥,α,d,_,μ,y,i,n.
@@ -2798,7 +2798,7 @@ SPACE
 m,:,σ,a,ʕ,:_,d,i,(me),y,n.
 SPACE
 l,:,h,𝓂,w,o,n.,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 5:3 in vtrad vtbhs
 v,·,‥,h,·,-,z,i,m,:,n,a,α,(tq)
@@ -2892,7 +2892,7 @@ SPACE
 n,i,$,·sh,:,τ,·,:,w,a,n,a,(ti),α
 SPACE
 ʕ,_,l,-,d,·,:,n,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 5:6 in vtrad vtbhs
 f,·,_,r,:,$,·sh,∵,⅃,g,∵,n.
@@ -2902,7 +2902,7 @@ SPACE
 d,·,i,𝓂,y,-,$,·sh,:,l,_,(G),x
 SPACE
 τ,·,_,τ,·,:,n,_,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 f,·,_,x,_,⅃,τ
 SPACE
@@ -2946,11 +2946,11 @@ SPACE
 $,·sh,:,l,a,m,a,(me),α
 SPACE
 k,o,𝓂,l,·,a,α,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 5:8 in vtrad vtbhs
 y,:,d,i,⅃,y,ʕ,_
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 l,∵,h,:∵,w,‥,⅃,α
 SPACE
@@ -3047,7 +3047,7 @@ SPACE
 d,·,i,(me),y
 SPACE
 v,:,r,a,α,$,·sh,‥,y,h,o,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 5:11 in vtrad vtbhs
 w,·,k,:,n,‥,(me),m,a,α
@@ -3119,14 +3119,14 @@ n,:,v,w,·,k,_,d,:,n,∵,ц,·,_,(me),r
 SPACE
 m,∵,𝓂,l,∵,k.,:,-,v,·,a,v,∵,(ti),l
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 k,σ,d,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 k,·,_,σ,:,d,·,a,α,a,⅄,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,v,_,y,:,τ,a,<,h
 SPACE
@@ -3139,7 +3139,7 @@ SPACE
 h,_,g,:,l,i,(me),y
 SPACE
 l,:,v,a,v,∵,𝓂,l,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 5:13 in vtrad vtbhs
 v,·,:,r,_,m.,(p)
@@ -3233,16 +3233,16 @@ $,·si,a,m,‥,𝓂,h,·,.
 
 Ezra 5:15 in vtrad vtbhs
 w,_,α,:_,m,_,r,-,l,‥,(sh),h,·
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,l,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,‥,(ye),l
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,a,𝓂,α,n,_,y,·,a,ƶ,α
 SPACE
@@ -3265,7 +3265,7 @@ SPACE
 y,i,τ,:,v,·,:,n,‥,(me),α
 SPACE
 ʕ,_,l,-,α,_,τ,:,r,‥,𝓂,h,·,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 5:16 in vtrad vtbhs
 α,:∵,d,_,(p),y,i,n.,(p)
@@ -3350,7 +3350,7 @@ SPACE
 y,i,$,·sh,:,l,_,(me),x
 SPACE
 ʕ,:_,l,∵,𝓂,y,n,a,α,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 6:1 in vtrad vtbhs
 v,·,‥,α,d,_,⟓,y,i,n.
@@ -3364,7 +3364,7 @@ SPACE
 θ,:,ʕ,‥,⅄,m.
 SPACE
 w,·,v,_,q,·,_,⅃,r,w,·
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,v,‥,⅃,y,τ
 SPACE
@@ -3402,7 +3402,7 @@ SPACE
 v,·,:,g,_,w,·,_,(ti),h,·
 SPACE
 d,·,i,k,:,r,w,o,n,a,𝓂,h,‾,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 6:3 in vtrad vtbhs
 v,·,i,$,·sh,:,n,_,(qa),τ
@@ -3473,7 +3473,7 @@ SPACE
 m,_,l,:,k,·,a,(ti),α
 SPACE
 τ,·,i,τ,:,y,:,h,i,𝓂,v,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 6:5 in vtrad vtbhs
 w,:,⌕,α,_,⌕,f.
@@ -3517,7 +3517,7 @@ SPACE
 v,·,:,v,‥,(me),y,τ
 SPACE
 α,:∵,l,a,h,a,𝓂,α,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 6:6 in vtrad vtbhs
 k,·,:,ʕ,_,μ,n.
@@ -3636,9 +3636,9 @@ SPACE
 w,:,d,i,k,:,r,i,⅃,y,n.
 SPACE
 w,:,α,i,m,·,:,r,i,⅃,y,n.
-START lp-paseq 
+START lp-paseq
 l,_,ʕ,:_,l,a,w,a,⅃,n.
-START lp-paseq 
+START lp-paseq
 l,∵,α,:∵,l,a,(yy),h,·
 SPACE
 $,·sh,:,m,_,y,·,a,(qp),α
@@ -3646,7 +3646,7 @@ SPACE
 x,i,n,:,θ,i,(G),y,n.
 SPACE
 m,:,l,_,⅃,x
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 x,:_,m,_,⅃,r
 SPACE
@@ -3665,7 +3665,7 @@ SPACE
 l,:,h,o,⟓,m.
 SPACE
 y,(me),w,o,m.
-START lp-paseq 
+START lp-paseq
 v,·,:,y,(ti),w,o,m.
 SPACE
 d,·,i,y,-,l,a,(me),α
@@ -3748,7 +3748,7 @@ SPACE
 w,:,ʕ,_,m.,(p)
 SPACE
 d,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 y,i,$,·sh,:,l,_,⅃,x
 SPACE
@@ -3777,7 +3777,7 @@ SPACE
 α,oa,σ,:,f,·,_,(ti),r,:,n,a,α
 SPACE
 y,i,τ,:,ʕ,:_,v,i,𝓂,d,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 6:13 in vtrad vtbhs
 α,:∵,⌕,d,_,⌕,y,i,n.
@@ -3821,14 +3821,14 @@ v,·,i,n,:,v,w,·,α,_,τ,(p)
 SPACE
 x,_,g,·,_,⅃,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 n,v,y,α,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 n,:,v,i,y,·,a,ƶ,α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,z,:,k,_,r,:,y,a,(ti),h
 SPACE
@@ -3882,7 +3882,7 @@ SPACE
 d,·,a,r,:,y,a,(me),w,∵,$,·sh
 SPACE
 m,_,l,:,k,·,a,𝓂,α,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 6:16 in vtrad vtbhs
 w,_,ʕ,:_,v,_,⅃,d,w,·
@@ -3932,14 +3932,14 @@ w,·,ц,:,f,i,y,r,‥,(qa),y
 SPACE
 ʕ,i,z,·,i,(ge),y,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,x,θ,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,:,x,_,θ,·,a,α,a,<,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,_,l,-,k,·,oa,l,-,y,i,$,·si,:,r,a,α,‥,l,(p)
 SPACE
@@ -3975,7 +3975,7 @@ SPACE
 σ,:,f,_,(me),r
 SPACE
 m,o,$,·sh,∵,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 6:19 in vtrad vtbhs
 w,_,y,·,_,ʕ,:_,$,·si,(me),w,·
@@ -4060,7 +4060,7 @@ SPACE
 v,·,:,$,·si,i,m,:,x,a,⅄,h
 SPACE
 k,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·si,i,m,·,:,x,a,⅃,m.
 SPACE
@@ -4085,7 +4085,7 @@ SPACE
 α,:∵,l,o,h,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 7:1 in vtrad vtbhs
 w,:,α,_,x,_,r,(p)
@@ -4180,7 +4180,7 @@ SPACE
 k,·,o,(ti),l
 SPACE
 v,·,_,q,·,a,$,·sh,a,τ,𝓂,w,o,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 7:7 in vtrad vtbhs
 w,_,y,·,_,𝓂,ʕ,:_,l,⅃,w,·
@@ -4279,11 +4279,11 @@ SPACE
 x,o,(me),q
 SPACE
 w,·,m,i,$,·sh,:,f,·,a,𝓂,θ,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 7:11 in vtrad vtbhs
 w,:,z,∵,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 f,·,_,r,:,$,·sh,∵,⅃,g,∵,n.
 SPACE
@@ -4312,7 +4312,7 @@ SPACE
 w,:,x,u,q,·,a,(ti),y,w
 SPACE
 ʕ,_,l,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 7:12 in vtrad vtbhs
 α,_,(qa),r,:,τ,·,_,x,:,$,·sh,_,ƶ,σ,:,τ,·,:,α
@@ -4467,7 +4467,7 @@ SPACE
 d,:,n,a,◆,h
 SPACE
 τ,·,w,o,r,i,<,y,n.
-START lp-paseq 
+START lp-paseq
 d,·,i,k,:,r,i,y,n.,(p)
 SPACE
 α,i,m,·,:,r,i,ƶ,y,n.
@@ -4497,24 +4497,24 @@ w,·,m,a,⅃,h
 SPACE
 d,i,y,(tq)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,:_,l,a,(qa),k.,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,ʕ,_,l,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 α,∵,x,a,(ge),k.,:
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 α,x,y,k.
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 y,‥,y,θ,_,◆,v
 SPACE
@@ -4721,7 +4721,7 @@ SPACE
 l,:,m,i,r,:,m,‥,(me),α
 SPACE
 ʕ,:_,l,‥,y,h,o,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 7:25 in vtrad vtbhs
 w,:,α,_,⅃,n,:,τ,·,:
@@ -4742,14 +4742,14 @@ w,:,d,_,y,·,a,n,i,◆,y,n.
 SPACE
 d,·,i,y,-,l,∵,h,:∵,w,ḥḥfv,<,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 d,α,n,y,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 d,·,a,α,y,:,n,i,y,n.,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,:,k,oa,l,-,ʕ,_,m,·,a,α,(p)
 SPACE
@@ -4806,21 +4806,21 @@ l,:,m,w,o,τ,(p)
 SPACE
 h,‥,⅃,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,$,r,$,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,i,$,·sh,:,r,o,$,·sh,i,ƶ,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,‥,n.,-,l,_,ʕ,:_,n,a,(me),$,·sh
 SPACE
 n,i,k,:,σ,i,(ti),y,n.
 SPACE
 w,:,l,∵,α,:∵,σ,w,·,r,i,𝓂,y,n.,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 7:27 in vtrad vtbhs
 v,·,a,r,(me),w,·,k.,:
@@ -4887,7 +4887,7 @@ SPACE
 l,_,ʕ,:_,l,(me),w,o,τ
 SPACE
 ʕ,i,m,·,i,𝓂,y,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 8:1 in vtrad vtbhs
 w,:,α,‥,⟓,l,·,∵,h
@@ -4909,7 +4909,7 @@ SPACE
 h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 m,i,v,·,a,v,∵,𝓂,l,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 8:2 in vtrad vtbhs
 m,i,v,·,:,n,‥,<,y
@@ -4917,25 +4917,25 @@ SPACE
 f,i,𝓂,y,n,:,x,a,σ,(p)
 SPACE
 g,·,‥,𝓂,r,:,$,·sh,o,ƶ,m.
-START spi-samekh3 
+START spi-samekh3
 m,i,v,·,:,n,‥,(me),y
 SPACE
 α,i,y,τ,a,m,a,(ti),r
 SPACE
 d,·,a,n,i,y,·,‥,⅄,α,l
-START spi-samekh3 
+START spi-samekh3
 m,i,v,·,:,n,‥,(me),y
 SPACE
 d,a,w,i,(ti),y,d
 SPACE
 x,_,θ,·,𝓂,w,·,$,·sh,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 8:3 in vtrad vtbhs
 m,i,v,·,:,n,‥,⅃,y
 SPACE
 $,·sh,:,k,_,n,:,y,a,ƶ,h
-START spi-samekh3 
+START spi-samekh3
 m,i,v,·,:,n,‥,(me),y
 SPACE
 f,_,r,:,ʕ,o,(ti),$,·sh
@@ -4951,7 +4951,7 @@ SPACE
 m,‥,α,a,(me),h
 SPACE
 w,_,x,:_,m,i,$,·sh,·,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 8:4 in vtrad vtbhs
 m,i,v,·,:,n,‥,y,(p)
@@ -4969,7 +4969,7 @@ SPACE
 m,a,α,τ,_,(me),y,i,m.
 SPACE
 h,_,z,·,:,k,a,r,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 8:5 in vtrad vtbhs
 m,i,v,·,:,n,‥,(me),y
@@ -4985,7 +4985,7 @@ SPACE
 m,‥,α,(ti),w,o,τ
 SPACE
 h,_,z,·,:,k,a,r,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 8:6 in vtrad vtbhs
 w,·,m,i,v,·,:,n,‥,⅃,y
@@ -5001,7 +5001,7 @@ SPACE
 x,:_,m,i,$,·sh,·,i,(me),y,m.
 SPACE
 h,_,z,·,:,k,a,r,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 8:7 in vtrad vtbhs
 w,·,m,i,v,·,:,n,‥,⅃,y
@@ -5017,7 +5017,7 @@ SPACE
 $,·sh,i,v,:,ʕ,i,(me),y,m.
 SPACE
 h,_,z,·,:,k,a,r,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 8:8 in vtrad vtbhs
 w,·,m,i,v,·,:,n,‥,⅃,y
@@ -5033,7 +5033,7 @@ SPACE
 $,·sh,:,m,o,n,i,(me),y,m.
 SPACE
 h,_,z,·,:,k,a,r,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 8:9 in vtrad vtbhs
 m,i,v,·,:,n,‥,⅃,y
@@ -5053,7 +5053,7 @@ SPACE
 ʕ,a,$,·si,a,(ti),r
 SPACE
 h,_,z,·,:,k,a,r,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 8:10 in vtrad vtbhs
 w,·,m,i,v,·,:,n,‥,(me),y
@@ -5069,7 +5069,7 @@ SPACE
 w,:,$,·sh,i,$,·sh,·,i,(ti),y,m.
 SPACE
 h,_,z,·,:,k,a,r,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 8:11 in vtrad vtbhs
 w,·,m,i,v,·,:,n,‥,⅃,y
@@ -5087,7 +5087,7 @@ SPACE
 w,·,$,·sh,:,m,o,n,a,(ti),h
 SPACE
 h,_,z,·,:,k,a,r,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 8:12 in vtrad vtbhs
 w,·,m,i,v,·,:,n,‥,⅃,y
@@ -5105,7 +5105,7 @@ SPACE
 w,_,ʕ,:_,$,·si,a,r,a,(ti),h
 SPACE
 h,_,z,·,:,k,a,r,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 8:13 in vtrad vtbhs
 w,·,m,i,v,·,:,n,‥,⅃,y
@@ -5129,7 +5129,7 @@ SPACE
 $,·sh,i,$,·sh,·,i,(me),y,m.
 SPACE
 h,_,z,·,:,k,a,r,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 8:14 in vtrad vtbhs
 w,·,m,i,v,·,:,n,‥,(me),y
@@ -5138,21 +5138,21 @@ v,i,g,:,w,_,(ti),y
 SPACE
 ʕ,w,·,τ,_,⅃,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,z,v,w,d
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,z,_,k,·,⅄,w,·,r
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,ʕ,i,m,·,(ti),w,o
 SPACE
 $,·sh,i,v,:,ʕ,i,(me),y,m.
 SPACE
 h,_,z,·,:,k,a,r,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 8:15 in vtrad vtbhs
 w,a,𝓂,α,∵,q,:,v,·,:,ц,‥,◆,m.
@@ -5215,14 +5215,14 @@ SPACE
 m,:,v,i,y,n,i,𝓂,y,m.,.
 
 Ezra 8:17 in vtrad vtbhs
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,α,w,ц,α,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,a,α,:_,ц,_,w,·,∵,<,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,w,o,τ,a,m.,(p)
 SPACE
@@ -5246,14 +5246,14 @@ SPACE
 SPACE
 α,a,x,i,<,y,w
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,n,τ,w,n,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,n,·,:,τ,i,y,n,i,y,m.,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,:,k,a,σ,i,f,:,y,a,⅃,α
 SPACE
@@ -5281,7 +5281,7 @@ SPACE
 α,i,⅃,y,$,·sh
 SPACE
 $,·si,∵,ƶ,k,∵,l
-START spi-samekh3 
+START spi-samekh3
 m,i,v,·,:,n,‥,⅃,y
 SPACE
 m,_,x,:,l,i,ƶ,y
@@ -5316,7 +5316,7 @@ SPACE
 w,·,v,:,n,‥,y,h,∵,(ti),m.
 SPACE
 ʕ,∵,$,·si,:,r,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 8:20 in vtrad vtbhs
 w,·,m,i,n.,-,h,_,n,·,:,τ,i,y,n,i,◆,y,m.
@@ -5448,14 +5448,14 @@ SPACE
 ʕ,:_,$,·si,a,r,a,𝓂,h,.
 
 Ezra 8:25 in vtrad vtbhs
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,α,$,q,w,l,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,a,α,∵,$,·sh,:,q,:a,l,a,⅃,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,a,h,∵,ƶ,m.
 SPACE
@@ -5607,7 +5607,7 @@ SPACE
 l,:,v,‥,(me),y,τ
 SPACE
 α,:∵,l,o,h,‥,𝓂,y,n,w,·,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 8:31 in vtrad vtbhs
 w,_,𝓂,n,·,i,σ,·,:,ʕ,a,(G),h
@@ -5714,7 +5714,7 @@ SPACE
 v,·,a,ʕ,‥,(me),τ
 SPACE
 h,_,h,i,𝓂,y,α,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 8:35 in vtrad vtbhs
 h,_,⌕,v,·,a,α,i,⌕,y,m.
@@ -5726,7 +5726,7 @@ SPACE
 h,i,q,:,r,i,(me),y,v,w,·
 SPACE
 ʕ,o,l,⅃,w,o,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 l,‥,α,l,o,h,‥,⅃,y
 SPACE
@@ -5739,7 +5739,7 @@ SPACE
 ʕ,_,l,-,k,·,oa,l,-,y,i,$,·si,:,r,a,α,‥,l,(p)
 SPACE
 α,‥,y,l,i,⅃,y,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 τ,·,i,$,·sh,:,ʕ,i,⅃,y,m.
 SPACE
@@ -5764,11 +5764,11 @@ SPACE
 ʕ,w,o,l,a,(me),h
 SPACE
 l,_,y,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 8:36 in vtrad vtbhs
 w,_,𝓂,y,·,i,τ,·,:,n,⅃,w,·
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,∵,τ,-,d,·,a,τ,‥,⅃,y
 SPACE
@@ -5791,7 +5791,7 @@ SPACE
 w,:,α,∵,τ,-,v,·,‥,(me),y,τ
 SPACE
 h,a,α,:∵,l,o,h,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 9:1 in vtrad vtbhs
 w,·,k,:,k,_,l,·,⅃,w,o,τ
@@ -6017,7 +6017,7 @@ SPACE
 k,o,h,:_,n,‥,(ge),y,n,w,·
 SPACE
 v,·,:,y,_,⅃,d
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,_,l,:,k,‥,⅃,y
 SPACE
@@ -6047,7 +6047,7 @@ SPACE
 τ,:,x,i,n,·,a,(ge),h
 SPACE
 m,‥,α,‥,⅃,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 y,:,h,o,w,a,⅃,h
 SPACE
@@ -6125,7 +6125,7 @@ SPACE
 v,·,i,𝓂,y,h,w,·,d,a,(ti),h
 SPACE
 w,·,v,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 9:10 in vtrad vtbhs
 w,:,ʕ,_,τ,·,a,⟓,h
@@ -6244,7 +6244,7 @@ SPACE
 h,_,g,·,:,d,o,l,a,⅄,h
 SPACE
 k,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,_,τ,·,a,⅃,h
 SPACE
@@ -6290,7 +6290,7 @@ SPACE
 $,·sh,:,α,‥,r,i,(ti),y,τ
 SPACE
 w,·,f,:,l,‥,y,θ,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 9:15 in vtrad vtbhs
 y,:,h,o,w,a,(G),h
@@ -6326,7 +6326,7 @@ SPACE
 l,:,f,a,n,∵,(ti),y,k.,a
 SPACE
 ʕ,_,l,-,z,o,𝓂,α,τ,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 10:1 in vtrad vtbhs
 w,·,k,:,h,i,τ,:,f,·,_,l,·,‥,<,l
@@ -6366,7 +6366,7 @@ SPACE
 h,a,ʕ,a,(ti),m.
 SPACE
 h,_,r,:,v,·,‥,h,-,v,∵,𝓂,k,∵,h,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 10:2 in vtrad vtbhs
 w,_,y,·,_,(tq),ʕ,_,n.,(tq)
@@ -6377,14 +6377,14 @@ v,∵,n.,-,y,:,x,i,y,α,‥,(ge),l
 SPACE
 m,i,v,·,:,n,‥,<,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,w,l,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,‥,y,l,a,m.,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,_,y,·,o,⅃,α,m,∵,r
 SPACE
@@ -6442,7 +6442,7 @@ SPACE
 w,:,k,_,τ,·,w,o,r,a,(ti),h
 SPACE
 y,‥,ʕ,a,$,·si,∵,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 10:4 in vtrad vtbhs
 q,⟓,w,·,m.
@@ -6458,7 +6458,7 @@ SPACE
 x,:_,z,_,(ti),q
 SPACE
 w,_,ʕ,:_,$,·si,‥,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 10:5 in vtrad vtbhs
 w,_,y,·,a,⅃,q,oa,m.
@@ -6569,7 +6569,7 @@ SPACE
 m,i,q,·,:,h,_,(me),l
 SPACE
 h,_,g,·,w,o,l,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 10:9 in vtrad vtbhs
 w,_,y,·,i,q,·,a,v,:,ц,⅃,w,·
@@ -6577,7 +6577,7 @@ SPACE
 k,oa,l,-,α,_,n,:,$,·sh,‥,𝓂,y,-,y,:,h,w,·,d,a,h,(tq)
 SPACE
 w,·,v,i,n,:,y,a,m,i,(qa),n.
-START lp-paseq 
+START lp-paseq
 y,:,r,w,·,$,·sh,a,l,_,(ge),CGJ,i,m.
 SPACE
 l,i,$,·sh,:,l,o,⅃,$,·sh,∵,τ
@@ -6609,7 +6609,7 @@ SPACE
 ʕ,_,l,-,h,_,d,·,a,v,a,(ti),r
 SPACE
 w,·,m,‥,h,_,g,·,:,$,·sh,a,m,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 10:10 in vtrad vtbhs
 w,_,y,·,a,(qa),q,oa,m.
@@ -6662,7 +6662,7 @@ SPACE
 w,·,m,i,n.,-,h,_,n,·,a,$,·sh,i,(ti),y,m.
 SPACE
 h,_,n,·,oa,k,:,r,i,y,·,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 10:12 in vtrad vtbhs
 w,_,y,·,_,𝓂,ʕ,:_,n,(da),w,·
@@ -6677,14 +6677,14 @@ g,·,a,d,⅄,w,o,l
 SPACE
 k,·,‥,⟓,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 k,d,v,r,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 k,·,i,d,:,v,a,r,:,k.,a,(me)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,a,l,‥,(ti),y,n,w,·
 SPACE
@@ -6735,7 +6735,7 @@ SPACE
 l,:,𝓂,k,oa,l,-,h,_,q,·,a,h,a,(G),l
 SPACE
 w,:,k,o,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
@@ -6776,7 +6776,7 @@ SPACE
 l,_,d,·,a,v,a,(me),r
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Ezra 10:15 in vtrad vtbhs
 α,_,⅃,k.,:
@@ -6864,7 +6864,7 @@ SPACE
 l,_,x,o,(me),d,∵,$,·sh
 SPACE
 h,a,r,i,α,$,·sh,𝓂,w,o,n.,.
-START spi-pe2 
+START spi-pe2
 
 Ezra 10:18 in vtrad vtbhs
 w,_,y,·,i,m,·,a,ц,‥,α,(p)
@@ -6911,7 +6911,7 @@ SPACE
 α,‥,𝓂,y,l,-,ц,o,(ti),α,n.
 SPACE
 ʕ,_,l,-,α,_,$,·sh,:,m,a,τ,a,𝓂,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:20 in vtrad vtbhs
 w,·,m,i,v,·,:,n,‥,⅃,y
@@ -6921,7 +6921,7 @@ SPACE
 x,:_,n,a,(ti),n,i,y
 SPACE
 w,·,z,:,v,_,d,:,y,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:21 in vtrad vtbhs
 w,·,m,i,v,·,:,n,‥,(ti),y
@@ -6937,7 +6937,7 @@ SPACE
 w,i,y,x,i,y,α,‥,(ti),l
 SPACE
 w,:,ʕ,u,z,·,i,y,·,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:22 in vtrad vtbhs
 w,·,m,i,v,·,:,n,‥,(ti),y
@@ -6955,7 +6955,7 @@ SPACE
 y,w,o,z,a,v,a,(ti),d
 SPACE
 w,:,α,∵,l,:,ʕ,a,$,·si,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:23 in vtrad vtbhs
 w,·,m,i,𝓂,n.,-,h,_,l,:,w,i,y,·,i,⅄,m.
@@ -6975,7 +6975,7 @@ SPACE
 y,:,h,w,·,d,a,(ti),h
 SPACE
 w,∵,α,:∵,l,i,y,ʕ,∵,𝓂,z,∵,r,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:24 in vtrad vtbhs
 w,·,m,i,n.,-,h,_,m,:,$,·sh,o,r,:,r,i,(ti),y,m.
@@ -6989,7 +6989,7 @@ SPACE
 w,a,θ,∵,(ti),l,∵,m.
 SPACE
 w,:,α,w,·,r,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:25 in vtrad vtbhs
 w,·,m,i,𝓂,y,·,i,$,·si,:,r,a,α,‥,⅄,l
@@ -7011,7 +7011,7 @@ SPACE
 w,·,m,_,l,:,k,·,i,y,·,a,(ti),h
 SPACE
 w,·,v,:,n,a,y,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:26 in vtrad vtbhs
 w,·,m,i,v,·,:,n,‥,(ti),y
@@ -7029,7 +7029,7 @@ SPACE
 w,i,y,r,‥,m,(ti),w,o,τ
 SPACE
 w,:,α,‥,l,i,y,·,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:27 in vtrad vtbhs
 w,·,m,i,v,·,:,n,‥,(ti),y
@@ -7047,7 +7047,7 @@ SPACE
 w,:,z,a,v,a,(ti),d
 SPACE
 w,_,ʕ,:_,z,i,y,z,a,𝓂,α,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:28 in vtrad vtbhs
 w,·,m,i,v,·,:,n,‥,(ti),y
@@ -7061,7 +7061,7 @@ SPACE
 z,_,v,·,_,(me),y
 SPACE
 ʕ,_,τ,:,l,a,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:29 in vtrad vtbhs
 w,·,m,i,v,·,:,n,‥,(ti),y
@@ -7078,16 +7078,16 @@ y,a,$,·sh,(ti),w,·,v
 SPACE
 w,·,$,·sh,:,α,a,(me),l
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,r,m,w,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,r,a,m,𝓂,w,o,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:30 in vtrad vtbhs
 w,·,m,i,v,·,:,n,‥,⟓,y
@@ -7111,7 +7111,7 @@ SPACE
 w,·,v,i,n,·,(ti),w,·,y
 SPACE
 w,·,m,:,n,_,$,·sh,·,∵,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:31 in vtrad vtbhs
 w,·,v,:,n,‥,(ti),y
@@ -7127,7 +7127,7 @@ SPACE
 $,·sh,:,m,_,𝓂,ʕ,:,y,a,(me),h
 SPACE
 $,·sh,i,m,:,ʕ,𝓂,w,o,n.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:32 in vtrad vtbhs
 v,·,i,n,:,y,a,m,i,(me),n.
@@ -7135,7 +7135,7 @@ SPACE
 m,_,l,·,(ti),w,·,k.,:
 SPACE
 $,·sh,:,m,_,r,:,y,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:33 in vtrad vtbhs
 m,i,v,·,:,n,‥,(ti),y
@@ -7155,7 +7155,7 @@ SPACE
 m,:,n,_,$,·sh,·,∵,(ti),h
 SPACE
 $,·sh,i,m,:,ʕ,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:34 in vtrad vtbhs
 m,i,v,·,:,n,‥,⅃,y
@@ -7167,23 +7167,23 @@ SPACE
 ʕ,_,m,:,r,a,(ti),m.
 SPACE
 w,:,α,w,·,α,‥,𝓂,l,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:35 in vtrad vtbhs
 v,·,:,n,a,y,a,(me),h
 SPACE
 v,‥,d,:,y,a,(ti),h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 k,l,w,h,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 k,·,:,l,𝓂,w,·,h,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:36 in vtrad vtbhs
 w,_,n,:,y,a,(me),h
@@ -7191,23 +7191,23 @@ SPACE
 m,:,r,‥,m,(ti),w,o,τ
 SPACE
 α,∵,l,:,y,a,$,·sh,i,𝓂,y,v,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:37 in vtrad vtbhs
 m,_,τ,·,_,n,:,y,a,(me),h
 SPACE
 m,_,τ,·,:,n,_,(ti),y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,y,ʕ,$,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,y,_,ʕ,:_,$,·si,a,𝓂,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:38 in vtrad vtbhs
 w,·,v,a,n,i,(me),y
@@ -7215,7 +7215,7 @@ SPACE
 w,·,v,i,n,·,(ti),w,·,y
 SPACE
 $,·sh,i,m,:,ʕ,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:39 in vtrad vtbhs
 w,:,$,·sh,∵,𝓂,l,∵,m,:,y,a,(me),h
@@ -7223,7 +7223,7 @@ SPACE
 w,:,n,a,τ,a,(ti),n.
 SPACE
 w,_,ʕ,:_,d,a,y,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:40 in vtrad vtbhs
 m,_,k,:,n,_,d,:,v,_,(me),y
@@ -7231,7 +7231,7 @@ SPACE
 $,·sh,a,$,·sh,_,(ti),y
 SPACE
 $,·sh,a,r,a,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:41 in vtrad vtbhs
 ʕ,:_,z,_,r,:,α,‥,(me),l
@@ -7239,7 +7239,7 @@ SPACE
 w,:,$,·sh,∵,l,∵,m,:,y,a,(ti),h,w,·
 SPACE
 $,·sh,:,m,_,r,:,y,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:42 in vtrad vtbhs
 $,·sh,_,l,·,(me),w,·,m.
@@ -7247,7 +7247,7 @@ SPACE
 α,:_,m,_,r,:,y,a,(ti),h
 SPACE
 y,w,o,σ,‥,𝓂,f.,.
-START spi-samekh3 
+START spi-samekh3
 
 Ezra 10:43 in vtrad vtbhs
 m,i,v,·,:,n,‥,(ti),y
@@ -7262,14 +7262,14 @@ z,a,v,a,⅃,d
 SPACE
 z,:,v,i,y,n,a,ƶ,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,d,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,_,d,·,_,(me),y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,y,w,o,α,‥,(ti),l
 SPACE
@@ -7278,14 +7278,14 @@ v,·,:,n,a,y,a,𝓂,h,.
 Ezra 10:44 in vtrad vtbhs
 k,·,oa,l,-,α,‥,Ƶ,l,·,∵,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 n,$,α,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 n,a,$,·si,:,α,(ti),w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 n,a,$,·sh,i,⅃,y,m.
 SPACE
@@ -7300,7 +7300,7 @@ SPACE
 w,_,y,·,a,$,·si,i,(ti),y,m,w,·
 SPACE
 v,·,a,n,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 1:1 in vtrad vtbhs
 d,·,i,v,:,r,‥,(me),y
@@ -7312,9 +7312,9 @@ SPACE
 w,_,y,:,h,i,<,y
 SPACE
 v,:,x,o,𝓂,d,∵,$,·sh,-
-START kq-trivial 
+START kq-trivial
 k,·,i,σ,:,l,‥,w,(p)
-STOP kq-trivial 
+STOP kq-trivial
 SPACE
 $,·sh,:,n,_,⅃,τ
 SPACE
@@ -7392,7 +7392,7 @@ Nehemiah 1:4 in vtrad vtbhs
 w,_,y,:,h,i,(G),y
 SPACE
 k,·,:,$,·sh,oa,m,:,ʕ,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,∵,τ,-,h,_,d,·,:,v,a,r,i,⅃,y,m.
 SPACE
@@ -7577,14 +7577,14 @@ m,i,$,·sh,·,a,⅃,m.
 SPACE
 α,:_,q,_,v,·,:,ц,‥,ƶ,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,h,v,w,α,τ,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,_,h,:_,v,i,𝓂,y,α,w,o,τ,i,y,m.,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,∵,l,-,h,_,m,·,a,q,ƶ,w,o,m.
 SPACE
@@ -7665,11 +7665,11 @@ SPACE
 m,_,$,·sh,:,q,∵,(ti),h
 SPACE
 l,_,m,·,∵,𝓂,l,∵,k.,:,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 2:1 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,x,o,⅃,d,∵,$,·sh
 SPACE
@@ -7709,7 +7709,7 @@ SPACE
 h,_,m,·,∵,(ge),l,∵,k.,:
 SPACE
 m,_,d,·,⅃,w,·,ʕ,_
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 f,·,a,n,∵,⅃,y,k.,a
 SPACE
@@ -7826,7 +7826,7 @@ SPACE
 h,_,m,·,∵,(ge),l,∵,k.,:
 SPACE
 w,:,h,_,$,·sh,·,‥,g,_,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 y,w,o,$,·sh,∵,⅃,v,∵,τ
 SPACE
@@ -7960,7 +7960,7 @@ SPACE
 x,_,(ti),y,i,l
 SPACE
 w,·,f,a,r,a,$,·sh,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 2:10 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,m,_,(G),ʕ
@@ -8008,14 +8008,14 @@ $,·sh,:,l,o,$,·sh,a,𝓂,h,.
 
 Nehemiah 2:12 in vtrad vtbhs
 w,a,α,a,q,⅃,w,·,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 l,_,◆,y,:,l,a,h
 SPACE
 α,:_,n,i,y,~
 SPACE
 w,_,α,:_,n,a,$,·sh,i,⅃,y,m.
-START lp-paseq 
+START lp-paseq
 m,:,ʕ,_,θ,~
 SPACE
 ʕ,i,m,·,i,y,∴
@@ -8080,16 +8080,16 @@ SPACE
 y,:,r,w,·,$,·sh,a,l,_,(p),CGJ,i,m.,(p)
 SPACE
 α,:_,$,·sh,∵,r,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 h,‥,⅃,m.
-START lp-paseq 
+START lp-paseq
 f,·,:,r,w,·,ц,i,ƶ,y,m.
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 h,m,f,r,w,ц,y,m.
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 w,·,$,·sh,:,ʕ,a,r,∵,(ti),y,h,a
 SPACE
@@ -8255,7 +8255,7 @@ SPACE
 y,:,d,‥,y,h,∵,(ti),m.
 SPACE
 l,_,θ,·,w,o,v,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 2:19 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,m,_,ʕ,(tq)
@@ -8265,7 +8265,7 @@ SPACE
 h,_,x,o,r,o,n,i,(ge),y
 SPACE
 w,:,θ,o,v,i,y,·,a,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 h,a,ʕ,∵,⅃,v,∵,d
 SPACE
@@ -8341,7 +8341,7 @@ SPACE
 w,:,z,i,k,·,a,r,(ti),w,o,n.
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 3:1 in vtrad vtbhs
 w,_,y,·,a,μ,q,oa,m.
@@ -8381,7 +8381,7 @@ SPACE
 m,i,g,:,d,·,_,(me),l
 SPACE
 x,:_,n,_,n,:,α,‥,𝓂,l,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:2 in vtrad vtbhs
 w,:,ʕ,_,l,-,y,a,d,(me),w,o
@@ -8399,7 +8399,7 @@ SPACE
 z,_,k,·,(ti),w,·,r
 SPACE
 v,·,∵,n.,-,α,i,m,:,r,i,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:3 in vtrad vtbhs
 w,:,α,‥,τ,(p)
@@ -8425,7 +8425,7 @@ SPACE
 m,_,n,:,ʕ,w,·,l,a,(ti),y,w
 SPACE
 w,·,v,:,r,i,y,x,a,𝓂,y,w,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:4 in vtrad vtbhs
 w,:,ʕ,_,l,-,y,a,d,a,⅃,m.
@@ -8437,7 +8437,7 @@ SPACE
 v,·,∵,n.,-,α,w,·,r,i,y,·,a,h,(p)
 SPACE
 v,·,∵,n.,-,h,_,q,·,ƶ,w,o,ц.
-START spi-samekh3 
+START spi-samekh3
 w,:,ʕ,_,l,-,y,a,d,a,⅃,m.
 SPACE
 h,∵,x,:∵,z,i,ƶ,y,q
@@ -8447,7 +8447,7 @@ SPACE
 v,·,∵,n.,-,v,·,∵,r,∵,k,:,y,a,(ti),h
 SPACE
 v,·,∵,n.,-,m,:,$,·sh,‥,y,z,_,v,:,α,‥,⅄,l
-START spi-samekh3 
+START spi-samekh3
 w,:,ʕ,_,l,-,y,a,d,a,⅃,m.
 SPACE
 h,∵,𝓂,x,:∵,z,i,ƶ,y,q
@@ -8455,7 +8455,7 @@ SPACE
 ц,a,d,(ti),w,o,q
 SPACE
 v,·,∵,𝓂,n.,-,v,·,_,ʕ,:_,n,a,𝓂,α,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:5 in vtrad vtbhs
 w,:,ʕ,_,l,-,y,a,d,a,(ti),m.
@@ -8473,7 +8473,7 @@ SPACE
 v,·,_,ʕ,:_,v,o,d,_,(ti),τ
 SPACE
 α,:_,d,o,n,‥,y,h,∵,𝓂,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:6 in vtrad vtbhs
 w,:,α,‥,τ,(tq)
@@ -8503,7 +8503,7 @@ SPACE
 w,·,m,_,n,:,ʕ,u,l,a,(ti),y,w
 SPACE
 w,·,v,:,r,i,y,x,a,𝓂,y,w,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:7 in vtrad vtbhs
 w,:,ʕ,_,l,-,y,a,d,a,(qa),m.
@@ -8531,7 +8531,7 @@ SPACE
 ʕ,‥,(me),v,∵,r
 SPACE
 h,_,n,·,a,h,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:8 in vtrad vtbhs
 ʕ,_,l,-,y,a,d,⅃,w,o
@@ -8543,7 +8543,7 @@ SPACE
 v,·,∵,𝓂,n.,-,x,_,r,:,h,:_,y,a,h,(p)
 SPACE
 ц,𝓂,w,o,r,:,f,i,ƶ,y,m.
-START spi-samekh3 
+START spi-samekh3
 w,:,ʕ,_,l,-,y,a,d,⅃,w,o
 SPACE
 h,∵,x,:∵,z,i,ƶ,y,q
@@ -8561,7 +8561,7 @@ SPACE
 h,_,x,w,o,m,a,(me),h
 SPACE
 h,a,r,:,x,a,v,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:9 in vtrad vtbhs
 w,:,ʕ,_,l,-,y,a,d,a,<,m.
@@ -8579,7 +8579,7 @@ SPACE
 f,·,∵,(me),l,∵,k.,:
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:10 in vtrad vtbhs
 w,:,ʕ,_,l,-,y,a,d,a,(da),m.
@@ -8601,7 +8601,7 @@ SPACE
 x,_,θ,·,(ti),w,·,$,·sh
 SPACE
 v,·,∵,n.,-,x,:_,$,·sh,_,v,:,n,:,y,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:11 in vtrad vtbhs
 m,i,d,·,a,⅃,h
@@ -8625,7 +8625,7 @@ SPACE
 m,i,g,:,d,·,_,(me),l
 SPACE
 h,_,τ,·,_,n,·,w,·,r,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:12 in vtrad vtbhs
 w,:,ʕ,_,l,-,y,a,d,⅃,w,o
@@ -8647,7 +8647,7 @@ SPACE
 h,(ti),w,·,α
 SPACE
 w,·,v,:,n,w,o,τ,a,𝓂,y,w,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:13 in vtrad vtbhs
 α,‥,τ,(tq)
@@ -8690,7 +8690,7 @@ h,a,$,·sh,:,f,𝓂,w,o,τ,.
 
 Nehemiah 3:14 in vtrad vtbhs
 w,:,α,‥,⅃,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·sh,_,⅃,ʕ,_,r
 SPACE
@@ -8719,7 +8719,7 @@ SPACE
 m,_,n,:,ʕ,u,l,a,(ti),y,w
 SPACE
 w,·,v,:,r,i,y,x,a,𝓂,y,w,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:15 in vtrad vtbhs
 w,:,α,‥,τ,(tq)
@@ -8746,14 +8746,14 @@ y,i,v,:,n,∵,(p),n,·,w,·,(p)
 SPACE
 w,i,y,θ,_,𝓂,l,:,l,∵,ƶ,n,·,w,·
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,y,ʕ,m,y,d,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,y,_,ʕ,:_,m,i,y,d,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 d,·,_,l,:,τ,o,τ,a,ƶ,y,w
 SPACE
@@ -8778,7 +8778,7 @@ SPACE
 m,‥,ʕ,i,(me),y,r
 SPACE
 d,·,a,w,i,𝓂,y,d,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:16 in vtrad vtbhs
 α,_,x,:_,r,a,<,y,w
@@ -8812,7 +8812,7 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 h,_,g,·,i,v,·,o,r,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:17 in vtrad vtbhs
 α,_,x,:_,r,a,⟓,y,w
@@ -8824,7 +8824,7 @@ SPACE
 r,:,x,⅃,w,·,m.
 SPACE
 v,·,∵,n.,-,v,·,a,n,i,⅄,y
-START spi-samekh3 
+START spi-samekh3
 ʕ,_,l,-,y,a,d,⅃,w,o
 SPACE
 h,∵,x,:∵,z,i,◆,y,q
@@ -8836,7 +8836,7 @@ SPACE
 q,:,ʕ,i,y,l,a,(ti),h
 SPACE
 l,:,f,i,l,:,k,·,𝓂,w,o,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:18 in vtrad vtbhs
 α,_,x,:_,r,a,y,w,(p)
@@ -8856,7 +8856,7 @@ SPACE
 f,·,∵,(me),l,∵,k.,:
 SPACE
 q,:,ʕ,i,y,l,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:19 in vtrad vtbhs
 w,_,y,:,x,_,z,·,‥,(qa),q
@@ -8882,7 +8882,7 @@ SPACE
 h,_,n,·,∵,(ti),$,·sh,∵,q
 SPACE
 h,_,m,·,i,q,:,ц,o,𝓂,ʕ,_,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:20 in vtrad vtbhs
 α,_,x,:_,r,a,(qa),y,w
@@ -8894,14 +8894,14 @@ SPACE
 v,·,a,r,(me),w,·,k.,:
 SPACE
 v,·,∵,n.,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 z,_,k,·,_,(ti),y
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 z,v,y
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 m,i,d,·,a,⅃,h
 SPACE
@@ -8918,7 +8918,7 @@ SPACE
 h,_,k,·,o,h,‥,(ti),n.
 SPACE
 h,_,g,·,a,d,𝓂,w,o,l,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:21 in vtrad vtbhs
 α,_,x,:_,r,a,⅃,y,w
@@ -8946,7 +8946,7 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 α,∵,l,:,y,a,$,·sh,i,𝓂,y,v,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:22 in vtrad vtbhs
 w,:,α,_,x,:_,r,a,⟓,y,w
@@ -8971,7 +8971,7 @@ SPACE
 n,∵,⅃,g,∵,d
 SPACE
 v,·,‥,y,τ,a,⅄,m.
-START spi-samekh3 
+START spi-samekh3
 α,_,x,:_,r,a,⅃,y,w
 SPACE
 h,∵,x,:∵,z,i,◆,y,q
@@ -8985,7 +8985,7 @@ SPACE
 α,‥,(me),ц,∵,l
 SPACE
 v,·,‥,y,τ,𝓂,w,o,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:24 in vtrad vtbhs
 α,_,x,:_,r,a,⅃,y,w
@@ -9038,7 +9038,7 @@ SPACE
 f,·,:,d,a,y,a,(me),h
 SPACE
 v,∵,n.,-,f,·,_,r,:,ʕ,o,𝓂,$,·sh,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:26 in vtrad vtbhs
 w,:,h,_,(qa),n,·,:,τ,i,y,n,i,ƶ,y,m.
@@ -9062,7 +9062,7 @@ SPACE
 w,:,h,_,m,·,i,g,:,d,·,a,(ti),l
 SPACE
 h,_,y,·,w,o,ц,‥,𝓂,α,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:27 in vtrad vtbhs
 α,_,x,:_,r,a,⟓,y,w
@@ -9091,7 +9091,7 @@ h,a,ʕ,o,𝓂,f,∵,l,.
 
 Nehemiah 3:28 in vtrad vtbhs
 m,‥,ʕ,_,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·sh,_,⅃,ʕ,_,r
 SPACE
@@ -9106,7 +9106,7 @@ SPACE
 l,:,n,∵,(me),g,∵,d
 SPACE
 v,·,‥,y,τ,𝓂,w,o,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:29 in vtrad vtbhs
 α,_,x,:_,r,a,(da),y,w
@@ -9120,7 +9120,7 @@ SPACE
 n,∵,⅃,g,∵,d
 SPACE
 v,·,‥,y,τ,⅄,w,o
-START spi-samekh3 
+START spi-samekh3
 w,:,α,_,x,:_,r,a,<,y,w
 SPACE
 h,∵,x,:∵,z,i,y,q,(p)
@@ -9134,17 +9134,17 @@ SPACE
 $,·sh,_,(me),ʕ,_,r
 SPACE
 h,_,m,·,i,z,:,r,a,𝓂,x,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:30 in vtrad vtbhs
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,x,r,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,_,x,:_,r,a,(qa),y,w
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,∵,x,:∵,z,i,(ge),y,q
 SPACE
@@ -9161,7 +9161,7 @@ SPACE
 m,i,d,·,a,⅃,h
 SPACE
 $,·sh,‥,n,i,⅄,y
-START spi-samekh3 
+START spi-samekh3
 α,_,x,:_,r,a,⅃,y,w
 SPACE
 h,∵,x,:∵,z,i,◆,y,q
@@ -9173,17 +9173,17 @@ SPACE
 n,∵,(ti),g,∵,d
 SPACE
 n,i,$,·sh,:,k,·,a,τ,𝓂,w,o,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 3:31 in vtrad vtbhs
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,x,r,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,_,x,:_,r,a,⅃,y,w
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,∵,x,:∵,z,i,◆,y,q
 SPACE
@@ -9225,7 +9225,7 @@ SPACE
 h,_,ц,·,o,r,:,f,i,(ti),y,m.
 SPACE
 w,:,h,a,r,o,k,:,l,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 3:33 in vtrad vtbhs
 w,_,y,:,h,i,(G),y
@@ -9256,7 +9256,7 @@ SPACE
 
 Nehemiah 3:34 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 l,i,f,:,n,‥,⅃,y
 SPACE
@@ -9322,7 +9322,7 @@ SPACE
 x,w,o,m,_,(me),τ
 SPACE
 α,_,v,:,n,‥,y,h,∵,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 3:36 in vtrad vtbhs
 $,·sh,:,m,_,<,ʕ
@@ -9384,7 +9384,7 @@ SPACE
 l,a,ʕ,a,(ti),m.
 SPACE
 l,_,ʕ,:_,$,·si,𝓂,w,o,τ,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 4:1 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
@@ -9545,14 +9545,14 @@ m,‥,α,_,x,:_,r,‥,(me),y
 SPACE
 l,_,x,w,o,m,a,(ti),h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 v,ц,x,x,y,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,·,_,ц,·,:,x,i,y,x,i,⅄,y,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,a,𝓂,α,_,ʕ,:_,m,i,<,y,d
 SPACE
@@ -9604,7 +9604,7 @@ SPACE
 n,:,$,·sh,‥,y,k,∵,(ti),m.
 SPACE
 w,·,v,a,τ,·,‥,y,k,∵,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 4:9 in vtrad vtbhs
 w,_,y,:,h,i,(G),y
@@ -9623,14 +9623,14 @@ h,a,α,:∵,l,o,h,i,(ti),y,m.
 SPACE
 α,∵,τ,-,ʕ,:_,ц,a,τ,a,⅄,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,n,$,w,v
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,_,n,·,a,<,$,·sh,oa,v
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 k,·,u,l,·,a,(p),n,w,·,(p)
 SPACE
@@ -9642,7 +9642,7 @@ SPACE
 
 Nehemiah 4:10 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,i,n.,-,h,_,y,·,⅃,w,o,m.
 SPACE
@@ -9854,7 +9854,7 @@ SPACE
 $,·sh,i,l,:,x,(me),w,o
 SPACE
 h,_,m,·,a,𝓂,y,i,m.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 5:1 in vtrad vtbhs
 w,_,τ,·,:,h,i,(qa),y
@@ -10021,14 +10021,14 @@ SPACE
 SPACE
 α,_,τ,·,∵,⅃,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 n,$,α,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 n,o,$,·sh,i,⅄,y,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,a,α,∵,τ,·,‥,(me),n.
 SPACE
@@ -10074,17 +10074,17 @@ SPACE
 m,a,ц,:,α,(ti),w,·
 SPACE
 d,·,a,v,a,𝓂,r,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 5:9 in vtrad vtbhs
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,y,α,m,r
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,a,α,w,o,m,_,Ƶ,r
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,o,α,-,θ,(me),w,o,v
 SPACE
@@ -10254,7 +10254,7 @@ Nehemiah 5:14 in vtrad vtbhs
 g,·,_,(G),m.
 SPACE
 m,i,y,·,⅃,w,o,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:_,$,·sh,∵,r,-,ц,i,w,·,a,⅃,h
 SPACE
@@ -10458,7 +10458,7 @@ SPACE
 ʕ,_,l,-,h,a,ʕ,a,(me),m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 6:1 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
@@ -10593,7 +10593,7 @@ SPACE
 k,·,_,d,·,a,v,a,(me),r
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 6:5 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,l,_,x,(tq)
@@ -10693,7 +10693,7 @@ SPACE
 w,:,n,i,𝓂,w,·,a,ʕ,:_,ц,a,(ti),h
 SPACE
 y,_,x,:,d,·,a,𝓂,w,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 6:8 in vtrad vtbhs
 w,a,α,∵,$,·sh,:,l,:,x,a,<,h
@@ -10866,7 +10866,7 @@ SPACE
 l,:,m,_,(ti),ʕ,_,n.
 SPACE
 y,:,x,a,𝓂,r,:,f,𝓂,w,·,n,i,y,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 6:14 in vtrad vtbhs
 z,oa,k,:,r,a,(da),h
@@ -10915,7 +10915,7 @@ SPACE
 w,·,$,·sh,:,n,_,(ti),y,i,m.
 SPACE
 y,𝓂,w,o,m.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 6:16 in vtrad vtbhs
 w,_,y,:,h,i,◆,y
@@ -10956,7 +10956,7 @@ h,_,z,·,o,𝓂,α,τ,.
 
 Nehemiah 6:17 in vtrad vtbhs
 g,·,_,⅃,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,_,y,·,a,m,i,⅃,y,m.
 SPACE
@@ -11039,7 +11039,7 @@ SPACE
 θ,w,o,v,i,y,·,a,(ti),h
 SPACE
 l,:,y,a,𝓂,r,:,α,‥,𝓂,n,i,y,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 7:1 in vtrad vtbhs
 w,_,y,:,h,i,◆,y
@@ -11090,14 +11090,14 @@ SPACE
 m,‥,r,_,v,·,i,𝓂,y,m.,.
 
 Nehemiah 7:3 in vtrad vtbhs
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,y,α,m,r
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,a,α,o,m,_,⅃,r
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,a,h,∵,◆,m.
 SPACE
@@ -11196,11 +11196,11 @@ SPACE
 k,·,a,τ,(me),w,·,v
 SPACE
 v,·,𝓂,w,o,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 7:6 in vtrad vtbhs
 α,‥,⅃,l,·,∵,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,n,‥,⅃,y
 SPACE
@@ -11266,7 +11266,7 @@ SPACE
 ʕ,_,(me),m.
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:8 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11280,7 +11280,7 @@ SPACE
 w,:,$,·sh,i,v,:,ʕ,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:9 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11294,7 +11294,7 @@ SPACE
 $,·sh,i,v,:,ʕ,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:10 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11308,7 +11308,7 @@ SPACE
 x,:_,m,i,$,·sh,·,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:11 in vtrad vtbhs
 v,·,:,n,‥,𝓂,y,-,f,_,x,_,(me),τ
@@ -11330,7 +11330,7 @@ SPACE
 $,·sh,:,m,o,n,a,(me),h
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:12 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11344,7 +11344,7 @@ SPACE
 x,:_,m,i,$,·sh,·,i,(me),y,m.
 SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:13 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11358,7 +11358,7 @@ SPACE
 α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 w,_,x,:_,m,i,$,·sh,·,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:14 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11370,7 +11370,7 @@ SPACE
 m,‥,α,(ti),w,o,τ
 SPACE
 w,:,$,·sh,i,$,·sh,·,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:15 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11384,7 +11384,7 @@ SPACE
 α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,m,o,n,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:16 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11398,7 +11398,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,m,o,n,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:17 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11414,7 +11414,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:18 in vtrad vtbhs
 v,·,:,n,‥,y,(p)
@@ -11428,7 +11428,7 @@ SPACE
 $,·sh,i,$,·sh,·,i,(me),y,m.
 SPACE
 w,:,$,·sh,i,v,:,ʕ,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:19 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11440,7 +11440,7 @@ SPACE
 $,·sh,i,$,·sh,·,i,(me),y,m.
 SPACE
 w,:,$,·sh,i,v,:,ʕ,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:20 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11454,7 +11454,7 @@ SPACE
 x,:_,m,i,$,·sh,·,i,(me),y,m.
 SPACE
 w,_,x,:_,m,i,$,·sh,·,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:21 in vtrad vtbhs
 v,·,:,n,‥,𝓂,y,-,α,a,θ,‥,(me),r
@@ -11464,7 +11464,7 @@ SPACE
 τ,·,i,$,·sh,:,ʕ,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,m,o,n,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:22 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11478,7 +11478,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,m,o,n,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:23 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11492,7 +11492,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:24 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11504,7 +11504,7 @@ SPACE
 $,·sh,:,n,‥,(me),y,m.
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:25 in vtrad vtbhs
 v,·,:,n,‥,(me),y
@@ -11514,7 +11514,7 @@ SPACE
 τ,·,i,$,·sh,:,ʕ,i,(me),y,m.
 SPACE
 w,_,x,:_,m,i,$,·sh,·,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:26 in vtrad vtbhs
 α,_,n,:,$,·sh,‥,<,y
@@ -11528,7 +11528,7 @@ SPACE
 $,·sh,:,m,o,n,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,m,o,n,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:27 in vtrad vtbhs
 α,_,n,:,$,·sh,‥,⅃,y
@@ -11540,7 +11540,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,m,o,n,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:28 in vtrad vtbhs
 α,_,n,:,$,·sh,‥,(me),y
@@ -11550,7 +11550,7 @@ SPACE
 α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:29 in vtrad vtbhs
 α,_,n,:,$,·sh,‥,(qa),y
@@ -11570,7 +11570,7 @@ SPACE
 α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,l,o,$,·sh,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:30 in vtrad vtbhs
 α,_,n,:,$,·sh,‥,<,y
@@ -11586,7 +11586,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,:,α,∵,x,a,𝓂,d,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:31 in vtrad vtbhs
 α,_,n,:,$,·sh,‥,⅃,y
@@ -11598,7 +11598,7 @@ SPACE
 w,:,ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:32 in vtrad vtbhs
 α,_,n,:,$,·sh,‥,<,y
@@ -11612,7 +11612,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,l,o,$,·sh,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:33 in vtrad vtbhs
 α,_,n,:,$,·sh,‥,(me),y
@@ -11624,7 +11624,7 @@ SPACE
 x,:_,m,i,$,·sh,·,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:34 in vtrad vtbhs
 v,·,:,n,‥,y,(p)
@@ -11640,7 +11640,7 @@ SPACE
 x,:_,m,i,$,·sh,·,i,(me),y,m.
 SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:35 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11652,7 +11652,7 @@ SPACE
 m,‥,α,(ti),w,o,τ
 SPACE
 w,:,ʕ,∵,$,·si,:,r,i,𝓂,y,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:36 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11666,7 +11666,7 @@ SPACE
 α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 w,_,x,:_,m,i,$,·sh,·,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:37 in vtrad vtbhs
 v,·,:,n,‥,y,-,l,o,d,(p)
@@ -11682,7 +11682,7 @@ SPACE
 w,:,ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 w,:,α,∵,x,a,𝓂,d,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:38 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11698,7 +11698,7 @@ SPACE
 m,‥,α,(ti),w,o,τ
 SPACE
 w,·,$,·sh,:,l,o,$,·sh,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 7:39 in vtrad vtbhs
 h,_,𝓂,k,·,o,h,:_,n,i,⅄,y,m.
@@ -11718,7 +11718,7 @@ SPACE
 $,·sh,i,v,:,ʕ,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,l,o,$,·sh,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:40 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11730,7 +11730,7 @@ SPACE
 x,:_,m,i,$,·sh,·,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:41 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11744,7 +11744,7 @@ SPACE
 α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 w,:,$,·sh,i,v,:,ʕ,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:42 in vtrad vtbhs
 v,·,:,n,‥,⅃,y
@@ -11756,7 +11756,7 @@ SPACE
 $,·sh,i,v,:,ʕ,a,(me),h
 SPACE
 ʕ,a,$,·si,a,𝓂,r,.
-START spi-samekh2 
+START spi-samekh2
 
 Nehemiah 7:43 in vtrad vtbhs
 h,_,l,:,w,i,y,·,i,⅄,m.
@@ -11772,7 +11772,7 @@ SPACE
 $,·sh,i,v,:,ʕ,i,(me),y,m.
 SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:44 in vtrad vtbhs
 h,_,𝓂,m,:,$,·sh,o,r,:,r,i,⅄,y,m.
@@ -11786,7 +11786,7 @@ SPACE
 α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,m,o,n,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:45 in vtrad vtbhs
 h,_,$,·sh,·,o,𝓂,ʕ,:_,r,i,◆,y,m.
@@ -11812,7 +11812,7 @@ SPACE
 $,·sh,:,l,o,$,·sh,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,m,o,n,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 7:46 in vtrad vtbhs
 h,_,n,·,:,τ,i,y,n,i,⅄,y,m.
@@ -11824,7 +11824,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 θ,_,v,·,a,ʕ,𝓂,w,o,τ,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:47 in vtrad vtbhs
 v,·,:,n,‥,y,-,q,‥,y,r,o,(me),σ
@@ -11834,7 +11834,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 f,a,d,𝓂,w,o,n.,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:48 in vtrad vtbhs
 v,·,:,n,‥,y,-,l,:,v,a,n,a,(me),h
@@ -11844,7 +11844,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 $,·sh,_,l,:,m,a,𝓂,y,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:49 in vtrad vtbhs
 v,·,:,n,‥,y,-,x,a,n,a,(me),n.
@@ -11852,7 +11852,7 @@ SPACE
 v,·,:,n,‥,y,-,g,i,d,·,‥,(ti),l
 SPACE
 v,·,:,n,‥,y,-,g,a,𝓂,x,_,r,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:50 in vtrad vtbhs
 v,·,:,n,‥,y,-,r,:,α,a,y,a,(me),h
@@ -11862,7 +11862,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 n,:,q,w,o,d,a,𝓂,α,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:51 in vtrad vtbhs
 v,·,:,n,‥,y,-,g,_,z,·,a,(me),m.
@@ -11872,7 +11872,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 f,a,σ,‥,𝓂,x,_,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:52 in vtrad vtbhs
 v,·,:,n,‥,y,-,v,‥,σ,_,(me),y
@@ -11881,16 +11881,16 @@ v,·,:,n,‥,y,-,m,:,ʕ,w,·,n,i,(ti),y,m.
 SPACE
 v,·,:,n,‥,(me),y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 n,f,w,$,σ,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 n,:,f,i,𝓂,y,$,·sh,:,σ,i,𝓂,y,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:53 in vtrad vtbhs
 v,·,:,n,‥,y,-,v,_,q,:,v,·,(me),w,·,q
@@ -11900,7 +11900,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 x,_,r,:,x,𝓂,w,·,r,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:54 in vtrad vtbhs
 v,·,:,n,‥,y,-,v,_,ц,:,l,i,(me),y,τ
@@ -11910,7 +11910,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 x,_,r,:,$,·sh,a,𝓂,α,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:55 in vtrad vtbhs
 v,·,:,n,‥,y,-,v,_,r,:,q,(me),w,o,σ
@@ -11918,7 +11918,7 @@ SPACE
 v,·,:,𝓂,n,‥,y,-,σ,i,𝓂,y,σ,:,r,a,(ti),α
 SPACE
 v,·,:,n,‥,y,-,τ,a,𝓂,m,_,x,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:56 in vtrad vtbhs
 v,·,:,n,‥,(me),y
@@ -11928,7 +11928,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 x,:_,θ,i,y,f,a,𝓂,α,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:57 in vtrad vtbhs
 v,·,:,n,‥,(ti),y
@@ -11944,7 +11944,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 f,:,r,i,y,d,a,𝓂,α,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:58 in vtrad vtbhs
 v,·,:,n,‥,y,-,y,_,ʕ,:,l,a,(me),α
@@ -11954,7 +11954,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 g,i,d,·,‥,𝓂,l,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:59 in vtrad vtbhs
 v,·,:,n,‥,(da),y
@@ -11962,7 +11962,7 @@ SPACE
 $,·sh,:,f,_,θ,:,y,a,⅃,h
 SPACE
 v,:,n,‥,𝓂,y,-,x,_,θ,·,i,◆,y,l
-START spi-samekh3 
+START spi-samekh3
 v,·,:,n,‥,⟓,y
 SPACE
 f,·,o,k,∵,(me),r,∵,τ
@@ -11972,7 +11972,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 α,a,m,𝓂,w,o,n.,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:60 in vtrad vtbhs
 k,·,oa,(qa),l,-,h,_,n,·,:,τ,i,y,n,i,ƶ,y,m.
@@ -11990,7 +11990,7 @@ SPACE
 τ,·,i,$,·sh,:,ʕ,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 7:61 in vtrad vtbhs
 w,:,α,‥,◆,l,·,∵,h
@@ -12026,7 +12026,7 @@ SPACE
 m,i,y,·,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 h,‥,𝓂,m.,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:62 in vtrad vtbhs
 v,·,:,n,‥,y,-,d,:,l,a,y,a,(me),h
@@ -12044,7 +12044,7 @@ SPACE
 w,:,α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 w,·,$,·sh,:,n,a,𝓂,y,i,m.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 7:63 in vtrad vtbhs
 w,·,m,i,n.,-,h,_,k,·,o,⅃,h,:_,n,i,ƶ,y,m.
@@ -12166,7 +12166,7 @@ SPACE
 w,:,α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 w,_,x,:_,m,i,$,·sh,·,a,𝓂,h,.
-START spi-samekh3 
+START spi-samekh3
 
 Nehemiah 7:68 in vtrad vtbhs
 g,·,:,m,_,l,·,i,Ƶ,y,m.
@@ -12304,7 +12304,7 @@ SPACE
 w,:,k,oa,l,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 v,·,:,ʕ,a,r,‥,y,h,∵,⅄,m.
-START spi-samekh2 
+START spi-samekh2
 w,_,y,·,i,g,·,_,ʕ,(p)
 SPACE
 h,_,x,o,⅃,d,∵,$,·sh
@@ -12393,7 +12393,7 @@ SPACE
 h,a,r,:,x,(ge),w,o,v
 SPACE
 α,:_,$,·sh,∵,⅃,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 l,i,f,:,n,‥,⅃,y
 SPACE
@@ -12469,7 +12469,7 @@ SPACE
 z,:,k,_,r,:,y,a,(me),h
 SPACE
 m,:,$,·sh,u,l,·,a,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 8:5 in vtrad vtbhs
 w,_,y,·,i,f,:,τ,·,_,(qa),x
@@ -12510,7 +12510,7 @@ SPACE
 k,oa,l,-,h,a,ʕ,a,(ge),m.
 SPACE
 α,a,m,‥,<,n.
-START lp-paseq 
+START lp-paseq
 α,a,m,‥,n.,(p)
 SPACE
 v,·,:,m,o,⅃,ʕ,_,l
@@ -12533,14 +12533,14 @@ SPACE
 w,·,v,a,n,i,μ,y
 SPACE
 w,:,$,·sh,‥,r,‥,(me),v,:,y,a,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 y,a,m,i,μ,y,n.
 SPACE
 ʕ,_,q,·,μ,w,·,v
 SPACE
 $,·sh,_,v,·,:,τ,_,⅃,y
-START lp-paseq 
+START lp-paseq
 h,𝓂,w,o,d,i,y,·,a,μ,h
 SPACE
 m,_,ʕ,:_,$,·si,‥,y,a,μ,h
@@ -12585,7 +12585,7 @@ SPACE
 w,_,y,·,a,v,i,(ti),y,n,w,·
 SPACE
 v,·,_,m,·,i,q,:,r,a,𝓂,α,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 8:9 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
@@ -12599,7 +12599,7 @@ SPACE
 w,:,ʕ,∵,z,:,r,a,⅃,α
 SPACE
 h,_,k,·,o,h,‥,⅃,n.
-START lp-paseq 
+START lp-paseq
 h,_,σ,·,o,f,‥,μ,r
 SPACE
 w,:,h,_,l,:,w,i,y,·,i,m.,(tq)
@@ -12724,7 +12724,7 @@ SPACE
 h,w,o,d,i,(ti),y,ʕ,w,·
 SPACE
 l,a,h,∵,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 8:13 in vtrad vtbhs
 w,·,v,_,y,·,⅃,w,o,m.
@@ -12828,7 +12828,7 @@ SPACE
 σ,u,k,·,o,(ti),τ
 SPACE
 k,·,_,k,·,a,τ,𝓂,w,·,v,.
-START spi-samekh2 
+START spi-samekh2
 
 Nehemiah 8:16 in vtrad vtbhs
 w,_,y,·,‥,ц,:,α,⅃,w,·
@@ -12866,7 +12866,7 @@ SPACE
 $,·sh,_,(me),ʕ,_,r
 SPACE
 α,∵,f,:,r,a,𝓂,y,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Nehemiah 8:17 in vtrad vtbhs
 w,_,y,·,_,𝓂,ʕ,:_,$,·si,⅃,w,·
@@ -12876,7 +12876,7 @@ SPACE
 h,_,$,·sh,·,a,v,i,(qa),y,m.
 SPACE
 m,i,n.,-,h,_,$,·sh,·,:,v,i,(me),y
-START lp-paseq 
+START lp-paseq
 σ,u,k,·,w,o,τ,~
 SPACE
 w,_,y,·,‥,$,·sh,:,v,⅃,w,·
@@ -12923,7 +12923,7 @@ SPACE
 h,a,α,:∵,l,o,h,i,y,m.,(p)
 SPACE
 y,⅃,w,o,m.
-START lp-paseq 
+START lp-paseq
 v,·,:,y,ƶ,w,o,m.
 SPACE
 m,i,n.,-,h,_,y,·,w,o,m.,(p)
@@ -12949,7 +12949,7 @@ SPACE
 ʕ,:_,ц,∵,(ti),r,∵,τ
 SPACE
 k,·,_,m,·,i,$,·sh,:,f,·,a,𝓂,θ,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 9:1 in vtrad vtbhs
 w,·,v,:,y,w,o,m.,(tq)
@@ -13025,7 +13025,7 @@ SPACE
 l,_,y,h,o,w,a,(ti),h
 SPACE
 α,:∵,l,o,h,‥,y,h,∵,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 9:4 in vtrad vtbhs
 w,_,y,·,a,(ge),q,oa,m.
@@ -13112,14 +13112,14 @@ y,:,h,o,w,a,h,~
 SPACE
 l,:,v,_,d,·,∵,∴,k.,a,∴
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,_,τ,·,a,⅃,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,a,$,·si,i,μ,y,τ,a
 SPACE
@@ -13477,14 +13477,14 @@ SPACE
 α,∵,𝓂,r,∵,k.,:,-,α,_,f,·,_,(me),y,i,m.
 SPACE
 w,:,r,_,v,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 x,∵,(ti),σ,∵,d
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 w,x,σ,d
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 w,:,l,o,(me),α
 SPACE
@@ -14139,7 +14139,7 @@ SPACE
 g,:,d,o,l,a,(ti),h
 SPACE
 α,:_,n,a,𝓂,x,:,n,w,·,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 10:1 in vtrad vtbhs
 w,·,v,:,k,oa,l,-,z,o,Ƶ,α,τ
@@ -14276,7 +14276,7 @@ SPACE
 v,a,n,i,(ti),y
 SPACE
 v,·,:,n,i,𝓂,y,n,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Nehemiah 10:15 in vtrad vtbhs
 r,a,α,$,·sh,‥,(ti),y
@@ -14328,14 +14328,14 @@ x,a,r,i,(me),y,f.
 SPACE
 ʕ,:_,n,a,τ,(ti),w,o,τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 n,w,v,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 n,‥,y,v,a,𝓂,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
 
 Nehemiah 10:21 in vtrad vtbhs
@@ -14585,7 +14585,7 @@ SPACE
 m,:,l,∵,(me),α,k,∵,τ
 SPACE
 v,·,‥,y,τ,-,α,:∵,l,o,h,‥,𝓂,y,n,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Nehemiah 10:35 in vtrad vtbhs
 w,:,h,_,g,·,w,o,r,a,l,(qa),w,o,τ
@@ -14813,7 +14813,7 @@ SPACE
 g,w,o,r,a,l,(ge),w,o,τ
 SPACE
 l,:,h,a,v,i,⅃,y,α
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,∵,x,a,⅃,d
 SPACE
@@ -14847,7 +14847,7 @@ SPACE
 l,a,$,·sh,∵,(ti),v,∵,τ
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 11:3 in vtrad vtbhs
 w,:,α,‥,(p),l,·,∵,h,(p)
@@ -14952,7 +14952,7 @@ SPACE
 w,·,$,·sh,:,m,o,n,a,(ti),h
 SPACE
 α,_,n,:,$,·sh,‥,y,-,x,a,𝓂,y,i,l,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 11:7 in vtrad vtbhs
 w,:,α,‥,(ti),l,·,∵,h
@@ -15008,7 +15008,7 @@ SPACE
 ʕ,_,l,-,h,a,ʕ,i,(ti),y,r
 SPACE
 m,i,$,·sh,:,n,∵,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 11:10 in vtrad vtbhs
 m,i,n.,-,h,_,𝓂,k,·,o,h,:_,n,i,⅄,y,m.
@@ -15112,7 +15112,7 @@ SPACE
 z,_,v,:,d,·,i,y,α,‥,(ti),l
 SPACE
 v,·,∵,n.,-,h,_,g,·,:,d,w,o,l,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Nehemiah 11:15 in vtrad vtbhs
 w,·,m,i,𝓂,n.,-,h,_,l,:,w,i,y,·,i,⅄,m.
@@ -15174,14 +15174,14 @@ SPACE
 v,·,∵,n.,-,g,·,a,l,a,(ti),l
 SPACE
 v,·,∵,n.,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 y,:,d,w,·,τ,𝓂,w,·,n.
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 y,d,y,τ,w,n.
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 .
 
 Nehemiah 11:18 in vtrad vtbhs
@@ -15196,7 +15196,7 @@ SPACE
 $,·sh,:,m,o,n,i,(me),y,m.
 SPACE
 w,:,α,_,r,:,v,·,a,ʕ,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 11:19 in vtrad vtbhs
 w,:,h,_,$,·sh,·,𝓂,w,o,ʕ,:_,r,i,y,m.,(p)
@@ -15246,7 +15246,7 @@ SPACE
 w,:,g,i,$,·sh,:,f,·,a,(ti),α
 SPACE
 ʕ,_,l,-,h,_,n,·,:,τ,i,y,n,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 11:22 in vtrad vtbhs
 w,·,f,:,q,i,<,y,d
@@ -15417,7 +15417,7 @@ SPACE
 
 Nehemiah 11:33 in vtrad vtbhs
 x,a,ц,(me),w,o,r
-START lp-paseq 
+START lp-paseq
 r,a,m,a,(ti),h
 SPACE
 g,·,i,τ,·,a,𝓂,y,i,m.,.
@@ -15446,7 +15446,7 @@ SPACE
 y,:,h,w,·,d,a,(ti),h
 SPACE
 l,:,v,i,n,:,y,a,m,i,𝓂,y,n.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 12:1 in vtrad vtbhs
 w,:,α,‥,(p),l,·,∵,h,(p)
@@ -15526,7 +15526,7 @@ SPACE
 v,·,i,y,m,‥,(me),y
 SPACE
 y,‥,$,·sh,𝓂,w,·,ʕ,_,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 12:8 in vtrad vtbhs
 w,:,h,_,l,:,w,i,y,·,i,◆,m.
@@ -15552,14 +15552,14 @@ w,:,α,∵,x,a,𝓂,y,w,.
 Nehemiah 12:9 in vtrad vtbhs
 w,·,v,_,q,:,v,·,u,𝓂,q,:,y,a,(qa),h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,ʕ,n,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,ʕ,u,n,·,i,(da),y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,:_,x,‥,y,h,∵,⟓,m.
 SPACE
@@ -15628,14 +15628,14 @@ SPACE
 y,:,h,w,o,x,a,n,a,𝓂,n.,.
 
 Nehemiah 12:14 in vtrad vtbhs
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,m,l,w,k,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,i,m,:,l,i,(p),y,k,w,·,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 y,𝓂,w,o,n,a,τ,a,ƶ,n.
 SPACE
@@ -15653,14 +15653,14 @@ SPACE
 x,∵,l,:,q,a,𝓂,y,.
 
 Nehemiah 12:16 in vtrad vtbhs
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,ʕ,d,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,:,ʕ,i,d,·,(me),w,o,α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 z,:,k,_,r,:,y,a,(ti),h
 SPACE
@@ -15741,7 +15741,7 @@ SPACE
 d,·,a,r,:,y,a,(me),w,∵,$,·sh
 SPACE
 h,_,f,·,a,𝓂,r,:,σ,i,𝓂,y,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 12:23 in vtrad vtbhs
 v,·,:,n,‥,<,y
@@ -15844,7 +15844,7 @@ SPACE
 h,_,k,·,o,h,‥,(ti),n.
 SPACE
 h,_,σ,·,w,o,f,‥,𝓂,r,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 12:27 in vtrad vtbhs
 w,·,v,_,x,:_,n,u,k,·,_,(G),τ
@@ -15995,7 +15995,7 @@ SPACE
 w,·,𝓂,$,·sh,:,m,_,𝓂,ʕ,:,y,a,(ti),h
 SPACE
 w,:,y,i,r,:,m,:,y,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 12:35 in vtrad vtbhs
 w,·,m,i,v,·,:,n,‥,(me),y
@@ -16331,14 +16331,14 @@ w,:,α,a,σ,a,(ti),f.
 SPACE
 m,i,q,·,∵,⅄,d,∵,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 r,α,$
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 r,a,α,$,·sh,‥,y,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,_,m,:,$,·sh,o,⅃,r,:,r,i,ƶ,y,m.
 SPACE
@@ -16382,7 +16382,7 @@ SPACE
 l,i,v,:,n,‥,(me),y
 SPACE
 α,_,h,:_,r,o,𝓂,n.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 13:1 in vtrad vtbhs
 v,·,_,y,·,⅃,w,o,m.
@@ -16624,7 +16624,7 @@ SPACE
 α,∵,τ,-,h,_,m,·,i,n,:,x,a,(ti),h
 SPACE
 w,:,h,_,l,·,:,v,w,o,n,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 13:10 in vtrad vtbhs
 w,a,α,‥,⅃,d,:,ʕ,a,ƶ,h
@@ -16719,7 +16719,7 @@ SPACE
 l,_,x,:_,l,o,(me),q
 SPACE
 l,_,α,:_,x,‥,y,h,∵,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 13:14 in vtrad vtbhs
 z,oa,k,:,r,a,h,-,l,·,i,(me),y
@@ -16750,9 +16750,9 @@ SPACE
 r,a,α,i,⅃,y,τ,i,y
 SPACE
 v,i,𝓂,y,h,w,·,d,a,⅃,h
-START lp-paseq 
+START lp-paseq
 d,·,o,𝓂,r,:,k,i,𝓂,y,m.,-,g,·,i,τ,·,⅃,w,o,τ
-START lp-paseq 
+START lp-paseq
 v,·,_,$,·sh,·,_,v,·,a,μ,τ
 SPACE
 w,·,m,:,v,i,y,α,i,⅃,y,m.
@@ -16879,7 +16879,7 @@ SPACE
 l,:,x,_,l,·,‥,(ti),l
 SPACE
 α,∵,τ,-,h,_,$,·sh,·,_,v,·,a,𝓂,τ,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 13:19 in vtrad vtbhs
 w,_,y,:,h,i,μ,y
@@ -16981,7 +16981,7 @@ SPACE
 l,o,α,-,v,a,(ti),α,w,·
 SPACE
 v,·,_,$,·sh,·,_,v,·,a,𝓂,τ,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 13:22 in vtrad vtbhs
 w,a,α,o,m,:,r,a,⅃,h
@@ -17019,11 +17019,11 @@ SPACE
 k,·,:,r,o,(me),v
 SPACE
 x,_,σ,:,d,·,∵,𝓂,k.,a,.
-START spi-pe2 
+START spi-pe2
 
 Nehemiah 13:23 in vtrad vtbhs
 g,·,_,⅃,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,_,y,·,a,m,i,⅃,y,m.
 SPACE
@@ -17037,23 +17037,23 @@ h,o,$,·sh,i,◆,y,v,w,·
 SPACE
 n,a,$,·sh,i,y,m.,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,$,d,w,d,y,w,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,_,$,·sh,:,d,·,:a,d,i,y,·,ƶ,w,o,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,m,w,n,y,w,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,_,m,·,:a,n,i,y,·,(ti),w,o,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,w,o,α,:_,v,i,y,·,𝓂,w,o,τ,.
 
@@ -17225,7 +17225,7 @@ Nehemiah 13:30 in vtrad vtbhs
 w,:,θ,i,𝓂,h,_,r,:,τ,·,i,(ti),y,m.
 SPACE
 m,i,k,·,oa,l,-,n,‥,k,a,⅄,r
-START spi-pe3 
+START spi-pe3
 w,a,α,_,ʕ,:_,m,i,(da),y,d,a,h
 SPACE
 m,i,$,·sh,:,m,a,r,⟓,w,o,τ

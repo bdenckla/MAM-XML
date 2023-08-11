@@ -54,7 +54,7 @@ SPACE
 w,:,$,·sh,‥,(me),m.
 SPACE
 $,·sh,:,n,‥,𝓂,y,-,v,a,n,a,⅃,y,w
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,_,x,:,l,<,w,o,n.
 SPACE
@@ -216,14 +216,14 @@ l,:,v,‥,⅃,y,τ
 SPACE
 α,i,m,·,a,⅄,h,·
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,ʕ,$,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,_,⅃,ʕ,_,$,·si
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 y,:,h,o,w,a,<,h
 SPACE
@@ -341,7 +341,7 @@ v,a,n,i,𝓂,y,m.,.
 
 Ruth 1:13 in vtrad vtsef
 h,:_,l,a,h,‥,⅃,n.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 τ,·,:,$,·si,_,v,·,‥,◆,r,:,n,a,h
 SPACE
@@ -627,14 +627,14 @@ $,·si,:,ʕ,o,r,i,𝓂,y,m.,.
 Ruth 2:1 in vtrad vtsef
 w,·,𝓂,l,:,n,oa,ʕ,:a,m,i,(G),y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 m,y,d,ʕ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 m,w,o,d,a,⅃,ʕ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,:,α,i,y,$,·sh,a,◆,h,·
 SPACE
@@ -1239,7 +1239,7 @@ SPACE
 h,_,m,·,w,o,α,:_,v,i,y,·,a,⅄,h
 SPACE
 g,·,_,⅃,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 k,·,i,y,-,α,a,m,_,⅃,r
 SPACE
@@ -1357,31 +1357,31 @@ h,_,l,·,a,𝓂,y,:,l,a,h,.
 
 Ruth 3:3 in vtrad vtsef
 w,:,r,a,x,_,⅃,ц,:,τ,·,:
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 w,a,σ,_,◆,k,:,τ,·,:
 SPACE
 w,:,$,·si,_,(da),m,:,τ,·,:
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 $,m,l,τ,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·si,i,m,:,l,o,τ,_,⟓,y,i,k.,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,a,l,_,(ti),y,i,k.,:
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,y,r,d,τ,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,y,a,r,_,⅃,d,:,τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,_,g,·,o,⅄,r,∵,n.
 SPACE
@@ -1416,14 +1416,14 @@ w,:,g,i,l,·,i,(me),y,τ
 SPACE
 m,_,r,:,g,·,:,l,o,τ,a,(ti),y,w
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,$,k,v,τ,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,$,·sh,a,k,a,⅄,v,:,τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,h,w,·,α,(p)
 SPACE
@@ -1446,9 +1446,9 @@ k,·,o,⟓,l
 SPACE
 α,:_,$,·sh,∵,r,-,τ,·,o,α,m,:,r,i,(me),y
 SPACE
-START kq-q-velo-k 
+START kq-q-velo-k
 α,‥,l,_,(ti),y
-STOP kq-q-velo-k 
+STOP kq-q-velo-k
 SPACE
 α,∵,𝓂,ʕ,:∵,$,·si,∵,𝓂,h,.
 
@@ -1607,9 +1607,9 @@ SPACE
 SPACE
 k,·,i,(me),y
 SPACE
-START kq-k-velo-q 
+START kq-k-velo-q
 α,m.
-STOP kq-k-velo-q 
+STOP kq-k-velo-q
 SPACE
 g,o,α,‥,(ti),l
 SPACE
@@ -1626,14 +1626,14 @@ SPACE
 m,i,m,·,∵,𝓂,n,·,i,y,.
 
 Ruth 3:13 in vtrad vtsef
-START slh-word 
+START slh-word
 l,i,⅃,y
-START letter-large 
+START letter-large
 n,i
-STOP letter-large 
+STOP letter-large
 y
-STOP slh-word 
-START lp-legarmeih 
+STOP slh-word
+START lp-legarmeih
 SPACE
 h,_,l,·,_,◆,y,:,l,a,h
 SPACE
@@ -1672,14 +1672,14 @@ SPACE
 SPACE
 w,_,τ,·,a,Ƶ,q,oa,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 v,θ,r,w,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,·,:,θ,∵,⟓,r,∵,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 y,_,k,·,i,(me),y,r
 SPACE
@@ -1760,9 +1760,9 @@ k,·,i,(ye),y
 SPACE
 α,a,m,_,⅃,r
 SPACE
-START kq-q-velo-k 
+START kq-q-velo-k
 α,‥,l,_,ƶ,y
-STOP kq-q-velo-k 
+STOP kq-q-velo-k
 SPACE
 α,_,l,-,τ,·,a,v,(me),w,o,α,i,y
 SPACE
@@ -1915,14 +1915,14 @@ h,_,g,·,i,⅃,y,d,a,h
 SPACE
 l,·,i,◆,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,α,d,ʕ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,α,‥,𝓂,d,:,ʕ,a,h,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 k,·,i,⅃,y
 SPACE
@@ -1963,14 +1963,14 @@ h,_,m,·,w,o,α,:_,v,i,y,·,a,<,h
 SPACE
 α,‥,𝓂,$,·sh,∵,τ,-,h,_,m,·,‥,τ,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 q,n,y,τ,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 q,a,n,i,ƶ,y,τ,a
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,:,h,a,q,i,(me),y,m.
 SPACE
@@ -1987,14 +1987,14 @@ l,o,<,α
 SPACE
 α,w,·,k,_,l,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,g,α,w,l
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,i,g,:,α,oa,l,-
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 l,i,ƶ,y
 SPACE
 f,·,∵,n.,-,α,_,$,·sh,:,x,i,(ti),y,τ
@@ -2155,7 +2155,7 @@ SPACE
 α,∵,l,-,v,·,‥,y,τ,∵,◆,k.,a
 SPACE
 k,·,:,r,a,x,‥,<,l
-START lp-paseq 
+START lp-paseq
 w,·,k,:,l,‥,α,a,h,(p)
 SPACE
 α,:_,$,·sh,∵,(qa),r
@@ -2337,7 +2337,7 @@ SPACE
 α,:_,v,i,(me),y
 SPACE
 d,a,w,i,𝓂,d,.
-START spi-pe2 
+START spi-pe2
 
 Ruth 4:18 in vtrad vtsef
 w,:,α,‥,(p),l,·,∵,h,(p)

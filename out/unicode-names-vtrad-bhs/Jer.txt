@@ -77,7 +77,7 @@ SPACE
 v,·,_,x,o,(me),d,∵,$,·sh
 SPACE
 h,_,𝓂,x,:_,m,i,y,$,·sh,i,𝓂,y,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 1:4 in vtrad vtbhs
 w,_,y,:,h,i,(me),y
@@ -91,14 +91,14 @@ l,‥,α,m,o,𝓂,r,.
 Jeremiah 1:5 in vtrad vtbhs
 v,·,:,θ,∵,(qa),r,∵,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,ц,w,r,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,∵,ц,·,oa,r,:,k.,a,<
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,_,v,·,∵,(p),θ,∵,n.,(p)
 SPACE
@@ -136,7 +136,7 @@ SPACE
 k,·,i,y,-,n,_,(ti),ʕ,_,r
 SPACE
 α,a,n,o,𝓂,k,i,y,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 1:7 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -209,7 +209,7 @@ Jeremiah 1:10 in vtrad vtbhs
 r,:,α,‥,(G),h
 SPACE
 h,i,f,:,q,_,d,:,τ,·,i,⅃,y,k.,a
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 h,_,y,·,⅃,w,o,m.
 SPACE
@@ -230,7 +230,7 @@ SPACE
 l,i,v,:,n,(ti),w,o,τ
 SPACE
 w,:,l,i,n,:,θ,𝓂,w,o,ʕ,_,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 1:11 in vtrad vtbhs
 w,_,y,:,h,i,<,y
@@ -275,13 +275,13 @@ SPACE
 ʕ,_,l,-,d,·,:,v,a,r,i,(ti),y
 SPACE
 l,_,ʕ,:_,$,·si,o,τ,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 1:13 in vtrad vtbhs
 w,_,y,:,h,i,(qa),y
 SPACE
 d,:,v,_,r,-,y,:,h,o,w,a,<,h
-START lp-paseq 
+START lp-paseq
 α,‥,l,_,y,(p)
 SPACE
 $,·sh,‥,n,i,⅃,y,τ
@@ -331,7 +331,7 @@ h,a,α,a,𝓂,r,∵,ц.,.
 
 Jeremiah 1:15 in vtrad vtbhs
 k,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 h,i,n,:,n,i,⅃,y
 SPACE
@@ -354,7 +354,7 @@ SPACE
 k,·,i,σ,:,α,(ge),w,o
 SPACE
 f,·,∵,⅃,τ,_,x
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·sh,_,ʕ,:_,r,‥,⅃,y
 SPACE
@@ -479,7 +479,7 @@ SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,(ti),h
 SPACE
 l,:,h,_,ц,·,i,y,l,∵,𝓂,k.,a,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 2:1 in vtrad vtbhs
 w,_,y,:,h,i,(me),y
@@ -553,7 +553,7 @@ SPACE
 α,:_,l,‥,y,h,∵,(ti),m.
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 2:4 in vtrad vtbhs
 $,·sh,i,m,:,ʕ,(me),w,·
@@ -572,7 +572,7 @@ y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 Jeremiah 2:5 in vtrad vtbhs
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -809,7 +809,7 @@ SPACE
 ʕ,a,z,:,v,(ge),w,·
 SPACE
 m,:,q,⅃,w,o,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,_,⅃,y,i,m.
 SPACE
@@ -867,14 +867,14 @@ l,:,$,·sh,_,m,·,a,ƶ,h
 SPACE
 ʕ,a,r,a,(me),y,w
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 n,ц,τ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 n,i,ц,·,:,τ,(ti),w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,i,v,·,:,l,i,(me),y
 SPACE
@@ -883,14 +883,14 @@ y,o,$,·sh,‥,𝓂,v,.
 Jeremiah 2:16 in vtrad vtbhs
 g,·,_,m.,-,v,·,:,n,‥,y,-,n,o,(ti),f.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,τ,x,f,n,σ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,τ,_,x,:,f,·,_,n,:,x,‥,⅄,σ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 y,i,r,:,ʕ,(ti),w,·,k.,:
 SPACE
@@ -992,14 +992,14 @@ w,_,τ,·,o,α,m,:,r,i,(ti),y
 SPACE
 l,o,⅃,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,ʕ,v,w,d
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,∵,ʕ,:∵,v,⅄,w,o,r
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 k,·,i,⅃,y
 SPACE
@@ -1106,7 +1106,7 @@ d,·,:,r,a,k,∵,𝓂,y,h,a,.
 
 Jeremiah 2:24 in vtrad vtbhs
 f,·,∵,⅃,r,∵,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 l,i,m,·,u,⅃,d
 SPACE
@@ -1114,14 +1114,14 @@ m,i,d,:,v,·,a,◆,r
 SPACE
 v,·,:,α,_,w,·,_,<,τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 n,f,$,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 n,_,f,:,$,·sh,a,h,·,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 $,·sh,a,α,:_,f,a,⅃,h
 SPACE
@@ -1150,14 +1150,14 @@ r,_,g,:,l,‥,k.,:,(p)
 SPACE
 m,i,y,·,a,x,‥,ƶ,f.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,g,w,r,n,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,·,g,:,r,w,o,n,‥,(ti),k.,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,i,ц,·,i,m,:,α,a,⅄,h
 SPACE
@@ -1215,14 +1215,14 @@ w,:,l,a,α,∵,(p),v,∵,n.,(p)
 SPACE
 α,_,⅃,τ,·,:
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,l,d,τ,n,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,:,l,i,d,:,τ,·,a,ƶ,n,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 k,·,i,𝓂,y,-,f,a,n,(me),w,·
 SPACE
@@ -1274,7 +1274,7 @@ SPACE
 α,:∵,l,o,h,∵,(ti),y,k.,a
 SPACE
 y,:,h,w,·,d,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 2:29 in vtrad vtbhs
 l,a,(me),m,·,a,h
@@ -1385,14 +1385,14 @@ g,·,_,⅃,m.
 SPACE
 α,∵,τ,-,h,a,r,a,ʕ,ƶ,w,o,τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,m,d,τ,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,i,m,·,_,(ti),d,:,τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,∵,τ,-,d,·,:,r,a,k,a,𝓂,y,i,k.,:,.
 
@@ -1550,14 +1550,14 @@ SPACE
 SPACE
 l,o,⅃,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 $,g,l,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·sh,u,k,·,_,ƶ,v,:,τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,_,l,-,d,·,:,r,a,k,i,y,m.,(p)
 SPACE
@@ -1607,14 +1607,14 @@ h,:_,l,⅃,w,o,α
 SPACE
 m,‥,ʕ,_,ƶ,τ,·,a,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 q,r,α,τ,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 q,a,r,a,(me),α,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,i,(ti),y
 SPACE
@@ -1644,7 +1644,7 @@ SPACE
 h,a,r,a,ʕ,(ti),w,o,τ
 SPACE
 w,_,τ,·,w,·,k,a,𝓂,l,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 3:6 in vtrad vtbhs
 w,_,y,·,o,(qa),α,m,∵,r
@@ -1700,14 +1700,14 @@ SPACE
 SPACE
 w,:,l,o,α,-,$,·sh,a,⅄,v,a,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,τ,r,α,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,_,τ,·,‥,⟓,r,∵,α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,a,g,w,o,d,a,(me),h
 SPACE
@@ -1793,7 +1793,7 @@ SPACE
 α,i,m.,-,v,·,:,$,·sh,∵,(ti),q,∵,r
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 3:11 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -2019,7 +2019,7 @@ SPACE
 l,i,v,·,a,(me),m.
 SPACE
 h,a,r,a,𝓂,ʕ,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 3:18 in vtrad vtbhs
 v,·,_,y,·,a,m,i,⅃,y,m.
@@ -2079,28 +2079,28 @@ w,a,α,o,m,_,◆,r
 SPACE
 α,a,v,i,y,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 τ,q,r,α,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 τ,·,i,q,:,r,:,α,i,y,-
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 l,i,ƶ,y
 SPACE
 w,·,m,‥,α,_,x,:_,r,_,(ti),y
 SPACE
 l,o,(me),α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 τ,$,w,v,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 τ,a,$,·sh,𝓂,w,·,v,i,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
 
 Jeremiah 3:20 in vtrad vtbhs
@@ -2252,13 +2252,13 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,‥,𝓂,y,n,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 4:1 in vtrad vtbhs
 α,i,m.,-,τ,·,a,$,·sh,(qa),w,·,v
 SPACE
 y,i,$,·si,:,r,a,α,‥,(da),l
-START lp-paseq 
+START lp-paseq
 n,:,α,u,m.,-,y,:,h,o,w,a,⟓,h
 SPACE
 α,‥,l,_,(ti),y
@@ -2295,11 +2295,11 @@ SPACE
 w,·,v,(me),w,o
 SPACE
 y,i,τ,:,h,_,l,·,a,𝓂,l,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 4:3 in vtrad vtbhs
 k,·,i,y,-,k,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -2369,14 +2369,14 @@ h,_,$,·sh,:,m,i,ƶ,y,ʕ,w,·
 SPACE
 w,:,α,i,m,:,r,Ƶ,w,·
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,τ,q,ʕ,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 τ,·,i,q,:,ʕ,(me),w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 $,·sh,w,o,f,a,(ti),r
 SPACE
@@ -2470,7 +2470,7 @@ SPACE
 α,_,f.,-,y,:,h,o,w,a,(ti),h
 SPACE
 m,i,m,·,∵,𝓂,n,·,w,·,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 4:9 in vtrad vtbhs
 w,:,h,a,y,a,<,h
@@ -2494,13 +2494,13 @@ SPACE
 w,:,h,_,n,·,:,v,i,α,i,(ti),y,m.
 SPACE
 y,i,τ,:,m,a,𝓂,h,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 4:10 in vtrad vtbhs
 w,a,𝓂,α,o,m,_,(G),r
 SPACE
 α,:_,h,a,⅃,h,·
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -2586,7 +2586,7 @@ SPACE
 
 Jeremiah 4:13 in vtrad vtbhs
 h,i,n,·,‥,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 k,·,_,ʕ,:_,n,a,n,i,⅃,y,m.
 SPACE
@@ -2718,22 +2718,22 @@ SPACE
 n,a,g,_,(ti),ʕ
 SPACE
 ʕ,_,d,-,l,i,v,·,‥,𝓂,k.,:,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 4:19 in vtrad vtbhs
 m,‥,ʕ,_,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,‥,ʕ,_,(qa),y
-START lp-paseq 
-START kq 
-START kq-q 
+START lp-paseq
+START kq
+START kq-q
 α,w,o,x,i,(ge),y,l,a,h
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 α,x,w,l,h
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 q,i,y,r,(me),w,o,τ
 SPACE
@@ -2753,14 +2753,14 @@ q,<,w,o,l
 SPACE
 $,·sh,w,o,f,a,r,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 $,m,ʕ,τ,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·sh,a,m,_,⅃,ʕ,_,τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 n,_,f,:,$,·sh,i,ƶ,y
 SPACE
@@ -2801,11 +2801,11 @@ SPACE
 q,(me),w,o,l
 SPACE
 $,·sh,w,o,f,a,𝓂,r,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 4:22 in vtrad vtbhs
 k,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:∵,w,i,⅃,y,l
 SPACE
@@ -2906,7 +2906,7 @@ SPACE
 x,:_,r,(me),w,o,n.
 SPACE
 α,_,f,·,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 4:27 in vtrad vtbhs
 k,·,i,y,-,k,o,h,(p)
@@ -2986,14 +2986,14 @@ SPACE
 α,i,𝓂,y,$,·sh,.
 
 Jeremiah 4:30 in vtrad vtbhs
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,α,τ,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,α,_,(qa),τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 $,·sh,a,d,(ge),w,·,d
 SPACE
@@ -3057,7 +3057,7 @@ SPACE
 n,_,f,:,$,·sh,i,(ti),y
 SPACE
 l,:,h,o,r,:,g,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 5:1 in vtrad vtbhs
 $,·sh,w,o,θ,:,θ,(G),w,·
@@ -3242,14 +3242,14 @@ Jeremiah 5:7 in vtrad vtbhs
 SPACE
 l,a,z,o,α,τ,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,σ,l,w,x
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,∵,𝓂,σ,:,l,_,𝓂,x,-
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 l,a,ƶ,k.,:
 SPACE
 v,·,a,n,_,⅃,y,i,k.,:
@@ -3309,7 +3309,7 @@ SPACE
 τ,i,τ,:,n,_,q,·,‥,(ti),m.
 SPACE
 n,_,f,:,$,·sh,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 5:10 in vtrad vtbhs
 ʕ,:_,l,<,w,·
@@ -3394,7 +3394,7 @@ SPACE
 y,‥,ʕ,a,$,·si,∵,(ti),h
 SPACE
 l,a,h,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 5:14 in vtrad vtbhs
 l,a,k,‥,◆,n.
@@ -3451,7 +3451,7 @@ SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,⅄,h
 SPACE
 g,·,⅃,w,o,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,‥,y,τ,a,⅃,n.
 SPACE
@@ -3592,7 +3592,7 @@ SPACE
 l,o,(me),α
 SPACE
 l,a,k,∵,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 5:20 in vtrad vtbhs
 h,_,g,·,i,(me),y,d,w,·
@@ -3715,14 +3715,14 @@ h,_,n,·,o,τ,‥,◆,n.
 SPACE
 g,·,∵,⟓,$,·sh,∵,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,y,r,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,w,o,r,∵,(me),h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,m,_,l,:,q,(ti),w,o,$,·sh
 SPACE
@@ -3838,7 +3838,7 @@ SPACE
 τ,i,τ,:,n,_,q,·,‥,(ti),m.
 SPACE
 n,_,f,:,$,·sh,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 5:30 in vtrad vtbhs
 $,·sh,_,m,·,a,h,(p)
@@ -3874,7 +3874,7 @@ l,:,α,_,x,:_,r,i,y,τ,a,𝓂,h,·,.
 
 Jeremiah 6:1 in vtrad vtbhs
 h,a,ʕ,i,⅃,z,w,·
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,n,‥,⅃,y
 SPACE
@@ -3979,7 +3979,7 @@ SPACE
 w,:,n,_,$,·sh,:,x,i,(ti),y,τ,a,h
 SPACE
 α,_,r,:,m,:,n,w,o,τ,∵,𝓂,y,h,a,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 6:6 in vtrad vtbhs
 k,·,i,⅃,y
@@ -4017,14 +4017,14 @@ v,·,:,q,i,r,:,v,·,a,𝓂,h,·,.
 Jeremiah 6:7 in vtrad vtbhs
 k,·,:,h,a,q,i,(me),y,r
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 v,w,r
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,·,_,(p),y,i,r,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,‥,y,m,∵,ƶ,y,h,a
 SPACE
@@ -4070,7 +4070,7 @@ SPACE
 l,(me),w,o,α
 SPACE
 n,w,o,$,·sh,a,𝓂,v,a,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 6:9 in vtrad vtbhs
 k,·,o,<,h
@@ -4140,7 +4140,7 @@ SPACE
 x,:_,m,_,(qa),τ
 SPACE
 y,:,h,o,w,a,<,h
-START lp-paseq 
+START lp-paseq
 m,a,l,‥,(p),α,τ,i,y,(p)
 SPACE
 n,i,l,:,α,‥,⅃,y,τ,i,y
@@ -4231,7 +4231,7 @@ SPACE
 l,‥,α,m,o,(ti),r
 SPACE
 $,·sh,a,l,⅃,w,o,m.
-START lp-paseq 
+START lp-paseq
 $,·sh,a,l,⅄,w,o,m.
 SPACE
 w,:,α,‥,(ti),y,n.
@@ -4270,7 +4270,7 @@ SPACE
 α,a,m,_,(me),r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 6:16 in vtrad vtbhs
 k,·,o,⅃,h
@@ -4286,7 +4286,7 @@ SPACE
 w,·,r,:,α,(ge),w,·
 SPACE
 w,:,$,·sh,_,α,:_,l,⅃,w,·
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 l,i,n,:,τ,i,v,⅃,w,o,τ
 SPACE
@@ -4441,16 +4441,16 @@ $,·sh,a,k,‥,(me),n.
 SPACE
 w,:,r,‥,ʕ,(ti),w,o
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,α,v,d,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,α,a,v,a,𝓂,d,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 6:22 in vtrad vtbhs
 k,·,o,(ye),h
@@ -4531,28 +4531,28 @@ k,·,_,y,·,𝓂,w,o,l,‥,d,a,𝓂,h,.
 
 Jeremiah 6:25 in vtrad vtbhs
 α,_,l,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 τ,·,‥,𝓂,ц,:,α,w,·,(p)
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 τ,ц,α,y
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 h,_,$,·si,·,a,d,∵,ƶ,h
 SPACE
 w,·,v,_,d,·,∵,(ti),r,∵,k.,:
 SPACE
 α,_,l,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 τ,·,‥,l,‥,⅄,k,w,·
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 τ,l,k,y
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 k,·,i,(ye),y
 SPACE
@@ -4636,16 +4636,16 @@ n,a,x,_,⅃,r
 SPACE
 m,_,f,·,u,ƶ,x,_
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 m,α,$,τ,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 m,‥,α,‥,(ti),$,·sh
 SPACE
 τ,·,_,⅃,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,o,f,a,⅄,r,∵,τ
 SPACE
@@ -4675,7 +4675,7 @@ SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 v,·,a,h,∵,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 7:1 in vtrad vtbhs
 h,_,d,·,a,v,a,r,(p)
@@ -4726,7 +4726,7 @@ SPACE
 l,:,h,i,𝓂,$,·sh,:,τ,·,_,x,:_,w,ḥḥfv,(ti),τ
 SPACE
 l,_,y,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 7:3 in vtrad vtbhs
 k,·,o,𝓂,h,-,α,a,m,_,(G),r
@@ -4878,7 +4878,7 @@ h,w,o,ʕ,i,𝓂,y,l,.
 
 Jeremiah 7:9 in vtrad vtbhs
 h,:_,g,a,n,o,<,v
-START lp-paseq 
+START lp-paseq
 r,a,ц,o,(p),x,_,(p)
 SPACE
 w,:,𝓂,n,a,α,o,ƶ,f.
@@ -5035,7 +5035,7 @@ Jeremiah 7:14 in vtrad vtbhs
 w,:,ʕ,a,$,·si,i,(ge),y,τ,i,y
 SPACE
 l,_,v,·,_,⅃,y,i,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:_,$,·sh,∵,(da),r
 SPACE
@@ -5085,13 +5085,13 @@ SPACE
 k,·,oa,l,-,z,∵,(me),r,_,ʕ
 SPACE
 α,∵,f,:,r,a,𝓂,y,i,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 7:16 in vtrad vtbhs
 w,:,α,_,τ,·,a,(G),h
 SPACE
 α,_,l,-,τ,·,i,τ,:,f,·,_,l,·,‥,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,ʕ,_,d,-,h,a,ʕ,a,⅃,m.
 SPACE
@@ -5194,7 +5194,7 @@ Jeremiah 7:20 in vtrad vtbhs
 l,a,k,‥,(G),n.
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -5229,7 +5229,7 @@ SPACE
 w,:,l,o,(me),α
 SPACE
 τ,i,k,:,v,·,∵,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 7:21 in vtrad vtbhs
 k,·,o,(me),h
@@ -5267,14 +5267,14 @@ SPACE
 SPACE
 v,·,:,y,⟓,w,o,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,w,ц,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,w,o,ц,i,y,α,i,(me),y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,w,o,τ,a,(ti),m.
 SPACE
@@ -5469,7 +5469,7 @@ SPACE
 w,:,n,i,k,:,r,:,τ,a,(ti),h
 SPACE
 m,i,f,·,i,y,h,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 7:29 in vtrad vtbhs
 g,·,oa,z,·,i,<,y
@@ -5551,7 +5551,7 @@ SPACE
 ʕ,a,l,:,τ,a,(ti),h
 SPACE
 ʕ,_,l,-,l,i,v,·,i,𝓂,y,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 7:32 in vtrad vtbhs
 l,a,k,‥,(G),n.
@@ -5611,7 +5611,7 @@ m,_,x,:_,r,i,𝓂,y,d,.
 
 Jeremiah 7:34 in vtrad vtbhs
 w,:,h,i,$,·sh,:,v,·,_,τ,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,‥,𝓂,ʕ,a,r,‥,⅃,y
 SPACE
@@ -5652,14 +5652,14 @@ h,_,h,i,⅃,y,α
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,μ,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,y,ц,y,α,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,w,o,ц,i,⅃,y,α,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,∵,τ,-,ʕ,_,ц,:,m,⅃,w,o,τ
 SPACE
@@ -5672,7 +5672,7 @@ SPACE
 h,_,k,·,o,h,:_,n,i,(ge),y,m.
 SPACE
 w,:,α,‥,⅃,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 ʕ,_,ц,:,m,⅃,w,o,τ
 SPACE
@@ -5694,7 +5694,7 @@ SPACE
 w,:,l,_,y,·,a,r,‥,(ge),x,_
 SPACE
 w,·,l,:,k,o,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 ц,:,v,a,⅃,α
 SPACE
@@ -5774,7 +5774,7 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 ц,:,v,a,α,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 8:4 in vtrad vtbhs
 w,:,α,a,m,_,r,:,τ,·,a,⅃
@@ -5849,14 +5849,14 @@ k,·,u,l,·,o,◆,h
 SPACE
 $,·sh,a,(ye),v
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 v,m,r,ц,w,τ,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,·,i,m,:,r,⅃,w,·,ц,a,τ,a,ƶ,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 k,·,:,σ,(me),w,·,σ
 SPACE
@@ -5875,14 +5875,14 @@ m,w,o,ʕ,:_,d,∵,ƶ,y,h,a
 SPACE
 w,:,τ,o,<,r
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,σ,w,σ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,σ,i,y,σ,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,ʕ,a,g,ƶ,w,·,r
 SPACE
@@ -6001,7 +6001,7 @@ SPACE
 l,‥,α,m,o,(ti),r
 SPACE
 $,·sh,a,l,⅃,w,o,m.
-START lp-paseq 
+START lp-paseq
 $,·sh,a,l,⅄,w,o,m.
 SPACE
 w,:,α,‥,(ti),y,n.
@@ -6042,7 +6042,7 @@ SPACE
 α,a,m,_,(me),r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 8:13 in vtrad vtbhs
 α,a,σ,o,(me),f.
@@ -6157,7 +6157,7 @@ SPACE
 w,:,y,o,(me),$,·sh,:,v,‥,y
 SPACE
 v,a,𝓂,h,·,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 8:17 in vtrad vtbhs
 k,·,i,y,(tq)
@@ -6183,7 +6183,7 @@ SPACE
 α,∵,τ,:,k,∵,(ti),m.
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 8:18 in vtrad vtbhs
 m,_,v,:,l,i,(me),y,g,i,y,τ,i,(ti),y
@@ -6283,7 +6283,7 @@ SPACE
 α,:_,r,u,k,_,(ti),τ
 SPACE
 v,·,_,τ,-,ʕ,_,m,·,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 8:23 in vtrad vtbhs
 m,i,𝓂,y,-,y,i,τ,·,‥,<,n.
@@ -6309,7 +6309,7 @@ SPACE
 x,_,𝓂,l,:,l,‥,(me),y
 SPACE
 v,_,τ,-,ʕ,_,m,·,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 9:1 in vtrad vtbhs
 m,i,𝓂,y,-,y,i,τ,·,:,n,‥,⅃,n,i,y
@@ -6360,7 +6360,7 @@ SPACE
 m,‥,r,a,ʕ,a,(qa),h
 SPACE
 α,∵,l,-,r,a,ʕ,a,(da),h
-START lp-paseq 
+START lp-paseq
 y,a,ц,a,⟓,α,w,·
 SPACE
 w,:,α,o,τ,i,(me),y
@@ -6431,7 +6431,7 @@ SPACE
 d,_,ʕ,_,τ,-,α,w,o,τ,i,(ti),y
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 9:6 in vtrad vtbhs
 l,a,k,‥,◆,n.
@@ -6461,14 +6461,14 @@ v,·,_,τ,-,ʕ,_,m,·,i,𝓂,y,.
 Jeremiah 9:7 in vtrad vtbhs
 x,‥,(me),ц.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 $,w,x,θ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·sh,a,x,⟓,w,·,θ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,:,$,·sh,w,o,n,a,(ti),m.
 SPACE
@@ -6508,7 +6508,7 @@ SPACE
 τ,i,τ,:,n,_,q,·,‥,(ti),m.
 SPACE
 n,_,f,:,$,·sh,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 9:9 in vtrad vtbhs
 ʕ,_,l,-,h,∵,(qa),h,a,r,i,(ge),y,m.
@@ -6573,7 +6573,7 @@ SPACE
 m,i,v,·,:,l,i,(me),y
 SPACE
 y,w,o,$,·sh,‥,𝓂,v,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 9:11 in vtrad vtbhs
 m,i,𝓂,y,-,h,a,α,i,<,y,$,·sh
@@ -6607,7 +6607,7 @@ SPACE
 m,i,v,·,:,l,i,(me),y
 SPACE
 ʕ,o,v,‥,𝓂,r,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 9:12 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
@@ -6650,7 +6650,7 @@ SPACE
 l,i,m,·,:,d,(ti),w,·,m.
 SPACE
 α,:_,v,w,o,τ,a,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 9:14 in vtrad vtbhs
 l,a,k,‥,◆,n.
@@ -6705,7 +6705,7 @@ SPACE
 k,·,_,l,·,w,o,τ,i,(ti),y
 SPACE
 α,w,o,τ,a,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 9:16 in vtrad vtbhs
 k,·,o,<,h
@@ -6777,7 +6777,7 @@ SPACE
 h,i,$,·sh,:,l,i,(ti),y,k,w,·
 SPACE
 m,i,$,·sh,:,k,·,:,n,w,o,τ,‥,𝓂,y,n,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 9:19 in vtrad vtbhs
 k,·,i,𝓂,y,-,$,·sh,:,m,_,<,ʕ,:,n,a,h
@@ -6853,11 +6853,11 @@ SPACE
 w,:,α,‥,(me),y,n.
 SPACE
 m,:,α,_,σ,·,‥,𝓂,f.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 9:22 in vtrad vtbhs
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -6917,7 +6917,7 @@ SPACE
 x,a,f,_,(ti),ц,:,τ,·,i,y
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 9:24 in vtrad vtbhs
 h,i,n,·,‥,⟓,h
@@ -6968,7 +6968,7 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 ʕ,_,r,:,l,‥,y,-,l,‥,𝓂,v,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 10:1 in vtrad vtbhs
 $,·sh,i,m,:,ʕ,⅃,w,·
@@ -6989,7 +6989,7 @@ y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 Jeremiah 10:2 in vtrad vtbhs
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -7085,7 +7085,7 @@ SPACE
 α,‥,(me),y,n.
 SPACE
 α,w,o,τ,a,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 10:6 in vtrad vtbhs
 m,‥,α,‥,(me),y,n.
@@ -7207,7 +7207,7 @@ SPACE
 g,w,o,y,i,(ti),m.
 SPACE
 z,_,ʕ,:,m,𝓂,w,o,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 10:11 in vtrad vtbhs
 k,·,i,d,:,n,a,h,(p)
@@ -7235,7 +7235,7 @@ SPACE
 $,·sh,:,m,_,y,·,a,(ti),α
 SPACE
 α,‥,𝓂,l,·,∵,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 10:12 in vtrad vtbhs
 ʕ,o,$,·si,‥,(me),h
@@ -7273,14 +7273,14 @@ n,:,$,·si,i,α,i,(ti),y,m.
 SPACE
 m,i,q,:,ц,‥,⅃,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,r,ц.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,a,α,a,⅄,r,∵,ц.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,:,r,a,q,i,<,y,m.
 SPACE
@@ -7356,7 +7356,7 @@ SPACE
 ц,:,v,a,α,(ti),w,o,τ
 SPACE
 $,·sh,:,m,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 10:17 in vtrad vtbhs
 α,i,σ,:,f,·,i,(me),y
@@ -7365,17 +7365,17 @@ m,‥,α,∵,(ti),r,∵,ц.
 SPACE
 k,·,i,n,:,ʕ,a,τ,‥,⅄,k.,:
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,$,v,τ,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,o,$,·sh,∵,(ti),v,∵,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,_,m,·,a,ц,𝓂,w,o,r,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 10:18 in vtrad vtbhs
 k,·,i,y,-,k,o,h,(p)
@@ -7403,7 +7403,7 @@ SPACE
 l,:,m,_,(me),ʕ,_,n.
 SPACE
 y,i,m,:,ц,a,𝓂,α,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 10:19 in vtrad vtbhs
 α,(me),w,o,y
@@ -7475,7 +7475,7 @@ SPACE
 w,:,k,oa,l,-,m,_,r,:,ʕ,i,y,τ,a,(ti),m.
 SPACE
 n,a,f,𝓂,w,o,ц,a,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 10:22 in vtrad vtbhs
 q,<,w,o,l
@@ -7505,7 +7505,7 @@ SPACE
 m,:,ʕ,(me),w,o,n.
 SPACE
 τ,·,_,n,·,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 10:23 in vtrad vtbhs
 y,a,d,_,⅃,ʕ,:,τ,·,i,y
@@ -7573,7 +7573,7 @@ SPACE
 w,:,α,∵,τ,-,n,a,w,‥,(ti),h,w,·
 SPACE
 h,‥,$,·sh,_,𝓂,m,·,w,·,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 11:1 in vtrad vtbhs
 h,_,d,·,a,v,a,r,(p)
@@ -7717,9 +7717,9 @@ SPACE
 w,a,α,o,m,_,(ti),r
 SPACE
 α,a,m,‥,(me),n.
-START lp-paseq 
+START lp-paseq
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 11:6 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -7823,7 +7823,7 @@ SPACE
 w,:,l,o,(me),α
 SPACE
 ʕ,a,$,·si,𝓂,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 11:9 in vtrad vtbhs
 w,_,y,·,o,(me),α,m,∵,r
@@ -7886,7 +7886,7 @@ SPACE
 k,·,a,r,_,(ti),τ,·,i,y
 SPACE
 α,∵,τ,-,α,:_,v,w,o,τ,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 11:11 in vtrad vtbhs
 l,a,k,‥,◆,n.
@@ -7986,7 +7986,7 @@ SPACE
 l,:,q,_,θ,·,‥,(me),r
 SPACE
 l,_,v,·,a,𝓂,ʕ,_,l,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 11:14 in vtrad vtbhs
 w,:,α,_,τ,·,a,◆,h
@@ -8006,7 +8006,7 @@ SPACE
 w,·,τ,:,f,i,l,·,a,⅄,h
 SPACE
 k,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,‥,y,n,∵,⅃,n,·,i,y
 SPACE
@@ -8021,7 +8021,7 @@ SPACE
 v,·,:,ʕ,_,(me),d
 SPACE
 r,a,ʕ,a,τ,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 11:15 in vtrad vtbhs
 m,∵,⅃,h
@@ -8066,7 +8066,7 @@ SPACE
 $,·sh,:,m,‥,⅄,k.,:
 SPACE
 l,:,q,⅃,w,o,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 h,:_,m,w,·,l,·,a,⅃,h
 SPACE
@@ -8118,7 +8118,7 @@ SPACE
 l,:,q,_,θ,·,‥,(me),r
 SPACE
 l,_,v,·,a,𝓂,ʕ,_,l,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 11:18 in vtrad vtbhs
 w,_,y,h,o,w,a,(me),h
@@ -8147,7 +8147,7 @@ SPACE
 w,:,l,o,𝓂,α,-,y,a,d,_,(ge),ʕ,:,τ,·,i,y
 SPACE
 k,·,i,𝓂,y,-,ʕ,a,l,_,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 x,a,$,·sh,:,v,⅃,w,·
 SPACE
@@ -8199,7 +8199,7 @@ SPACE
 g,·,i,l,·,i,(me),y,τ,i,y
 SPACE
 α,∵,τ,-,r,i,y,v,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 11:21 in vtrad vtbhs
 l,a,k,‥,◆,n.
@@ -8231,7 +8231,7 @@ SPACE
 τ,a,m,(ti),w,·,τ
 SPACE
 v,·,:,y,a,d,‥,𝓂,n,w,·,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 11:22 in vtrad vtbhs
 l,a,k,‥,◆,n.
@@ -8284,7 +8284,7 @@ SPACE
 $,·sh,:,n,_,(me),τ
 SPACE
 f,·,:,q,u,d,·,a,τ,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 12:1 in vtrad vtbhs
 ц,_,d,·,i,<,y,q
@@ -8368,7 +8368,7 @@ SPACE
 l,:,y,(me),w,o,m.
 SPACE
 h,:_,r,‥,g,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 12:4 in vtrad vtbhs
 ʕ,_,d,-,m,a,τ,_,y,(p)
@@ -8407,7 +8407,7 @@ Jeremiah 12:5 in vtrad vtbhs
 k,·,i,⅃,y
 SPACE
 α,∵,τ,-,r,_,g,:,l,i,(me),y,m.
-START lp-paseq 
+START lp-paseq
 r,_,(p),ц,:,τ,·,a,h,(p)
 SPACE
 w,_,y,·,_,l,:,α,ƶ,w,·,k.,a
@@ -8464,7 +8464,7 @@ SPACE
 α,‥,l,∵,(ti),y,k.,a
 SPACE
 θ,w,o,v,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 12:7 in vtrad vtbhs
 ʕ,a,z,_,(p),v,:,τ,·,i,y,(p)
@@ -8607,7 +8607,7 @@ SPACE
 $,·sh,a,l,(ti),w,o,m.
 SPACE
 l,:,k,oa,l,-,v,·,a,$,·si,a,𝓂,r,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 12:13 in vtrad vtbhs
 z,a,r,:,ʕ,<,w,·
@@ -8631,11 +8631,11 @@ SPACE
 m,‥,x,:_,r,(ti),w,o,n.
 SPACE
 α,_,f.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 12:14 in vtrad vtbhs
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -8745,7 +8745,7 @@ SPACE
 w,:,α,_,v,·,‥,(ti),d
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 13:1 in vtrad vtbhs
 k,·,o,h,-,α,a,m,_,(qa),r
@@ -8786,7 +8786,7 @@ SPACE
 w,a,α,a,$,·si,i,(ti),m.
 SPACE
 ʕ,_,l,-,m,oa,τ,:,n,a,𝓂,y,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 13:3 in vtrad vtbhs
 w,_,y,:,h,i,(da),y
@@ -8902,7 +8902,7 @@ SPACE
 y,i,ц,:,l,_,(ti),x
 SPACE
 l,_,k,·,o,𝓂,l,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 13:8 in vtrad vtbhs
 w,_,y,:,h,i,(me),y
@@ -8942,7 +8942,7 @@ SPACE
 h,a,r,a,(ge),ʕ
 SPACE
 h,_,𝓂,m,·,‥,α,:_,n,i,⅃,y,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 l,i,$,·sh,:,m,⅃,w,o,ʕ,_
 SPACE
@@ -8979,7 +8979,7 @@ SPACE
 l,o,𝓂,α,-,y,i,ц,:,l,_,(ti),x
 SPACE
 l,_,k,·,o,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 13:11 in vtrad vtbhs
 k,·,i,μ,y
@@ -9032,7 +9032,7 @@ SPACE
 α,∵,τ,-,h,_,d,·,a,v,a,⅃,r
 SPACE
 h,_,z,·,∵,◆,h
-START spi-samekh2 
+START spi-samekh2
 k,·,o,𝓂,h,-,α,a,m,_,<,r
 SPACE
 y,:,h,o,w,a,h,(p)
@@ -9173,14 +9173,14 @@ w,:,$,·si,a,m,a,⅃,h,·
 SPACE
 l,:,ц,_,l,:,m,a,ƶ,w,∵,τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,$,y,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,$,·sh,i,(ti),y,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,_,ʕ,:_,r,a,f,∵,𝓂,l,.
 
@@ -9216,7 +9216,7 @@ SPACE
 ʕ,‥,(me),d,∵,r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 13:18 in vtrad vtbhs
 α,:∵,m,o,(me),r
@@ -9259,28 +9259,28 @@ SPACE
 h,oa,g,:,l,a,(me),τ
 SPACE
 $,·sh,:,l,w,o,m,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 13:20 in vtrad vtbhs
-START kq 
-START kq-k 
+START kq
+START kq-k
 $,α,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·si,:,α,<,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,‥,𝓂,y,n,‥,y,k,∵,m.,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,r,α,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,·,r,:,α,ƶ,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,_,v,·,a,α,i,(ti),y,m.
 SPACE
@@ -9448,7 +9448,7 @@ SPACE
 m,a,τ,_,(ti),y
 SPACE
 ʕ,o,𝓂,d,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 14:1 in vtrad vtbhs
 α,:_,$,·sh,∵,(qa),r
@@ -9476,13 +9476,13 @@ q,a,d,:,r,⅃,w,·
 SPACE
 l,a,α,a,⅄,r,∵,ц.
 SPACE
-START slh-word 
+START slh-word
 w,:
-START letter-small 
+START letter-small
 ц,i
-STOP letter-small 
+STOP letter-small
 w,:,x,_,(me),τ
-STOP slh-word 
+STOP slh-word
 SPACE
 y,:,r,𝓂,w,·,$,·sh,a,l,_,(ti),CGJ,i,m.
 SPACE
@@ -9493,14 +9493,14 @@ w,:,α,_,d,·,i,⅃,r,‥,y,h,∵,ƶ,m.
 SPACE
 $,·sh,a,l,:,x,(me),w,·
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ц,ʕ,w,r,y,h,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ц,:,ʕ,i,𝓂,y,r,‥,y,h,∵,(ti),m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,_,m,·,a,⅄,y,i,m.
 SPACE
@@ -9663,7 +9663,7 @@ SPACE
 n,i,q,:,r,a,(ti),α
 SPACE
 α,_,l,-,τ,·,_,n,·,i,x,‥,𝓂,n,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 14:10 in vtrad vtbhs
 k,·,o,h,-,α,a,m,_,(qa),r
@@ -9701,7 +9701,7 @@ SPACE
 w,:,y,i,f,:,q,o,(ti),d
 SPACE
 x,_,θ,·,o,α,τ,a,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 14:11 in vtrad vtbhs
 w,_,y,·,o,(me),α,m,∵,r
@@ -9754,13 +9754,13 @@ SPACE
 m,:,k,_,l,·,∵,(me),h
 SPACE
 α,w,o,τ,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 14:13 in vtrad vtbhs
 w,a,α,o,m,_,(G),r
 SPACE
 α,:_,h,a,⅃,h,·
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -9795,7 +9795,7 @@ SPACE
 v,·,_,m,·,a,q,(ti),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 14:14 in vtrad vtbhs
 w,_,y,·,o,(qa),α,m,∵,r
@@ -9832,18 +9832,18 @@ $,·sh,∵,(ge),q,∵,r
 SPACE
 w,:,q,∵,<,σ,∵,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,α,l,w,l
 SPACE
 w,τ,r,m,w,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,∵,α,:∵,l,i,y,l,(p)
 SPACE
 w,:,τ,_,r,:,m,i,⅃,y,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,i,v,·,a,ƶ,m.
 SPACE
@@ -9852,7 +9852,7 @@ SPACE
 m,i,𝓂,τ,:,n,_,v,·,:,α,i,(me),y,m.
 SPACE
 l,a,k,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 14:15 in vtrad vtbhs
 l,a,k,‥,(G),n.
@@ -9915,7 +9915,7 @@ SPACE
 y,:,r,w,·,$,·sh,a,l,_,(ge),CGJ,i,m.
 SPACE
 m,i,f,·,:,n,‥,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 h,a,r,a,ʕ,a,⅃,v
 SPACE
@@ -10012,7 +10012,7 @@ SPACE
 w,:,l,o,(me),α
 SPACE
 y,a,d,a,𝓂,ʕ,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 14:19 in vtrad vtbhs
 h,:_,m,a,α,o,(qa),σ
@@ -10121,7 +10121,7 @@ SPACE
 ʕ,a,$,·si,i,(ti),y,τ,a
 SPACE
 α,∵,τ,-,k,·,oa,l,-,α,‥,𝓂,l,·,∵,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 15:1 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -10229,14 +10229,14 @@ w,·,l,:,h,_,$,·sh,:,x,i,𝓂,y,τ,.
 Jeremiah 15:4 in vtrad vtbhs
 w,·,n,:,τ,_,τ,·,i,⅃,y,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,z,w,ʕ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,:,z,_,ʕ,:_,w,a,ƶ,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,:,k,o,(ti),l
 SPACE
@@ -10332,9 +10332,9 @@ l,w,o,α,-,$,·sh,a,𝓂,v,w,·,.
 Jeremiah 15:8 in vtrad vtbhs
 ʕ,a,𝓂,ц,:,m,w,·,-,l,i,<,y
 SPACE
-START kq-trivial 
+START kq-trivial
 α,_,l,:,m,:,n,w,o,τ,a,w,(p)
-STOP kq-trivial 
+STOP kq-trivial
 SPACE
 m,‥,x,⅃,w,o,l
 SPACE
@@ -10373,14 +10373,14 @@ n,a,f,:,x,a,(me),h
 SPACE
 n,_,f,:,$,·sh,a,⟓,h,·
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 v,α,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,·,a,(me),α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 $,·sh,i,m,:,$,·sh,a,⟓,h,·
 SPACE
@@ -10403,7 +10403,7 @@ SPACE
 α,o,y,:,v,‥,y,h,∵,(ti),m.
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 15:10 in vtrad vtbhs
 α,𝓂,w,o,y,-,l,i,⅃,y
@@ -10431,7 +10431,7 @@ SPACE
 k,·,u,l,·,o,(me),h
 SPACE
 m,:,q,_,𝓂,l,:,l,_,𝓂,w,:,n,i,y,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 15:11 in vtrad vtbhs
 α,a,m,_,⅃,r
@@ -10440,19 +10440,19 @@ y,:,h,o,w,a,ƶ,h
 SPACE
 α,i,m.,-,l,o,(me),α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 $,r,w,τ,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·sh,‥,r,i,y,τ,i,(ti),y,k.,a
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,:,θ,⅄,w,o,v
 SPACE
 α,i,m.,-,l,⅃,w,o,α
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 h,i,f,:,g,·,_,⅃,ʕ,:,τ,·,i,𝓂,y
 SPACE
@@ -10472,7 +10472,7 @@ Jeremiah 15:12 in vtrad vtbhs
 h,:_,y,a,r,o,(qa),ʕ,_
 SPACE
 v,·,_,r,:,z,∵,(da),l
-START lp-paseq 
+START lp-paseq
 v,·,_,r,:,z,∵,⟓,l
 SPACE
 m,i,ц,·,a,f,(ti),w,o,n.
@@ -10516,7 +10516,7 @@ SPACE
 ʕ,:_,l,‥,y,k,∵,(me),m.
 SPACE
 τ,·,w,·,q,a,𝓂,d,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 15:15 in vtrad vtbhs
 α,_,τ,·,a,(da),h
@@ -10558,14 +10558,14 @@ w,a,α,o,⅃,k,:,l,‥,ƶ,m.
 SPACE
 w,_,y,:,h,i,<,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 d,v,r,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 d,:,v,a,𝓂,r,:,k.,a,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,i,ƶ,y
 SPACE
@@ -10586,7 +10586,7 @@ SPACE
 α,:∵,l,o,h,‥,(me),y
 SPACE
 ц,:,v,a,α,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 15:17 in vtrad vtbhs
 l,o,α,-,y,a,$,·sh,_,(me),v,:,τ,·,i,y
@@ -10639,7 +10639,7 @@ SPACE
 l,o,(me),α
 SPACE
 n,∵,α,:∵,m,a,𝓂,n,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 15:19 in vtrad vtbhs
 l,a,k,‥,(G),n.
@@ -10721,7 +10721,7 @@ SPACE
 m,i,k,·,_,(me),f.
 SPACE
 ʕ,a,r,i,ц,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 16:1 in vtrad vtbhs
 w,_,y,:,h,i,(me),y
@@ -10750,11 +10750,11 @@ SPACE
 v,·,_,m,·,a,q,(ti),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 16:3 in vtrad vtbhs
 k,·,i,y,-,k,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -10828,11 +10828,11 @@ SPACE
 w,·,l,:,v,∵,h,:∵,m,_,(me),τ
 SPACE
 h,a,α,a,𝓂,r,∵,ц.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 16:5 in vtrad vtbhs
 k,·,i,y,-,k,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -10932,7 +10932,7 @@ SPACE
 l,∵,α,:∵,k,o,(ti),l
 SPACE
 w,:,l,i,$,·sh,:,τ,·,𝓂,w,o,τ,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 16:9 in vtrad vtbhs
 k,·,i,y,(tq)
@@ -11136,7 +11136,7 @@ SPACE
 l,a,k,∵,(ti),m.
 SPACE
 x,:_,n,i,y,n,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 16:14 in vtrad vtbhs
 l,a,k,‥,⟓,n.
@@ -11201,21 +11201,21 @@ SPACE
 n,a,τ,_,(ti),τ,·,i,y
 SPACE
 l,_,α,:_,v,w,o,τ,a,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 16:16 in vtrad vtbhs
 h,i,n,:,n,i,(qa),y
 SPACE
 $,·sh,o,l,‥,(ge),x,_
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,d,w,g,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,:,d,_,y,·,a,g,i,(me),y,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 r,_,v,·,i,⟓,y,m.
 SPACE
@@ -11292,7 +11292,7 @@ SPACE
 m,a,l,:,α,(ti),w,·
 SPACE
 α,∵,τ,-,n,_,x,:_,l,a,τ,i,𝓂,y,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 16:19 in vtrad vtbhs
 y,:,h,o,w,a,(G),h
@@ -11364,7 +11364,7 @@ SPACE
 k,·,i,𝓂,y,-,$,·sh,:,m,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 17:1 in vtrad vtbhs
 x,_,θ,·,_,⅃,α,τ
@@ -11461,11 +11461,11 @@ SPACE
 ʕ,_,d,-,ʕ,w,o,l,a,(me),m.
 SPACE
 τ,·,w,·,q,a,𝓂,d,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 17:5 in vtrad vtbhs
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -11521,7 +11521,7 @@ SPACE
 w,:,l,o,(me),α
 SPACE
 τ,‥,$,·sh,‥,𝓂,v,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 17:7 in vtrad vtbhs
 v,·,a,r,⅃,w,·,k.,:
@@ -11544,7 +11544,7 @@ Jeremiah 17:8 in vtrad vtbhs
 w,:,h,a,y,a,(G),h
 SPACE
 k,·,:,ʕ,‥,⅃,ц.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·sh,a,τ,⅃,w,·,l
 SPACE
@@ -11558,14 +11558,14 @@ $,·sh,oa,r,a,$,·sh,a,ƶ,y,w
 SPACE
 w,:,l,o,<,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,r,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,i,r,:,α,∵,h,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 k,·,i,y,-,y,a,⅃,v,o,α
 SPACE
@@ -11630,7 +11630,7 @@ SPACE
 k,·,i,f,:,r,i,(ti),y
 SPACE
 m,_,ʕ,:_,l,a,l,a,𝓂,y,w,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 17:11 in vtrad vtbhs
 q,o,r,‥,<,α
@@ -11685,14 +11685,14 @@ k,·,oa,l,-,ʕ,o,z,:,v,∵,(ti),y,k.,a
 SPACE
 y,‥,v,o,⅄,$,·sh,w,·
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,σ,w,r,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,σ,w,·,r,_,y,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,a,α,a,⅃,r,∵,ц.
 SPACE
@@ -11707,7 +11707,7 @@ SPACE
 m,_,𝓂,y,i,m.,-,x,_,y,·,i,(ti),y,m.
 SPACE
 α,∵,τ,-,y,:,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 17:14 in vtrad vtbhs
 r,:,f,a,α,‥,<,n,i,y
@@ -11745,7 +11745,7 @@ Jeremiah 17:16 in vtrad vtbhs
 w,_,α,:_,n,i,(G),y
 SPACE
 l,o,α,-,α,_,⅃,ц,:,τ,·,i,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,‥,r,o,ʕ,∵,⅃,h
 SPACE
@@ -11814,7 +11814,7 @@ SPACE
 $,·sh,i,v,·,a,r,(ti),w,o,n.
 SPACE
 $,·sh,oa,v,:,r,‥,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 17:19 in vtrad vtbhs
 k,·,o,h,-,α,a,m,_,(qa),r
@@ -11830,14 +11830,14 @@ SPACE
 v,·,:,$,·sh,_,⅃,ʕ,_,r
 SPACE
 v,·,:,n,‥,𝓂,y,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 h,a,ʕ,a,ƶ,m.
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 ʕ,m.
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 α,:_,$,·sh,∵,(qa),r
 SPACE
@@ -11959,14 +11959,14 @@ SPACE
 SPACE
 l,:,v,i,l,:,τ,·,i,⅃,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 $,w,m,ʕ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·sh,:,m,ƶ,w,o,ʕ,_
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,l,:,v,i,l,:,τ,·,i,(ti),y
 SPACE
@@ -11986,7 +11986,7 @@ SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,ƶ,h
 SPACE
 l,:,v,i,l,:,τ,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 h,a,v,i,⅃,y,α
 SPACE
@@ -12011,9 +12011,9 @@ SPACE
 l,:,v,i,l,:,τ,·,i,(me),y
 SPACE
 ʕ,:_,$,·si,𝓂,w,o,τ,-
-START kq-trivial 
+START kq-trivial
 v,·,o,(ti),h
-STOP kq-trivial 
+STOP kq-trivial
 SPACE
 k,·,oa,l,-,m,:,l,a,α,k,a,𝓂,h,.
 
@@ -12027,7 +12027,7 @@ SPACE
 h,_,z,·,o,μ,α,τ
 SPACE
 m,:,l,a,k,i,⅃,y,m.
-START lp-paseq 
+START lp-paseq
 w,:,$,·si,a,r,i,μ,y,m.
 SPACE
 y,o,$,·sh,:,v,i,y,m.,(tq)
@@ -12037,7 +12037,7 @@ SPACE
 d,a,w,i,(ge),d
 SPACE
 r,o,k,:,v,i,⅃,y,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,a,r,∵,⅃,k,∵,v
 SPACE
@@ -12112,7 +12112,7 @@ SPACE
 h,_,$,·sh,·,_,v,·,a,ƶ,τ
 SPACE
 w,·,l,:,v,i,l,:,τ,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·si,:,α,‥,⅃,τ
 SPACE
@@ -12143,7 +12143,7 @@ SPACE
 w,:,l,o,(me),α
 SPACE
 τ,i,k,:,v,·,∵,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 18:1 in vtrad vtbhs
 h,_,d,·,a,v,a,r,(p)
@@ -12182,14 +12182,14 @@ v,·,‥,⅃,y,τ
 SPACE
 h,_,y,·,w,o,ц,‥,⅄,r
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,h,n,h,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,h,i,n,·,‥,h,-,h,⟓,w,·,α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,o,$,·si,∵,(me),h
 SPACE
@@ -12231,7 +12231,7 @@ SPACE
 h,_,y,·,w,o,ц,‥,(ti),r
 SPACE
 l,_,ʕ,:_,$,·si,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 18:5 in vtrad vtbhs
 w,_,y,:,h,i,(me),y
@@ -12274,7 +12274,7 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 18:7 in vtrad vtbhs
 r,∵,⅃,g,_,ʕ
@@ -12317,7 +12317,7 @@ SPACE
 l,_,ʕ,:_,$,·si,(me),w,o,τ
 SPACE
 l,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 18:9 in vtrad vtbhs
 w,:,r,∵,⅃,g,_,ʕ
@@ -12335,14 +12335,14 @@ w,:,l,i,n,:,θ,𝓂,w,o,ʕ,_,.
 Jeremiah 18:10 in vtrad vtbhs
 w,:,ʕ,a,$,·si,a,<,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,r,ʕ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,a,r,_,ʕ,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,:,ʕ,‥,y,n,_,ƶ,y
 SPACE
@@ -12363,7 +12363,7 @@ SPACE
 l,:,h,‥,y,θ,i,(me),y,v
 SPACE
 α,w,o,τ,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 18:11 in vtrad vtbhs
 w,:,ʕ,_,τ,·,a,μ,h
@@ -12434,7 +12434,7 @@ SPACE
 l,i,v,·,𝓂,w,o,-,h,a,r,a,(ti),ʕ
 SPACE
 n,_,ʕ,:_,$,·si,∵,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 18:13 in vtrad vtbhs
 l,a,k,‥,◆,n.
@@ -12520,14 +12520,14 @@ SPACE
 SPACE
 l,:,$,·sh,_,m,·,a,(ti),h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 $,r,w,q,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·sh,:,r,i,y,q,⅃,w,o,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,w,o,l,a,⅄,m.
 SPACE
@@ -12561,7 +12561,7 @@ SPACE
 v,·,:,y,(me),w,o,m.
 SPACE
 α,‥,y,d,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 18:18 in vtrad vtbhs
 w,_,y,·,o,α,m,:,r,◆,w,·
@@ -12627,7 +12627,7 @@ SPACE
 l,:,n,_,f,:,$,·sh,i,⅄,y
 SPACE
 z,:,k,o,⅃,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 ʕ,oa,m,:,d,i,⅃,y
 SPACE
@@ -12697,14 +12697,14 @@ f,·,i,τ,:,α,o,⅄,m.
 SPACE
 k,·,i,𝓂,y,-,k,a,r,<,w,·
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 $,y,x,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·sh,w,·,x,a,h,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,:,l,oa,k,:,d,‥,ƶ,n,i,y
 SPACE
@@ -12737,14 +12737,14 @@ m,i,l,·,:,f,a,n,∵,⅃,y,k.,a
 SPACE
 α,_,l,-,τ,·,∵,⅄,m,:,x,i,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,h,y,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,y,i,h,:,y,<,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,u,k,:,$,·sh,a,l,i,y,m.,(p)
 SPACE
@@ -12757,7 +12757,7 @@ SPACE
 ʕ,:_,$,·si,‥,(me),h
 SPACE
 v,a,h,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 19:1 in vtrad vtbhs
 k,·,o,(ye),h
@@ -12797,14 +12797,14 @@ f,·,∵,(ti),τ,_,x
 SPACE
 $,·sh,_,⅃,ʕ,_,r
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,x,r,σ,w,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,x,_,r,:,σ,i,⅄,y,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,q,a,r,a,⅃,α,τ,a
 SPACE
@@ -12861,7 +12861,7 @@ SPACE
 
 Jeremiah 19:4 in vtrad vtbhs
 y,_,⅃,ʕ,_,n.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
@@ -12931,7 +12931,7 @@ SPACE
 ʕ,a,l,:,τ,a,(ti),h
 SPACE
 ʕ,_,l,-,l,i,v,·,i,𝓂,y,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 19:6 in vtrad vtbhs
 l,a,k,‥,(G),n.
@@ -13080,7 +13080,7 @@ SPACE
 α,:_,l,‥,y,h,∵,(ge),m.
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 y,:,h,o,w,a,⅃,h
 SPACE
@@ -13185,7 +13185,7 @@ SPACE
 l,‥,α,l,o,h,i,(me),y,m.
 SPACE
 α,:_,x,‥,r,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 19:14 in vtrad vtbhs
 w,_,y,·,a,v,o,<,α
@@ -13213,7 +13213,7 @@ SPACE
 w,_,y,·,o,(ti),α,m,∵,r
 SPACE
 α,∵,l,-,k,·,oa,l,-,h,a,ʕ,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 19:15 in vtrad vtbhs
 k,·,o,h,-,α,a,m,_,(G),r
@@ -13348,7 +13348,7 @@ SPACE
 α,i,m.,-,m,a,g,(me),w,o,r
 SPACE
 m,i,σ,·,a,v,i,𝓂,y,v,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 20:4 in vtrad vtbhs
 k,·,i,⅃,y
@@ -13466,7 +13466,7 @@ SPACE
 l,a,h,∵,(ti),m.
 SPACE
 v,·,_,$,·sh,·,a,𝓂,q,∵,r,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 20:7 in vtrad vtbhs
 f,·,i,τ,·,i,y,τ,_,<,n,i,y
@@ -13651,7 +13651,7 @@ SPACE
 g,·,i,l,·,i,(me),y,τ,i,y
 SPACE
 α,∵,τ,-,r,i,y,v,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 20:13 in vtrad vtbhs
 $,·sh,i,(ye),y,r,w,·
@@ -13673,7 +13673,7 @@ SPACE
 m,i,y,·,_,(me),d
 SPACE
 m,:,r,‥,ʕ,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 20:14 in vtrad vtbhs
 α,a,r,⅃,w,·,r
@@ -13787,7 +13787,7 @@ SPACE
 v,·,:,v,o,(ti),$,·sh,∵,τ
 SPACE
 y,a,m,a,𝓂,y,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 21:1 in vtrad vtbhs
 h,_,d,·,a,v,a,⟓,r
@@ -13863,7 +13863,7 @@ SPACE
 τ,o,𝓂,α,m,:,r,u,(ti),n.
 SPACE
 α,∵,l,-,ц,i,d,:,q,i,y,·,a,𝓂,h,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 21:4 in vtrad vtbhs
 k,·,o,h,-,α,a,m,_,(qa),r
@@ -13972,7 +13972,7 @@ SPACE
 m,∵,l,∵,k.,:,-,y,:,h,w,·,d,a,⅃,h
 SPACE
 w,:,α,∵,τ,-,ʕ,:_,v,a,d,a,⅃,y,w
-START lp-paseq 
+START lp-paseq
 w,:,α,∵,τ,-,h,a,ʕ,a,μ,m.
 SPACE
 w,:,α,∵,τ,-,h,_,n,·,i,$,·sh,:,α,a,r,i,y,m.,(tq)
@@ -13982,7 +13982,7 @@ SPACE
 h,_,z,·,o,(ge),α,τ
 SPACE
 m,i,n.,-,h,_,d,·,∵,⅃,v,∵,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,i,n.,-,h,_,x,∵,⅃,r,∵,v
 SPACE
@@ -14072,14 +14072,14 @@ h,_,ц,·,a,r,i,<,y,m.
 SPACE
 ʕ,:_,l,‥,y,k,∵,m.,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,x,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,x,a,y,a,ƶ,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,h,a,y,:,τ,a,h,-,l,·,(me),w,o
 SPACE
@@ -14115,7 +14115,7 @@ SPACE
 w,·,$,·si,:,r,a,f,a,(ti),h,·
 SPACE
 v,·,a,α,‥,𝓂,$,·sh,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 21:11 in vtrad vtbhs
 w,·,l,:,v,‥,y,τ,(p)
@@ -14169,14 +14169,14 @@ m,i,f,·,:,n,‥,(ti),y
 SPACE
 r,o,(me),ʕ,_
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 m,ʕ,l,l,y,h,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 m,_,ʕ,_,l,:,l,‥,y,k,∵,𝓂,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
 
 Jeremiah 21:13 in vtrad vtbhs
@@ -14279,7 +14279,7 @@ h,a,α,‥,𝓂,l,·,∵,h,.
 
 Jeremiah 22:3 in vtrad vtbhs
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -14382,11 +14382,11 @@ SPACE
 h,_,v,·,_,(me),y,i,τ
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 22:6 in vtrad vtbhs
 k,·,i,y,-,k,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -14418,14 +14418,14 @@ SPACE
 SPACE
 l,o,(me),α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 n,w,$,v,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 n,w,o,$,·sh,a,𝓂,v,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
 
 Jeremiah 22:7 in vtrad vtbhs
@@ -14504,7 +14504,7 @@ SPACE
 α,:_,x,‥,r,i,(ti),y,m.
 SPACE
 w,_,y,·,_,ʕ,_,v,:,d,𝓂,w,·,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 22:10 in vtrad vtbhs
 α,_,l,-,τ,·,i,v,:,k,·,⅃,w,·
@@ -14592,7 +14592,7 @@ SPACE
 l,o,𝓂,α,-,y,i,r,:,α,∵,(me),h
 SPACE
 ʕ,𝓂,w,o,d,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 22:13 in vtrad vtbhs
 h,⅃,w,o,y
@@ -14722,7 +14722,7 @@ SPACE
 w,:,ʕ,_,l,-,h,_,m,·,:,r,w,·,ц,a,(ti),h
 SPACE
 l,_,ʕ,:_,$,·si,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 22:18 in vtrad vtbhs
 l,a,k,‥,(G),n.
@@ -14779,7 +14779,7 @@ SPACE
 l,:,$,·sh,_,ʕ,:_,r,‥,(me),y
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 22:20 in vtrad vtbhs
 ʕ,:_,l,i,<,y
@@ -14853,25 +14853,25 @@ SPACE
 r,a,ʕ,a,τ,‥,𝓂,k.,:,.
 
 Jeremiah 22:23 in vtrad vtbhs
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,$,v,τ,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,o,$,·sh,_,v,:,τ,·,:,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,_,l,·,:,v,a,n,ƶ,w,o,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 m,q,n,n,τ,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 m,:,q,u,n,·,_,(ti),n,:,τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,a,α,:_,r,a,z,i,⅄,y,m.
 SPACE
@@ -14986,7 +14986,7 @@ SPACE
 l,o,(me),α
 SPACE
 y,a,$,·sh,𝓂,w,·,v,w,·,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 22:28 in vtrad vtbhs
 h,_,ʕ,∵,(qa),ц,∵,v
@@ -15038,7 +15038,7 @@ d,·,:,v,_,r,-,y,:,h,o,w,a,𝓂,h,.
 
 Jeremiah 22:30 in vtrad vtbhs
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -15079,7 +15079,7 @@ SPACE
 ʕ,(ti),w,o,d
 SPACE
 v,·,i,y,h,w,·,d,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 23:1 in vtrad vtbhs
 h,⅃,w,o,y
@@ -15095,7 +15095,7 @@ SPACE
 m,_,r,:,ʕ,i,y,τ,i,(ti),y
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 23:2 in vtrad vtbhs
 l,a,⌕,k,‥,⌕,n.
@@ -15189,7 +15189,7 @@ SPACE
 y,i,f,·,a,q,‥,(ti),d,w,·
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 23:5 in vtrad vtbhs
 h,i,n,·,‥,(qa),h
@@ -15240,9 +15240,9 @@ SPACE
 α,:_,𝓂,$,·sh,∵,r,-,y,i,q,:,r,:,α,(ti),w,o
 SPACE
 y,:,h,o,w,a,(me),h
-START lp-paseq 
+START lp-paseq
 ц,i,d,:,q,‥,𝓂,n,w,·,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 23:7 in vtrad vtbhs
 l,a,k,‥,⟓,n.
@@ -15307,7 +15307,7 @@ SPACE
 w,:,y,a,$,·sh,:,v,(ti),w,·
 SPACE
 ʕ,_,l,-,α,_,d,:,m,a,τ,a,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 23:9 in vtrad vtbhs
 l,_,n,·,:,v,i,α,i,(G),y,m.
@@ -15478,7 +15478,7 @@ SPACE
 w,:,y,o,$,·sh,:,v,∵,(ti),y,h,a
 SPACE
 k,·,_,ʕ,:_,m,o,r,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 23:15 in vtrad vtbhs
 l,a,k,‥,(G),n.
@@ -15516,7 +15516,7 @@ SPACE
 x,:_,n,u,f,·,a,(ti),h
 SPACE
 l,:,k,oa,l,-,h,a,α,a,𝓂,r,∵,ц.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 23:16 in vtrad vtbhs
 k,·,o,h,-,α,a,m,_,(G),r
@@ -15605,21 +15605,21 @@ SPACE
 SPACE
 m,i,y,-,h,i,q,:,$,·sh,i,(me),y,v
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 d,v,r,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 d,·,:,v,a,r,(ti),w,o
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,_,y,·,i,$,·sh,:,m,a,𝓂,ʕ,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 23:19 in vtrad vtbhs
 h,i,n,·,‥,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 σ,_,ʕ,:_,r,_,⅃,τ
 SPACE
@@ -15703,7 +15703,7 @@ SPACE
 w,·,m,‥,r,o,(ti),ʕ,_
 SPACE
 m,_,ʕ,_,l,:,l,‥,y,h,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 23:23 in vtrad vtbhs
 h,_,α,:∵,l,o,h,‥,(da),y
@@ -15859,7 +15859,7 @@ SPACE
 y,:,f,o,(me),ц,‥,𝓂,ц.
 SPACE
 σ,a,𝓂,l,_,ʕ,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 23:30 in vtrad vtbhs
 l,a,k,‥,⟓,n.
@@ -16141,7 +16141,7 @@ SPACE
 l,o,(me),α
 SPACE
 τ,i,$,·sh,·,a,k,‥,𝓂,x,_,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 24:1 in vtrad vtbhs
 h,i,r,:,α,_,≁,n,i,y,~
@@ -16222,7 +16222,7 @@ SPACE
 l,o,α,-,τ,‥,α,a,k,_,(ti),l,:,n,a,h
 SPACE
 m,‥,r,o,𝓂,ʕ,_,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 24:3 in vtrad vtbhs
 w,_,y,·,o,(qa),α,m,∵,r
@@ -16260,7 +16260,7 @@ SPACE
 l,o,α,-,τ,‥,α,a,k,_,(ti),l,:,n,a,h
 SPACE
 m,‥,r,o,𝓂,ʕ,_,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 24:4 in vtrad vtbhs
 w,_,y,:,h,i,(me),y
@@ -16367,7 +16367,7 @@ SPACE
 α,‥,l,_,(ti),y
 SPACE
 v,·,:,k,oa,l,-,l,i,v,·,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 24:8 in vtrad vtbhs
 w,:,k,_,τ,·,:,α,‥,n,i,y,m.,(p)
@@ -16381,7 +16381,7 @@ SPACE
 m,‥,r,o,⅄,ʕ,_
 SPACE
 k,·,i,y,-,k,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -16398,7 +16398,7 @@ SPACE
 w,:,α,∵,τ,-,$,·si,a,r,a,y,w,(p)
 SPACE
 w,:,α,‥,⅃,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·sh,:,α,‥,r,i,⅃,y,τ
 SPACE
@@ -16419,14 +16419,14 @@ m,i,ц,:,r,a,𝓂,y,i,m.,.
 Jeremiah 24:9 in vtrad vtbhs
 w,·,n,:,τ,_,τ,·,i,y,m.,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,z,w,ʕ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,:,z,_,ʕ,:_,w,a,⅃,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,:,r,a,ʕ,a,ƶ,h
 SPACE
@@ -16472,7 +16472,7 @@ SPACE
 l,a,h,∵,(ti),m.
 SPACE
 w,:,l,_,α,:_,v,w,o,τ,‥,y,h,∵,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 25:1 in vtrad vtbhs
 h,_,d,·,a,v,a,(G),r
@@ -16546,7 +16546,7 @@ SPACE
 y,:,h,w,·,d,a,(ge),h
 SPACE
 w,:,ʕ,_,⅃,d
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 h,_,y,·,⅃,w,o,m.
 SPACE
@@ -16674,14 +16674,14 @@ n,:,α,u,m.,-,y,:,h,o,w,a,⅄,h
 SPACE
 l,:,m,_,(da),ʕ,_,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,k,ʕ,σ,w,n,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,k,:,ʕ,i,y,σ,‥,⟓,n,i,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,:,m,_,ʕ,:_,$,·si,‥,(me),h
 SPACE
@@ -16690,7 +16690,7 @@ SPACE
 l,:,r,_,(me),ʕ
 SPACE
 l,a,k,∵,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 25:8 in vtrad vtbhs
 l,a,k,‥,Ƶ,n.
@@ -16846,14 +16846,14 @@ SPACE
 ʕ,w,o,l,a,𝓂,m.,.
 
 Jeremiah 25:13 in vtrad vtbhs
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,h,v,α,w,τ,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,h,‥,𝓂,v,‥,α,τ,i,y,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,_,l,-,h,a,α,a,⅃,r,∵,ц.
 SPACE
@@ -16903,7 +16903,7 @@ SPACE
 w,·,k,:,m,_,ʕ,:_,$,·si,‥,(me),h
 SPACE
 y,:,d,‥,y,h,∵,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 25:15 in vtrad vtbhs
 k,·,i,⅃,y
@@ -17121,7 +17121,7 @@ v,·,_,m,·,i,d,:,v,·,a,𝓂,r,.
 
 Jeremiah 25:25 in vtrad vtbhs
 w,:,α,‥,⅃,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 k,·,oa,l,-,m,_,l,:,k,‥,⅃,y
 SPACE
@@ -17141,7 +17141,7 @@ m,a,d,a,𝓂,y,.
 
 Jeremiah 25:26 in vtrad vtbhs
 w,:,α,‥,⅃,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 k,·,oa,l,-,m,_,l,:,k,‥,⅃,y
 SPACE
@@ -17179,7 +17179,7 @@ Jeremiah 25:27 in vtrad vtbhs
 w,:,α,a,m,_,r,:,τ,·,a,⅃
 SPACE
 α,:_,l,‥,y,h,∵,μ,m.
-START spi-pe3 
+START spi-pe3
 k,·,o,h,-,α,a,m,_,r,(tq)
 SPACE
 y,:,h,o,w,a,(qa),h
@@ -17369,7 +17369,7 @@ SPACE
 l,_,x,∵,(ti),r,∵,v
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 25:32 in vtrad vtbhs
 k,·,o,<,h
@@ -17533,7 +17533,7 @@ SPACE
 x,:_,r,(me),w,o,n.
 SPACE
 α,_,f,·,𝓂,w,o,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 26:1 in vtrad vtbhs
 v,·,:,r,‥,α,$,·sh,i,◆,y,τ
@@ -17562,7 +17562,7 @@ l,‥,α,m,o,𝓂,r,.
 
 Jeremiah 26:2 in vtrad vtbhs
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -17698,14 +17698,14 @@ k,·,:,$,·sh,i,l,o,⅄,h
 SPACE
 w,:,α,∵,τ,-,h,a,ʕ,i,<,y,r
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,z,α,τ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,z,·,o,α,τ,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,∵,τ,·,‥,⅃,n.
 SPACE
@@ -17716,7 +17716,7 @@ SPACE
 g,·,w,o,y,‥,(me)
 SPACE
 h,a,α,a,𝓂,r,∵,ц.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 26:7 in vtrad vtbhs
 w,_,𝓂,y,·,i,$,·sh,:,m,:,ʕ,⟓,w,·
@@ -17741,7 +17741,7 @@ y,:,h,o,w,a,𝓂,h,.
 
 Jeremiah 26:8 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 k,·,:,k,_,l,·,⅃,w,o,τ
 SPACE
@@ -17814,7 +17814,7 @@ y,:,h,o,w,a,𝓂,h,.
 
 Jeremiah 26:10 in vtrad vtbhs
 w,_,𝓂,y,·,i,$,·sh,:,m,:,ʕ,⅃,w,·
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·si,a,r,‥,⅃,y
 SPACE
@@ -17841,7 +17841,7 @@ SPACE
 $,·sh,_,𝓂,ʕ,_,r,-,y,:,h,o,w,a,(ti),h
 SPACE
 h,∵,x,a,d,a,𝓂,$,·sh,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 26:11 in vtrad vtbhs
 w,_,y,·,o,(qa),α,m,:,r,(ge),w,·
@@ -17955,7 +17955,7 @@ v,·,:,ʕ,‥,y,n,‥,y,k,∵,𝓂,m.,.
 
 Jeremiah 26:15 in vtrad vtbhs
 α,_,⅃,k.,:
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 y,a,d,o,⅃,ʕ,_
 SPACE
@@ -18004,7 +18004,7 @@ SPACE
 k,·,oa,l,-,h,_,d,·,:,v,a,r,i,(ti),y,m.
 SPACE
 h,a,α,‥,𝓂,l,·,∵,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 26:16 in vtrad vtbhs
 w,_,y,·,o,α,m,:,r,<,w,·
@@ -18053,14 +18053,14 @@ SPACE
 l,‥,α,m,o,𝓂,r,.
 
 Jeremiah 26:18 in vtrad vtbhs
-START kq 
-START kq-k 
+START kq
+START kq-k
 m,y,k,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 m,i,y,k,a,h,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,_,m,·,⅃,w,o,r,_,$,·sh,:,τ,·,i,ƶ,y
 SPACE
@@ -18083,7 +18083,7 @@ SPACE
 l,‥,α,m,o,(ge),r
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 y,:,h,o,w,a,⅃,h
 SPACE
@@ -18286,7 +18286,7 @@ SPACE
 v,:,y,_,d,-,h,a,ʕ,a,(ti),m.
 SPACE
 l,_,h,:_,m,i,y,τ,𝓂,w,o,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 27:1 in vtrad vtbhs
 v,·,:,r,‥,α,$,·sh,i,◆,y,τ
@@ -18849,7 +18849,7 @@ SPACE
 l,:,v,i,l,:,τ,·,i,y,-,v,o,(ge),α,w,·
 SPACE
 h,_,k,·,‥,l,i,⅃,y,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 h,_,n,·,w,o,τ,a,r,i,⅃,y,m.
 SPACE
@@ -18908,14 +18908,14 @@ SPACE
 v,·,_,⌕,g,:,l,w,o,τ,⌕,w,o
 SPACE
 α,∵,τ,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 y,:,k,oa,n,:,y,a,(qa),h
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 y,k,w,n,y,h
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 v,∵,n.,-,y,:,h,w,o,y,a,q,i,(da),y,m.
 SPACE
@@ -18988,11 +18988,11 @@ SPACE
 α,∵,l,-,h,_,m,·,a,q,(ti),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 28:1 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,_,$,·sh,·,a,n,a,⅃,h
 SPACE
@@ -19006,14 +19006,14 @@ SPACE
 SPACE
 m,∵,l,∵,k.,:,-,y,:,h,w,·,d,a,ƶ,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 v,$,n,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,·,_,$,·sh,·,a,n,a,h,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,a,r,:,v,i,ʕ,i,ƶ,y,τ
 SPACE
@@ -19070,7 +19070,7 @@ v,·,a,v,∵,𝓂,l,.
 
 Jeremiah 28:3 in vtrad vtbhs
 v,·,:,ʕ,⅃,w,o,d
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·sh,:,n,a,τ,_,⅃,y,i,m.
 SPACE
@@ -19319,7 +19319,7 @@ SPACE
 α,∵,$,·sh,:,v,·,o,(G),r
 SPACE
 α,∵,τ,-,ʕ,o,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 n,:,v,u,k,_,d,:,n,∵,α,ц,·,_,⅃,r
 SPACE
@@ -19344,7 +19344,7 @@ SPACE
 h,_,n,·,a,v,i,(ti),y,α
 SPACE
 l,:,d,_,r,:,k,·,𝓂,w,o,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 28:12 in vtrad vtbhs
 w,_,y,:,h,i,(me),y
@@ -19422,7 +19422,7 @@ SPACE
 n,a,τ,_,(ge),τ,·,i,y
 SPACE
 ʕ,_,l,-,ц,_,w,·,_,⅃,α,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 k,·,oa,l,-,h,_,g,·,w,o,y,i,⅃,m.
 SPACE
@@ -19520,7 +19520,7 @@ SPACE
 v,·,_,x,o,(ti),d,∵,$,·sh
 SPACE
 h,_,$,·sh,·,:,v,i,y,ʕ,i,𝓂,y,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 29:1 in vtrad vtbhs
 w,:,α,‥,(p),l,·,∵,h,(p)
@@ -19766,7 +19766,7 @@ SPACE
 $,·sh,:,l,_,x,:,τ,·,i,(ti),y,m.
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 29:10 in vtrad vtbhs
 k,·,i,𝓂,y,-,k,o,h,(p)
@@ -19880,14 +19880,14 @@ SPACE
 w,:,$,·sh,_,v,:,τ,·,i,⅃,y
 SPACE
 α,∵,τ,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 $,·sh,:,v,w,·,τ,:,k,∵,◆,m.
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 $,v,y,τ,k,m.
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 w,:,q,i,v,·,_,ц,:,τ,·,i,⅃,y
 SPACE
@@ -19933,11 +19933,11 @@ SPACE
 n,:,v,i,α,i,(ti),y,m.
 SPACE
 v,·,a,v,∵,𝓂,l,a,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 29:16 in vtrad vtbhs
 k,·,i,y,-,k,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -19968,7 +19968,7 @@ SPACE
 α,i,τ,·,:,k,∵,(ti),m.
 SPACE
 v,·,_,g,·,w,o,l,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 29:17 in vtrad vtbhs
 k,·,o,<,h
@@ -20018,17 +20018,17 @@ w,·,v,_,d,·,a,⅄,v,∵,r
 SPACE
 w,·,n,:,τ,_,τ,·,i,(qa),y,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,z,w,ʕ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,:,z,_,ʕ,:_,w,a,(ge),h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,:,k,o,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,_,m,:,l,:,k,⅃,w,o,τ
 SPACE
@@ -20091,7 +20091,7 @@ SPACE
 m,i,y,r,w,·,$,·sh,a,l,_,(ti),CGJ,i,m.
 SPACE
 v,·,a,v,∵,𝓂,l,a,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 29:21 in vtrad vtbhs
 k,·,o,𝓂,h,-,α,a,m,_,r,(tq)
@@ -20121,7 +20121,7 @@ SPACE
 $,·sh,a,⅄,q,∵,r
 SPACE
 h,i,n,:,n,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 n,o,τ,‥,⅃,n.
 SPACE
@@ -20203,19 +20203,19 @@ SPACE
 SPACE
 w,:,α,a,n,o,k,i,⟓,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,w,y,d,ʕ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,y,·,w,o,d,‥,(me),ʕ,_
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,a,ʕ,‥,(ti),d
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 29:24 in vtrad vtbhs
 w,:,α,∵,l,-,$,·sh,:,m,_,ʕ,:,y,a,(me),h,w,·
@@ -20368,7 +20368,7 @@ SPACE
 y,i,r,:,m,:,y,a,(me),h,w,·
 SPACE
 h,_,n,·,a,v,i,𝓂,y,α,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 29:30 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -20440,10 +20440,10 @@ SPACE
 l,(ge),w,o
 SPACE
 α,i,⅃,y,$,·sh
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 y,w,o,$,·sh,‥,⅃,v
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,τ,w,o,k.,:,-,h,a,ʕ,a,⅃,m.
 SPACE
@@ -20464,7 +20464,7 @@ SPACE
 d,i,v,·,∵,(ti),r
 SPACE
 ʕ,_,l,-,y,:,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 30:1 in vtrad vtbhs
 h,_,d,·,a,v,a,r,(p)
@@ -20538,7 +20538,7 @@ SPACE
 l,_,α,:_,v,w,o,τ,a,(ti),m.
 SPACE
 w,i,𝓂,y,r,‥,$,·sh,𝓂,w,·,h,a,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 30:4 in vtrad vtbhs
 w,:,α,‥,⅃,l,·,∵,h
@@ -20634,7 +20634,7 @@ SPACE
 h,_,h,(ge),w,·,α
 SPACE
 n,:,α,u,⅃,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 y,:,h,o,w,a,⅃,h
 SPACE
@@ -20678,7 +20678,7 @@ SPACE
 α,a,q,i,(ti),y,m.
 SPACE
 l,a,h,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 30:10 in vtrad vtbhs
 w,:,α,_,τ,·,a,μ,h
@@ -20737,7 +20737,7 @@ SPACE
 k,a,l,a,(ge),h
 SPACE
 v,·,:,k,oa,𝓂,l,-,h,_,g,·,w,o,y,i,⅃,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:_,$,·sh,∵,(da),r
 SPACE
@@ -20762,7 +20762,7 @@ SPACE
 l,o,(me),α
 SPACE
 α,:_,n,_,q,·,∵,𝓂,k.,·,a,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 30:12 in vtrad vtbhs
 k,·,i,⅃,y
@@ -20839,7 +20839,7 @@ SPACE
 m,_,k,:,α,o,v,‥,⅄,k.,:
 SPACE
 ʕ,_,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 r,o,⅃,v
 SPACE
@@ -20914,11 +20914,11 @@ SPACE
 α,‥,(me),y,n.
 SPACE
 l,a,𝓂,h,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 30:18 in vtrad vtbhs
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -21039,11 +21039,11 @@ SPACE
 l,a,k,∵,(ti),m.
 SPACE
 l,‥,α,l,o,h,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 30:23 in vtrad vtbhs
 h,i,n,·,‥,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 σ,_,ʕ,:_,r,_,⅃,τ
 SPACE
@@ -21112,7 +21112,7 @@ SPACE
 y,i,𝓂,h,:,y,w,·,-,l,i,(me),y
 SPACE
 l,:,ʕ,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 31:2 in vtrad vtbhs
 k,·,o,(ye),h
@@ -21222,11 +21222,11 @@ SPACE
 α,∵,l,-,y,:,h,o,w,a,(ti),h
 SPACE
 α,:∵,l,o,h,‥,𝓂,y,n,w,·,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 31:7 in vtrad vtbhs
 k,·,i,y,-,k,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -21333,7 +21333,7 @@ SPACE
 v,·,:,k,o,(me),r,i,y
 SPACE
 h,𝓂,w,·,α,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 31:10 in vtrad vtbhs
 $,·sh,i,m,:,ʕ,<,w,·
@@ -21457,11 +21457,11 @@ SPACE
 y,i,$,·si,:,v,·,a,(ti),ʕ,w,·
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 31:15 in vtrad vtbhs
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -21494,11 +21494,11 @@ SPACE
 k,·,i,(me),y
 SPACE
 α,‥,y,n,∵,𝓂,n,·,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 31:16 in vtrad vtbhs
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -21641,7 +21641,7 @@ SPACE
 α,:_,𝓂,r,_,x,:_,m,∵,(ti),n,·,w,·
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 31:21 in vtrad vtbhs
 h,_,ц,·,i,(da),y,v,i,y
@@ -21664,14 +21664,14 @@ l,_,𝓂,m,:,σ,i,l,·,a,(ti),h
 SPACE
 d,·,∵,⅃,r,∵,k.,:
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,l,k,τ,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,a,l,a,⅄,k,:,τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 $,·sh,(ye),w,·,v,i,y
 SPACE
@@ -21707,7 +21707,7 @@ SPACE
 τ,·,:,σ,(me),w,o,v,‥,𝓂,v
 SPACE
 g,·,a,𝓂,v,∵,r,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 31:23 in vtrad vtbhs
 k,·,o,𝓂,h,-,α,a,m,_,(G),r
@@ -21792,7 +21792,7 @@ SPACE
 ʕ,a,(me),r,:,v,a,h
 SPACE
 l,·,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 31:27 in vtrad vtbhs
 h,i,n,·,‥,⟓,h
@@ -21891,7 +21891,7 @@ SPACE
 τ,·,i,q,:,h,∵,(me),y,n,a,h
 SPACE
 $,·sh,i,n,·,a,𝓂,y,w,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 31:31 in vtrad vtbhs
 h,i,n,·,‥,⟓,h
@@ -22042,11 +22042,11 @@ SPACE
 l,o,(me),α
 SPACE
 α,∵,z,:,k,·,a,r,-,ʕ,𝓂,w,o,d,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 31:35 in vtrad vtbhs
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -22110,11 +22110,11 @@ SPACE
 l,:,f,a,n,_,(ti),y
 SPACE
 k,·,oa,l,-,h,_,y,·,a,m,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 31:37 in vtrad vtbhs
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -22145,16 +22145,16 @@ SPACE
 ʕ,a,$,·si,(ti),w,·
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 31:38 in vtrad vtbhs
 h,i,n,·,‥,⟓,h
 SPACE
 y,a,m,i,(me),y,m.
 SPACE
-START kq-q-velo-k 
+START kq-q-velo-k
 v,·,a,α,i,(ti),y,m.
-STOP kq-q-velo-k 
+STOP kq-q-velo-k
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,⅄,h
 SPACE
@@ -22177,14 +22177,14 @@ w,:,y,a,ц,a,(qa),α
 SPACE
 ʕ,(ge),w,o,d
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 q,w,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 q,a,<,w
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,_,m,·,i,d,·,a,h,(p)
 SPACE
@@ -22204,18 +22204,18 @@ Jeremiah 31:40 in vtrad vtbhs
 w,:,k,oa,l,-,h,a,ʕ,‥,⅃,m,∵,q
 SPACE
 h,_,f,·,:,g,a,r,i,⅃,y,m.
-START lp-paseq 
+START lp-paseq
 w,:,h,_,d,·,∵,μ,$,·sh,∵,n.
 SPACE
 w,:,k,oa,𝓂,l,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 h,_,$,·sh,·,:,d,‥,m,w,o,τ,(tq)
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 h,$,r,m,w,τ
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 ʕ,_,d,-,n,_,(qa),x,_,l
 SPACE
@@ -22240,7 +22240,7 @@ SPACE
 ʕ,(ti),w,o,d
 SPACE
 l,:,ʕ,w,o,l,a,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 32:1 in vtrad vtbhs
 h,_,d,·,a,v,a,(G),r
@@ -22253,14 +22253,14 @@ m,‥,α,‥,⅃,τ
 SPACE
 y,:,h,o,w,a,ƶ,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 v,$,n,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,·,_,$,·sh,·,a,n,a,h,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,a,ʕ,:_,$,·si,i,r,i,ƶ,y,τ
 SPACE
@@ -22382,9 +22382,9 @@ SPACE
 w,:,ʕ,‥,y,n,a,(ti),y,w
 SPACE
 α,∵,τ,-
-START kq-trivial 
+START kq-trivial
 ʕ,‥,y,n,a,(me),w
-STOP kq-trivial 
+STOP kq-trivial
 SPACE
 τ,·,i,r,:,α,∵,𝓂,y,n,a,h,.
 
@@ -22414,7 +22414,7 @@ SPACE
 l,o,(me),α
 SPACE
 τ,_,ц,:,l,i,𝓂,y,x,w,·,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 32:6 in vtrad vtbhs
 w,_,y,·,o,(ti),α,m,∵,r
@@ -22494,7 +22494,7 @@ SPACE
 α,:_,$,·sh,∵,r,-,v,·,_,ʕ,:_,n,a,τ,(ge),w,o,τ
 SPACE
 α,:_,$,·sh,∵,⅃,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,α,∵,⅃,r,∵,ц.
 SPACE
@@ -22675,7 +22675,7 @@ SPACE
 y,a,m,i,(me),y,m.
 SPACE
 r,_,v,·,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 32:15 in vtrad vtbhs
 k,·,i,⅃,y
@@ -22705,7 +22705,7 @@ SPACE
 v,·,a,α,a,(me),r,∵,ц.
 SPACE
 h,_,z,·,o,𝓂,α,τ,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 32:16 in vtrad vtbhs
 w,a,α,∵,τ,:,f,·,_,l,·,‥,(ti),l
@@ -22734,7 +22734,7 @@ SPACE
 y,:∵,h,o,w,i,h,∴
 SPACE
 h,i,n,·,‥,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,_,τ,·,a,⅃,h
 SPACE
@@ -22906,14 +22906,14 @@ w,:,l,o,𝓂,α,-,$,·sh,a,m,:,ʕ,<,w,·
 SPACE
 v,:,q,w,o,l,∵,(p),k.,a,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,v,τ,r,w,τ,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,·,v,:,τ,w,o,r,a,τ,:,k.,a,⅃
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,o,α,-,h,a,l,a,ƶ,k,w,·
 SPACE
@@ -23010,7 +23010,7 @@ SPACE
 v,·,:,y,_,(me),d
 SPACE
 h,_,k,·,_,$,·si,:,d,·,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 32:26 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -23265,7 +23265,7 @@ SPACE
 h,_,v,·,_,(ge),ʕ,_,l
 SPACE
 α,:_,$,·sh,∵,⅃,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,g,‥,⅃,y,α
 SPACE
@@ -23297,12 +23297,12 @@ h,_,z,·,o,⅄,α,τ
 SPACE
 l,:,m,_,(ti),ʕ,_,n.
 SPACE
-START kq-trivial 
+START kq-trivial
 h,_,x,:_,θ,i,(me),y
-STOP kq-trivial 
+STOP kq-trivial
 SPACE
 α,∵,τ,-,y,:,h,w,·,d,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 32:36 in vtrad vtbhs
 w,:,ʕ,_,τ,·,a,Ƶ,h
@@ -23322,7 +23322,7 @@ SPACE
 h,_,z,·,o,ƶ,α,τ
 SPACE
 α,:_,$,·sh,∵,⅃,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,_,τ,·,∵,⅃,m.
 SPACE
@@ -23464,7 +23464,7 @@ SPACE
 v,·,:,k,oa,l,-,l,i,v,·,i,(ti),y
 SPACE
 w,·,v,:,k,oa,l,-,n,_,f,:,$,·sh,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 32:42 in vtrad vtbhs
 k,·,i,y,-,k,o,h,(p)
@@ -23517,7 +23517,7 @@ SPACE
 h,_,z,·,o,⅄,α,τ
 SPACE
 α,:_,$,·sh,∵,⅃,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,_,τ,·,∵,⅃,m.
 SPACE
@@ -23549,7 +23549,7 @@ SPACE
 w,:,k,a,τ,(qa),w,o,v
 SPACE
 v,·,_,σ,·,‥,(me),f,∵,r
-START lp-paseq 
+START lp-paseq
 w,:,x,a,τ,w,o,m.,~
 SPACE
 w,:,h,a,ʕ,‥,⅃,d
@@ -23585,7 +23585,7 @@ SPACE
 α,∵,τ,-,$,·sh,:,v,w,·,τ,a,(ti),m.
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 33:1 in vtrad vtbhs
 w,_,y,:,h,i,(da),y
@@ -23645,7 +23645,7 @@ SPACE
 l,o,(me),α
 SPACE
 y,:,d,_,ʕ,:,τ,·,a,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 33:4 in vtrad vtbhs
 k,·,i,y,(tq)
@@ -23760,14 +23760,14 @@ x,a,𝓂,θ,:,α,w,·,-,l,i,⅄,y
 SPACE
 w,:,σ,a,l,_,x,:,τ,·,i,◆,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,k,w,l
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,:,k,oa,l,-
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 ʕ,:_,w,ḥḥfv,n,𝓂,w,o,τ,‥,y,h,∵,m.,(p)
 SPACE
 α,:_,$,·sh,∵,⅃,r
@@ -23832,11 +23832,11 @@ SPACE
 ʕ,o,(me),$,·si,∵,h
 SPACE
 l,·,a,𝓂,h,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 33:10 in vtrad vtbhs
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -23940,7 +23940,7 @@ SPACE
 α,a,m,_,(me),r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 33:12 in vtrad vtbhs
 k,·,o,h,-,α,a,m,_,r,~
@@ -23952,7 +23952,7 @@ SPACE
 ʕ,(G),w,o,d
 SPACE
 y,i,h,:,y,∵,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,_,m,·,a,q,⅃,w,o,m.
 SPACE
@@ -24012,7 +24012,7 @@ SPACE
 α,a,m,_,(me),r
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 33:14 in vtrad vtbhs
 h,i,n,·,‥,⟓,h
@@ -24086,9 +24086,9 @@ SPACE
 α,:_,$,·sh,∵,r,-,y,i,q,:,r,a,α,-,l,a,(ti),h,·
 SPACE
 y,:,h,o,w,a,(me),h
-START lp-paseq 
+START lp-paseq
 ц,i,d,:,q,‥,𝓂,n,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 33:17 in vtrad vtbhs
 k,·,i,y,-,k,o,(ti),h
@@ -24133,7 +24133,7 @@ SPACE
 z,·,∵,(ti),v,_,x
 SPACE
 k,·,oa,l,-,h,_,y,·,a,m,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 33:19 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -24224,7 +24224,7 @@ SPACE
 m,:,$,·sh,a,𝓂,r,:,τ,‥,(me),y
 SPACE
 α,o,τ,i,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 33:23 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -24273,7 +24273,7 @@ SPACE
 g,·,(me),w,o,y
 SPACE
 l,i,f,:,n,‥,y,h,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 33:25 in vtrad vtbhs
 k,·,o,(ye),h
@@ -24324,19 +24324,19 @@ SPACE
 w,:,y,_,ʕ,:_,q,o,⅄,v
 SPACE
 k,·,i,𝓂,y,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 α,a,$,·sh,i,(me),y,v
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 α,$,w,v
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 α,∵,τ,-,$,·sh,:,v,w,·,τ,a,(ti),m.
 SPACE
 w,:,r,i,𝓂,x,_,m,:,τ,·,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 34:1 in vtrad vtbhs
 h,_,d,·,a,v,a,⟓,r
@@ -24352,7 +24352,7 @@ SPACE
 w,·,n,:,v,w,·,k,_,d,:,r,∵,α,ц,·,_,⅃,r
 SPACE
 m,∵,l,∵,k.,:,-,v,·,a,v,∵,⅃,l
-START lp-paseq 
+START lp-paseq
 w,:,k,oa,l,-,x,‥,y,l,μ,w,o
 SPACE
 w,:,k,oa,l,-,m,_,m,:,l,:,k,⅃,w,o,τ
@@ -24512,7 +24512,7 @@ SPACE
 α,:_,n,i,𝓂,y,-,d,i,v,·,_,(ti),r,:,τ,·,i,y
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 34:6 in vtrad vtbhs
 w,_,y,:,d,_,v,·,‥,r,(p)
@@ -24569,7 +24569,7 @@ SPACE
 ʕ,a,r,‥,(me),y
 SPACE
 m,i,v,:,ц,a,𝓂,r,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 34:8 in vtrad vtbhs
 h,_,d,·,a,v,a,⟓,r
@@ -24681,19 +24681,19 @@ $,·sh,i,l,·,:,x,(ti),w,·
 SPACE
 x,oa,f,:,$,·sh,i,⅄,y,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,y,k,v,y,$,w,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,_,𝓂,y,·,i,k,:,v,·,:,$,·sh,ƶ,w,·,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,_,ʕ,:_,v,a,d,i,(ti),y,m.
 SPACE
 w,:,l,i,$,·sh,:,f,a,x,𝓂,w,o,τ,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 34:12 in vtrad vtbhs
 w,_,y,:,h,i,<,y
@@ -24853,7 +24853,7 @@ SPACE
 l,_,ʕ,:_,v,a,d,i,(ti),y,m.
 SPACE
 w,:,l,i,$,·sh,:,f,a,x,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 34:17 in vtrad vtbhs
 l,a,k,‥,n.,~
@@ -24900,14 +24900,14 @@ w,:,n,a,𝓂,τ,_,τ,·,i,<,y
 SPACE
 α,∵,τ,:,k,∵,m.,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,z,w,ʕ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,:,z,_,ʕ,:_,w,a,ƶ,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,:,k,o,(ti),l
 SPACE
@@ -25073,7 +25073,7 @@ SPACE
 m,‥,α,‥,(me),y,n.
 SPACE
 y,o,$,·sh,‥,𝓂,v,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 35:1 in vtrad vtbhs
 h,_,d,·,a,v,a,⟓,r
@@ -25189,7 +25189,7 @@ Jeremiah 35:5 in vtrad vtbhs
 w,a,α,∵,τ,·,‥,(G),n.
 SPACE
 l,i,f,:,n,‥,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,n,‥,⅃,y
 SPACE
@@ -25388,7 +25388,7 @@ SPACE
 w,_,n,·,‥,(ti),$,·sh,∵,v
 SPACE
 v,·,i,y,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 35:12 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -25493,11 +25493,11 @@ SPACE
 α,∵,τ,-,k,·,oa,l,-,ʕ,:_,v,a,d,_,⅃,y
 SPACE
 h,_,n,·,:,v,i,α,i,⅃,y,m.
-START lp-paseq 
+START lp-paseq
 h,_,$,·sh,:,k,·,‥,⅃,m.
 SPACE
 w,:,$,·sh,a,l,o,⅃,x,_
-START lp-paseq 
+START lp-paseq
 l,‥,α,m,o,μ,r
 SPACE
 $,·sh,u,𝓂,v,w,·,-,n,a,μ,α
@@ -25699,7 +25699,7 @@ SPACE
 l,:,f,a,n,_,(ti),y
 SPACE
 k,·,oa,l,-,h,_,y,·,a,m,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 36:1 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -25807,7 +25807,7 @@ SPACE
 l,_,ʕ,:_,w,ḥḥfv,n,a,(ti),m.
 SPACE
 w,·,l,:,x,_,θ,·,a,α,τ,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 36:4 in vtrad vtbhs
 w,_,y,·,i,q,:,r,a,⅃,α
@@ -25959,7 +25959,7 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 36:9 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
@@ -26262,7 +26262,7 @@ SPACE
 ʕ,_,l,-,h,_,σ,·,‥,(ti),f,∵,r
 SPACE
 v,·,_,d,·,:,y,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 36:19 in vtrad vtbhs
 w,_,y,·,o,α,m,:,r,<,w,·
@@ -26372,7 +26372,7 @@ m,:,v,o,ʕ,a,𝓂,r,∵,τ,.
 
 Jeremiah 36:23 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 k,·,i,q,:,r,⅃,w,o,α
 SPACE
@@ -26488,7 +26488,7 @@ SPACE
 w,_,y,·,_,σ,:,τ,·,i,r,‥,(ti),m.
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 36:27 in vtrad vtbhs
 w,_,y,:,h,i,(me),y
@@ -26498,7 +26498,7 @@ SPACE
 α,∵,𝓂,l,-,y,i,r,:,m,:,y,a,⅄,h,w,·
 SPACE
 α,_,x,:_,r,‥,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·si,:,r,o,⅃,f.
 SPACE
@@ -26603,7 +26603,7 @@ SPACE
 α,a,d,a,(me),m.
 SPACE
 w,·,v,:,h,‥,m,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 36:30 in vtrad vtbhs
 l,a,k,‥,(G),n.
@@ -26679,7 +26679,7 @@ Jeremiah 36:32 in vtrad vtbhs
 w,:,y,i,r,:,m,:,y,a,(ge),h,w,·
 SPACE
 l,a,q,_,⅃,x
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,:,g,i,l,·,a,⅃,h
 SPACE
@@ -26728,7 +26728,7 @@ SPACE
 r,_,v,·,i,(ti),y,m.
 SPACE
 k,·,a,h,‥,𝓂,m,·,a,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 37:1 in vtrad vtbhs
 w,_,y,·,i,(qa),m,:,l,oa,k.,:,-,m,∵,ƶ,l,∵,k.,:
@@ -26830,14 +26830,14 @@ SPACE
 SPACE
 v,·,‥,(me),y,τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,k,l,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,k,·,:,l,𝓂,w,·,α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
 
 Jeremiah 37:5 in vtrad vtbhs
@@ -26864,7 +26864,7 @@ SPACE
 m,‥,ʕ,_,(ti),l
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 37:6 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -26903,7 +26903,7 @@ SPACE
 l,:,d,oa,r,:,$,·sh,‥,⅄,n,i,y
 SPACE
 h,i,n,·,‥,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 x,‥,⅃,y,l
 SPACE
@@ -26937,11 +26937,11 @@ SPACE
 w,·,$,·si,:,r,a,f,u,(me),h,a
 SPACE
 v,a,α,‥,𝓂,$,·sh,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 37:9 in vtrad vtbhs
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -27016,7 +27016,7 @@ SPACE
 x,‥,(me),y,l
 SPACE
 f,·,_,r,:,ʕ,o,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 37:12 in vtrad vtbhs
 w,_,y,·,‥,ц,‥,<,α
@@ -27228,14 +27228,14 @@ SPACE
 h,_,k,·,∵,𝓂,l,∵,α,.
 
 Jeremiah 37:19 in vtrad vtbhs
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,α,y,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,α,_,y,·,‥,h,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 n,:,v,i,⅃,y,α,‥,y,k,∵,ƶ,m.
 SPACE
@@ -27383,14 +27383,14 @@ w,:,h,_,y,·,o,ц,‥,<,α
 SPACE
 α,∵,l,-,h,_,k,·,_,$,·si,:,d,·,i,y,m.,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,x,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,x,a,y,a,ƶ,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,h,a,y,:,τ,a,h,-,l,·,(me),w,o
 SPACE
@@ -27399,7 +27399,7 @@ SPACE
 l,:,$,·sh,a,l,a,(ti),l
 SPACE
 w,a,x,a,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 38:3 in vtrad vtbhs
 k,·,o,(ti),h
@@ -27450,7 +27450,7 @@ SPACE
 h,_,m,·,i,l,:,x,a,m,a,(ge),h
 SPACE
 h,_,𝓂,n,·,i,$,·sh,:,α,a,r,i,⅃,y,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,a,ʕ,i,⅃,y,r
 SPACE
@@ -27471,7 +27471,7 @@ SPACE
 h,a,α,‥,⅄,l,·,∵,h
 SPACE
 k,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 h,a,α,i,⅃,y,$,·sh
 SPACE
@@ -27522,7 +27522,7 @@ SPACE
 α,o,τ,(ge),w,o
 SPACE
 α,∵,l,-,h,_,v,·,⅃,w,o,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,_,l,:,k,·,i,y,·,a,⅃,h,w,·
 SPACE
@@ -27553,7 +27553,7 @@ SPACE
 y,i,r,:,m,:,y,a,(ti),h,w,·
 SPACE
 v,·,_,θ,·,i,𝓂,y,θ,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 38:7 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,m,_,μ,ʕ
@@ -27683,7 +27683,7 @@ y,a,m,𝓂,w,·,τ,.
 
 Jeremiah 38:11 in vtrad vtbhs
 w,_,y,·,i,q,·,_,⅃,x
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 ʕ,∵,v,∵,d,-,m,∵,(qa),l,∵,k.,:
 SPACE
@@ -27705,14 +27705,14 @@ m,i,$,·sh,·,a,m.,(p)
 SPACE
 v,·,:,l,w,o,y,‥,⅃
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,σ,x,v,w,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 σ,:,x,a,v,ƶ,w,o,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,v,:,l,w,o,y,‥,(ti)
 SPACE
@@ -27781,7 +27781,7 @@ SPACE
 v,·,_,x,:_,ц,_,(ti),r
 SPACE
 h,_,m,·,_,θ,·,a,r,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 38:14 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,l,_,(G),x
@@ -27872,9 +27872,9 @@ l,‥,α,m,o,⅄,r
 SPACE
 x,_,y,-,y,:,h,o,w,a,(G),h
 SPACE
-START kq-k-velo-q 
+START kq-k-velo-q
 α,τ
-STOP kq-k-velo-q 
+STOP kq-k-velo-q
 SPACE
 α,:_,$,·sh,∵,r,(tq)
 SPACE
@@ -27899,7 +27899,7 @@ SPACE
 m,:,v,_,q,:,$,·sh,i,(ti),y,m.
 SPACE
 α,∵,τ,-,n,_,f,:,$,·sh,∵,𝓂,k.,a,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 38:17 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
@@ -27907,7 +27907,7 @@ SPACE
 y,i,r,:,m,:,y,a,⅃,h,w,·
 SPACE
 α,∵,l,-,ц,i,d,:,q,i,y,·,a,μ,h,w,·
-START spi-samekh3 
+START spi-samekh3
 k,·,o,h,-,α,a,m,_,⅃,r
 SPACE
 y,:,h,o,w,a,h,(tq)
@@ -27978,7 +27978,7 @@ SPACE
 l,o,α,-,τ,i,m,·,a,l,‥,(me),θ
 SPACE
 m,i,y,·,a,d,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 38:19 in vtrad vtbhs
 w,_,y,·,o,⟓,α,m,∵,r
@@ -28019,7 +28019,7 @@ SPACE
 y,i,τ,·,‥,⅄,n,w,·
 SPACE
 $,·sh,:,𝓂,m,_,𝓂,ʕ,-,n,a,⅃,α
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,q,⅃,w,o,l
 SPACE
@@ -28133,7 +28133,7 @@ SPACE
 τ,·,i,$,·si,:,r,o,(me),f.
 SPACE
 v,·,a,α,‥,𝓂,$,·sh,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 38:24 in vtrad vtbhs
 w,_,y,·,o,(qa),α,m,∵,r
@@ -28215,7 +28215,7 @@ SPACE
 l,a,m,(me),w,·,τ
 SPACE
 $,·sh,a,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 38:27 in vtrad vtbhs
 w,_,y,·,a,v,o,(qa),α,w,·
@@ -28266,7 +28266,7 @@ SPACE
 α,:_,$,·sh,∵,r,-,n,i,l,:,k,·,:,d,a,⅃,h
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,⅄,CGJ,i,m.
-START spi-samekh2 
+START spi-samekh2
 w,:,h,a,y,a,Ƶ,h
 SPACE
 k,·,_,α,:_,$,·sh,∵,(me),r
@@ -28372,7 +28372,7 @@ SPACE
 m,∵,l,∵,k.,:,-,y,:,h,w,·,d,a,(ge),h
 SPACE
 w,:,k,o,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,_,n,:,$,·sh,‥,⅃,y
 SPACE
@@ -28610,9 +28610,9 @@ r,·,a,⅄,ʕ
 SPACE
 k,·,i,◆,y
 SPACE
-START kq-k-velo-q 
+START kq-k-velo-q
 α,m.
-STOP kq-k-velo-q 
+STOP kq-k-velo-q
 SPACE
 k,·,_,𝓂,α,:_,$,·sh,∵,r,(p)
 SPACE
@@ -28633,12 +28633,12 @@ n,:,v,w,·,z,_,r,:,α,:_,d,a,⅃,n.
 SPACE
 r,_,v,-,θ,_,v,·,a,x,i,◆,y,m.
 SPACE
-START slh-word 
+START slh-word
 w,·,n,:,v,𝓂,w,·,$,·sh,_,z,:,v,·,a
-START letter-small 
+START letter-small
 n.,(p)
-STOP letter-small 
-STOP slh-word 
+STOP letter-small
+STOP slh-word
 SPACE
 r,_,v,-,σ,a,r,i,ƶ,y,σ
 SPACE
@@ -28684,7 +28684,7 @@ SPACE
 v,·,:,τ,(me),w,o,k.,:
 SPACE
 h,a,ʕ,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 39:15 in vtrad vtbhs
 w,:,α,∵,𝓂,l,-,y,i,r,:,m,:,y,a,(ti),h,w,·
@@ -28795,7 +28795,7 @@ SPACE
 v,·,i,(ti),y
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 40:1 in vtrad vtbhs
 h,_,d,·,a,v,a,(G),r
@@ -28809,7 +28809,7 @@ SPACE
 y,:,h,o,w,a,ƶ,h
 SPACE
 α,_,x,_,⅃,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·sh,_,l,·,_,⅃,x
 SPACE
@@ -28889,14 +28889,14 @@ w,:,h,a,y,a,(me),h
 SPACE
 l,a,k,∵,(ti),m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 d,v,r
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,d,·,a,v,a,(me),r
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,_,z,·,∵,𝓂,h,.
 
@@ -29034,7 +29034,7 @@ SPACE
 h,_,n,·,i,$,·sh,:,α,a,r,i,(ti),y,m.
 SPACE
 v,·,a,α,a,𝓂,r,∵,ц.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 40:7 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,m,:,ʕ,w,·,(tq)
@@ -29062,7 +29062,7 @@ SPACE
 v,·,a,α,a,⅄,r,∵,ц.
 SPACE
 w,:,k,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 h,i,f,:,q,i,⅃,y,d
 SPACE
@@ -29106,16 +29106,16 @@ SPACE
 v,∵,n.,-,τ,·,_,n,:,x,u,(ge),m,∵,τ
 SPACE
 w,·,v,:,n,‥,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,w,f,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,‥,y,f,_,⅃,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,_,n,·,:,θ,o,f,a,τ,i,◆,y
 SPACE
@@ -29209,7 +29209,7 @@ SPACE
 k,·,oa,𝓂,l,-,h,_,y,·,:,h,w,·,d,i,μ,y,m.
 SPACE
 α,:_,$,·sh,∵,r,-,v,·,:,m,w,o,α,a,⅃,v
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 w,·,v,i,v,:,n,‥,𝓂,y,-,ʕ,_,m,·,(qa),w,o,n.
 SPACE
@@ -29269,7 +29269,7 @@ SPACE
 h,_,r,:,v,·,‥,(me),h
 SPACE
 m,:,α,o,𝓂,d,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 40:13 in vtrad vtbhs
 w,:,y,𝓂,w,o,x,a,n,a,n.,(p)
@@ -29302,7 +29302,7 @@ SPACE
 k,·,i,(G),y
 SPACE
 v,·,_,ʕ,:_,l,i,⅃,y,σ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,∵,⅃,l,∵,k.,:
 SPACE
@@ -29389,14 +29389,14 @@ SPACE
 v,·,∵,n.,-,q,a,r,‥,ƶ,x,_
 SPACE
 α,_,𝓂,l,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 τ,·,_,ʕ,:_,$,·si,‥,(ti),h
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 τ,ʕ,$
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 α,∵,τ,-,h,_,d,·,a,v,a,⅃,r
 SPACE
@@ -29409,11 +29409,11 @@ SPACE
 d,o,v,‥,(ti),r
 SPACE
 α,∵,l,-,y,i,$,·sh,:,m,a,ʕ,‥,𝓂,α,l,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 41:1 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,_,x,o,⅃,d,∵,$,·sh
 SPACE
@@ -29467,7 +29467,7 @@ SPACE
 w,_,ʕ,:_,$,·si,∵,(me),r,∵,τ
 SPACE
 h,a,𝓂,α,:_,n,a,$,·sh,i,⅃,y,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:_,$,·sh,∵,r,-,h,a,y,⅃,w,·
 SPACE
@@ -29683,7 +29683,7 @@ SPACE
 y,i,$,·sh,:,m,a,ʕ,‥,α,l,(p)
 SPACE
 α,‥,⅃,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 k,·,oa,l,-,f,·,i,g,:,r,‥,⅃,y
 SPACE
@@ -29723,7 +29723,7 @@ x,:_,l,a,l,i,𝓂,y,m.,.
 
 Jeremiah 41:10 in vtrad vtbhs
 w,_,y,·,i,⅃,$,·sh,:,v,·,:
-START lp-paseq 
+START lp-paseq
 y,i,⌕,$,·sh,:,m,a,ʕ,‥,⌕,α,l
 SPACE
 α,∵,τ,-,k,·,oa,l,-,$,·sh,:,α,‥,r,i,(qa),y,τ
@@ -29769,7 +29769,7 @@ SPACE
 α,∵,l,-,v,·,:,n,‥,(me),y
 SPACE
 ʕ,_,m,·,𝓂,w,o,n.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 41:11 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,m,_,ʕ,(p)
@@ -29889,7 +29889,7 @@ SPACE
 α,∵,l,-,v,·,:,n,‥,(me),y
 SPACE
 ʕ,_,m,·,𝓂,w,o,n.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 41:16 in vtrad vtbhs
 w,_,y,·,i,q,·,_,x,(tq)
@@ -29955,14 +29955,14 @@ w,_,y,·,‥,𝓂,$,·sh,:,v,w,·,(p)
 SPACE
 v,·,:,g,‥,r,⅃,w,·,τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 k,m,w,h,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 k,·,i,m,:,h,a,ƶ,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,:_,$,·sh,∵,r,-,α,‥,(ti),ц,∵,l
 SPACE
@@ -30002,7 +30002,7 @@ SPACE
 m,∵,l,∵,k.,:,-,v,·,a,v,∵,(ti),l
 SPACE
 v,·,a,α,a,𝓂,r,∵,ц.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 42:1 in vtrad vtbhs
 w,_,𝓂,y,·,i,g,·,:,$,·sh,w,·,(p)
@@ -30169,7 +30169,7 @@ SPACE
 w,:,α,i,m.,-,r,a,ƶ,ʕ
 SPACE
 v,·,:,q,⅃,w,o,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 y,:,h,o,w,a,⅃,h
 SPACE
@@ -30177,14 +30177,14 @@ SPACE
 SPACE
 α,:_,$,·sh,∵,(qa),r
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,n,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,:_,n,_,(ge),x,:,n,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 $,·sh,o,l,:,x,i,(me),y,m.
 SPACE
@@ -30209,7 +30209,7 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,‥,𝓂,y,n,w,·,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 42:7 in vtrad vtbhs
 w,_,y,:,h,i,Ƶ,y
@@ -30490,7 +30490,7 @@ SPACE
 w,:,h,a,r,a,ʕ,a,(G),v
 SPACE
 α,:_,$,·sh,∵,r,-,α,_,τ,·,∵,⅃,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 d,·,o,α,:_,g,i,⅃,y,m.
 SPACE
@@ -30638,14 +30638,14 @@ h,_,y,·,𝓂,w,o,m.,.
 Jeremiah 42:20 in vtrad vtbhs
 k,·,i,⅃,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,τ,ʕ,τ,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,i,τ,:,ʕ,‥,y,τ,∵,m.,~
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,:,n,_,f,:,$,·sh,w,o,τ,‥,y,k,∵,m.,∴
 SPACE
@@ -30736,7 +30736,7 @@ SPACE
 l,a,g,(me),w,·,r
 SPACE
 $,·sh,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 43:1 in vtrad vtbhs
 w,_,y,:,h,i,y,(tq)
@@ -30770,7 +30770,7 @@ SPACE
 k,·,oa,l,-,h,_,d,·,:,v,a,r,i,(ti),y,m.
 SPACE
 h,a,α,‥,𝓂,l,·,∵,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 43:2 in vtrad vtbhs
 w,_,y,·,o,(qa),α,m,∵,r
@@ -30959,7 +30959,7 @@ SPACE
 w,_,y,·,a,v,o,(ti),α,w,·
 SPACE
 ʕ,_,d,-,τ,·,_,x,:,f,·,_,n,:,x,‥,𝓂,σ,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 43:8 in vtrad vtbhs
 w,_,y,:,h,i,<,y
@@ -31045,26 +31045,26 @@ SPACE
 w,:,n,a,θ,a,(me),h
 SPACE
 α,∵,τ,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 $,·sh,_,f,:,r,i,y,r,(ti),w,o
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 $,f,r,w,r,w
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 ʕ,:_,l,‥,y,h,∵,𝓂,m.,.
 
 Jeremiah 43:11 in vtrad vtbhs
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,v,α,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,·,v,a,Ƶ,α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,h,i,k,·,a,(ti),h
 SPACE
@@ -31145,7 +31145,7 @@ SPACE
 y,i,$,·si,:,r,o,(me),f.
 SPACE
 v,·,a,α,‥,𝓂,$,·sh,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 44:1 in vtrad vtbhs
 h,_,d,·,a,v,a,r,(p)
@@ -31334,7 +31334,7 @@ SPACE
 k,·,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 44:7 in vtrad vtbhs
 w,:,ʕ,_,τ,·,a,μ,h
@@ -31438,7 +31438,7 @@ SPACE
 α,:_,v,w,o,τ,‥,y,k,∵,(ge),m.
 SPACE
 w,:,α,∵,τ,-,r,a,ʕ,⅃,w,o,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,_,l,:,k,‥,⅃,y
 SPACE
@@ -31500,7 +31500,7 @@ SPACE
 w,:,l,i,f,:,n,‥,(me),y
 SPACE
 α,:_,v,w,o,τ,‥,y,k,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 44:11 in vtrad vtbhs
 l,a,k,‥,◆,n.
@@ -31629,7 +31629,7 @@ SPACE
 m,i,ц,:,r,a,⅄,y,i,m.
 SPACE
 w,:,l,a,$,·sh,⅃,w,·,v
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,∵,⅃,r,∵,ц.
 SPACE
@@ -31654,7 +31654,7 @@ SPACE
 k,·,i,(me),y
 SPACE
 α,i,m.,-,f,·,:,l,‥,θ,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 44:15 in vtrad vtbhs
 w,_,y,·,_,ʕ,:_,n,⅃,w,·
@@ -31716,7 +31716,7 @@ SPACE
 n,_,ʕ,:_,$,·si,∵,(ge),h
 SPACE
 α,∵,𝓂,τ,-,k,·,oa,l,-,h,_,d,·,a,v,a,⅃,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:_,$,·sh,∵,r,-,y,a,ц,a,⅃,α
 SPACE
@@ -31821,7 +31821,7 @@ SPACE
 l,a,(ti),h,·
 SPACE
 n,:,σ,a,k,i,𝓂,y,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 44:20 in vtrad vtbhs
 w,_,y,·,o,(me),α,m,∵,r
@@ -31968,7 +31968,7 @@ SPACE
 k,·,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 44:24 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -32015,7 +32015,7 @@ SPACE
 w,·,v,i,y,d,‥,y,k,∵,⅃,m.
 SPACE
 m,i,l,·,‥,α,τ,∵,⅃,m.
-START lp-paseq 
+START lp-paseq
 l,‥,α,m,o,r,∴
 SPACE
 ʕ,a,$,·si,o,(qa),h
@@ -32051,7 +32051,7 @@ SPACE
 τ,_,ʕ,:_,$,·si,∵,(ti),y,n,a,h
 SPACE
 α,∵,τ,-,n,i,d,:,r,‥,y,k,∵,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 44:26 in vtrad vtbhs
 l,a,k,‥,n.,(p)
@@ -32087,10 +32087,10 @@ SPACE
 $,·sh,:,m,i,(ge),y
 SPACE
 n,i,q,:,r,a,⅃,α
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,f,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 k,·,oa,l,-,α,i,⅃,y,$,·sh
 SPACE
@@ -32208,11 +32208,11 @@ SPACE
 ʕ,:_,l,‥,y,k,∵,(ti),m.
 SPACE
 l,:,r,a,ʕ,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 44:30 in vtrad vtbhs
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -32257,7 +32257,7 @@ SPACE
 w,·,m,:,v,_,q,·,‥,(me),$,·sh
 SPACE
 n,_,f,:,$,·sh,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 45:1 in vtrad vtbhs
 h,_,d,·,a,v,a,◆,r
@@ -32340,7 +32340,7 @@ m,a,ц,a,𝓂,α,τ,i,y,.
 
 Jeremiah 45:4 in vtrad vtbhs
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 τ,·,o,α,m,_,⅃,r
 SPACE
@@ -32408,7 +32408,7 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 τ,·,‥,l,∵,k.,:,-,$,·sh,a,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 46:1 in vtrad vtbhs
 α,:_,$,·sh,∵,(qa),r
@@ -32675,14 +32675,14 @@ v,·,_,τ,-,m,i,ц,:,r,a,⅄,y,i,m.
 SPACE
 l,_,$,·sh,·,a,w,:,α,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,r,v,y,τ,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,i,r,:,v,·,‥,⅃,y,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 r,:,f,u,α,ƶ,w,o,τ
 SPACE
@@ -32716,7 +32716,7 @@ SPACE
 n,a,f,:,l,(me),w,·
 SPACE
 $,·sh,:,n,‥,y,h,∵,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 46:13 in vtrad vtbhs
 h,_,d,·,a,v,a,r,(p)
@@ -32805,7 +32805,7 @@ SPACE
 w,_,y,·,o,𝓂,α,m,:,r,w,·,(p)
 SPACE
 q,⅃,w,·,m,a,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 w,:,n,a,$,·sh,u,⅃,v,a,h
 SPACE
@@ -32883,7 +32883,7 @@ SPACE
 m,‥,α,‥,(me),y,n.
 SPACE
 y,w,o,$,·sh,‥,𝓂,v,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 46:20 in vtrad vtbhs
 ʕ,∵,g,:,l,a,(me),h
@@ -33051,7 +33051,7 @@ SPACE
 k,·,i,𝓂,y,m,‥,y,-,q,∵,(ti),d,∵,m.
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 46:27 in vtrad vtbhs
 w,:,⌕,α,_,τ,·,a,⌕,h
@@ -33116,7 +33116,7 @@ SPACE
 k,a,l,a,(ge),h
 SPACE
 v,·,:,k,oa,𝓂,l,-,h,_,g,·,w,o,y,i,⅃,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:_,$,·sh,∵,(da),r
 SPACE
@@ -33139,7 +33139,7 @@ SPACE
 l,o,(me),α
 SPACE
 α,:_,n,_,q,·,∵,𝓂,k.,·,a,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 47:1 in vtrad vtbhs
 α,:_,$,·sh,∵,(qa),r
@@ -33164,7 +33164,7 @@ SPACE
 
 Jeremiah 47:2 in vtrad vtbhs
 k,·,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -33324,7 +33324,7 @@ SPACE
 $,·sh,a,(me),m.
 SPACE
 y,:,ʕ,a,d,a,𝓂,h,·,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 48:1 in vtrad vtbhs
 l,:,m,w,o,α,a,μ,v
@@ -33414,14 +33414,14 @@ h,i,$,·sh,:,m,i,(me),y,ʕ,w,·
 SPACE
 z,·,:,ʕ,a,q,a,(ti),h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ц,ʕ,w,r,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ц,:,ʕ,i,y,r,∵,𝓂,y,h,a
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
 
 Jeremiah 48:5 in vtrad vtbhs
@@ -33429,14 +33429,14 @@ k,·,i,(ye),y
 SPACE
 m,_,ʕ,:_,l,‥,⅃,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,l,x,w,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,l,·,u,x,i,ƶ,y,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,i,v,:,k,i,(ti),y
 SPACE
@@ -33484,14 +33484,14 @@ SPACE
 SPACE
 w,:,y,a,ц,a,<,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 k,m,y,$
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 k,:,m,w,o,$,·sh,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,_,g,·,w,o,l,a,ƶ,h
 SPACE
@@ -33499,14 +33499,14 @@ k,·,o,h,:_,n,a,(me),y,w
 SPACE
 w,:,$,·si,a,r,a,(ti),y,w
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,x,d
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,_,x,:,d,·,a,𝓂,y,w
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
 
 Jeremiah 48:8 in vtrad vtbhs
@@ -33616,7 +33616,7 @@ SPACE
 l,o,(me),α
 SPACE
 n,a,m,a,𝓂,r,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 48:12 in vtrad vtbhs
 l,a,k,‥,(G),n.
@@ -33741,14 +33741,14 @@ r,:,d,i,<,y
 SPACE
 m,i,k,·,a,v,w,o,d,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,$,v,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,·,$,·sh,:,v,i,⅃,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,_,ц,·,a,m,a,ƶ,α
 SPACE
@@ -33794,18 +33794,18 @@ m,w,o,α,a,⟓,v
 SPACE
 k,·,i,y,-,x,_,(ti),τ,·,a,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,y,l,y,l,y
 SPACE
 w,z,ʕ,q,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,‥,y,l,i,⅃,y,l,w,·
-START lp-paseq 
+START lp-paseq
 w,·,𝓂,z,:,ʕ,a,⅄,q,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,_,g,·,i,⅃,y,d,w,·
 SPACE
@@ -33831,14 +33831,14 @@ SPACE
 w,:,α,∵,l,-,y,_,(ti),h,:,ц,a,h
 SPACE
 w,:,ʕ,_,l,-
-START kq 
-START kq-k 
+START kq
+START kq-k
 m,w,f,ʕ,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 m,‥,y,f,a,𝓂,ʕ,_,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
 
 Jeremiah 48:22 in vtrad vtbhs
@@ -33918,7 +33918,7 @@ g,·,_,m.,-,h,𝓂,w,·,α,.
 
 Jeremiah 48:27 in vtrad vtbhs
 w,:,α,i,⅃,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 l,⅃,w,o,α
 SPACE
@@ -33932,14 +33932,14 @@ y,i,$,·si,:,r,a,α,‥,ƶ,l
 SPACE
 α,i,m.,-,v,·,:,g,_,n,·,a,v,i,(ti),y,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 n,m,ц,α,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 n,i,m,:,ц,a,⅄,α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 k,·,i,𝓂,y,-,m,i,d,·,‥,(da),y
 SPACE
@@ -34234,7 +34234,7 @@ SPACE
 w,:,l,i,m,:,x,i,τ,·,a,(ti),h
 SPACE
 l,:,k,oa,l,-,σ,:,v,i,y,v,a,𝓂,y,w,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 48:40 in vtrad vtbhs
 k,·,i,y,-,k,o,h,(p)
@@ -34311,14 +34311,14 @@ SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 
 Jeremiah 48:44 in vtrad vtbhs
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,n,y,σ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,n,·,a,(G),σ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,i,f,·,:,n,‥,<,y
 SPACE
@@ -34418,7 +34418,7 @@ SPACE
 m,i,$,·sh,:,f,·,_,(me),θ
 SPACE
 m,w,o,α,a,𝓂,v,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 49:1 in vtrad vtbhs
 l,i,v,:,n,‥,⅃,y
@@ -34601,7 +34601,7 @@ SPACE
 v,·,:,n,‥,𝓂,y,-,ʕ,_,m,·,(ti),w,o,n.
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 49:7 in vtrad vtbhs
 l,∵,α,:∵,d,◆,w,o,m.
@@ -34721,11 +34721,11 @@ SPACE
 ʕ,a,l,_,(me),y
 SPACE
 τ,·,i,v,:,θ,a,𝓂,x,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 49:12 in vtrad vtbhs
 k,·,i,y,-,k,o,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,a,m,_,⅃,r
 SPACE
@@ -34957,7 +34957,7 @@ SPACE
 y,_,ʕ,:_,m,o,(ti),d
 SPACE
 l,:,f,a,n,a,𝓂,y,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 49:20 in vtrad vtbhs
 l,a,k,‥,(G),n.
@@ -35047,7 +35047,7 @@ SPACE
 α,i,$,·sh,·,a,(me),h
 SPACE
 m,:,ц,‥,r,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 49:23 in vtrad vtbhs
 l,:,d,_,m,·,∵,◆,$,·si,∵,q
@@ -35086,7 +35086,7 @@ SPACE
 l,a,n,(ti),w,·,σ
 SPACE
 w,:,r,∵,⅃,θ,∵,θ
-START lp-paseq 
+START lp-paseq
 h,∵,x,:∵,z,i,⅄,y,q,a,h
 SPACE
 ц,a,r,a,(da),h
@@ -35104,14 +35104,14 @@ l,o,𝓂,α,-,ʕ,u,z,·,:,v,a,(ti),h
 SPACE
 ʕ,i,⅃,y,r
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 τ,h,l,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 τ,·,:,h,i,l,·,a,⅄,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 q,i,r,:,y,_,(ti),τ
 SPACE
@@ -35156,11 +35156,11 @@ SPACE
 α,_,r,:,m,:,n,(me),w,o,τ
 SPACE
 v,·,∵,n.,-,h,:_,d,a,𝓂,d,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 49:28 in vtrad vtbhs
 l,:,q,‥,d,a,⅃,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 w,·,𝓂,l,:,m,_,m,:,l,:,k,⅃,w,o,τ
 SPACE
@@ -35170,14 +35170,14 @@ SPACE
 SPACE
 h,i,k,·,a,h,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 n,v,w,k,d,r,α,ц,w,r
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 n,:,v,w,·,k,_,d,:,r,∵,α,ц,·,_,⅃,r
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,∵,l,∵,k.,:,-,v,·,a,v,∵,ƶ,l
 SPACE
@@ -35251,14 +35251,14 @@ SPACE
 SPACE
 w,:,x,a,$,·sh,_,(me),v
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,h,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,:_,l,‥,y,k,∵,(ti),m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,_,x,:_,$,·sh,a,v,a,𝓂,h,.
 
@@ -35340,7 +35340,7 @@ SPACE
 v,·,a,(ti),h,·
 SPACE
 v,·,∵,n.,-,α,a,d,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 49:34 in vtrad vtbhs
 α,:_,$,·sh,∵,(qa),r
@@ -35421,14 +35421,14 @@ $,·sh,a,(ti),m.
 SPACE
 n,i,d,·,:,x,‥,(me),y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,w,l,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,‥,y,l,a,𝓂,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
 
 Jeremiah 49:37 in vtrad vtbhs
@@ -35441,7 +35441,7 @@ SPACE
 α,o,y,:,v,‥,y,h,∵,(ge),m.
 SPACE
 w,:,l,i,f,:,n,‥,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,:,v,_,q,:,$,·sh,‥,⅃,y
 SPACE
@@ -35450,7 +35450,7 @@ SPACE
 w,:,h,‥,v,‥,α,τ,i,(qa),y
 SPACE
 ʕ,:_,l,‥,y,h,∵,(da),m.
-START lp-paseq 
+START lp-paseq
 r,a,ʕ,a,⟓,h
 SPACE
 α,∵,τ,-,x,:_,r,(me),w,o,n.
@@ -35490,35 +35490,35 @@ n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 
 Jeremiah 49:39 in vtrad vtbhs
 w,:,h,a,y,a,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,α,_,x,:_,r,i,⅃,y,τ
 SPACE
 h,_,y,·,a,m,i,◆,y,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,$,w,v
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,a,$,·sh,i,⟓,y,v
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,∵,τ,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 $,·sh,:,v,(me),w,·,τ
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 $,v,y,τ
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 ʕ,‥,y,l,a,(ti),m.
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 50:1 in vtrad vtbhs
 h,_,d,·,a,v,a,◆,r
@@ -35670,14 +35670,14 @@ Jeremiah 50:6 in vtrad vtbhs
 SPACE
 α,o,𝓂,v,:,d,w,o,τ,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,a,y,⅃,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,_,m,·,i,ƶ,y
 SPACE
@@ -35687,14 +35687,14 @@ h,i,τ,:,ʕ,ƶ,w,·,m.
 SPACE
 h,a,r,i,(ti),y,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 $,w,v,v,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·sh,w,o,v,:,v,⅄,w,·,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,‥,h,_,<,r
 SPACE
@@ -35734,7 +35734,7 @@ SPACE
 α,:_,v,w,o,τ,‥,y,h,∵,(ti),m.
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 50:8 in vtrad vtbhs
 n,u,(ye),d,w,·
@@ -35747,14 +35747,14 @@ w,·,m,‥,α,∵,(me),r,∵,ц.
 SPACE
 k,·,_,$,·si,:,d,·,i,(ti),y,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,ц,α,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ц,‥,⅄,α,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,i,𝓂,h,:,y,Ƶ,w,·
 SPACE
@@ -35819,25 +35819,25 @@ n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
 Jeremiah 50:11 in vtrad vtbhs
 k,·,i,<,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 τ,$,m,x,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 τ,i,$,·si,:,m,:,x,w,·,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 k,·,i,⅃,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 τ,ʕ,l,z,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 τ,_,ʕ,_,l,:,z,ƶ,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 $,·sh,o,σ,‥,(ti),y
 SPACE
@@ -35845,27 +35845,27 @@ n,_,x,:_,l,a,τ,i,⅄,y
 SPACE
 k,·,i,<,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 τ,f,w,$,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 τ,a,f,(p),w,·,$,·sh,w,·,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 k,·,:,ʕ,∵,g,:,l,a,⅃,h
 SPACE
 d,a,$,·sh,a,ƶ,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,τ,ц,h,l,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,τ,i,ц,:,h,:_,l,(ti),w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 k,·,a,α,_,v,·,i,r,i,𝓂,y,m.,.
 
@@ -35923,7 +35923,7 @@ Jeremiah 50:14 in vtrad vtbhs
 ʕ,i,r,:,k,(qa),w,·
 SPACE
 ʕ,_,l,-,v,·,a,v,∵,<,l
-START lp-paseq 
+START lp-paseq
 σ,a,v,i,y,v,(p)
 SPACE
 k,·,oa,l,-,d,·,o,⅃,r,:,k,‥,y
@@ -35957,14 +35957,14 @@ y,a,d,a,ƶ,h,·
 SPACE
 n,a,𝓂,f,:,l,w,·,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,$,w,y,τ,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,oa,$,·sh,:,y,w,o,τ,∵,ƶ,y,h,a
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 n,∵,h,∵,r,:,σ,(ti),w,·
 SPACE
@@ -36020,7 +36020,7 @@ SPACE
 l,:,α,_,r,:,ц,(ti),w,o
 SPACE
 y,a,n,u,𝓂,σ,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 50:17 in vtrad vtbhs
 $,·si,∵,(da),h
@@ -36052,7 +36052,7 @@ SPACE
 m,∵,(me),l,∵,k.,:
 SPACE
 v,·,a,v,∵,𝓂,l,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 50:18 in vtrad vtbhs
 l,a,k,‥,◆,n.
@@ -36142,7 +36142,7 @@ SPACE
 l,_,α,:_,$,·sh,∵,(me),r
 SPACE
 α,_,$,·sh,:,α,i,𝓂,y,r,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 50:21 in vtrad vtbhs
 ʕ,_,l,-,h,a,α,a,<,r,∵,ц.
@@ -36172,7 +36172,7 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 ц,i,w,·,i,y,τ,i,𝓂,y,k.,a,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 50:22 in vtrad vtbhs
 q,(me),w,o,l
@@ -36297,7 +36297,7 @@ SPACE
 ʕ,‥,(me),τ
 SPACE
 f,·,:,q,u,d,·,a,τ,a,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 50:28 in vtrad vtbhs
 q,(me),w,o,l
@@ -36328,7 +36328,7 @@ Jeremiah 50:29 in vtrad vtbhs
 h,_,$,·sh,:,m,i,⅃,y,ʕ,w,·
 SPACE
 α,∵,l,-,v,·,a,v,∵,⅃,l
-START lp-paseq 
+START lp-paseq
 r,_,⌕,v,·,i,⌕,y,m.
 SPACE
 k,·,oa,l,-,d,·,o,(qa),r,:,k,‥,y
@@ -36342,9 +36342,9 @@ SPACE
 σ,a,v,i,◆,y,v
 SPACE
 α,_,l,-,y,:,h,i,y,-
-START kq-q-velo-k 
+START kq-q-velo-k
 l,a,h,·,(p)
-STOP kq-q-velo-k 
+STOP kq-q-velo-k
 SPACE
 f,·,:,l,‥,y,θ,a,ƶ,h
 SPACE
@@ -36390,7 +36390,7 @@ SPACE
 h,_,h,(ti),w,·,α
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 50:31 in vtrad vtbhs
 h,i,n,:,n,i,<,y
@@ -36437,7 +36437,7 @@ SPACE
 w,:,α,a,k,:,l,a,(ti),h
 SPACE
 k,·,oa,l,-,σ,:,v,i,y,v,o,τ,a,𝓂,y,w,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 50:33 in vtrad vtbhs
 k,·,o,<,h
@@ -36468,7 +36468,7 @@ $,·sh,_,l,·,:,x,a,𝓂,m.,.
 
 Jeremiah 50:34 in vtrad vtbhs
 g,·,o,α,:_,l,a,⅃,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 x,a,z,a,◆,q
 SPACE
@@ -36714,14 +36714,14 @@ SPACE
 SPACE
 k,·,i,𝓂,y,-,α,_,r,:,g,·,i,<,ʕ,a,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,r,w,ц,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,:_,r,i,y,ц,‥,m.,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,‥,ʕ,a,l,∵,ƶ,y,h,a
 SPACE
@@ -36808,7 +36808,7 @@ SPACE
 v,·,_,g,·,w,o,y,i,(me),m.
 SPACE
 n,i,$,·sh,:,m,a,𝓂,ʕ,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 51:1 in vtrad vtbhs
 k,·,o,(ye),h
@@ -36837,7 +36837,7 @@ Jeremiah 51:2 in vtrad vtbhs
 w,:,$,·sh,i,l,·,_,x,:,τ,·,i,(qa),y
 SPACE
 l,:,v,a,v,∵,<,l
-START lp-paseq 
+START lp-paseq
 z,a,r,i,y,m.,(p)
 SPACE
 w,:,z,‥,r,ƶ,w,·,h,a
@@ -36859,9 +36859,9 @@ r,a,ʕ,a,𝓂,h,.
 Jeremiah 51:3 in vtrad vtbhs
 α,∵,𝓂,l,-,y,i,d,:,r,o,<,k.,:
 SPACE
-START kq-k-velo-q 
+START kq-k-velo-q
 y,d,r,k.
-STOP kq-k-velo-q 
+STOP kq-k-velo-q
 SPACE
 h,_,d,·,o,r,‥,k.,:,(p)
 SPACE
@@ -36921,7 +36921,7 @@ y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 Jeremiah 51:6 in vtrad vtbhs
 n,u,⅃,σ,w,·
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,i,τ,·,⅃,w,o,k.,:
 SPACE
@@ -37046,7 +37046,7 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 α,:∵,l,o,h,‥,𝓂,y,n,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 51:11 in vtrad vtbhs
 h,a,v,‥,⅃,r,w,·
@@ -37119,14 +37119,14 @@ SPACE
 v,a,v,∵,𝓂,l,.
 
 Jeremiah 51:13 in vtrad vtbhs
-START kq 
-START kq-k 
+START kq
+START kq-k
 $,k,n,τ,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·sh,o,k,_,n,:,τ,·,:,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,_,l,-,m,_,⅃,y,i,m.
 SPACE
@@ -37166,7 +37166,7 @@ SPACE
 ʕ,a,l,_,(ti),y,i,k.,:
 SPACE
 h,‥,y,d,a,𝓂,d,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 51:15 in vtrad vtbhs
 ʕ,o,$,·si,‥,(me),h
@@ -37276,7 +37276,7 @@ SPACE
 ц,:,v,a,α,(ti),w,o,τ
 SPACE
 $,·sh,:,m,𝓂,w,o,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 51:20 in vtrad vtbhs
 m,_,f,·,‥,ц.,-,α,_,τ,·,a,⅃,h
@@ -37372,7 +37372,7 @@ SPACE
 l,:,v,a,v,∵,(ge),l
 SPACE
 w,·,l,:,k,o,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 y,w,o,$,·sh,:,v,‥,⅃,y
 SPACE
@@ -37391,7 +37391,7 @@ SPACE
 n,:,α,u,(ti),m.
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 51:25 in vtrad vtbhs
 h,i,n,:,n,i,(qa),y
@@ -37606,7 +37606,7 @@ SPACE
 h,_,m,·,i,l,:,x,a,m,a,(ti),h
 SPACE
 n,i,v,:,h,a,𝓂,l,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 51:33 in vtrad vtbhs
 k,·,i,y,(tq)
@@ -37642,23 +37642,23 @@ SPACE
 l,a,𝓂,h,·,.
 
 Jeremiah 51:34 in vtrad vtbhs
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,k,l,n,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,:_,k,a,l,_,⅃,n,i,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,m,m,n,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,:_,m,a,m,_,◆,n,i,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 n,:,v,w,·,k,_,d,:,r,∵,α,ц,·,_,r,~
 SPACE
@@ -37666,27 +37666,27 @@ m,∵,⅃,l,∵,k.,:
 SPACE
 v,·,a,v,∵,l,∴
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,ц,y,g,n,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,i,ц,·,i,y,g,_,(p),n,i,y,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 k,·,:,l,i,⅃,y
 SPACE
 r,i,ƶ,y,q
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 v,l,ʕ,n,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,·,:,l,a,ʕ,_,(p),n,i,y,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 k,·,_,τ,·,_,n,·,i,ƶ,y,n.
 SPACE
@@ -37696,14 +37696,14 @@ k,:,r,‥,$,·si,(ti),w,o
 SPACE
 m,‥,ʕ,:_,d,a,n,a,⅄,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,d,y,x,n,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,:∵,d,i,y,x,a,𝓂,n,i,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
 
 Jeremiah 51:35 in vtrad vtbhs
@@ -37728,7 +37728,7 @@ SPACE
 τ,·,o,α,m,_,(ti),r
 SPACE
 y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 51:36 in vtrad vtbhs
 l,a,k,‥,◆,n.
@@ -37759,9 +37759,9 @@ Jeremiah 51:37 in vtrad vtbhs
 w,:,h,a,y,:,τ,a,h,(tq)
 SPACE
 v,a,v,∵,(qa),l
-START lp-paseq 
+START lp-paseq
 l,:,g,_,l,·,i,(da),y,m.
-START lp-paseq 
+START lp-paseq
 m,:,ʕ,w,o,n.,-,τ,·,_,n,·,i,⟓,y,m.
 SPACE
 $,·sh,_,m,·,a,(me),h
@@ -38073,7 +38073,7 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 51:52 in vtrad vtbhs
 l,a,k,‥,(G),n.
@@ -38118,7 +38118,7 @@ SPACE
 l,a,(ti),h,·
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 51:54 in vtrad vtbhs
 q,(me),w,o,l
@@ -38223,7 +38223,7 @@ SPACE
 ц,:,v,a,α,(ti),w,o,τ
 SPACE
 $,·sh,:,m,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 51:58 in vtrad vtbhs
 k,·,o,𝓂,h,-,α,a,m,_,(G),r
@@ -38261,13 +38261,13 @@ SPACE
 v,·,:,d,‥,y,-,α,‥,(ti),$,·sh
 SPACE
 w,:,y,a,ʕ,‥,𝓂,f,w,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 51:59 in vtrad vtbhs
 h,_,d,·,a,v,a,(G),r
 SPACE
 α,:_,$,·sh,∵,r,-,ц,i,w,·,a,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 y,i,r,:,m,:,y,a,⅃,h,w,·
 SPACE
@@ -38431,7 +38431,7 @@ SPACE
 d,·,i,v,:,r,‥,(me),y
 SPACE
 y,i,r,:,m,:,y,a,𝓂,h,w,·,.
-START spi-pe2 
+START spi-pe2
 
 Jeremiah 52:1 in vtrad vtbhs
 v,·,∵,n.,-,ʕ,∵,$,·si,:,r,i,(qa),y,m.
@@ -38458,14 +38458,14 @@ w,:,$,·sh,‥,⅃,m.
 SPACE
 α,i,m,·,ƶ,w,o
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 x,m,y,θ,l
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 x,:_,m,w,·,θ,_,(me),l
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,_,𝓂,τ,-,y,i,r,:,m,:,y,a,(ti),h,w,·
 SPACE
@@ -38488,7 +38488,7 @@ y,:,h,w,o,y,a,q,i,𝓂,m.,.
 
 Jeremiah 52:3 in vtrad vtbhs
 k,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 ʕ,_,l,-,α,_,⅃,f.
 SPACE
@@ -38728,14 +38728,14 @@ v,·,a,v,∵,ƶ,l,a,h
 SPACE
 w,_,y,·,i,τ,·,:,n,‥,(me),h,w,·
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 v,v,y,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,‥,𝓂,y,τ,-
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 h,_,f,·,:,q,u,d,·,o,(ti),τ
 SPACE
 ʕ,_,d,-,y,(me),w,o,m.
@@ -38827,7 +38827,7 @@ SPACE
 w,:,𝓂,α,∵,τ,-,y,∵,(me),τ,∵,r
 SPACE
 h,a,ʕ,a,⅃,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 h,_,n,·,i,$,·sh,:,α,a,r,i,⅃,y,m.
 SPACE
@@ -38953,7 +38953,7 @@ r,_,v,-,θ,_,v,·,a,x,i,𝓂,y,m.,.
 
 Jeremiah 52:20 in vtrad vtbhs
 h,a,ʕ,_,m,·,w,·,d,i,⅃,y,m.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·sh,:,n,_,◆,y,i,m.
 SPACE
@@ -39002,14 +39002,14 @@ SPACE
 SPACE
 α,_,m,·,a,h,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 q,w,m,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 q,w,o,m,_,τ,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,a,ʕ,_,m,·,u,⅃,d
 SPACE
@@ -39086,7 +39086,7 @@ SPACE
 ʕ,_,l,-,h,_,$,·si,·,:,v,a,k,a,(ti),h
 SPACE
 σ,a,v,i,𝓂,y,v,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 52:24 in vtrad vtbhs
 w,_,y,·,i,q,·,_,⅃,x
@@ -39123,7 +39123,7 @@ SPACE
 α,:_,𝓂,$,·sh,∵,r,-,h,a,y,a,(me),h
 SPACE
 f,a,q,i,⅃,y,d
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 ʕ,_,l,-,α,_,n,:,$,·sh,‥,⅃,y
 SPACE
@@ -39214,7 +39214,7 @@ SPACE
 m,‥,ʕ,_,(me),l
 SPACE
 α,_,d,:,m,a,τ,𝓂,w,o,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 52:28 in vtrad vtbhs
 z,∵,⅃,h
@@ -39296,7 +39296,7 @@ SPACE
 w,:,$,·sh,‥,(me),$,·sh
 SPACE
 m,‥,α,𝓂,w,o,τ,.
-START spi-samekh2 
+START spi-samekh2
 
 Jeremiah 52:31 in vtrad vtbhs
 w,_,y,:,h,i,y,(tq)
@@ -39351,14 +39351,14 @@ SPACE
 SPACE
 m,i,v,·,‥,(me),y,τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,k,l,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,k,·,:,l,𝓂,w,·,α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
 
 Jeremiah 52:32 in vtrad vtbhs
@@ -39376,14 +39376,14 @@ m,i,m,·,_,◆,ʕ,_,l
 SPACE
 l,:,k,i,σ,·,‥,(da),α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 m,l,k,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,m,·,:,l,a,k,i,⟓,y,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE

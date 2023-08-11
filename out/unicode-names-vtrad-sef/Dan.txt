@@ -88,9 +88,9 @@ SPACE
 α,‥,𝓂,y,n.,-,v,·,a,h,∵,⅃,m.
 SPACE
 k,·,oa,l,-
-START kq-trivial 
+START kq-trivial
 m,α,w,·,m.,(tq)
-STOP kq-trivial 
+STOP kq-trivial
 SPACE
 w,:,θ,w,o,v,‥,(qa),y
 SPACE
@@ -554,7 +554,7 @@ SPACE
 l,:,k,(me),w,o,r,∵,$,·sh
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START spi-samekh2 
+START spi-samekh2
 
 Daniel 2:1 in vtrad vtsef
 w,·,v,i,$,·sh,:,n,_,⅃,τ
@@ -648,14 +648,14 @@ SPACE
 SPACE
 x,∵,l,:,m,a,⟓,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,ʕ,v,d,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,:,ʕ,_,v,:,d,a,(ti),k.,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,f,i,$,·sh,:,r,a,(me),α
 SPACE
@@ -668,14 +668,14 @@ m,_,l,:,k,·,a,α,(p)
 SPACE
 w,:,α,a,m,_,⅃,r
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,k,$,d,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,:,k,_,$,·si,:,d,·,a,α,‥,ƶ,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,i,l,·,:,τ,a,(ti),h
 SPACE
@@ -805,14 +805,14 @@ k,i,d,:,v,a,<,h
 SPACE
 w,·,$,·sh,:,x,i,y,τ,a,h,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,z,m,n,τ,w,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,i,z,:,d,·,:,m,i,n,:,τ,·,w,·,n.,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,:,m,‥,α,m,_,⅃,r
 SPACE
@@ -845,14 +845,14 @@ SPACE
 Daniel 2:10 in vtrad vtsef
 ʕ,:_,n,(qa),w,o
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 k,$,d,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 k,_,$,·si,:,d,·,a,α,‥,<,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 q,:a,d,a,m.,-,m,_,l,:,k,·,a,α,(p)
 SPACE
@@ -974,7 +974,7 @@ SPACE
 w,:,x,_,v,:,r,(ti),w,o,h,i,y
 SPACE
 l,:,h,i,τ,:,q,:,θ,a,l,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Daniel 2:14 in vtrad vtsef
 v,·,‥,α,d,_,⅃,y,i,n.
@@ -1056,7 +1056,7 @@ SPACE
 l,:,h,_,𝓂,x,:_,w,a,y,a,(me),h
 SPACE
 l,:,m,_,l,:,k,·,a,𝓂,α,.
-START spi-samekh2 
+START spi-samekh2
 
 Daniel 2:17 in vtrad vtsef
 α,:∵,d,_,(me),y,i,n.
@@ -1208,14 +1208,14 @@ m,a,⅃,h
 SPACE
 v,_,x,:_,$,·sh,w,o,k,a,ƶ,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,n,h,y,r,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,·,n,:,h,w,o,r,a,(ti),α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,i,m,·,‥,(me),h,·
 SPACE
@@ -1223,7 +1223,7 @@ $,·sh,:,r,‥,𝓂,α,.
 
 Daniel 2:23 in vtrad vtsef
 l,a,⅃,k.,:
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:∵,l,a,⅃,h,·
 SPACE
@@ -1283,7 +1283,7 @@ SPACE
 v,a,v,∵,⅄,l
 SPACE
 α,:_,z,_,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 w,:,k,‥,⅃,n.
 SPACE
@@ -1306,7 +1306,7 @@ SPACE
 l,:,m,_,l,:,k,·,a,(me),α
 SPACE
 α,:_,x,_,w,·,‥,𝓂,α,.
-START spi-samekh2 
+START spi-samekh2
 
 Daniel 2:25 in vtrad vtsef
 α,:∵,d,_,<,y,i,n.
@@ -1362,14 +1362,14 @@ $,·sh,:,m,‥,(ti),h,·
 SPACE
 v,·,‥,l,:,θ,:,$,·sh,_,α,ц,·,_,⅄,r
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,α,y,τ,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,_,𝓂,α,i,y,τ,a,⅃,k.,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 k,·,a,h,‥,◆,l
 SPACE
@@ -1454,17 +1454,17 @@ SPACE
 d,·,:,n,a,(me),h
 SPACE
 h,𝓂,w,·,α,.
-START spi-samekh2 
+START spi-samekh2
 
 Daniel 2:29 in vtrad vtsef
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,n,τ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,_,⅃,n,:,τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,_,l,:,k,·,a,◆,α
 SPACE
@@ -1532,17 +1532,17 @@ SPACE
 l,i,v,:,v,a,(ti),k.,:
 SPACE
 τ,·,i,n,:,d,·,_,𝓂,ʕ,.
-START spi-samekh2 
+START spi-samekh2
 
 Daniel 2:31 in vtrad vtsef
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,n,τ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,_,⅃,n,:,τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,_,l,:,k,·,a,◆,α
 SPACE
@@ -1612,27 +1612,27 @@ f,_,r,:,z,∵,⅄,l
 SPACE
 r,_,g,:,l,Ƶ,w,o,h,i,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 m,n,h,w,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 m,i,n,·,:,h,‥,y,n.,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 d,·,i,⅃,y
 SPACE
 f,_,r,:,z,∵,ƶ,l
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,m,n,h,w,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,·,m,i,n,·,:,h,‥,(ti),y,n.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 d,·,i,(me),y
 SPACE
@@ -1707,7 +1707,7 @@ SPACE
 l,:,h,⅄,w,o,n.
 SPACE
 w,:,α,_,v,:,n,a,⅃,α
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 d,·,i,𝓂,y,-,m,:,x,a,⅃,τ
 SPACE
@@ -1735,14 +1735,14 @@ SPACE
 q,:a,d,a,m.,-,m,_,l,:,k,·,a,𝓂,α,.
 
 Daniel 2:37 in vtrad vtsef
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,n,τ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,_,⅃,n,:,τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,_,l,:,k,·,a,ƶ,α
 SPACE
@@ -1769,14 +1769,14 @@ y,:,h,_,v,-,l,a,𝓂,k.,:,.
 Daniel 2:38 in vtrad vtsef
 w,·,v,:,k,oa,l,-,d,·,i,⅃,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 d,α,r,y,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 d,a,𝓂,y,:,r,i,⅃,y,n.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,:,𝓂,n,‥,y,-,α,:_,⌕,n,a,$,·sh,a,⌕,α
 SPACE
@@ -1794,14 +1794,14 @@ w,:,h,_,$,·sh,:,l,:,θ,a,(ti),k.,:
 SPACE
 v,·,:,k,oa,l,·,:,h,⅄,w,o,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,n,τ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,_,(qa),n,:,τ,·,:,-
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 h,ƶ,w,·,α
 SPACE
 r,‥,α,$,·sh,a,(ti),h
@@ -1819,27 +1819,27 @@ m,_,l,:,k,(me),w,·
 SPACE
 α,oa,x,:a,r,i,(ti),y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,r,ʕ,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,:_,r,_,⅃,ʕ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,i,n,·,a,⅄,k.,:
 SPACE
 w,·,m,_,l,:,k,(qa),w,·
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 τ,l,y,τ,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 τ,:,l,i,y,τ,a,α,a,<,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,oa,x,:a,r,i,y,(p)
 SPACE
@@ -1856,14 +1856,14 @@ v,·,:,k,oa,l,-,α,_,r,:,ʕ,a,𝓂,α,.
 Daniel 2:40 in vtrad vtsef
 w,·,m,_,l,:,k,w,·,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 r,v,y,ʕ,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 r,:,v,i,⅃,y,ʕ,a,α,a,ƶ,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 τ,·,∵,h,:∵,w,‥,(me),α
 SPACE
@@ -1900,27 +1900,27 @@ r,_,g,:,l,_,y,·,a,⅃,α
 SPACE
 w,:,α,∵,ц,:,v,·,:,ʕ,a,τ,a,◆,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 m,n,h,w,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 m,i,n,·,:,h,‥,(G),n.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 x,:_,σ,_,<,f.
 SPACE
 d,·,i,𝓂,y,-,f,∵,x,a,r,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,m,n,h,w,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,·,m,i,n,·,:,h,‥,⅃,y,n.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 f,·,_,r,:,z,∵,ƶ,l
 SPACE
@@ -1955,25 +1955,25 @@ w,:,α,∵,ц,:,v,·,:,ʕ,a,τ,(p)
 SPACE
 r,_,g,:,l,_,y,·,a,ƶ,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 m,n,h,w,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 m,i,n,·,:,h,‥,(me),y,n.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 f,·,_,r,:,z,∵,(ti),l
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,m,n,h,w,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,·,m,i,n,·,:,h,‥,⅃,y,n.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 x,:_,σ,_,⅄,f.
 SPACE
@@ -1992,14 +1992,14 @@ SPACE
 τ,:,v,i,y,r,a,𝓂,h,.
 
 Daniel 2:43 in vtrad vtsef
-START kq 
-START kq-k 
+START kq
+START kq-k
 d,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,d,i,⅃,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 x,:_,z,_,◆,y,:,τ,a
 SPACE
@@ -2140,7 +2140,7 @@ SPACE
 w,·,m,:,h,‥,y,m,_,(me),n.
 SPACE
 f,·,i,$,·sh,:,r,‥,𝓂,h,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Daniel 2:46 in vtrad vtsef
 v,·,‥,⌕,α,d,_,⌕,y,i,n.
@@ -2271,7 +2271,7 @@ SPACE
 v,·,i,τ,:,r,_,(me),ʕ
 SPACE
 m,_,l,:,k,·,a,𝓂,α,.
-START spi-pe2 
+START spi-pe2
 
 Daniel 3:1 in vtrad vtsef
 n,:,v,w,·,k,_,d,:,n,∵,ц,·,_,⅃,r
@@ -2314,7 +2314,7 @@ SPACE
 $,·sh,:,l,_,μ,x
 SPACE
 l,:,m,i,k,:,n,_,⅃,$,·sh
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 l,_,𝓂,α,:_,x,_,$,·sh,:,d,·,_,r,:,f,·,:,n,_,y,·,a,μ,α
 SPACE
@@ -2387,14 +2387,14 @@ n,:,v,w,·,k,_,d,:,n,∵,ц,·,_,⅃,r
 SPACE
 m,_,l,:,k,·,a,⅄,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,q,α,m,y,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,q,a,𝓂,y,:,m,i,y,n.,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,oa,q,:a,v,‥,⅃,l
 SPACE
@@ -2434,14 +2434,14 @@ q,_,r,:,n,a,⅃,α
 SPACE
 m,_,⌕,$,·sh,:,r,w,o,q,i,y,τ,a,⌕,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 q,y,τ,r,σ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 q,_,τ,:,r,(qa),w,o,σ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 $,·si,_,v,·,:,k,a,<,α
 SPACE
@@ -2507,14 +2507,14 @@ q,_,r,:,n,a,α,(tq)
 SPACE
 m,_,$,·sh,:,r,(qa),w,o,q,i,y,τ,a,(ge),α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 q,y,τ,r,σ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 q,_,τ,:,r,<,w,o,σ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 $,·si,_,v,·,:,k,a,α,(p)
 SPACE
@@ -2585,14 +2585,14 @@ SPACE
 x,:∵,y,i,𝓂,y,.
 
 Daniel 3:10 in vtrad vtsef
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,n,τ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,_,⅃,n,:,τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,_,l,:,k,·,a,α,~
 SPACE
@@ -2612,27 +2612,27 @@ q,_,r,:,n,a,⅃,α
 SPACE
 m,_,⌕,$,·sh,:,r,o,q,i,y,τ,a,⌕,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 q,y,τ,r,σ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 q,_,τ,:,r,(qa),w,o,σ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 $,·si,_,v,·,:,k,a,<,α
 SPACE
 f,:,σ,_,n,:,τ,·,‥,r,i,y,n.,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,σ,y,f,n,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,σ,w,·,f,·,o,⅃,n,:,y,a,ƶ,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,k,o,(ti),l
 SPACE
@@ -2694,27 +2694,27 @@ SPACE
 SPACE
 l,a,α,-,$,·si,a,(qa),m,𝓂,w,·
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,:_,l,a,<,k.,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,_,l,:,k,·,a,α,(p)
 SPACE
 θ,:,ʕ,‥,ƶ,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,α,l,h,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,‥,𝓂,α,l,a,h,a,k.,:,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,a,⅃,α
 SPACE
@@ -2825,14 +2825,14 @@ q,_,r,:,n,a,⅃,α
 SPACE
 m,_,$,·sh,:,r,w,o,q,i,y,τ,a,⅃,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 q,y,τ,r,σ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 q,_,τ,:,r,⅃,w,o,σ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 $,·si,_,v,·,:,k,a,μ,α
 SPACE
@@ -2841,7 +2841,7 @@ SPACE
 w,:,σ,w,·,m,:,f,·,o,(qa),n,:,y,a,(ge),h
 SPACE
 w,:,k,o,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 z,:,n,‥,⅃,y
 SPACE
@@ -2948,24 +2948,24 @@ m,_,l,:,k,·,a,⅄,α
 SPACE
 d,·,i,<,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,α,l,h,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,‥,𝓂,α,l,a,h,a,k.,:,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,a,α,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 α,i,y,τ,_,⅃,n,a,α
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 α,y,τ,y,n,α
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 f,a,𝓂,l,:,x,i,ƶ,y,n.
 SPACE
@@ -2980,7 +2980,7 @@ SPACE
 l,a,(me),α
 SPACE
 n,i,σ,:,g,·,u,𝓂,d,.
-START spi-pe2 
+START spi-pe2
 
 Daniel 3:19 in vtrad vtsef
 v,·,‥,α,d,_,(qa),y,i,n.
@@ -2995,14 +2995,14 @@ w,·,ц,:,l,‥,<,m.
 SPACE
 α,_,n,:,f,·,(p),w,o,h,i,y,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,$,τ,n,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,∵,$,·sh,:,τ,·,_,n,·,i,ƶ,y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,_,l,-,$,·sh,_,d,:,r,_,(me),k.,:
 SPACE
@@ -3070,14 +3070,14 @@ k,·,:,f,i,(p),τ,w,·,(p)
 SPACE
 v,·,:,σ,_,r,:,v,·,a,l,‥,y,h,w,o,n.,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 f,θ,y,$,y,h,w,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 f,·,_,θ,·,:,$,·sh,‥,y,h,ƶ,w,o,n.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,k,_,r,:,v,·,:,l,a,τ,:,h,(ti),w,o,n.
 SPACE
@@ -3158,7 +3158,7 @@ SPACE
 y,a,𝓂,q,i,d,:,τ,·,a,(ti),α
 SPACE
 m,:,k,_,f,·,:,τ,i,𝓂,y,n.,.
-START spi-pe2 
+START spi-pe2
 
 Daniel 3:24 in vtrad vtsef
 α,:∵,d,_,(p),y,i,n.,(p)
@@ -3230,14 +3230,14 @@ w,:,r,‥,w,‥,h,·,(p)
 SPACE
 d,·,i,⅃,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 r,v,y,ʕ,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 r,:,𝓂,v,i,y,ʕ,a,α,a,ƶ,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 d,·,a,m,‥,(ti),h
 SPACE
@@ -3272,14 +3272,14 @@ SPACE
 SPACE
 d,·,i,𝓂,y,-,α,:∵,l,a,h,a,(me),α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,i,l,·,a,α,a,(ti),h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 f,·,u,⅃,q,w,·
 SPACE
@@ -3393,14 +3393,14 @@ $,·sh,_,n,·,i,ƶ,y,w
 SPACE
 w,i,y,h,_,⅃,v,w,·
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 g,$,m,y,h,w,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 g,∵,$,·sh,:,m,:,h,◆,w,o,n.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 d,·,i,⌕,y
 SPACE
@@ -3431,14 +3431,14 @@ w,:,l,i,$,·sh,·,a,◆,n.
 SPACE
 d,·,i,𝓂,y,-,y,‥,α,m,_,<,r
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 $,l,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·sh,a,l,w,·,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,_,⅃,l
 SPACE
@@ -3498,7 +3498,7 @@ SPACE
 v,·,i,m,:,d,i,y,n,_,(me),τ
 SPACE
 v,·,a,v,∵,𝓂,l,.
-START spi-pe2 
+START spi-pe2
 
 Daniel 3:31 in vtrad vtsef
 n,:,v,w,·,k,_,d,:,n,∵,ц,·,_,⅃,r
@@ -3512,14 +3512,14 @@ SPACE
 w,:,l,i,$,·sh,·,a,n,_,y,·,a,⟓,α
 SPACE
 d,·,i,𝓂,y,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 d,a,y,:,r,i,(me),y,n.
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 d,α,r,y,n.
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 v,·,:,k,oa,l,-,α,_,r,:,ʕ,a,(ti),α
 SPACE
@@ -3540,14 +3540,14 @@ SPACE
 SPACE
 α,:∵,l,a,h,a,(ti),α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,i,l,·,a,α,a,⅄,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 $,·sh,:,f,_,(me),r
 SPACE
@@ -3638,27 +3638,27 @@ y,:,h,𝓂,w,o,d,:,ʕ,u,n,·,_,𝓂,n,i,y,.
 Daniel 4:4 in vtrad vtsef
 v,·,‥,α,d,_,⅃,y,i,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,l,y,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,oa,l,·,i,◆,y,n.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 x,_,r,:,θ,u,m,·,_,y,·,a,α,(p)
 SPACE
 α,a,𝓂,$,·sh,:,f,_,y,·,a,ƶ,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 k,$,d,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 k,·,_,$,·si,:,d,·,a,α,‥,(ti),y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,g,a,z,:,r,_,y,·,a,⅄,α
 SPACE
@@ -3717,7 +3717,7 @@ SPACE
 x,_,r,:,θ,u,m,·,_,y,·,a,α,∴
 SPACE
 d,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:_,n,a,⅃,h
 SPACE
@@ -3807,7 +3807,7 @@ SPACE
 τ,·,:,x,o,τ,(ge),w,o,h,i,y
 SPACE
 τ,·,_,θ,:,l,‥,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 x,‥,y,w,_,⅃,τ
 SPACE
@@ -3815,14 +3815,14 @@ v,·,a,r,a,◆,α
 SPACE
 w,·,v,:,ʕ,_,n,:,f,(p),w,o,h,i,y,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,d,r,w,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,:,d,w,·,r,a,n.,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ц,i,f,·,:,r,‥,⅃,y
 SPACE
@@ -3931,14 +3931,14 @@ Daniel 4:13 in vtrad vtsef
 l,i,v,:,v,‥,h,·,(p)
 SPACE
 m,i,n.,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 α,:_,n,a,$,·sh,a,⅃,α
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 α,n,w,$,α
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 y,:,$,·sh,_,n,·,ƶ,w,o,n.
 SPACE
@@ -3981,25 +3981,25 @@ x,_,⌕,y,·,_,y,·,a,⌕,α
 SPACE
 d,·,i,𝓂,y,-,$,·sh,_,l,·,i,(qa),y,θ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,i,l,·,a,α,a,(ge),h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,:,m,_,l,:,k,⅃,w,·,τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,n,w,$,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,:_,n,a,$,·sh,a,◆,α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,l,:,m,_,n.,-,d,·,i,<,y
 SPACE
@@ -4013,14 +4013,14 @@ SPACE
 SPACE
 y,:,q,i,(me),y,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,:_,l,_,𝓂,h,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
 
 Daniel 4:15 in vtrad vtsef
@@ -4036,26 +4036,26 @@ m,_,l,:,k,·,a,⅃,α
 SPACE
 n,:,v,w,·,k,_,d,:,n,∵,ц,·,_,⅄,r
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,α,n,τ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,α,_,(qa),n,:,τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,‥,l,:,θ,:,$,·sh,_,α,ц,·,_,(ge),r
 SPACE
 f,·,i,$,·sh,:,r,‥,⅃,α
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:∵,m,_,◆,r
 SPACE
 k,·,oa,l,-,q,:a,v,‥,l,(p)
 SPACE
 d,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 k,·,oa,l,-,x,_,k,·,i,y,m,‥,⅃,y
 SPACE
@@ -4067,14 +4067,14 @@ f,·,i,$,·sh,:,r,a,α,(p)
 SPACE
 l,:,h,w,o,d,a,⅃,ʕ,w,·,τ,_,ƶ,n,i,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,α,n,τ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,α,_,⅃,n,:,τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 k,·,a,h,‥,ƶ,l
 SPACE
@@ -4129,25 +4129,25 @@ m,a,r,i,Ƶ,α,y
 SPACE
 x,∵,l,:,m,a,(me),α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,$,n,α,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,:,$,·si,a,𝓂,n,:,α,a,(ti),k.,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,f,i,$,·sh,:,r,‥,(me),h,·
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 l,ʕ,r,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 l,:,ʕ,a,r,a,𝓂,k.,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
 
 Daniel 4:17 in vtrad vtsef
@@ -4203,28 +4203,28 @@ SPACE
 $,·sh,:,m,_,y,·,a,𝓂,α,.
 
 Daniel 4:19 in vtrad vtsef
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,n,τ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,_,n,:,τ,·,:,-
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 h,⅃,w,·,α
 SPACE
 m,_,l,:,k,·,a,ƶ,α
 SPACE
 d,·,i,(me),y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 r,v,y,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 r,:,v,_,(ti),τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,τ,:,q,‥,⅄,f,:,τ,·,:
 SPACE
@@ -4254,7 +4254,7 @@ SPACE
 w,:,q,_,d,·,i,⅃,y,$,·sh
 SPACE
 n,a,x,i,⅃,τ
-START lp-paseq 
+START lp-paseq
 m,i,n.,-,$,·sh,:,m,_,y,·,a,μ,α
 SPACE
 w,:,α,a,m,_,r,(tq)
@@ -4318,14 +4318,14 @@ m,_,l,:,k,·,a,⅄,α
 SPACE
 w,·,g,:,z,‥,r,_,<,τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,i,l,·,a,α,a,h,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,i,ƶ,y,α
 SPACE
@@ -4334,9 +4334,9 @@ SPACE
 m,:,θ,a,(ti),τ
 SPACE
 ʕ,_,l,-
-START kq-trivial 
+START kq-trivial
 m,a,r,i,(me),α,y
-STOP kq-trivial 
+STOP kq-trivial
 SPACE
 m,_,l,:,k,·,a,𝓂,α,.
 
@@ -4358,7 +4358,7 @@ SPACE
 w,:,ʕ,i,$,·si,:,v,·,a,(me),α
 SPACE
 k,:,τ,w,o,r,i,⅃,y,n.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 l,a,⅃,k.,:
 SPACE
@@ -4378,14 +4378,14 @@ SPACE
 SPACE
 y,_,x,:,l,:,f,⅃,w,·,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,:_,l,a,⅄,k.,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,_,⅃,d
 SPACE
@@ -4393,14 +4393,14 @@ d,·,i,𝓂,y,-,τ,i,n,:,d,·,_,◆,ʕ
 SPACE
 d,·,i,𝓂,y,-,$,·sh,_,l,·,i,<,y,θ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,i,l,·,a,α,a,h,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,:,m,_,l,:,k,⅃,w,·,τ
 SPACE
@@ -4452,23 +4452,23 @@ m,i,l,:,k,·,i,y,(p)
 SPACE
 y,i,$,·sh,:,f,·,_,⅃,r
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,:_,l,a,ƶ,k.,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,x,θ,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,_,x,:_,θ,a,α,a,k.,:,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,:,ц,i,d,:,q,a,⅃,h
 SPACE
@@ -4496,7 +4496,7 @@ SPACE
 ʕ,_,l,-,n,:,v,w,·,k,_,d,:,n,∵,ц,·,_,(ti),r
 SPACE
 m,_,l,:,k,·,a,𝓂,α,.
-START spi-pe2 
+START spi-pe2
 
 Daniel 4:26 in vtrad vtsef
 l,i,q,:,ц,a,(me),τ
@@ -4604,14 +4604,14 @@ SPACE
 SPACE
 y,_,x,:,l,:,f,⅃,w,·,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,:_,l,a,⅄,k.,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,_,⅃,d
 SPACE
@@ -4619,14 +4619,14 @@ d,·,i,𝓂,y,-,τ,i,n,:,d,·,_,◆,ʕ
 SPACE
 d,·,i,𝓂,y,-,$,·sh,_,l,·,i,<,y,θ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,i,l,·,a,α,a,h,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,:,m,_,l,:,k,⅃,w,·,τ
 SPACE
@@ -4689,7 +4689,7 @@ SPACE
 n,:,v,w,·,k,_,d,:,n,∵,ц,·,_,(ge),r
 SPACE
 ʕ,_,y,:,n,_,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 l,i,$,·sh,:,m,_,y,·,a,⅃,α
 SPACE
@@ -4701,14 +4701,14 @@ SPACE
 SPACE
 y,:,τ,ƶ,w,·,v
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,l,ʕ,l,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,·,l,:,ʕ,i,l,·,a,α,a,h,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,a,r,:,k,‥,ƶ,τ
 SPACE
@@ -4736,14 +4736,14 @@ w,:,d,a,𝓂,r,.
 
 Daniel 4:32 in vtrad vtsef
 w,:,k,oa,l,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 d,·,a,y,:,r,‥,<,y
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 d,α,r,y
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 α,_,r,:,ʕ,a,α,(p)
 SPACE
@@ -4759,14 +4759,14 @@ v,·,:,x,‥,⅃,y,l
 SPACE
 $,·sh,:,m,_,y,·,a,ƶ,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,d,α,r,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,d,a,y,:,r,‥,(ti),y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,_,r,:,ʕ,a,⅄,α
 SPACE
@@ -4790,7 +4790,7 @@ Daniel 4:33 in vtrad vtsef
 v,·,‥,h,·,-,z,i,m,:,n,a,(G),α
 SPACE
 m,_,n,:,d,·,:,ʕ,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 y,:,τ,⅃,w,·,v
 SPACE
@@ -4864,7 +4864,7 @@ SPACE
 y,a,k,i,(ti),l
 SPACE
 l,:,h,_,$,·sh,:,f,·,a,l,a,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Daniel 5:1 in vtrad vtsef
 v,·,‥,l,:,$,·sh,_,α,ц,·,_,⅃,r
@@ -4893,7 +4893,7 @@ Daniel 5:2 in vtrad vtsef
 v,·,‥,l,:,$,·sh,_,α,ц,·,_,(G),r
 SPACE
 α,:_,m,_,⅃,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,i,θ,:,ʕ,‥,⅃,m.
 SPACE
@@ -4992,14 +4992,14 @@ w,:,α,_,v,:,n,a,𝓂,α,.
 Daniel 5:5 in vtrad vtsef
 v,·,_,h,·,-,$,·sh,_,ʕ,:_,τ,a,◆,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 n,f,q,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 n,:,f,_,(p),q,a,h,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,∵,ц,:,v,·,:,ʕ,a,n.,(p)
 SPACE
@@ -5073,14 +5073,14 @@ l,:,h,∵,𝓂,ʕ,a,l,a,h,(p)
 SPACE
 l,:,α,a,⅃,$,·sh,:,f,_,y,·,a,ƶ,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 k,$,d,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 k,·,_,$,·si,:,d,·,a,α,‥,(ti),y
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,g,a,z,:,r,_,y,·,a,⅄,α
 SPACE
@@ -5089,7 +5089,7 @@ SPACE
 m,_,l,:,k,·,a,(ge),α
 SPACE
 w,:,α,a,m,_,⅃,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 l,:,x,_,k,·,i,y,m,‥,⅃,y
 SPACE
@@ -5113,14 +5113,14 @@ SPACE
 SPACE
 y,i,l,:,v,·,_,◆,$,·sh
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,h,m,n,w,k,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,h,_,𝓂,m,:,n,i,y,k,a,<,α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 d,i,𝓂,y,-,d,_,h,:_,v,a,α,(p)
 SPACE
@@ -5131,19 +5131,19 @@ SPACE
 v,:,m,_,l,:,k,w,·,τ,a,(ti),α
 SPACE
 y,i,$,·sh,:,l,_,𝓂,θ,.
-START spi-samekh2 
+START spi-samekh2
 
 Daniel 5:8 in vtrad vtsef
 α,:∵,d,_,(p),y,i,n.,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,l,y,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,a,𝓂,l,·,i,ƶ,y,n.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 k,·,o,(ti),l
 SPACE
@@ -5157,14 +5157,14 @@ k,·,:,τ,a,v,a,α,(p)
 SPACE
 l,:,m,i,q,:,r,‥,ƶ,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,f,$,r,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,·,f,i,$,·sh,:,r,‥,(ti),h,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,:,h,w,o,d,a,ʕ,a,(me),h
 SPACE
@@ -5206,14 +5206,14 @@ l,:,v,‥,(me),y,τ
 SPACE
 m,i,$,·sh,:,τ,·,:,y,a,(ti),α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,l,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,_,l,·,_,⅄,τ
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,:_,n,a,(qa),τ
 SPACE
@@ -5231,14 +5231,14 @@ SPACE
 SPACE
 r,_,ʕ,:,y,w,o,n,a,ƶ,k.,:
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,z,y,w,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,z,i,w,a,(ti),y,k.,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 α,_,l,-,y,i,$,·sh,:,τ,·,_,n,·,𝓂,w,o,.
 
@@ -5303,7 +5303,7 @@ SPACE
 d,·,i,⅃,y
 SPACE
 r,⅃,w,·,x,_
-START lp-paseq 
+START lp-paseq
 y,_,τ,·,i,y,r,a,μ,h
 SPACE
 w,·,m,_,n,:,d,·,_,μ,ʕ
@@ -5343,7 +5343,7 @@ SPACE
 w,·,f,i,$,·sh,:,r,a,(me),h
 SPACE
 y,:,h,_,𝓂,x,:_,w,‥,𝓂,h,.
-START spi-pe2 
+START spi-pe2
 
 Daniel 5:13 in vtrad vtsef
 v,·,‥,α,d,_,(p),y,i,n.,(p)
@@ -5364,14 +5364,14 @@ w,:,α,a,m,_,⅃,r
 SPACE
 l,:,d,a,n,i,y,·,‥,◆,α,l
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,n,τ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,_,n,:,τ,·,:,-
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 h,<,w,·,α
 SPACE
 d,a,n,i,y,·,‥,α,l,(p)
@@ -5397,14 +5397,14 @@ m,i,n.,-,y,:,h,𝓂,w,·,d,.
 Daniel 5:14 in vtrad vtsef
 w,:,$,·sh,i,m,:,ʕ,‥,⅃,τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,:_,l,a,ƶ,k.,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 d,·,i,⟓,y
 SPACE
@@ -5458,24 +5458,24 @@ w,_,α,:_,n,a,h,(p)
 SPACE
 $,·sh,i,m,:,ʕ,‥,⅃,τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,:_,l,a,ƶ,k.,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 d,·,i,𝓂,y,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 τ,i,k,·,(me),w,·,l
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 τ,w,k,l
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 f,·,i,$,·sh,:,r,i,⟓,y,n.
 SPACE
@@ -5489,14 +5489,14 @@ k,·,:,ʕ,_,μ,n.
 SPACE
 h,‥,n.,(tq)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 τ,w,k,l
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 τ,·,i,k,·,(qa),w,·,l
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 k,·,:,τ,a,v,a,(ge),α
 SPACE
@@ -5510,14 +5510,14 @@ SPACE
 SPACE
 τ,i,l,:,v,·,_,◆,$,·sh
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,h,m,w,n,k,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,h,_,𝓂,m,:,n,i,y,k,a,<,α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 d,i,𝓂,y,-,d,_,h,:_,v,a,α,(p)
 SPACE
@@ -5528,7 +5528,7 @@ SPACE
 v,:,m,_,l,:,k,w,·,τ,a,(ti),α
 SPACE
 τ,·,i,$,·sh,:,l,_,𝓂,θ,.
-START spi-pe2 
+START spi-pe2
 
 Daniel 5:17 in vtrad vtsef
 v,·,‥,α,d,_,(ge),y,i,n.
@@ -5568,27 +5568,27 @@ SPACE
 α,:_,h,w,o,d,:,ʕ,i,n,·,‥,𝓂,h,·,.
 
 Daniel 5:18 in vtrad vtsef
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,n,τ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,_,(ti),n,:,τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,_,l,:,k,·,a,⅄,α
 SPACE
 α,:∵,l,a,h,a,α,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,i,l,·,a,α,a,ƶ,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,_,l,:,k,w,·,τ,a,<,α
 SPACE
@@ -5621,14 +5621,14 @@ w,:,l,i,$,·sh,·,a,⅃,n,_,y,·,a,ƶ,α
 SPACE
 h,:_,w,⟓,w,o
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 z,α,ʕ,y,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 z,a,y,:,ʕ,i,(me),y,n.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,d,a,x,:_,l,i,(ti),y,n.
 SPACE
@@ -5699,18 +5699,18 @@ SPACE
 θ,:,r,i,(ge),y,d
 SPACE
 w,:,l,i,v,:,v,‥,⅃,h,·
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 ʕ,i,m.,-,x,‥,y,w,:,τ,a,⅃,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 $,w,y
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·sh,_,w,·,i,◆,y,w
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,ʕ,i,m.,-,ʕ,:_,r,a,𝓂,d,_,y,·,a,α,(p)
 SPACE
@@ -5738,14 +5738,14 @@ d,·,i,𝓂,y,-,$,·sh,_,l,·,i,(G),y,θ
 SPACE
 α,:∵,l,a,h,a,<,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,i,l,·,a,α,a,h,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,:,m,_,l,:,k,⅃,w,·,τ
 SPACE
@@ -5757,25 +5757,25 @@ y,i,ц,:,v,·,‥,(ti),α
 SPACE
 y,:,h,a,q,‥,(me),y,m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,:_,l,_,𝓂,h,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
 
 Daniel 5:22 in vtrad vtsef
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,α,n,τ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,α,_,<,n,:,τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 v,·,:,r,‥,h,·,(p)
 SPACE
@@ -5799,7 +5799,7 @@ Daniel 5:23 in vtrad vtsef
 w,:,ʕ,_,⅃,l
 SPACE
 m,a,r,‥,𝓂,α,-,$,·sh,:,m,_,y,·,a,⅃,α
-START lp-paseq 
+START lp-paseq
 h,i,τ,:,r,w,o,m,_,μ,m,:,τ,·,a
 SPACE
 w,·,l,:,m,a,𝓂,α,n,_,y,·,a,(qa),α
@@ -5808,32 +5808,32 @@ d,i,𝓂,y,-,v,_,y,:,τ,‥,(ge),h,·
 SPACE
 h,_,y,:,τ,i,⅃,y,w
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 q,d,m,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 q,oa,𝓂,d,a,m,a,◆,k.,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,α,n,τ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,α,_,(qa),n,:,τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,r,v,r,v,n,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,r,_,v,:,r,:,v,a,n,a,(ge),k.,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 $,·sh,‥,𝓂,g,:,l,a,τ,a,⅃,k.,:
 SPACE
@@ -5956,7 +5956,7 @@ w,·,f,a,r,a,𝓂,σ,.
 
 Daniel 5:29 in vtrad vtsef
 v,·,‥,α,d,_,⅃,y,i,n.
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:_,m,_,⅃,r
 SPACE
@@ -5968,14 +5968,14 @@ l,:,d,a,𝓂,n,i,y,·,‥,α,l,(p)
 SPACE
 α,_,r,:,g,·,:,w,a,n,a,ƶ,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,h,m,n,w,k,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,h,_,𝓂,m,:,n,i,y,k,a,(me),α
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 d,i,𝓂,y,-,d,_,h,:_,v,a,(ti),α
 SPACE
@@ -6004,28 +6004,28 @@ v,·,‥,l,:,α,$,·sh,_,ц,·,_,(ti),r
 SPACE
 m,_,l,:,k,·,a,(me),α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 k,$,d,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 k,_,$,·si,:,d,·,a,α,a,𝓂,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
-START spi-pe2 
+START spi-pe2
 
 Daniel 6:1 in vtrad vtsef
 w,:,d,a,r,:,y,a,(p),w,∵,$,·sh,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 m,d,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 m,a,𝓂,d,a,α,a,ƶ,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 q,_,v,·,‥,(ti),l
 SPACE
@@ -6203,7 +6203,7 @@ SPACE
 v,·,:,d,a,(me),τ
 SPACE
 α,:∵,l,a,h,‥,𝓂,h,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Daniel 6:7 in vtrad vtsef
 α,:∵,⌕,d,_,⌕,y,i,n.
@@ -6236,7 +6236,7 @@ Daniel 6:8 in vtrad vtsef
 α,i,τ,:,y,a,ʕ,_,(ge),θ,w,·
 SPACE
 k,·,o,⅃,l
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 σ,a,r,:,k,‥,⅃,y
 SPACE
@@ -6362,7 +6362,7 @@ SPACE
 v,:,y,w,o,m,a,(ge),α
 SPACE
 h,⅃,w,·,α
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,a,r,‥,⅃,k.,:
 SPACE
@@ -6385,7 +6385,7 @@ SPACE
 m,i,n.,-,q,_,d,:,m,_,(ti),τ
 SPACE
 d,·,:,n,a,𝓂,h,.
-START spi-samekh2 
+START spi-samekh2
 
 Daniel 6:12 in vtrad vtsef
 α,:∵,⌕,d,_,⌕,y,i,n.
@@ -6498,14 +6498,14 @@ y,:,h,◆,w,·,d
 SPACE
 l,a,α,-,$,·si,a,(qa),m.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,:_,l,a,<,k.,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,_,l,:,k,·,a,α,(p)
 SPACE
@@ -6526,7 +6526,7 @@ SPACE
 v,·,a,ʕ,‥,(ti),α
 SPACE
 v,·,a,ʕ,w,·,τ,‥,𝓂,h,·,.
-START spi-pe2 
+START spi-pe2
 
 Daniel 6:15 in vtrad vtsef
 α,:∵,d,_,(qa),y,i,n.
@@ -6566,7 +6566,7 @@ SPACE
 m,i,$,·sh,:,τ,·,_,d,·,_,(ti),r
 SPACE
 l,:,h,_,ц,·,a,l,w,·,τ,‥,𝓂,h,·,.
-START spi-samekh2 
+START spi-samekh2
 
 Daniel 6:16 in vtrad vtsef
 v,·,‥,α,d,_,(p),y,i,n.,(p)
@@ -6636,14 +6636,14 @@ SPACE
 SPACE
 d,·,i,⅃,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,n,τ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,_,<,n,:,τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 f,·,a,𝓂,l,_,𝓂,x,-,l,‥,h,·,(p)
 SPACE
@@ -6714,17 +6714,17 @@ v,·,‥,α,d,_,⅃,y,i,n.
 SPACE
 m,_,l,:,k,·,a,ƶ,α
 SPACE
-START slh-word 
+START slh-word
 v,·,i,$,·sh,:
-START letter-small 
+START letter-small
 f,·,_
-STOP letter-small 
+STOP letter-small
 r,:
-START letter-large 
+START letter-large
 f,·,a
-STOP letter-large 
+STOP letter-large
 r,a,(ti),α
-STOP slh-word 
+STOP slh-word
 SPACE
 y,:,q,⅃,w,·,m.
 SPACE
@@ -6771,14 +6771,14 @@ SPACE
 SPACE
 d,·,i,⅃,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,n,τ,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,_,<,n,:,τ,·,:
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 f,·,a,𝓂,l,_,𝓂,x,-,l,‥,h,·,(p)
 SPACE
@@ -6836,14 +6836,14 @@ l,i,ƶ,y
 SPACE
 w,:,α,_,<,f.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 q,d,m,y,k.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 q,oa,𝓂,d,a,m,a,k.,:,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,_,l,:,k,·,a,ƶ,α
 SPACE
@@ -6955,14 +6955,14 @@ SPACE
 w,:,l,i,$,·sh,·,a,n,_,y,·,a,⟓,α
 SPACE
 d,·,i,𝓂,y,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 d,a,y,:,r,i,(me),y,n.
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 d,α,r,y,n.
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 v,·,:,k,oa,l,-,α,_,r,:,ʕ,a,(ti),α
 SPACE
@@ -6978,7 +6978,7 @@ SPACE
 θ,:,ʕ,‥,m.,∴
 SPACE
 d,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 v,·,:,k,oa,l,-,$,·sh,oa,l,:,θ,a,⅃,n.
 SPACE
@@ -6986,14 +6986,14 @@ m,_,l,:,k,w,·,τ,i,◆,y
 SPACE
 l,∵,h,:∵,w,ḥḥfv,<,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 z,α,ʕ,y,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 z,a,y,:,ʕ,i,y,n.,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,d,a,⅃,x,:_,l,i,ƶ,y,n.
 SPACE
@@ -7004,7 +7004,7 @@ SPACE
 d,·,i,y,-,d,a,𝓂,n,i,y,·,‥,⅄,α,l
 SPACE
 d,·,i,y,-,h,⅃,w,·,α
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:∵,l,a,h,a,⅃,α
 SPACE
@@ -7064,16 +7064,16 @@ w,·,v,:,m,_,l,:,k,(ti),w,·,τ
 SPACE
 k,·,(me),w,o,r,∵,$,·sh
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 f,r,σ,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 f,·,a,r,:,σ,a,α,a,𝓂,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 .
-START spi-pe2 
+START spi-pe2
 
 Daniel 7:1 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,⅃,τ
@@ -7175,14 +7175,14 @@ SPACE
 SPACE
 d,·,i,y,-,m,·,:,r,i,(qa),y,θ,w,·
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 g,f,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 g,_,f,·,_,(ge),h,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,n,:,θ,i,⅃,y,l,_,τ
 SPACE
@@ -7227,14 +7227,14 @@ v,·,:,f,u,m,·,_,(ti),h,·
 SPACE
 v,·,‥,⅃,y,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 $,n,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·sh,i,n,·,_,⅄,h,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,k,‥,n.,(p)
 SPACE
@@ -7274,14 +7274,14 @@ SPACE
 d,·,i,y,-,ʕ,(ti),w,o,f.
 SPACE
 ʕ,_,l,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 g,·,_,v,·,_,⅄,h,·
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 g,v,y,h
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 w,:,α,_,r,:,v,·,:,ʕ,a,<,h
 SPACE
@@ -7312,14 +7312,14 @@ w,_,α,:_,r,⅃,w,·
 SPACE
 x,‥,y,w,a,⅃,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 r,v,y,ʕ,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 r,:,𝓂,v,i,y,ʕ,a,α,a,μ,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 d,·,:,x,i,y,l,a,h,(tq)
 SPACE
@@ -7343,14 +7343,14 @@ w,·,m,_,d,·,:∵,q,a,ƶ,h
 SPACE
 w,·,$,·sh,:,α,a,r,a,(ti),α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 v,r,g,l,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,·,:,r,_,g,:,l,_,⅃,h,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 r,a,f,:,σ,a,⅄,h
 SPACE
@@ -7362,14 +7362,14 @@ m,i,n.,-,k,·,oa,l,-,x,‥,𝓂,y,w,a,τ,a,α,(p)
 SPACE
 d,·,i,⅃,y
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 q,d,m,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 q,oa,𝓂,d,a,m,_,ƶ,h,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,:,q,_,r,:,n,_,(me),y,i,n.
 SPACE
@@ -7394,14 +7394,14 @@ z,:,ʕ,‥,y,r,a,h,(p)
 SPACE
 σ,i,l,:,q,a,⅃,τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 v,y,n,y,h,w,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,·,‥,𝓂,y,n,‥,y,h,‥,ƶ,n.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,τ,:,l,a,◆,τ
 SPACE
@@ -7409,24 +7409,24 @@ m,i,n.,-,q,_,r,:,n,_,y,·,a,α,(p)
 SPACE
 q,_,d,:,m,a,⅃,y,a,τ,a,ƶ,α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,τ,ʕ,q,r,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,∵,τ,:,ʕ,:_,q,_,(ti),r,a,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,i,n.,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 q,:a,d,a,m,_,⅄,h,·
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 q,d,m,y,h
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 w,_,α,:_,l,(qa),w,·
 SPACE
@@ -7464,7 +7464,7 @@ SPACE
 y,:,τ,i,⅄,v
 SPACE
 l,:,v,w,·,$,·sh,‥,⅃,h,·
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 k,·,i,τ,:,l,_,⅃,g
 SPACE
@@ -7503,27 +7503,27 @@ m,i,n.,-,q,:a,d,a,m,ƶ,w,o,h,i,y
 SPACE
 α,∵,<,l,∵,f.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 α,l,f,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 α,_,l,:,f,i,y,n.,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 y,:,$,·sh,_,m,·,:,$,·sh,w,·,n,·,‥,ƶ,h,·
 SPACE
 w,:,r,i,v,·,(me),w,o
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 r,v,w,n.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 r,i,v,:,v,a,(ti),n.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 q,a,𝓂,d,a,m,⅃,w,o,h,i,y
 SPACE
@@ -7670,7 +7670,7 @@ SPACE
 d,·,i,y,-,l,a,(me),α
 SPACE
 τ,i,τ,:,x,_,v,·,_,𝓂,l,.
-START spi-pe2 
+START spi-pe2
 
 Daniel 7:15 in vtrad vtsef
 α,∵,τ,:,k,·,:,r,i,y,·,_,(me),τ
@@ -7770,38 +7770,38 @@ SPACE
 $,·sh,a,𝓂,n,:,y,a,(ti),h
 SPACE
 m,i,n.,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 k,·,oa,l,·,:,h,‥,⅄,y,n.
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 k,l,h,w,n.
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 d,·,:,x,i,y,l,a,⅃,h
 SPACE
 y,_,τ,·,i,◆,y,r,a,h
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 $,n,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 $,·sh,i,n,·,_,<,h,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 d,·,i,𝓂,y,-,f,_,r,:,z,∵,l,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,θ,f,r,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,θ,i,f,:,r,_,⅃,h,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 d,·,i,𝓂,y,-,n,:,x,a,ƶ,$,·sh
 SPACE
@@ -7811,14 +7811,14 @@ m,_,d,·,:,q,a,ƶ,h
 SPACE
 w,·,$,·sh,:,α,a,r,a,(ti),α
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 v,r,g,l,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 v,·,:,r,_,g,:,l,_,(me),h,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 r,a,𝓂,f,:,σ,a,𝓂,h,.
 
@@ -7837,24 +7837,24 @@ d,·,i,⅃,y
 SPACE
 σ,i,l,:,q,_,ƶ,τ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,n,f,l,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,·,n,:,f,_,(me),l,a,h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 m,i,n.,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 q,:a,d,a,m,_,(ti),h,·
-STOP kq-q 
-START kq-k 
+STOP kq-q
+START kq-k
 q,d,m,y,h
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 τ,·,:,l,a,⅄,τ
 SPACE
@@ -7935,14 +7935,14 @@ r,:,v,i,y,ʕ,a,⅃,y,:,τ,a,ƶ,α
 SPACE
 m,_,l,:,k,<,w,·
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 r,v,y,ʕ,y,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 r,:,v,i,y,ʕ,a,α,a,h,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 τ,·,∵,h,:∵,w,‥,⅃,α
 SPACE
@@ -8000,14 +8000,14 @@ w,·,m,i,l,·,i,◆,y,n.
 SPACE
 l,:,ц,_,<,d
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 ʕ,l,y,α
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 ʕ,i,l,·,a,α,a,h,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 y,:,m,_,l,·,i,ƶ,l
 SPACE
@@ -8103,7 +8103,7 @@ SPACE
 d,a,𝓂,n,i,y,·,‥,(ge),α,l
 SPACE
 $,·si,_,g,·,i,⅃,y,α
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 r,_,ʕ,:,y,w,o,n,_,⅃,y
 SPACE
@@ -8120,7 +8120,7 @@ SPACE
 v,·,:,l,i,v,·,i,(me),y
 SPACE
 n,i,θ,:,r,‥,𝓂,τ,.
-START spi-pe2 
+START spi-pe2
 
 Daniel 8:1 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,⅃,τ
@@ -8192,7 +8192,7 @@ SPACE
 w,a,α,∵,r,:,α,∵,ƶ,h
 SPACE
 w,:,h,i,n,·,‥,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,_,⅃,y,i,l
 SPACE
@@ -8257,7 +8257,7 @@ w,:,h,i,g,:,d,·,i,𝓂,y,l,.
 
 Daniel 8:5 in vtrad vtsef
 w,_,α,:_,n,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 h,a,y,i,⅃,y,τ,i,y
 SPACE
@@ -8322,7 +8322,7 @@ Daniel 8:7 in vtrad vtsef
 w,·,r,:,α,i,y,τ,i,(G),y,w
 SPACE
 m,_,g,·,i,⅃,y,ʕ,_
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,‥,⅃,ц,∵,l
 SPACE
@@ -8442,14 +8442,14 @@ h,i,g,:,d,·,i,⅄,y,l
 SPACE
 w,·,m,i,m,·,∵,(p),n,·,w,·,(p)
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,r,y,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,w,·,r,_,⅃,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 h,_,τ,·,a,m,i,ƶ,y,d
 SPACE
@@ -8830,7 +8830,7 @@ SPACE
 w,:,α,‥,(me),y,n.
 SPACE
 m,‥,v,i,𝓂,y,n.,.
-START spi-pe2 
+START spi-pe2
 
 Daniel 9:1 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,⅃,τ
@@ -8953,14 +8953,14 @@ x,a,θ,a,(me),α,n,w,·
 SPACE
 w,:,ʕ,a,w,i,(ti),y,n,w,·
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,h,r,$,ʕ,n,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 h,i,r,:,$,·sh,_,⅃,ʕ,:,n,w,·
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,m,a,r,a,⅄,d,:,n,w,·
 SPACE
@@ -9148,15 +9148,15 @@ Daniel 9:12 in vtrad vtsef
 w,_,y,·,a,(ge),q,∵,m.
 SPACE
 α,∵,τ,-
-START kq 
-START kq-q 
+START kq
+START kq-q
 d,·,:,v,a,r,⅃,w,o
-START lp-legarmeih 
-STOP kq-q 
-START kq-k 
+START lp-legarmeih
+STOP kq-q
+START kq-k
 d,v,r,y,w
-STOP kq-k 
-STOP kq 
+STOP kq-k
+STOP kq
 SPACE
 α,:_,$,·sh,∵,r,-,d,·,i,v,·,∵,⅃,r
 SPACE
@@ -9214,7 +9214,7 @@ SPACE
 w,:,l,o,𝓂,α,-,x,i,l,·,i,(ge),y,n,w,·
 SPACE
 α,∵,τ,-,f,·,:,n,‥,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 y,:,h,o,w,a,⅃,h
 SPACE
@@ -9259,7 +9259,7 @@ v,·,:,q,o,l,𝓂,w,o,.
 
 Daniel 9:15 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -9326,7 +9326,7 @@ l,:,k,oa,l,-,σ,:,v,i,y,v,o,τ,‥,𝓂,y,n,w,·,.
 
 Daniel 9:17 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,⅃,h
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 $,·sh,:,m,_,⅃,ʕ
 SPACE
@@ -9354,19 +9354,19 @@ Daniel 9:18 in vtrad vtsef
 h,_,θ,·,‥,(qa),h
 SPACE
 α,:∵,l,o,h,_,(me),y
-START lp-paseq 
+START lp-paseq
 α,oa,z,:,n,:,k.,a,~
 SPACE
 w,·,𝓂,$,·sh,:,m,a,ʕ,∴
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 f,q,x,h
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 f,·,:,q,_,⅃,x
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,‥,y,n,∵,◆,y,k.,a
 SPACE
@@ -9383,7 +9383,7 @@ SPACE
 ʕ,a,l,∵,⅄,y,h,a
 SPACE
 k,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 l,o,⅃,α
 SPACE
@@ -9405,11 +9405,11 @@ h,a,r,_,v,·,i,𝓂,y,m.,.
 
 Daniel 9:19 in vtrad vtsef
 α,:_,d,o,n,a,<,y
-START lp-paseq 
+START lp-paseq
 $,·sh,:,m,a,(p),ʕ,a,h,(p)
 SPACE
 α,:_,d,o,n,a,⅃,y
-START lp-paseq 
+START lp-paseq
 σ,:,l,a,ƶ,x,a,h
 SPACE
 α,:_,d,o,n,a,⟓,y
@@ -9556,7 +9556,7 @@ SPACE
 n,∵,x,:,τ,·,_,(me),k.,:
 SPACE
 ʕ,_,𝓂,l,-,ʕ,_,m,·,:,k.,a,⅃
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 w,:,ʕ,_,l,-,ʕ,i,⅃,y,r
 SPACE
@@ -9566,23 +9566,23 @@ l,:,k,_,l,·,‥,(qa),α
 SPACE
 h,_,f,·,∵,(ge),$,·sh,_,ʕ
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,l,x,τ,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,·,l,:,h,a,τ,‥,<,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 x,θ,α,w,τ
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 x,_,θ,·,a,α,τ,(p)
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 w,·,l,:,k,_,f,·,‥,⅃,r
 SPACE
@@ -9706,7 +9706,7 @@ SPACE
 h,_,$,·sh,·,a,v,(ge),w,·,ʕ,_
 SPACE
 y,_,$,·sh,:,v,·,i,⅃,y,τ
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 z,∵,⅃,v,_,x
 SPACE
@@ -9727,7 +9727,7 @@ SPACE
 τ,·,i,τ,·,_,(ti),k.,:
 SPACE
 ʕ,_,l,-,$,·sh,o,m,‥,𝓂,m.,.
-START spi-samekh2 
+START spi-samekh2
 
 Daniel 10:1 in vtrad vtsef
 v,·,i,$,·sh,:,n,_,⅃,τ
@@ -9817,7 +9817,7 @@ SPACE
 $,·sh,a,v,u,ʕ,i,(ti),y,m.
 SPACE
 y,a,m,i,𝓂,y,m.,.
-START spi-pe2 
+START spi-pe2
 
 Daniel 10:4 in vtrad vtsef
 w,·,v,:,y,⟓,w,o,m.
@@ -10073,7 +10073,7 @@ SPACE
 d,a,n,i,y,·,‥,α,l,∴
 SPACE
 k,·,i,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,i,n.,-,h,_,y,·,⅃,w,o,m.
 SPACE
@@ -10103,7 +10103,7 @@ v,·,i,d,:,v,a,r,∵,𝓂,y,k.,a,.
 
 Daniel 10:13 in vtrad vtsef
 w,:,$,·si,_,⅃,r
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 m,_,l,:,k,⅃,w,·,τ
 SPACE
@@ -10352,7 +10352,7 @@ SPACE
 α,i,m.,-,m,i,y,k,a,α,‥,(ti),l
 SPACE
 $,·si,_,r,:,k,∵,𝓂,m.,.
-START spi-pe2 
+START spi-pe2
 
 Daniel 11:1 in vtrad vtsef
 w,_,α,:_,n,i,y,(p)
@@ -10604,9 +10604,9 @@ SPACE
 α,∵,l,-,α,_,d,:,m,a,τ,𝓂,w,o,.
 
 Daniel 11:10 in vtrad vtsef
-START kq-trivial 
+START kq-trivial
 w,·,v,a,n,a,⅃,w
-STOP kq-trivial 
+STOP kq-trivial
 SPACE
 y,i,τ,:,g,·,a,r,◆,w,·
 SPACE
@@ -10628,19 +10628,19 @@ w,:,ʕ,a,v,a,⅄,r
 SPACE
 w,:,y,a,$,·sh,o,(me),v
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,y,τ,g,r,w
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,y,i,τ,:,g,·,a,r,∵,(ti),h
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 ʕ,_,d,-
-START kq-trivial 
+START kq-trivial
 m,a,ʕ,u,z,·,o,𝓂,h
-STOP kq-trivial 
+STOP kq-trivial
 .
 
 Daniel 11:11 in vtrad vtsef
@@ -10677,14 +10677,14 @@ w,:,n,i,$,·si,·,a,(me),α
 SPACE
 h,∵,h,a,m,(ti),w,o,n.
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 y,r,w,m.
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,r,a,⅃,m.
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 l,:,v,a,v,⅄,w,o
 SPACE
@@ -10743,7 +10743,7 @@ SPACE
 h,_,n,·,∵,⅄,g,∵,v
 SPACE
 w,·,v,:,n,‥,⅃,y
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 f,·,a,r,i,y,ц,‥,⅃,y
 SPACE
@@ -10817,7 +10817,7 @@ v,:,y,a,d,𝓂,w,o,.
 
 Daniel 11:17 in vtrad vtsef
 w,:,y,a,$,·si,‥,⅃,m.
-START lp-paseq 
+START lp-paseq
 f,·,a,⌕,n,a,⌕,y,w
 SPACE
 l,a,v,(G),w,o,α
@@ -10849,15 +10849,15 @@ SPACE
 τ,i,h,:,y,∵,𝓂,h,.
 
 Daniel 11:18 in vtrad vtsef
-START kq 
-START kq-k 
+START kq
+START kq-k
 w,y,$,v
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 w,:,y,a,$,·si,‥,(da),m.
-STOP kq-q 
-STOP kq 
-START lp-paseq 
+STOP kq-q
+STOP kq
+START lp-paseq
 f,·,a,n,a,⟓,y,w
 SPACE
 l,:,α,i,y,·,i,(ti),y,m.
@@ -11375,14 +11375,14 @@ n,‥,k,a,ƶ,r
 SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
-START kq 
-START kq-k 
+START kq
+START kq-k
 h,k,y,r
-STOP kq-k 
-START kq-q 
+STOP kq-k
+START kq-q
 y,_,k,·,i,(ti),y,r
-STOP kq-q 
-STOP kq 
+STOP kq-q
+STOP kq
 SPACE
 y,_,r,:,v,·,∵,⅃,h
 SPACE
@@ -11638,7 +11638,7 @@ SPACE
 l,:,ʕ,w,o,l,a,(me),m.
 SPACE
 w,a,ʕ,∵,𝓂,d,.
-START spi-pe2 
+START spi-pe2
 
 Daniel 12:4 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -11723,7 +11723,7 @@ Daniel 12:7 in vtrad vtsef
 w,a,α,∵,$,·sh,:,m,_,(G),ʕ
 SPACE
 α,∵,τ,-,h,a,α,i,⅃,y,$,·sh
-START lp-legarmeih 
+START lp-legarmeih
 SPACE
 l,:,v,⅃,w,·,$,·sh
 SPACE
