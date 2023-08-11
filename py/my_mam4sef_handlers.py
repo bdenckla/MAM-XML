@@ -158,7 +158,9 @@ HANDLERS = {
     ('letter-small', None): _letter_small,
     ('letter-large', None): _letter_large,
     ('letter-hung', None): _letter_hung,
+    ('slh-word', None): _pass_thru,
     ('note', None): _note,
+    ('note-on-slh-word', None): _note,
     #
     ('kq-k-velo-q', None): _ketiv,
     ('kq-k-velo-q', 'append-maqaf'): _ketiv,

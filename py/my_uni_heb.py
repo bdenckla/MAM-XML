@@ -16,6 +16,7 @@ from my_str_defs import CGJ, NBSP
 
 
 def do_quick_test():
+    """ Do a quick test. """
     lines1 = _get_pre_lines(' ', ' '+'אבג')
     lines2 = _get_pre_lines(' ', 'דהו'+' ')
     lines3 = _get_pre_lines(' ', ' '+'זחט'+' ')
@@ -41,10 +42,12 @@ def shortened_unicode_name(string):
 
 
 def accent_names(string):
+    """ Return accent names. """
     return filter(None, (_HE_TO_NONHE_ACC_DIC.get(c) for c in string))
 
 
 def hechar_names(string):
+    """ Return Hebrew character names. """
     return (_HE_TO_NONHE_DIC[c] for c in string)
 
 
@@ -95,17 +98,21 @@ def _write_segments(out_fp, segments, cant_dab=None, indent=''):
         if isinstance(segment, dict):
             segtag = my_html.hel_get_tag(segment)  # e.g. 'span'
             attr = segment.get('attr')
-            kev = _key_eq_val_str(attr or {})
-            out_fp.write(indent + f'START {segtag} {kev}\n')
+            kev_strs = _key_eq_val_strs(attr or {})
+            out_fp.write(indent + _stasto('START', segtag, kev_strs))
             if contents := segment.get('contents'):
                 _write_segments(out_fp, contents, None, indent)
-                out_fp.write(indent + f'STOP {segtag} {kev}\n')
+                out_fp.write(indent + _stasto('STOP', segtag, kev_strs))
             continue
         assert False, 'instance of unexpected type'
 
 
-def _key_eq_val_str(dic):
-    return ' '.join((f'{key}={val}' for key, val in dic.items()))
+def _key_eq_val_strs(dic):
+    return tuple(f'{key}={val}' for key, val in dic.items())
+
+
+def _stasto(stasto, segtag, kev_strs):
+    return ' '.join((stasto, segtag, *kev_strs)) + '\n'
 
 
 def _get_pre_lines(sep, segment):
