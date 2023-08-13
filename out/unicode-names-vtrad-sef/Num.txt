@@ -243,8 +243,13 @@ SPACE
 SPACE
 n,i,q,·,:,v,(ti),w,·
 SPACE
+START scrdfftar
+START scrdfftar-star-no
+START scrdfftar-target
 v,·,:,$,·sh,‥,m,o,𝓂,τ
-START note
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -252,7 +257,8 @@ SPACE
 w,α,$,k,n,z
 SPACE
 v,·,:,$,·sh,‥,m,𝓂,w,o,τ,RIGHT PARENTHESIS
-STOP note
+STOP scrdfftar-note
+STOP scrdfftar
 .
 
 Numbers 1:18 in vtrad vtsef
@@ -9006,8 +9012,13 @@ w,·,𝓂,v,:,m,w,o,ʕ,:_,d,‥,y,k,∵,m.,~
 SPACE
 w,·,v,:,r,a,α,$,·sh,‥,⅃,y
 SPACE
+START scrdfftar
+START scrdfftar-star-no
+START scrdfftar-target
 x,oa,d,:,$,·sh,‥,y,k,∵,m.,∴
-START note
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -9015,7 +9026,8 @@ SPACE
 w,α,$,k,n,z
 SPACE
 x,oa,d,:,$,·sh,‥,k,∵,m.,∴,RIGHT PARENTHESIS
-STOP note
+STOP scrdfftar-note
+STOP scrdfftar
 SPACE
 w,·,τ,:,q,_,ʕ,:,τ,·,∵,⅃,m.
 SPACE
@@ -18387,8 +18399,14 @@ m,_,l,:,α,a,k,i,(ge),y,m.
 SPACE
 α,∵,l,-,v,·,i,l,:,ʕ,a,⅃,m.
 SPACE
-v,·,∵,n.,-,v,·,:,ʕ,o,◆,r
-START note
+v,·,∵,n.,-
+START scrdfftar
+START scrdfftar-star-no
+START scrdfftar-target
+v,·,:,ʕ,o,◆,r
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -18396,7 +18414,8 @@ SPACE
 w,α,$,k,n,z
 SPACE
 v,·,:,ʕ,◆,w,o,r,RIGHT PARENTHESIS
-STOP note
+STOP scrdfftar-note
+STOP scrdfftar
 SPACE
 f,·,:,⌕,τ,⌕,w,o,r,a,h
 SPACE
@@ -20954,8 +20973,13 @@ SPACE
 l,·,‥,α,m,o,𝓂,r,.
 
 Numbers 25:11 in vtrad vtsef
+START scrdfftar
+START scrdfftar-star-no
+START scrdfftar-target
 f,·,i,𝓂,y,n,:,x,a,(qa),σ
-START note
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -20977,7 +21001,8 @@ SPACE
 v,y,w,HPU GERSHAYIM,d
 SPACE
 z,ʕ,y,r,α,RIGHT PARENTHESIS
-STOP note
+STOP scrdfftar-note
+STOP scrdfftar
 SPACE
 v,·,∵,n.,-,α,∵,l,:,ʕ,a,z,a,(ge),r
 SPACE
@@ -21018,8 +21043,13 @@ l,⟓,w,o
 SPACE
 α,∵,τ,-,v,·,:,r,i,y,τ,i,(ti),y
 SPACE
+START scrdfftar
+START scrdfftar-star-no
+START scrdfftar-target
 $,·sh,a,l,𝓂,w,o,m.
-START note
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -21029,7 +21059,8 @@ SPACE
 w,y,HPU GERSHAYIM,w
 SPACE
 q,θ,y,ʕ,α,RIGHT PARENTHESIS
-STOP note
+STOP scrdfftar-note
+STOP scrdfftar
 .
 
 Numbers 25:13 in vtrad vtsef

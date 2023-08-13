@@ -12204,10 +12204,16 @@ w,_,y,·,o,◆,α,m,∵,r
 SPACE
 k,·,i,𝓂,y,-,y,a,d,(p)
 SPACE
-ʕ,_,l,-,k,·,‥,⅃,σ
+ʕ,_,l,-
+START scrdfftar
+START scrdfftar-star-no
+START scrdfftar-target
+k,·,‥,⅃,σ
 SPACE
 y,a,ƶ,h,·
-START note
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,v,k,τ,r
 SPACE
 α,r,m.
@@ -12223,7 +12229,8 @@ SPACE
 v,τ,y,v,h
 SPACE
 α,x,τ,RIGHT PARENTHESIS
-STOP note
+STOP scrdfftar-note
+STOP scrdfftar
 SPACE
 m,i,l,:,x,a,m,a,(me),h
 SPACE
@@ -17774,8 +17781,13 @@ SPACE
 SPACE
 m,i,q,:,$,·sh,a,(G),h
 SPACE
+START scrdfftar
+START scrdfftar-star-no
+START scrdfftar-target
 τ,·,‥,ʕ,a,$,·si,∵,<,h
-START note
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -17783,7 +17795,8 @@ SPACE
 w,α,$,k,n,z
 SPACE
 τ,·,‥,y,ʕ,a,$,·si,∵,<,h,RIGHT PARENTHESIS
-STOP note
+STOP scrdfftar-note
+STOP scrdfftar
 SPACE
 h,_,m,·,:,n,w,o,r,a,h,(p)
 SPACE
@@ -20044,8 +20057,13 @@ SPACE
 SPACE
 α,∵,l,-,ʕ,‥,(me),v,∵,r
 SPACE
+START scrdfftar
+START scrdfftar-star-no
+START scrdfftar-target
 h,a,α,‥,f,o,(ti),d
-START note
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -20053,7 +20071,8 @@ SPACE
 w,α,$,k,n,z
 SPACE
 h,a,α,‥,f,(ti),w,o,d,RIGHT PARENTHESIS
-STOP note
+STOP scrdfftar-note
+STOP scrdfftar
 SPACE
 v,·,a,𝓂,y,:,τ,a,h,.
 
@@ -24535,8 +24554,13 @@ SPACE
 l,o,(me),α
 SPACE
 y,‥,r,a,α,𝓂,w,·,.
+START scrdfftar
+START scrdfftar-star-no
+START scrdfftar-target
 START spi-pe2
-START note
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,σ,f,q
 SPACE
 f,r,$,h
@@ -24548,7 +24572,8 @@ SPACE
 α,r,m.
 SPACE
 ц,w,v,h,RIGHT PARENTHESIS
-STOP note
+STOP scrdfftar-note
+STOP scrdfftar
 
 Exodus 34:1 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -24719,11 +24744,16 @@ SPACE
 w,∵,α,:∵,m,∵,𝓂,τ,.
 
 Exodus 34:7 in vtrad vtsef
+START scrdfftar-of-slh-word
+START scrdfftar-star-no
+START scrdfftar-target
 START letter-large
 n,o
 STOP letter-large
 ц,‥,(me),r
-START note-on-slh-word
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -24733,7 +24763,8 @@ SPACE
 v,n,w,HPU GERSHAYIM,n.
 SPACE
 r,g,y,l,h,RIGHT PARENTHESIS
-STOP note-on-slh-word
+STOP scrdfftar-note
+STOP scrdfftar-of-slh-word
 SPACE
 x,∵,(p),σ,∵,d,(p)
 SPACE

@@ -672,16 +672,21 @@
       <verse osisID="Deut.11.19" text="וְלִמַּדְתֶּ֥ם אֹתָ֛ם אֶת־בְּנֵיכֶ֖ם לְדַבֵּ֣ר בָּ֑ם בְּשִׁבְתְּךָ֤ בְּבֵיתֶ֙ךָ֙ וּבְלֶכְתְּךָ֣ בַדֶּ֔רֶךְ וּֽבְשׇׁכְבְּךָ֖ וּבְקוּמֶֽךָ׃" />
       <verse osisID="Deut.11.20" text="וּכְתַבְתָּ֛ם עַל־מְזוּז֥וֹת בֵּיתֶ֖ךָ וּבִשְׁעָרֶֽיךָ׃" />
       <verse osisID="Deut.11.21" ends-with-sampe="samekh2">
-        <text text="לְמַ֨עַן יִרְבּ֤וּ יְמֵיכֶם֙ וִימֵ֣י בְנֵיכֶ֔ם עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁ֨ר נִשְׁבַּ֧ע יְהֹוָ֛ה לַאֲבֹתֵיכֶ֖ם לָתֵ֣ת לָהֶ֑ם כִּימֵ֥י הַשָּׁמַ֖יִם עַל־הָאָֽרֶץ" />
-        <note>
-          <text text="(בספרי תימן " />
-          <slh-word>
-            <text text="הָאָֽרֶ" />
-            <letter-large text="ץ" />
-            <text text="׃" />
-          </slh-word>
-          <text text=" בצד״י גדולה)" />
-        </note>
+        <text text="לְמַ֨עַן יִרְבּ֤וּ יְמֵיכֶם֙ וִימֵ֣י בְנֵיכֶ֔ם עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁ֨ר נִשְׁבַּ֧ע יְהֹוָ֛ה לַאֲבֹתֵיכֶ֖ם לָתֵ֣ת לָהֶ֑ם כִּימֵ֥י הַשָּׁמַ֖יִם " />
+        <scrdfftar>
+          <scrdfftar-star-no />
+          <scrdfftar-target text="עַל־הָאָֽרֶץ" />
+          <scrdfftar-star-yes />
+          <scrdfftar-note>
+            <text text="(בספרי תימן " />
+            <slh-word>
+              <text text="הָאָֽרֶ" />
+              <letter-large text="ץ" />
+              <text text="׃" />
+            </slh-word>
+            <text text=" בצד״י גדולה)" />
+          </scrdfftar-note>
+        </scrdfftar>
         <text text="׃" />
       </verse>
       <spi-samekh2 />
@@ -1070,15 +1075,19 @@
       <spi-pe2 />
       <verse osisID="Deut.22.6" starts-with-sampe="pe2">
         <text text="כִּ֣י יִקָּרֵ֣א " />
-        <note>
-          <text text="(בספרי תימן " />
-          <slh-word>
-            <letter-large text="קַ" />
-            <text text="ן" />
-          </slh-word>
-          <text text=" בקו״ף גדולה)" />
-        </note>
-        <text text="קַן־צִפּ֣וֹר" />
+        <scrdfftar>
+          <scrdfftar-star-yes />
+          <scrdfftar-target text="קַן־צִפּ֣וֹר" />
+          <scrdfftar-star-no />
+          <scrdfftar-note>
+            <text text="(בספרי תימן " />
+            <slh-word>
+              <letter-large text="קַ" />
+              <text text="ן" />
+            </slh-word>
+            <text text=" בקו״ף גדולה)" />
+          </scrdfftar-note>
+        </scrdfftar>
         <lp-paseq />
         <text text="לְפָנֶ֡יךָ בַּדֶּ֜רֶךְ בְּכׇל־עֵ֣ץ" />
         <lp-legarmeih />
@@ -1175,8 +1184,13 @@
       <verse osisID="Deut.23.1" starts-with-sampe="samekh2" ends-with-sampe="samekh2" text="לֹא־יִקַּ֥ח אִ֖ישׁ אֶת־אֵ֣שֶׁת אָבִ֑יו וְלֹ֥א יְגַלֶּ֖ה כְּנַ֥ף אָבִֽיו׃" />
       <spi-samekh2 />
       <verse osisID="Deut.23.2" starts-with-sampe="samekh2" ends-with-sampe="samekh2">
-        <text text="לֹֽא־יָבֹ֧א פְצֽוּעַ־דַּכָּ֛א" />
-        <note text="(ברוב ספרי אשכנז דַּכָּ֛ה)" />
+        <text text="לֹֽא־יָבֹ֧א פְצֽוּעַ־" />
+        <scrdfftar>
+          <scrdfftar-star-no />
+          <scrdfftar-target text="דַּכָּ֛א" />
+          <scrdfftar-star-yes />
+          <scrdfftar-note text="(ברוב ספרי אשכנז דַּכָּ֛ה)" />
+        </scrdfftar>
         <text text=" וּכְר֥וּת שׇׁפְכָ֖ה בִּקְהַ֥ל יְהֹוָֽה׃" />
       </verse>
       <spi-samekh2 />
@@ -1351,7 +1365,12 @@
       <spi-samekh2 />
       <verse osisID="Deut.27.19" starts-with-sampe="samekh2">
         <text text="אָר֗וּר מַטֶּ֛ה מִשְׁפַּ֥ט גֵּר־יָת֖וֹם וְאַלְמָנָ֑ה וְאָמַ֥ר כׇּל־הָעָ֖ם אָמֵֽן׃" />
-        <note text="(ספק פרשה סתומה בכתר ארם צובה)" />
+        <scrdfftar>
+          <scrdfftar-star-no />
+          <scrdfftar-target />
+          <scrdfftar-star-yes />
+          <scrdfftar-note text="(ספק פרשה סתומה בכתר ארם צובה)" />
+        </scrdfftar>
       </verse>
       <verse osisID="Deut.27.20" ends-with-sampe="samekh2" text="אָר֗וּר שֹׁכֵב֙ עִם־אֵ֣שֶׁת אָבִ֔יו כִּ֥י גִלָּ֖ה כְּנַ֣ף אָבִ֑יו וְאָמַ֥ר כׇּל־הָעָ֖ם אָמֵֽן׃" />
       <spi-samekh2 />
@@ -1662,18 +1681,24 @@
         <text text="דּ֥וֹר עִקֵּ֖שׁ וּפְתַלְתֹּֽל׃" />
       </verse>
       <verse osisID="Deut.32.6">
-        <slh-word>
-          <letter-large text="הַ" />
-        </slh-word>
-        <text text=" לְיְהֹוָה֙" />
-        <note>
-          <text text="(בספרי תימן " />
-          <slh-word>
-            <letter-large text="הַֽ" />
-            <text text="לְיהֹוָה֙" />
-          </slh-word>
-          <text text=" בתיבה אחת)" />
-        </note>
+        <scrdfftar>
+          <scrdfftar-star-no />
+          <scrdfftar-target>
+            <slh-word>
+              <letter-large text="הַ" />
+            </slh-word>
+            <text text=" לְיְהֹוָה֙" />
+          </scrdfftar-target>
+          <scrdfftar-star-yes />
+          <scrdfftar-note>
+            <text text="(בספרי תימן " />
+            <slh-word>
+              <letter-large text="הַֽ" />
+              <text text="לְיהֹוָה֙" />
+            </slh-word>
+            <text text=" בתיבה אחת)" />
+          </scrdfftar-note>
+        </scrdfftar>
         <text text=" תִּגְמְלוּ־זֹ֔את" />
         <shirah-space />
         <text text="עַ֥ם נָבָ֖ל וְלֹ֣א חָכָ֑ם הֲלוֹא־הוּא֙ אָבִ֣יךָ קָּנֶ֔ךָ" />
@@ -1956,15 +1981,19 @@
       <verse osisID="Deut.33.27" text="מְעֹנָהֿ֙ אֱלֹ֣הֵי קֶ֔דֶם וּמִתַּ֖חַת זְרֹעֹ֣ת עוֹלָ֑ם וַיְגָ֧רֶשׁ מִפָּנֶ֛יךָ אוֹיֵ֖ב וַיֹּ֥אמֶר הַשְׁמֵֽד׃" />
       <verse osisID="Deut.33.28" text="וַיִּשְׁכֹּן֩ יִשְׂרָאֵ֨ל בֶּ֤טַח בָּדָד֙ עֵ֣ין יַֽעֲקֹ֔ב אֶל־אֶ֖רֶץ דָּגָ֣ן וְתִיר֑וֹשׁ אַף־שָׁמָ֖יו יַ֥עַרְפוּ טָֽל׃" />
       <verse osisID="Deut.33.29" ends-with-sampe="samekh2">
-        <text text="אַשְׁרֶ֨יךָ" />
-        <note>
-          <text text="(בספרי תימן " />
-          <slh-word>
-            <letter-large text="אַ" />
-            <text text="שְׁרֶ֨יךָ" />
-          </slh-word>
-          <text text=" באל״ף גדולה)" />
-        </note>
+        <scrdfftar>
+          <scrdfftar-star-no />
+          <scrdfftar-target text="אַשְׁרֶ֨יךָ" />
+          <scrdfftar-star-yes />
+          <scrdfftar-note>
+            <text text="(בספרי תימן " />
+            <slh-word>
+              <letter-large text="אַ" />
+              <text text="שְׁרֶ֨יךָ" />
+            </slh-word>
+            <text text=" באל״ף גדולה)" />
+          </scrdfftar-note>
+        </scrdfftar>
         <text text=" יִשְׂרָאֵ֜ל מִ֣י כָמ֗וֹךָ עַ֚ם נוֹשַׁ֣ע בַּֽיהֹוָ֔ה מָגֵ֣ן עֶזְרֶ֔ךָ וַאֲשֶׁר־חֶ֖רֶב גַּאֲוָתֶ֑ךָ וְיִכָּחֲשׁ֤וּ אֹיְבֶ֙יךָ֙ לָ֔ךְ וְאַתָּ֖ה עַל־בָּמוֹתֵ֥ימוֹ תִדְרֹֽךְ׃" />
       </verse>
     </chapter>

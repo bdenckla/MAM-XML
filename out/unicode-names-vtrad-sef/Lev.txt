@@ -2953,11 +2953,16 @@ h,a,ʕ,o,l,a,μ,h
 SPACE
 ʕ,_,l,(tq)
 SPACE
+START scrdfftar-of-slh-word
+START scrdfftar-star-no
+START scrdfftar-target
 START letter-small
 m
 STOP letter-small
 w,o,q,:,d,a,(qa),h,‾
-START note-on-slh-word
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -2967,7 +2972,8 @@ SPACE
 v,m,HPU GERSHAYIM,m.
 SPACE
 r,g,y,l,h,RIGHT PARENTHESIS
-STOP note-on-slh-word
+STOP scrdfftar-note
+STOP scrdfftar-of-slh-word
 SPACE
 ʕ,_,l,-,h,_,m,·,i,z,:,v,·,‥,<,x,_
 SPACE
@@ -3980,8 +3986,13 @@ SPACE
 h,_,h,i,(ti),w,α
 SPACE
 m,‥,ʕ,_,m,·,∵,𝓂,y,h,a,.
+START scrdfftar
+START scrdfftar-star-no
+START scrdfftar-target
 START spi-pe2
-START note
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,α,y,n.
 SPACE
 f,r,$,h
@@ -3991,7 +4002,8 @@ SPACE
 σ,f,r,d
 SPACE
 w,α,$,k,n,z,RIGHT PARENTHESIS
-STOP note
+STOP scrdfftar-note
+STOP scrdfftar
 
 Levit 7:22 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -4098,8 +4110,13 @@ SPACE
 h,_,h,i,(ti),w,α
 SPACE
 m,‥,𝓂,ʕ,_,m,·,∵,𝓂,y,h,a,.
+START scrdfftar
+START scrdfftar-star-no
+START scrdfftar-target
 START spi-pe2
-START note
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,α,y,n.
 SPACE
 f,r,$,h
@@ -4107,7 +4124,8 @@ SPACE
 v,σ,f,r,y
 SPACE
 τ,y,m,n.,RIGHT PARENTHESIS
-STOP note
+STOP scrdfftar-note
+STOP scrdfftar
 
 Levit 7:28 in vtrad vtsef
 w,_,y,:,d,_,v,·,‥,(me),r

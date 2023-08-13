@@ -2280,8 +2280,13 @@ g,·,a,d,(me),w,o,l
 SPACE
 ʕ,:_,w,ḥḥfv,n,i,(ti),y
 SPACE
+START scrdfftar
+START scrdfftar-star-no
+START scrdfftar-target
 m,i,n,·,:,$,·si,o,𝓂,α
-START note
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -2289,7 +2294,8 @@ SPACE
 w,α,$,k,n,z
 SPACE
 m,i,n,·,:,$,·si,𝓂,w,o,α,RIGHT PARENTHESIS
-STOP note
+STOP scrdfftar-note
+STOP scrdfftar
 .
 
 Genesis 4:14 in vtrad vtbhs
@@ -2625,8 +2631,13 @@ START spi-samekh2
 Genesis 5:1 in vtrad vtbhs
 z,∵,⅃,h
 SPACE
+START scrdfftar
+START scrdfftar-star-no
+START scrdfftar-target
 σ,‥,ƶ,f,∵,r
-START note
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -2641,7 +2652,8 @@ SPACE
 v,σ,m,HPU GERSHAYIM,k.
 SPACE
 g,d,w,l,h,RIGHT PARENTHESIS
-STOP note
+STOP scrdfftar-note
+STOP scrdfftar
 SPACE
 τ,·,w,o,l,:,d,o,(ti),τ
 SPACE
@@ -4107,8 +4119,14 @@ h,_,z,·,∵,◆,h
 SPACE
 n,i,v,:,q,:,ʕ,w,·,(p)
 SPACE
-k,·,oa,𝓂,l,-,m,_,ʕ,:,y,:,n,o,τ,(p)
-START note
+k,·,oa,𝓂,l,-
+START scrdfftar
+START scrdfftar-star-no
+START scrdfftar-target
+m,_,ʕ,:,y,:,n,o,τ,(p)
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -4116,7 +4134,8 @@ SPACE
 w,α,$,k,n,z
 SPACE
 m,_,ʕ,:,y,:,n,w,o,τ,(p),RIGHT PARENTHESIS
-STOP note
+STOP scrdfftar-note
+STOP scrdfftar
 SPACE
 τ,·,:,h,⅃,w,o,m.
 SPACE
@@ -5578,8 +5597,13 @@ SPACE
 $,·sh,a,n,a,𝓂,h,.
 
 Genesis 9:29 in vtrad vtbhs
+START scrdfftar
+START scrdfftar-star-no
+START scrdfftar-target
 w,_,y,·,i,𝓂,h,:,y,w,·,(p)
-START note
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -5587,7 +5611,8 @@ SPACE
 w,α,$,k,n,z
 SPACE
 w,_,𝓂,y,:,h,i,y,(p),RIGHT PARENTHESIS
-STOP note
+STOP scrdfftar-note
+STOP scrdfftar
 SPACE
 k,·,oa,l,-,y,:,m,‥,y,-,n,o,ƶ,x,_
 SPACE
@@ -29894,10 +29919,16 @@ w,_,y,·,i,τ,·,∵,n.,-,l,⅃,w,o
 SPACE
 α,∵,τ,-,α,a,𝓂,σ,:,n,_,◆,τ
 SPACE
-v,·,_,τ,-,f,·,(me),w,o,θ,i,y
+v,·,_,τ,-
+START scrdfftar
+START scrdfftar-star-no
+START scrdfftar-target
+f,·,(me),w,o,θ,i,y
 SPACE
 f,∵,⟓,r,_,ʕ
-START note
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -29907,7 +29938,8 @@ SPACE
 v,τ,y,v,h
 SPACE
 α,x,τ,RIGHT PARENTHESIS
-STOP note
+STOP scrdfftar-note
+STOP scrdfftar
 SPACE
 k,·,o,h,‥,(me),n.
 SPACE
@@ -30047,10 +30079,16 @@ y,a,𝓂,l,:,d,a,h,-,l,·,w,o,(p)
 SPACE
 α,a,𝓂,σ,:,n,_,ƶ,τ
 SPACE
-v,·,_,τ,-,f,·,(me),w,o,θ,i,y
+v,·,_,τ,-
+START scrdfftar
+START scrdfftar-star-no
+START scrdfftar-target
+f,·,(me),w,o,θ,i,y
 SPACE
 f,∵,(ti),r,_,ʕ
-START note
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -30060,7 +30098,8 @@ SPACE
 v,τ,y,v,h
 SPACE
 α,x,τ,RIGHT PARENTHESIS
-STOP note
+STOP scrdfftar-note
+STOP scrdfftar
 SPACE
 k,·,o,h,‥,(me),n.
 SPACE
@@ -34029,10 +34068,16 @@ y,a,𝓂,l,:,d,a,h,-,l,·,w,o,(p)
 SPACE
 α,a,𝓂,σ,:,n,_,ƶ,τ
 SPACE
-v,·,_,τ,-,f,·,(me),w,o,θ,i,y
+v,·,_,τ,-
+START scrdfftar
+START scrdfftar-star-no
+START scrdfftar-target
+f,·,(me),w,o,θ,i,y
 SPACE
 f,∵,(ti),r,_,ʕ
-START note
+STOP scrdfftar-target
+START scrdfftar-star-yes
+START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -34042,7 +34087,8 @@ SPACE
 v,τ,y,v,h
 SPACE
 α,x,τ,RIGHT PARENTHESIS
-STOP note
+STOP scrdfftar-note
+STOP scrdfftar
 SPACE
 k,·,o,h,‥,⅃,n.
 SPACE
