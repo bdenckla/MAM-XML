@@ -112,10 +112,30 @@ def _qere(_etel, ofc1, _ofc2):
     return _ketiv_or_qere_helper('mam-kq-q', '[]', ofc1)
 
 
-def _note(_etel, ofc1, _ofc2):
+def _scrdfftar(_etel, _ofc1, ofc2):
+    target, note, starpos = [
+        {'ofc2_key': k, 'ofc2_value': v} for k, v in ofc2.items()]
+    maybe_note_0 = _star(starpos, note, 'sdt-starpos-before-word')
+    maybe_note_1 = _star(starpos, note, 'sdt-starpos-after-word')
+    return maybe_note_0 + target['ofc2_value'] + maybe_note_1
+
+
+def _star(starpos, note, pos):
+    tag = starpos['ofc2_key'].tag
+    assert tag in ('sdt-starpos-before-word', 'sdt-starpos-after-word')
+    assert pos in ('sdt-starpos-before-word', 'sdt-starpos-after-word')
+    return note['ofc2_value'] if tag == pos else []
+
+
+def _scrdfftar_target(_etel, ofc1, _ofc2):
+    return ofc1
+
+
+def _scrdfftar_note(_etel, ofc1, _ofc2):
     """ Handle a scroll difference note element """
+    paren_ofc1 = _paren(ofc1)
     el_sup = my_html.sup(['*'], {'class': 'footnote-marker'})
-    el_italic = my_html.italic(ofc1, {'class': 'footnote'})
+    el_italic = my_html.italic(paren_ofc1, {'class': 'footnote'})
     return [el_sup, el_italic]
 
 
@@ -129,6 +149,10 @@ def _implicit_maqaf(_etel, _ofc1, _ofc2):
 
 #######################################################################
 #######################################################################
+
+
+def _paren(lst: list):
+    return shrink(['('] + lst + [')'])
 
 
 def _ketiv_or_qere_helper(the_class, brackets, ofc1, maybe_maqaf=''):
@@ -159,8 +183,6 @@ HANDLERS = {
     ('letter-large', None): _letter_large,
     ('letter-hung', None): _letter_hung,
     ('slh-word', None): _pass_thru,
-    ('note', None): _note,
-    ('note-on-slh-word', None): _note,
     #
     ('kq-k-velo-q', None): _ketiv,
     ('kq-k-velo-q', 'append-maqaf'): _ketiv,
@@ -187,4 +209,10 @@ HANDLERS = {
     ('lp-legarmeih', None): _legarmeih,
     ('lp-paseq', None): _paseq,
     ('implicit-maqaf', None): _implicit_maqaf,
+    #
+    ('scrdfftar', None): _scrdfftar,
+    ('sdt-target', None): _scrdfftar_target,
+    ('sdt-note', None): _scrdfftar_note,
+    ('sdt-starpos-before-word', None): _empty,
+    ('sdt-starpos-after-word', None): _empty,
 }
