@@ -2817,10 +2817,24 @@ h,_,$,·sh,·,a,𝓂,m,∵,$,·sh,.
 
 Ecclesiastes 7:1 in vtrad vtsef
 START slh-word
+START slhw-targ
 START letter-large
 θ,(me)
 STOP letter-large
 w,o,v
+STOP slhw-targ
+START slhw-desc-0
+θ,(me),w,o,v
+STOP slhw-desc-0
+START slhw-desc-1
+θ,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+θ,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 $,·sh,‥,(ti),m.
@@ -5431,10 +5445,24 @@ v,·,a,$,·si,a,𝓂,r,.
 
 Ecclesiastes 12:13 in vtrad vtsef
 START slh-word
+START slhw-targ
 START letter-large
 σ,(me)
 STOP letter-large
 w,o,f.
+STOP slhw-targ
+START slhw-desc-0
+σ,(me),w,o,f.
+STOP slhw-desc-0
+START slhw-desc-1
+σ,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+σ,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 d,·,a,v,a,(ti),r

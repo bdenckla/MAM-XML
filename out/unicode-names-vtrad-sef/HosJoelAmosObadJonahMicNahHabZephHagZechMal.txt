@@ -14458,11 +14458,25 @@ SPACE
 y,:,h,o,w,a,◆,h
 SPACE
 START slh-word
+START slhw-targ
 v,·,:
 START letter-small
 σ
 STOP letter-small
 w,·,f,a,<,h
+STOP slhw-targ
+START slhw-desc-0
+v,·,:,σ,w,·,f,a,<,h
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,σ,FULL STOP,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+q
+STOP slhw-desc-2
+START slhw-desc-3
+σ,SOLIDUS,q
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 w,·,v,i,$,·si,:,ʕ,a,r,a,h,(p)
@@ -26541,10 +26555,24 @@ START spi-pe2
 
 Malachi 3:22 in vtrad vtsef
 START slh-word
+START slhw-targ
 START letter-large
 z,i
 STOP letter-large
 k,:,r,Ƶ,w,·
+STOP slhw-targ
+START slhw-desc-0
+z,i,k,:,r,Ƶ,w,·
+STOP slhw-desc-0
+START slhw-desc-1
+z,FULL STOP,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+z,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 τ,·,w,o,r,_,(ti),τ

@@ -20,8 +20,14 @@
       </verse>
       <verse osisID="Esth.1.6">
         <slh-word>
-          <letter-large text="ח֣" />
-          <text text="וּר" />
+          <slhw-targ>
+            <letter-large text="ח֣" />
+            <text text="וּר" />
+          </slhw-targ>
+          <slhw-desc-0 text="ח֣וּר" />
+          <slhw-desc-1 text="ח.." />
+          <slhw-desc-2 text="ג" />
+          <slhw-desc-3 text="ח/ג" />
         </slh-word>
         <lp-legarmeih />
         <text text=" כַּרְפַּ֣ס וּתְכֵ֗לֶת אָחוּז֙ בְּחַבְלֵי־ב֣וּץ וְאַרְגָּמָ֔ן עַל־גְּלִ֥ילֵי כֶ֖סֶף וְעַמּ֣וּדֵי שֵׁ֑שׁ מִטּ֣וֹת" />
@@ -331,9 +337,15 @@
         <text text="וְאֵ֧ת" />
         <lp-paseq />
         <slh-word>
-          <text text="פַּרְשַׁנְדָּ֛" />
-          <letter-small text="תָ" />
-          <text text="א" />
+          <slhw-targ>
+            <text text="פַּרְשַׁנְדָּ֛" />
+            <letter-small text="תָ" />
+            <text text="א" />
+          </slhw-targ>
+          <slhw-desc-0 text="פַּרְשַׁנְדָּ֛תָא" />
+          <slhw-desc-1 text=".....ת." />
+          <slhw-desc-2 text="ק" />
+          <slhw-desc-3 text="ת/ק" />
         </slh-word>
         <shirah-space />
         <text text="וְאֵ֥ת" />
@@ -363,9 +375,15 @@
         <text text="וְאֵ֤ת" />
         <lp-paseq />
         <slh-word>
-          <text text="פַּרְמַ֙" />
-          <letter-small text="שְׁ" />
-          <text text="תָּא֙" />
+          <slhw-targ>
+            <text text="פַּרְמַ֙" />
+            <letter-small text="שְׁ" />
+            <text text="תָּא֙" />
+          </slhw-targ>
+          <slhw-desc-0 text="פַּרְמַ֙שְׁתָּא֙" />
+          <slhw-desc-1 text="...ש.." />
+          <slhw-desc-2 text="ק" />
+          <slhw-desc-3 text="ש/ק" />
         </slh-word>
         <shirah-space />
         <text text="וְאֵ֣ת" />
@@ -383,10 +401,16 @@
         <text text="וְאֵ֥ת" />
         <lp-paseq />
         <slh-word>
-          <letter-large text="וַ" />
-          <text text="יְ" />
-          <letter-small text="זָֽ" />
-          <text text="תָא" />
+          <slhw-targ>
+            <letter-large text="וַ" />
+            <text text="יְ" />
+            <letter-small text="זָֽ" />
+            <text text="תָא" />
+          </slhw-targ>
+          <slhw-desc-0 text="וַיְזָֽתָא" />
+          <slhw-desc-1 text="ו.ז.." />
+          <slhw-desc-2 text="גק" />
+          <slhw-desc-3 text="ו/ג,ז/ק" />
         </slh-word>
         <text text="׃" />
         <shirah-space />
@@ -449,9 +473,15 @@
       <spi-samekh2 />
       <verse osisID="Esth.9.29" starts-with-sampe="samekh2">
         <slh-word>
-          <text text="וַ֠" />
-          <letter-large text="תִּ" />
-          <text text="כְתֹּ֠ב" />
+          <slhw-targ>
+            <text text="וַ֠" />
+            <letter-large text="תִּ" />
+            <text text="כְתֹּ֠ב" />
+          </slhw-targ>
+          <slhw-desc-0 text="וַ֠תִּכְתֹּ֠ב" />
+          <slhw-desc-1 text=".ת..." />
+          <slhw-desc-2 text="ג" />
+          <slhw-desc-3 text="ת/ג" />
         </slh-word>
         <text text=" אֶסְתֵּ֨ר הַמַּלְכָּ֧ה בַת־אֲבִיחַ֛יִל וּמׇרְדֳּכַ֥י הַיְּהוּדִ֖י אֶת־כׇּל־תֹּ֑קֶף לְקַיֵּ֗ם אֵ֣ת אִגֶּ֧רֶת הַפֻּרִ֛ים הַזֹּ֖את הַשֵּׁנִֽית׃" />
       </verse>

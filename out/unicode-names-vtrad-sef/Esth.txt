@@ -143,10 +143,24 @@ h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
 Esther 1:6 in vtrad vtsef
 START slh-word
+START slhw-targ
 START letter-large
 x,⅃
 STOP letter-large
 w,·,r
+STOP slhw-targ
+START slhw-desc-0
+x,⅃,w,·,r
+STOP slhw-desc-0
+START slhw-desc-1
+x,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+x,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 START lp-legarmeih
 SPACE
@@ -4605,11 +4619,25 @@ Esther 9:7 in vtrad vtsef
 w,:,α,‥,(da),τ
 START lp-paseq
 START slh-word
+START slhw-targ
 f,·,_,r,:,$,·sh,_,n,:,d,·,a,⟓
 START letter-small
 τ,a
 STOP letter-small
 α
+STOP slhw-targ
+START slhw-desc-0
+f,·,_,r,:,$,·sh,_,n,:,d,·,a,⟓,τ,a,α
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,FULL STOP,FULL STOP,FULL STOP,FULL STOP,τ,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+q
+STOP slhw-desc-2
+START slhw-desc-3
+τ,SOLIDUS,q
+STOP slhw-desc-3
 STOP slh-word
 START shirah-space
 w,:,α,‥,(me),τ
@@ -4639,11 +4667,25 @@ Esther 9:9 in vtrad vtsef
 w,:,α,‥,<,τ
 START lp-paseq
 START slh-word
+START slhw-targ
 f,·,_,r,:,m,_,(p)
 START letter-small
 $,·sh,:
 STOP letter-small
 τ,·,a,α,(p)
+STOP slhw-targ
+START slhw-desc-0
+f,·,_,r,:,m,_,(p),$,·sh,:,τ,·,a,α,(p)
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,FULL STOP,FULL STOP,$,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+q
+STOP slhw-desc-2
+START slhw-desc-3
+$,SOLIDUS,q
+STOP slhw-desc-3
 STOP slh-word
 START shirah-space
 w,:,α,‥,⅃,τ
@@ -4677,6 +4719,7 @@ START shirah-space
 w,:,α,‥,(me),τ
 START lp-paseq
 START slh-word
+START slhw-targ
 START letter-large
 w,_
 STOP letter-large
@@ -4685,6 +4728,19 @@ START letter-small
 z,a,𝓂
 STOP letter-small
 τ,a,α
+STOP slhw-targ
+START slhw-desc-0
+w,_,y,:,z,a,𝓂,τ,a,α
+STOP slhw-desc-0
+START slhw-desc-1
+w,FULL STOP,z,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+g,q
+STOP slhw-desc-2
+START slhw-desc-3
+w,SOLIDUS,g,COMMA,z,SOLIDUS,q
+STOP slhw-desc-3
 STOP slh-word
 .
 START shirah-space
@@ -5369,11 +5425,25 @@ START spi-samekh2
 
 Esther 9:29 in vtrad vtsef
 START slh-word
+START slhw-targ
 w,_,⌕
 START letter-large
 τ,·,i
 STOP letter-large
 k,:,τ,·,o,⌕,v
+STOP slhw-targ
+START slhw-desc-0
+w,_,⌕,τ,·,i,k,:,τ,·,o,⌕,v
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,τ,FULL STOP,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+τ,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 α,∵,σ,:,τ,·,‥,(qa),r

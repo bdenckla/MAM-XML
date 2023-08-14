@@ -3154,9 +3154,15 @@
       <verse osisID="Ps.80.14">
         <text text="יְכַרְסְמֶ֣נָּֽה חֲזִ֣יר " />
         <slh-word>
-          <text text="מִיָּ֑" />
-          <letter-hung text="עַ" />
-          <text text="ר" />
+          <slhw-targ>
+            <text text="מִיָּ֑" />
+            <letter-hung text="עַ" />
+            <text text="ר" />
+          </slhw-targ>
+          <slhw-desc-0 text="מִיָּ֑עַר" />
+          <slhw-desc-1 text="..ע." />
+          <slhw-desc-2 text="ת" />
+          <slhw-desc-3 text="ע/ת" />
         </slh-word>
         <text text=" וְזִ֖יז שָׂדַ֣י יִרְעֶֽנָּה׃" />
       </verse>
@@ -3167,9 +3173,15 @@
       </verse>
       <verse osisID="Ps.80.16">
         <slh-word>
-          <text text="וְ֭" />
-          <letter-large text="כַ" />
-          <text text="נָּה" />
+          <slhw-targ>
+            <text text="וְ֭" />
+            <letter-large text="כַ" />
+            <text text="נָּה" />
+          </slhw-targ>
+          <slhw-desc-0 text="וְ֭כַנָּה" />
+          <slhw-desc-1 text=".כ.." />
+          <slhw-desc-2 text="ג" />
+          <slhw-desc-3 text="כ/ג" />
         </slh-word>
         <text text=" אֲשֶׁר־נָטְעָ֣ה יְמִינֶ֑ךָ וְעַל־בֵּ֝֗ן אִמַּ֥צְתָּה לָּֽךְ׃" />
       </verse>
@@ -3261,8 +3273,14 @@
         <lp-legarmeih />
         <text text=" " />
         <slh-word>
-          <letter-large text="קֵ֥" />
-          <text text="ן" />
+          <slhw-targ>
+            <letter-large text="קֵ֥" />
+            <text text="ן" />
+          </slhw-targ>
+          <slhw-desc-0 text="קֵ֥ן" />
+          <slhw-desc-1 text="ק." />
+          <slhw-desc-2 text="ג" />
+          <slhw-desc-3 text="ק/ג" />
         </slh-word>
         <text text=" לָהּ֮ אֲשֶׁר־שָׁ֢תָה אֶפְרֹ֫חֶ֥יהָ אֶֽת־מִ֭זְבְּחוֹתֶיךָ יְהֹוָ֣ה צְבָא֑וֹת מַ֝לְכִּ֗י וֵאלֹהָֽי׃" />
       </verse>

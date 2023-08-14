@@ -834,8 +834,14 @@
       <verse osisID="Num.14.17">
         <text text="וְעַתָּ֕ה " />
         <slh-word>
-          <letter-large text="יִ" />
-          <text text="גְדַּל־נָ֖א" />
+          <slhw-targ>
+            <letter-large text="יִ" />
+            <text text="גְדַּל־נָ֖א" />
+          </slhw-targ>
+          <slhw-desc-0 text="יִגְדַּל־נָ֖א" />
+          <slhw-desc-1 text="י......" />
+          <slhw-desc-2 text="ג" />
+          <slhw-desc-3 text="י/ג" />
         </slh-word>
         <text text=" כֹּ֣חַ אֲדֹנָ֑י כַּאֲשֶׁ֥ר דִּבַּ֖רְתָּ לֵאמֹֽר׃" />
       </verse>
@@ -1363,9 +1369,15 @@
           <sdt-note>
             <text text="בספרי ספרד ואשכנז נהוג לכתוב " />
             <slh-word>
-              <text text="פִּֽ" />
-              <letter-small text="י" />
-              <text text="נְחָ֨ס" />
+              <slhw-targ>
+                <text text="פִּֽ" />
+                <letter-small text="י" />
+                <text text="נְחָ֨ס" />
+              </slhw-targ>
+              <slhw-desc-0 text="פִּֽינְחָ֨ס" />
+              <slhw-desc-1 text=".י..." />
+              <slhw-desc-2 text="ק" />
+              <slhw-desc-3 text="י/ק" />
             </slh-word>
             <text text=" ביו״ד זעירא" />
           </sdt-note>
@@ -1506,8 +1518,14 @@
       <verse osisID="Num.27.5" ends-with-sampe="pe2">
         <text text="וַיַּקְרֵ֥ב מֹשֶׁ֛ה אֶת־" />
         <slh-word>
-          <text text="מִשְׁפָּטָ֖" />
-          <letter-large text="ן" />
+          <slhw-targ>
+            <text text="מִשְׁפָּטָ֖" />
+            <letter-large text="ן" />
+          </slhw-targ>
+          <slhw-desc-0 text="מִשְׁפָּטָ֖ן" />
+          <slhw-desc-1 text="....ן" />
+          <slhw-desc-2 text="ג" />
+          <slhw-desc-3 text="ן/ג" />
         </slh-word>
         <text text=" לִפְנֵ֥י יְהֹוָֽה׃" />
       </verse>

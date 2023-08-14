@@ -3,8 +3,14 @@
     <chapter osisID="Gen.1">
       <verse osisID="Gen.1.1">
         <slh-word>
-          <letter-large text="בְּ" />
-          <text text="רֵאשִׁ֖ית" />
+          <slhw-targ>
+            <letter-large text="בְּ" />
+            <text text="רֵאשִׁ֖ית" />
+          </slhw-targ>
+          <slhw-desc-0 text="בְּרֵאשִׁ֖ית" />
+          <slhw-desc-1 text="ב....." />
+          <slhw-desc-2 text="ג" />
+          <slhw-desc-3 text="ב/ג" />
         </slh-word>
         <text text=" בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ׃" />
       </verse>
@@ -77,9 +83,15 @@
       <verse osisID="Gen.2.4" starts-with-sampe="pe2">
         <text text="אֵ֣לֶּה תוֹלְד֧וֹת הַשָּׁמַ֛יִם וְהָאָ֖רֶץ " />
         <slh-word>
-          <text text="בְּ" />
-          <letter-small text="הִ" />
-          <text text="בָּֽרְאָ֑ם" />
+          <slhw-targ>
+            <text text="בְּ" />
+            <letter-small text="הִ" />
+            <text text="בָּֽרְאָ֑ם" />
+          </slhw-targ>
+          <slhw-desc-0 text="בְּהִבָּֽרְאָ֑ם" />
+          <slhw-desc-1 text=".ה...." />
+          <slhw-desc-2 text="ק" />
+          <slhw-desc-3 text="ה/ק" />
         </slh-word>
         <text text=" בְּי֗וֹם עֲשׂ֛וֹת יְהֹוָ֥ה אֱלֹהִ֖ים אֶ֥רֶץ וְשָׁמָֽיִם׃" />
       </verse>
@@ -206,8 +218,14 @@
           <sdt-note>
             <text text="בספרי תימן " />
             <slh-word>
-              <letter-large text="סֵ֔" />
-              <text text="פֶר" />
+              <slhw-targ>
+                <letter-large text="סֵ֔" />
+                <text text="פֶר" />
+              </slhw-targ>
+              <slhw-desc-0 text="סֵ֔פֶר" />
+              <slhw-desc-1 text="ס.." />
+              <slhw-desc-2 text="ג" />
+              <slhw-desc-3 text="ס/ג" />
             </slh-word>
             <text text=" בסמ״ך גדולה" />
           </sdt-note>
@@ -920,9 +938,15 @@
       <verse osisID="Gen.23.2">
         <text text="וַתָּ֣מׇת שָׂרָ֗ה בְּקִרְיַ֥ת אַרְבַּ֛ע הִ֥וא חֶבְר֖וֹן בְּאֶ֣רֶץ כְּנָ֑עַן וַיָּבֹא֙ אַבְרָהָ֔ם לִסְפֹּ֥ד לְשָׂרָ֖ה " />
         <slh-word>
-          <text text="וְלִבְ" />
-          <letter-small text="כֹּ" />
-          <text text="תָֽהּ" />
+          <slhw-targ>
+            <text text="וְלִבְ" />
+            <letter-small text="כֹּ" />
+            <text text="תָֽהּ" />
+          </slhw-targ>
+          <slhw-desc-0 text="וְלִבְכֹּתָֽהּ" />
+          <slhw-desc-1 text="...כ.." />
+          <slhw-desc-2 text="ק" />
+          <slhw-desc-3 text="כ/ק" />
         </slh-word>
         <text text="׃" />
       </verse>
@@ -1206,8 +1230,14 @@
       <verse osisID="Gen.27.46">
         <text text="וַתֹּ֤אמֶר רִבְקָה֙ אֶל־יִצְחָ֔ק " />
         <slh-word>
-          <letter-small text="קַ֣" />
-          <text text="צְתִּי" />
+          <slhw-targ>
+            <letter-small text="קַ֣" />
+            <text text="צְתִּי" />
+          </slhw-targ>
+          <slhw-desc-0 text="קַ֣צְתִּי" />
+          <slhw-desc-1 text="ק..." />
+          <slhw-desc-2 text="ק" />
+          <slhw-desc-3 text="ק/ק" />
         </slh-word>
         <text text=" בְחַיַּ֔י מִפְּנֵ֖י בְּנ֣וֹת חֵ֑ת אִם־לֹקֵ֣חַ יַ֠עֲקֹ֠ב אִשָּׁ֨ה מִבְּנֽוֹת־חֵ֤ת כָּאֵ֙לֶּה֙ מִבְּנ֣וֹת הָאָ֔רֶץ לָ֥מָּה לִּ֖י חַיִּֽים׃" />
       </verse>

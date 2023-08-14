@@ -119,9 +119,15 @@
       </verse>
       <verse osisID="Ruth.3.13">
         <slh-word>
-          <text text="לִ֣י" />
-          <letter-large text="נִ" />
-          <text text="י" />
+          <slhw-targ>
+            <text text="לִ֣י" />
+            <letter-large text="נִ" />
+            <text text="י" />
+          </slhw-targ>
+          <slhw-desc-0 text="לִ֣ינִי" />
+          <slhw-desc-1 text="..נ." />
+          <slhw-desc-2 text="ג" />
+          <slhw-desc-3 text="נ/ג" />
         </slh-word>
         <lp-legarmeih />
         <text text=" הַלַּ֗יְלָה וְהָיָ֤ה בַבֹּ֙קֶר֙ אִם־יִגְאָלֵ֥ךְ טוֹב֙ יִגְאָ֔ל וְאִם־לֹ֨א יַחְפֹּ֧ץ לְגׇאֳלֵ֛ךְ וּגְאַלְתִּ֥יךְ אָנֹ֖כִי חַי־יְהֹוָ֑ה שִׁכְבִ֖י עַד־הַבֹּֽקֶר׃" />

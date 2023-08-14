@@ -3,8 +3,14 @@
     <chapter osisID="Lev.1">
       <verse osisID="Lev.1.1">
         <slh-word>
-          <text text="וַיִּקְרָ֖" />
-          <letter-small text="א" />
+          <slhw-targ>
+            <text text="וַיִּקְרָ֖" />
+            <letter-small text="א" />
+          </slhw-targ>
+          <slhw-desc-0 text="וַיִּקְרָ֖א" />
+          <slhw-desc-1 text="....א" />
+          <slhw-desc-2 text="ק" />
+          <slhw-desc-3 text="א/ק" />
         </slh-word>
         <text text=" אֶל־מֹשֶׁ֑ה וַיְדַבֵּ֤ר יְהֹוָה֙ אֵלָ֔יו מֵאֹ֥הֶל מוֹעֵ֖ד לֵאמֹֽר׃" />
       </verse>
@@ -171,8 +177,14 @@
         <scrdfftar>
           <sdt-target>
             <slh-word>
-              <letter-small text="מ" />
-              <text text="וֹקְדָ֨הֿ" />
+              <slhw-targ>
+                <letter-small text="מ" />
+                <text text="וֹקְדָ֨הֿ" />
+              </slhw-targ>
+              <slhw-desc-0 text="מוֹקְדָ֨הֿ" />
+              <slhw-desc-1 text="מ...." />
+              <slhw-desc-2 text="ק" />
+              <slhw-desc-3 text="מ/ק" />
             </slh-word>
           </sdt-target>
           <sdt-note text="בספרי תימן מוֹקְדָ֨הֿ במ״ם רגילה" />
@@ -492,9 +504,15 @@
       <verse osisID="Lev.11.42">
         <text text="כֹּל֩ הוֹלֵ֨ךְ " />
         <slh-word>
-          <text text="עַל־גָּח֜" />
-          <letter-large text="וֹ" />
-          <text text="ן" />
+          <slhw-targ>
+            <text text="עַל־גָּח֜" />
+            <letter-large text="וֹ" />
+            <text text="ן" />
+          </slhw-targ>
+          <slhw-desc-0 text="עַל־גָּח֜וֹן" />
+          <slhw-desc-1 text=".....ו." />
+          <slhw-desc-2 text="ג" />
+          <slhw-desc-3 text="ו/ג" />
         </slh-word>
         <text text=" וְכֹ֣ל" />
         <lp-legarmeih />
@@ -577,9 +595,15 @@
       <verse osisID="Lev.13.32" text="וְרָאָ֨ה הַכֹּהֵ֣ן אֶת־הַנֶּ֘גַע֮ בַּיּ֣וֹם הַשְּׁבִיעִי֒ וְהִנֵּה֙ לֹא־פָשָׂ֣ה הַנֶּ֔תֶק וְלֹא־הָ֥יָה ב֖וֹ שֵׂעָ֣ר צָהֹ֑ב וּמַרְאֵ֣ה הַנֶּ֔תֶק אֵ֥ין עָמֹ֖ק מִן־הָעֽוֹר׃" />
       <verse osisID="Lev.13.33">
         <slh-word>
-          <text text="וְהִ֨תְ" />
-          <letter-large text="גַּ" />
-          <text text="לָּ֔ח" />
+          <slhw-targ>
+            <text text="וְהִ֨תְ" />
+            <letter-large text="גַּ" />
+            <text text="לָּ֔ח" />
+          </slhw-targ>
+          <slhw-desc-0 text="וְהִ֨תְגַּלָּ֔ח" />
+          <slhw-desc-1 text="...ג.." />
+          <slhw-desc-2 text="ג" />
+          <slhw-desc-3 text="ג/ג" />
         </slh-word>
         <text text=" וְאֶת־הַנֶּ֖תֶק לֹ֣א יְגַלֵּ֑חַ וְהִסְגִּ֨יר הַכֹּהֵ֧ן אֶת־הַנֶּ֛תֶק שִׁבְעַ֥ת יָמִ֖ים שֵׁנִֽית׃" />
       </verse>

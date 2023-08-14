@@ -14728,11 +14728,25 @@ SPACE
 v,·,∵,n.,-,g,·,‥,r,:,$,·sh,o,(qa),m.
 SPACE
 START slh-word
+START slhw-targ
 v,·,∵,n.,-,m,:
 START letter-hung
 n,_
 STOP letter-hung
 $,·sh,·,∵,(ge),h
+STOP slhw-targ
+START slhw-desc-0
+v,·,∵,n.,-,m,:,n,_,$,·sh,·,∵,(ge),h
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,FULL STOP,FULL STOP,FULL STOP,n,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+τ
+STOP slhw-desc-2
+START slhw-desc-3
+n,SOLIDUS,τ
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 h,⅃,w,·,α

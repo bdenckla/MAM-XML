@@ -860,11 +860,17 @@
       <verse osisID="Dan.6.20">
         <text text="בֵּאדַ֣יִן מַלְכָּ֔א " />
         <slh-word>
-          <text text="בִּשְׁ" />
-          <letter-small text="פַּ" />
-          <text text="רְ" />
-          <letter-large text="פָּ" />
-          <text text="רָ֖א" />
+          <slhw-targ>
+            <text text="בִּשְׁ" />
+            <letter-small text="פַּ" />
+            <text text="רְ" />
+            <letter-large text="פָּ" />
+            <text text="רָ֖א" />
+          </slhw-targ>
+          <slhw-desc-0 text="בִּשְׁפַּרְפָּרָ֖א" />
+          <slhw-desc-1 text="..פ.פ.." />
+          <slhw-desc-2 text="קג" />
+          <slhw-desc-3 text="פ/ק,פ/ג" />
         </slh-word>
         <text text=" יְק֣וּם בְּנׇגְהָ֑א וּ֨בְהִתְבְּהָלָ֔ה לְגֻבָּ֥א דִֽי־אַרְיָוָתָ֖א אֲזַֽל׃" />
       </verse>

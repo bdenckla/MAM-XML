@@ -1685,8 +1685,14 @@
         <scrdfftar>
           <sdt-target>
             <slh-word>
-              <letter-large text="נֹ" />
-              <text text="צֵ֥ר" />
+              <slhw-targ>
+                <letter-large text="נֹ" />
+                <text text="צֵ֥ר" />
+              </slhw-targ>
+              <slhw-desc-0 text="נֹצֵ֥ר" />
+              <slhw-desc-1 text="נ.." />
+              <slhw-desc-2 text="ג" />
+              <slhw-desc-3 text="נ/ג" />
             </slh-word>
           </sdt-target>
           <sdt-note text="בספרי תימן נֹצֵ֥ר בנו״ן רגילה" />
@@ -1705,8 +1711,14 @@
       <verse osisID="Exod.34.14">
         <text text="כִּ֛י לֹ֥א תִֽשְׁתַּחֲוֶ֖ה לְאֵ֣ל " />
         <slh-word>
-          <text text="אַחֵ֑" />
-          <letter-large text="ר" />
+          <slhw-targ>
+            <text text="אַחֵ֑" />
+            <letter-large text="ר" />
+          </slhw-targ>
+          <slhw-desc-0 text="אַחֵ֑ר" />
+          <slhw-desc-1 text="..ר" />
+          <slhw-desc-2 text="ג" />
+          <slhw-desc-3 text="ר/ג" />
         </slh-word>
         <text text=" כִּ֤י יְהֹוָה֙ קַנָּ֣א שְׁמ֔וֹ אֵ֥ל קַנָּ֖א הֽוּא׃" />
       </verse>

@@ -3,8 +3,14 @@
     <chapter osisID="1Chr.1">
       <verse osisID="1Chr.1.1">
         <slh-word>
-          <letter-large text="אָ" />
-          <text text="דָ֥ם" />
+          <slhw-targ>
+            <letter-large text="אָ" />
+            <text text="דָ֥ם" />
+          </slhw-targ>
+          <slhw-desc-0 text="אָדָ֥ם" />
+          <slhw-desc-1 text="א.." />
+          <slhw-desc-2 text="ג" />
+          <slhw-desc-3 text="א/ג" />
         </slh-word>
         <text text=" שֵׁ֖ת אֱנֽוֹשׁ׃" />
       </verse>

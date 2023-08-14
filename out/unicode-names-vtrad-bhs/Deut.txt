@@ -5951,10 +5951,24 @@ START spi-pe2
 
 Deuter 6:4 in vtrad vtbhs
 START slh-word
+START slhw-targ
 $,·sh,:,m,_,(ti)
 START letter-large
 ʕ
 STOP letter-large
+STOP slhw-targ
+START slhw-desc-0
+$,·sh,:,m,_,(ti),ʕ
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,FULL STOP,ʕ
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+ʕ,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 y,i,$,·si,:,r,a,α,‥,⅄,l
@@ -5966,10 +5980,24 @@ SPACE
 y,:,h,o,w,a,(me),h
 START lp-paseq
 START slh-word
+START slhw-targ
 α,∵,x,a,𝓂
 START letter-large
 d
 STOP letter-large
+STOP slhw-targ
+START slhw-desc-0
+α,∵,x,a,𝓂,d
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,FULL STOP,d
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+d,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 .
 
@@ -9800,11 +9828,25 @@ SPACE
 τ,y,m,n.
 SPACE
 START slh-word
+START slhw-targ
 h,a,α,a,𝓂,r,∵
 START letter-large
 ц.
 STOP letter-large
 .
+STOP slhw-targ
+START slhw-desc-0
+h,a,α,a,𝓂,r,∵,ц.,.
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,FULL STOP,FULL STOP,ц.
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+ц.,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 v,ц,d,HPU GERSHAYIM,y
@@ -16697,10 +16739,24 @@ SPACE
 τ,y,m,n.
 SPACE
 START slh-word
+START slhw-targ
 START letter-large
 q,_
 STOP letter-large
 n.
+STOP slhw-targ
+START slhw-desc-0
+q,_,n.
+STOP slhw-desc-0
+START slhw-desc-1
+q,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+q,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 v,q,w,HPU GERSHAYIM,f.
@@ -22887,11 +22943,25 @@ SPACE
 g,·,a,d,⅄,w,o,l
 SPACE
 START slh-word
+START slhw-targ
 w,_,y,·,_,$,·sh,:
 START letter-large
 l,i
 STOP letter-large
 k,‥,⟓,m.
+STOP slhw-targ
+START slhw-desc-0
+w,_,y,·,_,$,·sh,:,l,i,k,‥,⟓,m.
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,FULL STOP,FULL STOP,l,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+l,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 α,∵,l,-,α,∵,(me),r,∵,ц.
@@ -24579,9 +24649,23 @@ Deuter 32:6 in vtrad vtbhs
 START scrdfftar
 START sdt-target
 START slh-word
+START slhw-targ
 START letter-large
 h,_
 STOP letter-large
+STOP slhw-targ
+START slhw-desc-0
+h,_
+STOP slhw-desc-0
+START slhw-desc-1
+h
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+h,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 l,:,y,:,h,o,w,a,h,(p)
@@ -24592,10 +24676,24 @@ SPACE
 τ,y,m,n.
 SPACE
 START slh-word
+START slhw-targ
 START letter-large
 h,_,𝓂
 STOP letter-large
 l,:,y,h,o,w,a,h,(p)
+STOP slhw-targ
+START slhw-desc-0
+h,_,𝓂,l,:,y,h,o,w,a,h,(p)
+STOP slhw-desc-0
+START slhw-desc-1
+h,FULL STOP,FULL STOP,FULL STOP,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+h,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 v,τ,y,v,h
@@ -24884,10 +24982,24 @@ SPACE
 y,:,l,a,d,:,k.,a,(ti)
 SPACE
 START slh-word
+START slhw-targ
 τ,·,∵,⅄,$,·sh,i
 START letter-small
 y
 STOP letter-small
+STOP slhw-targ
+START slhw-desc-0
+τ,·,∵,⅄,$,·sh,i,y
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,FULL STOP,y
+STOP slhw-desc-1
+START slhw-desc-2
+q
+STOP slhw-desc-2
+START slhw-desc-3
+y,SOLIDUS,q
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 w,_,τ,·,i,$,·sh,:,k,·,_,(ti),x
@@ -26334,10 +26446,24 @@ SPACE
 τ,y,m,n.
 SPACE
 START slh-word
+START slhw-targ
 START letter-large
 α,_
 STOP letter-large
 $,·sh,:,r,∵,(qa),y,k.,a
+STOP slhw-targ
+START slhw-desc-0
+α,_,$,·sh,:,r,∵,(qa),y,k.,a
+STOP slhw-desc-0
+START slhw-desc-1
+α,FULL STOP,FULL STOP,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+α,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 v,α,l,HPU GERSHAYIM,f.

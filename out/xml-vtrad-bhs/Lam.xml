@@ -43,8 +43,14 @@
       <spi-samekh2 />
       <verse osisID="Lam.1.12" starts-with-sampe="samekh2" ends-with-sampe="samekh2">
         <slh-word>
-          <letter-small text="ל֣" />
-          <text text="וֹא" />
+          <slhw-targ>
+            <letter-small text="ל֣" />
+            <text text="וֹא" />
+          </slhw-targ>
+          <slhw-desc-0 text="ל֣וֹא" />
+          <slhw-desc-1 text="ל.." />
+          <slhw-desc-2 text="ק" />
+          <slhw-desc-3 text="ל/ק" />
         </slh-word>
         <text text=" אֲלֵיכֶם֮ כׇּל־עֹ֣בְרֵי דֶ֒רֶךְ֒ הַבִּ֣יטוּ וּרְא֔וּ אִם־יֵ֤שׁ מַכְאוֹב֙ כְּמַכְאֹבִ֔י אֲשֶׁ֥ר עוֹלַ֖ל לִ֑י אֲשֶׁר֙ הוֹגָ֣ה יְהֹוָ֔ה בְּי֖וֹם חֲר֥וֹן אַפּֽוֹ׃" />
       </verse>
@@ -133,8 +139,14 @@
       <spi-samekh2 />
       <verse osisID="Lam.2.9" starts-with-sampe="samekh2" ends-with-sampe="samekh2">
         <slh-word>
-          <letter-small text="טָ" />
-          <text text="בְע֤וּ" />
+          <slhw-targ>
+            <letter-small text="טָ" />
+            <text text="בְע֤וּ" />
+          </slhw-targ>
+          <slhw-desc-0 text="טָבְע֤וּ" />
+          <slhw-desc-1 text="ט..." />
+          <slhw-desc-2 text="ק" />
+          <slhw-desc-3 text="ט/ק" />
         </slh-word>
         <text text=" בָאָ֙רֶץ֙ שְׁעָרֶ֔יהָ אִבַּ֥ד וְשִׁבַּ֖ר בְּרִיחֶ֑יהָ מַלְכָּ֨הּ וְשָׂרֶ֤יהָ בַגּוֹיִם֙ אֵ֣ין תּוֹרָ֔ה גַּם־נְבִיאֶ֕יהָ לֹא־מָצְא֥וּ חָז֖וֹן מֵיְהֹוָֽה׃" />
       </verse>
@@ -269,9 +281,15 @@
       <spi-samekh3 />
       <verse osisID="Lam.3.36" starts-with-sampe="samekh3" ends-with-sampe="samekh2">
         <slh-word>
-          <text text="לְ" />
-          <letter-small text="עַ" />
-          <text text="וֵּ֤ת" />
+          <slhw-targ>
+            <text text="לְ" />
+            <letter-small text="עַ" />
+            <text text="וֵּ֤ת" />
+          </slhw-targ>
+          <slhw-desc-0 text="לְעַוֵּ֤ת" />
+          <slhw-desc-1 text=".ע.." />
+          <slhw-desc-2 text="ק" />
+          <slhw-desc-3 text="ע/ק" />
         </slh-word>
         <text text=" אָדָם֙ בְּרִיב֔וֹ אֲדֹנָ֖י לֹ֥א רָאָֽה׃" />
       </verse>

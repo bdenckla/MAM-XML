@@ -268,9 +268,15 @@
         <kq>
           <kq-k>
             <slh-word>
-              <text text="ו" />
-              <letter-small text="ג" />
-              <text text="יש" />
+              <slhw-targ>
+                <text text="ו" />
+                <letter-small text="ג" />
+                <text text="יש" />
+              </slhw-targ>
+              <slhw-desc-0 text="וגיש" />
+              <slhw-desc-1 text=".ג.." />
+              <slhw-desc-2 text="ק" />
+              <slhw-desc-3 text="ג/ק" />
             </slh-word>
           </kq-k>
           <kq-q text="וְג֣וּשׁ" />
@@ -380,9 +386,15 @@
       <verse osisID="Job.9.34">
         <text text="יָסֵ֣ר מֵעָלַ֣י " />
         <slh-word>
-          <text text="שִׁבְ" />
-          <letter-large text="ט֑" />
-          <text text="וֹ" />
+          <slhw-targ>
+            <text text="שִׁבְ" />
+            <letter-large text="ט֑" />
+            <text text="וֹ" />
+          </slhw-targ>
+          <slhw-desc-0 text="שִׁבְט֑וֹ" />
+          <slhw-desc-1 text="..ט." />
+          <slhw-desc-2 text="ג" />
+          <slhw-desc-3 text="ט/ג" />
         </slh-word>
         <text text=" וְ֝אֵמָת֗וֹ אַֽל־תְּבַעֲתַֽנִּי׃" />
       </verse>
@@ -689,8 +701,14 @@
       <verse osisID="Job.16.14">
         <text text="יִפְרְצֵ֣נִי " />
         <slh-word>
-          <text text="פֶ֭רֶ" />
-          <letter-small text="ץ" />
+          <slhw-targ>
+            <text text="פֶ֭רֶ" />
+            <letter-small text="ץ" />
+          </slhw-targ>
+          <slhw-desc-0 text="פֶ֭רֶץ" />
+          <slhw-desc-1 text="..ץ" />
+          <slhw-desc-2 text="ק" />
+          <slhw-desc-3 text="ץ/ק" />
         </slh-word>
         <text text=" עַל־פְּנֵי־פָ֑רֶץ יָרֻ֖ץ עָלַ֣י כְּגִבּֽוֹר׃" />
       </verse>
@@ -1366,8 +1384,14 @@
         <implicit-maqaf />
         <text text="פָ֥שַׁע " />
         <slh-word>
-          <letter-small text="חַ֥" />
-          <text text="ף" />
+          <slhw-targ>
+            <letter-small text="חַ֥" />
+            <text text="ף" />
+          </slhw-targ>
+          <slhw-desc-0 text="חַ֥ף" />
+          <slhw-desc-1 text="ח." />
+          <slhw-desc-2 text="ק" />
+          <slhw-desc-3 text="ח/ק" />
         </slh-word>
         <text text=" אָנֹכִ֑י וְלֹ֖א עָוֺ֣ן לִֽי׃" />
       </verse>
@@ -1658,9 +1682,15 @@
       <verse osisID="Job.38.13">
         <text text="לֶ֭אֱחֹז בְּכַנְפ֣וֹת הָאָ֑רֶץ וְיִנָּעֲר֖וּ " />
         <slh-word>
-          <text text="רְשָׁ" />
-          <letter-hung text="עִ֣" />
-          <text text="ים" />
+          <slhw-targ>
+            <text text="רְשָׁ" />
+            <letter-hung text="עִ֣" />
+            <text text="ים" />
+          </slhw-targ>
+          <slhw-desc-0 text="רְשָׁעִ֣ים" />
+          <slhw-desc-1 text="..ע.." />
+          <slhw-desc-2 text="ת" />
+          <slhw-desc-3 text="ע/ת" />
         </slh-word>
         <text text=" מִמֶּֽנָּה׃" />
       </verse>
@@ -1668,9 +1698,15 @@
       <verse osisID="Job.38.15">
         <text text="וְיִמָּנַ֣ע " />
         <slh-word>
-          <text text="מֵרְשָׁ" />
-          <letter-hung text="עִ֣" />
-          <text text="ים" />
+          <slhw-targ>
+            <text text="מֵרְשָׁ" />
+            <letter-hung text="עִ֣" />
+            <text text="ים" />
+          </slhw-targ>
+          <slhw-desc-0 text="מֵרְשָׁעִ֣ים" />
+          <slhw-desc-1 text="...ע.." />
+          <slhw-desc-2 text="ת" />
+          <slhw-desc-3 text="ע/ת" />
         </slh-word>
         <text text=" אוֹרָ֑ם וּזְר֥וֹעַ רָ֝מָ֗ה תִּשָּׁבֵֽר׃" />
       </verse>

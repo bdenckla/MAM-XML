@@ -369,10 +369,24 @@ START spi-samekh2
 
 Lamentations 1:12 in vtrad vtbhs
 START slh-word
+START slhw-targ
 START letter-small
 l,⅃
 STOP letter-small
 w,o,α
+STOP slhw-targ
+START slhw-desc-0
+l,⅃,w,o,α
+STOP slhw-desc-0
+START slhw-desc-1
+l,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+q
+STOP slhw-desc-2
+START slhw-desc-3
+l,SOLIDUS,q
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 α,:_,l,‥,y,k,∵,m.,~
@@ -990,10 +1004,24 @@ START spi-samekh2
 
 Lamentations 2:9 in vtrad vtbhs
 START slh-word
+START slhw-targ
 START letter-small
 θ,a
 STOP letter-small
 v,:,ʕ,<,w,·
+STOP slhw-targ
+START slhw-desc-0
+θ,a,v,:,ʕ,<,w,·
+STOP slhw-desc-0
+START slhw-desc-1
+θ,FULL STOP,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+q
+STOP slhw-desc-2
+START slhw-desc-3
+θ,SOLIDUS,q
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 v,a,α,a,(p),r,∵,ц.,(p)
@@ -1922,11 +1950,25 @@ START spi-samekh3
 
 Lamentations 3:36 in vtrad vtbhs
 START slh-word
+START slhw-targ
 l,:
 START letter-small
 ʕ,_
 STOP letter-small
 w,·,‥,<,τ
+STOP slhw-targ
+START slhw-desc-0
+l,:,ʕ,_,w,·,‥,<,τ
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,ʕ,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+q
+STOP slhw-desc-2
+START slhw-desc-3
+ʕ,SOLIDUS,q
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 α,a,d,a,m.,(p)

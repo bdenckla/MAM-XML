@@ -1,10 +1,24 @@
 unicode_names Prov
 Proverbs 1:1 in vtrad vtbhs
 START slh-word
+START slhw-targ
 START letter-large
 m,i,(de)
 STOP letter-large
 $,·sh,:,l,‥,y
+STOP slhw-targ
+START slhw-desc-0
+m,i,(de),$,·sh,:,l,‥,y
+STOP slhw-desc-0
+START slhw-desc-1
+m,FULL STOP,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+m,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 $,·sh,:,l,o,m,o,⅃,h
@@ -11927,11 +11941,25 @@ START spi-pe2
 
 Proverbs 28:17 in vtrad vtbhs
 START slh-word
+START slhw-targ
 α,a,(de)
 START letter-small
 d,a
 STOP letter-small
 m.
+STOP slhw-targ
+START slhw-desc-0
+α,a,(de),d,a,m.
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,d,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+q
+STOP slhw-desc-2
+START slhw-desc-3
+d,SOLIDUS,q
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 ʕ,a,$,·sh,u,⅃,q
@@ -12750,12 +12778,26 @@ SPACE
 v,a,n,w,o,τ,~
 SPACE
 START slh-word
+START slhw-targ
 h,_,<
 START letter-small
 v
 STOP letter-small
 START lp-legarmeih
 SPACE
+STOP slhw-targ
+START slhw-desc-0
+h,_,<,v
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,v
+STOP slhw-desc-1
+START slhw-desc-2
+q
+STOP slhw-desc-2
+START slhw-desc-3
+v,SOLIDUS,q
+STOP slhw-desc-3
 STOP slh-word
 h,_,(me),(ol),v
 SPACE

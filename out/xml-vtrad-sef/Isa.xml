@@ -1598,8 +1598,14 @@
       <verse osisID="Isa.44.14">
         <text text="לִכְרׇת־ל֣וֹ אֲרָזִ֔ים וַיִּקַּ֤ח תִּרְזָה֙ וְאַלּ֔וֹן וַיְאַמֶּץ־ל֖וֹ בַּעֲצֵי־יָ֑עַר נָטַ֥ע " />
         <slh-word>
-          <text text="אֹ֖רֶ" />
-          <letter-small text="ן" />
+          <slhw-targ>
+            <text text="אֹ֖רֶ" />
+            <letter-small text="ן" />
+          </slhw-targ>
+          <slhw-desc-0 text="אֹ֖רֶן" />
+          <slhw-desc-1 text="..ן" />
+          <slhw-desc-2 text="ק" />
+          <slhw-desc-3 text="ן/ק" />
         </slh-word>
         <text text=" וְגֶ֥שֶׁם יְגַדֵּֽל׃" />
       </verse>
@@ -2031,8 +2037,14 @@
       <spi-pe2 />
       <verse osisID="Isa.56.10" starts-with-sampe="pe2">
         <slh-word>
-          <letter-large text="צֹ" />
-          <text text="פָ֞ו" />
+          <slhw-targ>
+            <letter-large text="צֹ" />
+            <text text="פָ֞ו" />
+          </slhw-targ>
+          <slhw-desc-0 text="צֹפָ֞ו" />
+          <slhw-desc-1 text="צ.." />
+          <slhw-desc-2 text="ג" />
+          <slhw-desc-3 text="צ/ג" />
         </slh-word>
         <text text=" עִוְרִ֤ים כֻּלָּם֙ לֹ֣א יָדָ֔עוּ כֻּלָּם֙ כְּלָבִ֣ים אִלְּמִ֔ים לֹ֥א יוּכְל֖וּ לִנְבֹּ֑חַ הֹזִים֙ שֹֽׁכְבִ֔ים אֹהֲבֵ֖י לָנֽוּם׃" />
       </verse>

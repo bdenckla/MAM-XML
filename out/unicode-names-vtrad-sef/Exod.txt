@@ -24743,10 +24743,24 @@ Exodus 34:7 in vtrad vtsef
 START scrdfftar
 START sdt-target
 START slh-word
+START slhw-targ
 START letter-large
 n,o
 STOP letter-large
 ц,‥,(me),r
+STOP slhw-targ
+START slhw-desc-0
+n,o,ц,‥,(me),r
+STOP slhw-desc-0
+START slhw-desc-1
+n,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+n,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 STOP sdt-target
 START sdt-note
@@ -24976,10 +24990,24 @@ SPACE
 l,:,α,‥,⅃,l
 SPACE
 START slh-word
+START slhw-targ
 α,_,x,‥,⅄
 START letter-large
 r
 STOP letter-large
+STOP slhw-targ
+START slhw-desc-0
+α,_,x,‥,⅄,r
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,FULL STOP,r
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+r,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 k,·,i,<,y

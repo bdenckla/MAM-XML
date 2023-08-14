@@ -960,9 +960,15 @@
         </kq>
         <text text="כֹּ֔חַ וְנַקֵּ֖ה לֹ֣א יְנַקֶּ֑ה יְהֹוָ֗ה " />
         <slh-word>
-          <text text="בְּ" />
-          <letter-small text="ס" />
-          <text text="וּפָ֤ה" />
+          <slhw-targ>
+            <text text="בְּ" />
+            <letter-small text="ס" />
+            <text text="וּפָ֤ה" />
+          </slhw-targ>
+          <slhw-desc-0 text="בְּסוּפָ֤ה" />
+          <slhw-desc-1 text=".ס..." />
+          <slhw-desc-2 text="ק" />
+          <slhw-desc-3 text="ס/ק" />
         </slh-word>
         <text text=" וּבִשְׂעָרָה֙ דַּרְכּ֔וֹ וְעָנָ֖ן אֲבַ֥ק רַגְלָֽיו׃" />
       </verse>
@@ -1776,8 +1782,14 @@
       <spi-pe2 />
       <verse osisID="Mal.3.22" starts-with-sampe="pe2">
         <slh-word>
-          <letter-large text="זִ" />
-          <text text="כְר֕וּ" />
+          <slhw-targ>
+            <letter-large text="זִ" />
+            <text text="כְר֕וּ" />
+          </slhw-targ>
+          <slhw-desc-0 text="זִכְר֕וּ" />
+          <slhw-desc-1 text="ז..." />
+          <slhw-desc-2 text="ג" />
+          <slhw-desc-3 text="ז/ג" />
         </slh-word>
         <text text=" תּוֹרַ֖ת מֹשֶׁ֣ה עַבְדִּ֑י אֲשֶׁר֩ צִוִּ֨יתִי אוֹת֤וֹ בְחֹרֵב֙ עַל־כׇּל־יִשְׂרָאֵ֔ל חֻקִּ֖ים וּמִשְׁפָּטִֽים׃" />
       </verse>

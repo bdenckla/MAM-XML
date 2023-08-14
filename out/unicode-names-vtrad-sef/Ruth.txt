@@ -1627,11 +1627,25 @@ m,i,m,·,∵,𝓂,n,·,i,y,.
 
 Ruth 3:13 in vtrad vtsef
 START slh-word
+START slhw-targ
 l,i,⅃,y
 START letter-large
 n,i
 STOP letter-large
 y
+STOP slhw-targ
+START slhw-desc-0
+l,i,⅃,y,n,i,y
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,FULL STOP,n,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+n,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 START lp-legarmeih
 SPACE

@@ -1,10 +1,24 @@
 unicode_names Lev
 Levit 1:1 in vtrad vtbhs
 START slh-word
+START slhw-targ
 w,_,y,·,i,q,:,r,a,(ti)
 START letter-small
 α
 STOP letter-small
+STOP slhw-targ
+START slhw-desc-0
+w,_,y,·,i,q,:,r,a,(ti),α
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,FULL STOP,FULL STOP,FULL STOP,α
+STOP slhw-desc-1
+START slhw-desc-2
+q
+STOP slhw-desc-2
+START slhw-desc-3
+α,SOLIDUS,q
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 α,∵,l,-,m,o,$,·sh,∵,⅄,h
@@ -2956,10 +2970,24 @@ SPACE
 START scrdfftar
 START sdt-target
 START slh-word
+START slhw-targ
 START letter-small
 m
 STOP letter-small
 w,o,q,:,d,a,(qa),h,‾
+STOP slhw-targ
+START slhw-desc-0
+m,w,o,q,:,d,a,(qa),h,‾
+STOP slhw-desc-0
+START slhw-desc-1
+m,FULL STOP,FULL STOP,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+q
+STOP slhw-desc-2
+START slhw-desc-3
+m,SOLIDUS,q
+STOP slhw-desc-3
 STOP slh-word
 STOP sdt-target
 START sdt-note
@@ -7353,11 +7381,25 @@ SPACE
 h,w,o,l,‥,(qa),k.,:
 SPACE
 START slh-word
+START slhw-targ
 ʕ,_,l,-,g,·,a,x,(ge)
 START letter-large
 w,o
 STOP letter-large
 n.
+STOP slhw-targ
+START slhw-desc-0
+ʕ,_,l,-,g,·,a,x,(ge),w,o,n.
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,FULL STOP,FULL STOP,FULL STOP,FULL STOP,w,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+w,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 w,:,k,o,⅃,l
@@ -8615,11 +8657,25 @@ m,i,n.,-,h,a,ʕ,𝓂,w,o,r,.
 
 Levit 13:33 in vtrad vtbhs
 START slh-word
+START slhw-targ
 w,:,h,i,(qa),τ,:
 START letter-large
 g,·,_
 STOP letter-large
 l,·,a,ƶ,x
+STOP slhw-targ
+START slhw-desc-0
+w,:,h,i,(qa),τ,:,g,·,_,l,·,a,ƶ,x
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,FULL STOP,FULL STOP,g,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+g,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 w,:,α,∵,τ,-,h,_,n,·,∵,(ti),τ,∵,q

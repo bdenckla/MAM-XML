@@ -1,10 +1,24 @@
 unicode_names 1Chr2Chr
 1Chronicles 1:1 in vtrad vtbhs
 START slh-word
+START slhw-targ
 START letter-large
 α,a
 STOP letter-large
 d,a,(me),m.
+STOP slhw-targ
+START slhw-desc-0
+α,a,d,a,(me),m.
+STOP slhw-desc-0
+START slhw-desc-1
+α,FULL STOP,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+g
+STOP slhw-desc-2
+START slhw-desc-3
+α,SOLIDUS,g
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 $,·sh,‥,(ti),τ

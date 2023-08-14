@@ -41610,11 +41610,25 @@ SPACE
 α,∵,l,:,x,a,n,a,n.,(tq)
 SPACE
 START slh-word
+START slhw-targ
 v,·,∵,n.,-,y,_,ʕ,:
 START letter-small
 r,‥,(qa)
 STOP letter-small
 y
+STOP slhw-targ
+START slhw-desc-0
+v,·,∵,n.,-,y,_,ʕ,:,r,‥,(qa),y
+STOP slhw-desc-0
+START slhw-desc-1
+FULL STOP,FULL STOP,FULL STOP,FULL STOP,FULL STOP,r,FULL STOP
+STOP slhw-desc-1
+START slhw-desc-2
+q
+STOP slhw-desc-2
+START slhw-desc-3
+r,SOLIDUS,q
+STOP slhw-desc-3
 STOP slh-word
 SPACE
 α,o,r,:,g,i,(ge),y,m.

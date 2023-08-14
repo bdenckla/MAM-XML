@@ -435,14 +435,26 @@
       <spi-pe2 />
       <verse osisID="Deut.6.4" starts-with-sampe="pe2">
         <slh-word>
-          <text text="שְׁמַ֖" />
-          <letter-large text="ע" />
+          <slhw-targ>
+            <text text="שְׁמַ֖" />
+            <letter-large text="ע" />
+          </slhw-targ>
+          <slhw-desc-0 text="שְׁמַ֖ע" />
+          <slhw-desc-1 text="..ע" />
+          <slhw-desc-2 text="ג" />
+          <slhw-desc-3 text="ע/ג" />
         </slh-word>
         <text text=" יִשְׂרָאֵ֑ל יְהֹוָ֥ה אֱלֹהֵ֖ינוּ יְהֹוָ֥ה" />
         <lp-paseq />
         <slh-word>
-          <text text="אֶחָֽ" />
-          <letter-large text="ד" />
+          <slhw-targ>
+            <text text="אֶחָֽ" />
+            <letter-large text="ד" />
+          </slhw-targ>
+          <slhw-desc-0 text="אֶחָֽד" />
+          <slhw-desc-1 text="..ד" />
+          <slhw-desc-2 text="ג" />
+          <slhw-desc-3 text="ד/ג" />
         </slh-word>
         <text text="׃" />
       </verse>
@@ -674,9 +686,15 @@
           <sdt-note>
             <text text="בספרי תימן " />
             <slh-word>
-              <text text="הָאָֽרֶ" />
-              <letter-large text="ץ" />
-              <text text="׃" />
+              <slhw-targ>
+                <text text="הָאָֽרֶ" />
+                <letter-large text="ץ" />
+                <text text="׃" />
+              </slhw-targ>
+              <slhw-desc-0 text="הָאָֽרֶץ׃" />
+              <slhw-desc-1 text="...ץ" />
+              <slhw-desc-2 text="ג" />
+              <slhw-desc-3 text="ץ/ג" />
             </slh-word>
             <text text=" בצד״י גדולה" />
           </sdt-note>
@@ -1075,8 +1093,14 @@
           <sdt-note>
             <text text="בספרי תימן " />
             <slh-word>
-              <letter-large text="קַ" />
-              <text text="ן" />
+              <slhw-targ>
+                <letter-large text="קַ" />
+                <text text="ן" />
+              </slhw-targ>
+              <slhw-desc-0 text="קַן" />
+              <slhw-desc-1 text="ק." />
+              <slhw-desc-2 text="ג" />
+              <slhw-desc-3 text="ק/ג" />
             </slh-word>
             <text text=" בקו״ף גדולה" />
           </sdt-note>
@@ -1537,9 +1561,15 @@
       <verse osisID="Deut.29.27">
         <text text="וַיִּתְּשֵׁ֤ם יְהֹוָה֙ מֵעַ֣ל אַדְמָתָ֔ם בְּאַ֥ף וּבְחֵמָ֖ה וּבְקֶ֣צֶף גָּד֑וֹל " />
         <slh-word>
-          <text text="וַיַּשְׁ" />
-          <letter-large text="לִ" />
-          <text text="כֵ֛ם" />
+          <slhw-targ>
+            <text text="וַיַּשְׁ" />
+            <letter-large text="לִ" />
+            <text text="כֵ֛ם" />
+          </slhw-targ>
+          <slhw-desc-0 text="וַיַּשְׁלִכֵ֛ם" />
+          <slhw-desc-1 text="...ל.." />
+          <slhw-desc-2 text="ג" />
+          <slhw-desc-3 text="ל/ג" />
         </slh-word>
         <text text=" אֶל־אֶ֥רֶץ אַחֶ֖רֶת כַּיּ֥וֹם הַזֶּֽה׃" />
       </verse>
@@ -1676,15 +1706,27 @@
         <scrdfftar>
           <sdt-target>
             <slh-word>
-              <letter-large text="הַ" />
+              <slhw-targ>
+                <letter-large text="הַ" />
+              </slhw-targ>
+              <slhw-desc-0 text="הַ" />
+              <slhw-desc-1 text="ה" />
+              <slhw-desc-2 text="ג" />
+              <slhw-desc-3 text="ה/ג" />
             </slh-word>
             <text text=" לְיְהֹוָה֙" />
           </sdt-target>
           <sdt-note>
             <text text="בספרי תימן " />
             <slh-word>
-              <letter-large text="הַֽ" />
-              <text text="לְיהֹוָה֙" />
+              <slhw-targ>
+                <letter-large text="הַֽ" />
+                <text text="לְיהֹוָה֙" />
+              </slhw-targ>
+              <slhw-desc-0 text="הַֽלְיהֹוָה֙" />
+              <slhw-desc-1 text="ה....." />
+              <slhw-desc-2 text="ג" />
+              <slhw-desc-3 text="ה/ג" />
             </slh-word>
             <text text=" בתיבה אחת" />
           </sdt-note>
@@ -1769,8 +1811,14 @@
       <verse osisID="Deut.32.18">
         <text text="צ֥וּר יְלָדְךָ֖ " />
         <slh-word>
-          <text text="תֶּ֑שִׁ" />
-          <letter-small text="י" />
+          <slhw-targ>
+            <text text="תֶּ֑שִׁ" />
+            <letter-small text="י" />
+          </slhw-targ>
+          <slhw-desc-0 text="תֶּ֑שִׁי" />
+          <slhw-desc-1 text="..י" />
+          <slhw-desc-2 text="ק" />
+          <slhw-desc-3 text="י/ק" />
         </slh-word>
         <text text=" וַתִּשְׁכַּ֖ח אֵ֥ל מְחֹלְלֶֽךָ׃" />
         <shirah-space />
@@ -1977,8 +2025,14 @@
           <sdt-note>
             <text text="בספרי תימן " />
             <slh-word>
-              <letter-large text="אַ" />
-              <text text="שְׁרֶ֨יךָ" />
+              <slhw-targ>
+                <letter-large text="אַ" />
+                <text text="שְׁרֶ֨יךָ" />
+              </slhw-targ>
+              <slhw-desc-0 text="אַשְׁרֶ֨יךָ" />
+              <slhw-desc-1 text="א...." />
+              <slhw-desc-2 text="ג" />
+              <slhw-desc-3 text="א/ג" />
             </slh-word>
             <text text=" באל״ף גדולה" />
           </sdt-note>
