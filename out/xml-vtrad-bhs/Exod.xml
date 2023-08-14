@@ -1692,12 +1692,14 @@
       <verse osisID="Exod.34.7">
         <scrdfftar>
           <sdt-target>
-            <letter-large text="נֹ" />
-            <text text="צֵ֥ר" />
+            <slh-word>
+              <letter-large text="נֹ" />
+              <text text="צֵ֥ר" />
+            </slh-word>
           </sdt-target>
           <sdt-note text="בספרי תימן נֹצֵ֥ר בנו״ן רגילה" />
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-yes />
+          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" חֶ֙סֶד֙ לָאֲלָפִ֔ים נֹשֵׂ֥א עָוֺ֛ן וָפֶ֖שַׁע וְחַטָּאָ֑ה וְנַקֵּה֙ לֹ֣א יְנַקֶּ֔ה פֹּקֵ֣ד" />
         <lp-legarmeih />

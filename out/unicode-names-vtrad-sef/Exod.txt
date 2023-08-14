@@ -24746,10 +24746,12 @@ w,∵,α,:∵,m,∵,𝓂,τ,.
 Exodus 34:7 in vtrad vtsef
 START scrdfftar
 START sdt-target
+START slh-word
 START letter-large
 n,o
 STOP letter-large
 ц,‥,(me),r
+STOP slh-word
 STOP sdt-target
 START sdt-note
 v,σ,f,r,y
@@ -24763,7 +24765,7 @@ SPACE
 r,g,y,l,h
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-yes
+START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 x,∵,(p),σ,∵,d,(p)

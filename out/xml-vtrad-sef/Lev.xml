@@ -170,12 +170,14 @@
         <text text="צַ֤ו אֶֽת־אַהֲרֹן֙ וְאֶת־בָּנָ֣יו לֵאמֹ֔ר זֹ֥את תּוֹרַ֖ת הָעֹלָ֑ה הִ֣וא הָעֹלָ֡ה עַל֩ " />
         <scrdfftar>
           <sdt-target>
-            <letter-small text="מ" />
-            <text text="וֹקְדָ֨הֿ" />
+            <slh-word>
+              <letter-small text="מ" />
+              <text text="וֹקְדָ֨הֿ" />
+            </slh-word>
           </sdt-target>
           <sdt-note text="בספרי תימן מוֹקְדָ֨הֿ במ״ם רגילה" />
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-yes />
+          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" עַל־הַמִּזְבֵּ֤חַ כׇּל־הַלַּ֙יְלָה֙ עַד־הַבֹּ֔קֶר וְאֵ֥שׁ הַמִּזְבֵּ֖חַ תּ֥וּקַד בּֽוֹ׃" />
       </verse>
