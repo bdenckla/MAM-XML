@@ -244,11 +244,9 @@ SPACE
 n,i,q,·,:,v,(ti),w,·
 SPACE
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 v,·,:,$,·sh,‥,m,o,𝓂,τ
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -258,6 +256,7 @@ w,α,$,k,n,z
 SPACE
 v,·,:,$,·sh,‥,m,𝓂,w,o,τ,RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 .
 
@@ -9013,11 +9012,9 @@ SPACE
 w,·,v,:,r,a,α,$,·sh,‥,⅃,y
 SPACE
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 x,oa,d,:,$,·sh,‥,y,k,∵,m.,∴
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -9027,6 +9024,7 @@ w,α,$,k,n,z
 SPACE
 x,oa,d,:,$,·sh,‥,k,∵,m.,∴,RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 SPACE
 w,·,τ,:,q,_,ʕ,:,τ,·,∵,⅃,m.
@@ -18401,11 +18399,9 @@ SPACE
 SPACE
 v,·,∵,n.,-
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 v,·,:,ʕ,o,◆,r
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -18415,6 +18411,7 @@ w,α,$,k,n,z
 SPACE
 v,·,:,ʕ,◆,w,o,r,RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 SPACE
 f,·,:,⌕,τ,⌕,w,o,r,a,h
@@ -20974,11 +20971,9 @@ l,·,‥,α,m,o,𝓂,r,.
 
 Numbers 25:11 in vtrad vtbhs
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 f,·,i,𝓂,y,n,:,x,a,(qa),σ
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -21002,6 +20997,7 @@ v,y,w,HPU GERSHAYIM,d
 SPACE
 z,ʕ,y,r,α,RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 SPACE
 v,·,∵,n.,-,α,∵,l,:,ʕ,a,z,a,(ge),r
@@ -21044,11 +21040,9 @@ SPACE
 α,∵,τ,-,v,·,:,r,i,y,τ,i,(ti),y
 SPACE
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 $,·sh,a,l,𝓂,w,o,m.
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -21060,6 +21054,7 @@ w,y,HPU GERSHAYIM,w
 SPACE
 q,θ,y,ʕ,α,RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 .
 

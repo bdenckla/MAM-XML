@@ -4187,11 +4187,9 @@ SPACE
 l,:,h,_,$,·sh,:,m,i,y,d,(tq)
 SPACE
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 w,:,l,_,h,:_,r,o,(qa),g
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,m,g,y,l,w,τ
 SPACE
@@ -4199,6 +4197,7 @@ SPACE
 SPACE
 l,_,h,:_,r,o,(qa),g,RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 SPACE
 w,·,l,:,α,_,v,·,‥,(ge),d
@@ -4496,11 +4495,9 @@ SPACE
 l,o,α,-,ʕ,a,m,_,⅃,d
 SPACE
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 l,i,f,:,n,‥,y,h,∵,ƶ,m.
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,m,g,y,l,w,τ
 SPACE
@@ -4508,6 +4505,7 @@ SPACE
 SPACE
 v,·,i,f,:,n,‥,y,h,∵,ƶ,m.,RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 SPACE
 k,·,i,𝓂,y,-,n,a,f,_,(me),l
@@ -4655,11 +4653,9 @@ START shirah-space
 w,:,α,‥,(me),τ
 START lp-paseq
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 α,:_,r,i,d,_,(ti),y
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y,m.
 SPACE
@@ -4675,6 +4671,7 @@ v,m,g,y,l,w,τ
 SPACE
 r,v,w,τ,RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 START shirah-space
 w,:,α,‥,(me),τ

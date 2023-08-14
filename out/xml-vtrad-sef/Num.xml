@@ -27,10 +27,9 @@
       <verse osisID="Num.1.17">
         <text text="וַיִּקַּ֥ח מֹשֶׁ֖ה וְאַהֲרֹ֑ן אֵ֚ת הָאֲנָשִׁ֣ים הָאֵ֔לֶּה אֲשֶׁ֥ר נִקְּב֖וּ " />
         <scrdfftar>
-          <scrdfftar-star-no />
           <scrdfftar-target text="בְּשֵׁמֹֽת" />
-          <scrdfftar-star-yes />
           <scrdfftar-note text="(בספרי ספרד ואשכנז בְּשֵׁמֽוֹת)" />
+          <starpos-after-word />
         </scrdfftar>
         <text text="׃" />
       </verse>
@@ -621,10 +620,9 @@
       <verse osisID="Num.10.10" ends-with-sampe="pe2">
         <text text="וּבְי֨וֹם שִׂמְחַתְכֶ֥ם וּֽבְמוֹעֲדֵיכֶם֮ וּבְרָאשֵׁ֣י " />
         <scrdfftar>
-          <scrdfftar-star-no />
           <scrdfftar-target text="חׇדְשֵׁיכֶם֒" />
-          <scrdfftar-star-yes />
           <scrdfftar-note text="(בספרי ספרד ואשכנז חׇדְשֵׁכֶם֒)" />
+          <starpos-after-word />
         </scrdfftar>
         <text text=" וּתְקַעְתֶּ֣ם בַּחֲצֹֽצְרֹ֗ת עַ֚ל עֹלֹ֣תֵיכֶ֔ם וְעַ֖ל זִבְחֵ֣י שַׁלְמֵיכֶ֑ם וְהָי֨וּ לָכֶ֤ם לְזִכָּרוֹן֙ לִפְנֵ֣י אֱלֹֽהֵיכֶ֔ם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃" />
       </verse>
@@ -1233,10 +1231,9 @@
       <verse osisID="Num.22.5">
         <text text="וַיִּשְׁלַ֨ח מַלְאָכִ֜ים אֶל־בִּלְעָ֣ם בֶּן־" />
         <scrdfftar>
-          <scrdfftar-star-no />
           <scrdfftar-target text="בְּעֹ֗ר" />
-          <scrdfftar-star-yes />
           <scrdfftar-note text="(בספרי ספרד ואשכנז בְּע֗וֹר)" />
+          <starpos-after-word />
         </scrdfftar>
         <text text=" פְּ֠ת֠וֹרָה אֲשֶׁ֧ר עַל־הַנָּהָ֛ר אֶ֥רֶץ בְּנֵי־עַמּ֖וֹ לִקְרֹא־ל֑וֹ לֵאמֹ֗ר הִ֠נֵּ֠ה עַ֣ם יָצָ֤א מִמִּצְרַ֙יִם֙ הִנֵּ֤ה כִסָּה֙ אֶת־עֵ֣ין הָאָ֔רֶץ וְה֥וּא יֹשֵׁ֖ב מִמֻּלִֽי׃" />
       </verse>
@@ -1362,9 +1359,7 @@
       <verse osisID="Num.25.10" starts-with-sampe="pe2" text="וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃" />
       <verse osisID="Num.25.11">
         <scrdfftar>
-          <scrdfftar-star-no />
           <scrdfftar-target text="פִּֽינְחָ֨ס" />
-          <scrdfftar-star-yes />
           <scrdfftar-note>
             <text text="(בספרי ספרד ואשכנז נהוג לכתוב " />
             <slh-word>
@@ -1374,16 +1369,16 @@
             </slh-word>
             <text text=" ביו״ד זעירא)" />
           </scrdfftar-note>
+          <starpos-after-word />
         </scrdfftar>
         <text text=" בֶּן־אֶלְעָזָ֜ר בֶּן־אַהֲרֹ֣ן הַכֹּהֵ֗ן הֵשִׁ֤יב אֶת־חֲמָתִי֙ מֵעַ֣ל בְּנֵֽי־יִשְׂרָאֵ֔ל בְּקַנְא֥וֹ אֶת־קִנְאָתִ֖י בְּתוֹכָ֑ם וְלֹא־כִלִּ֥יתִי אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל בְּקִנְאָתִֽי׃" />
       </verse>
       <verse osisID="Num.25.12">
         <text text="לָכֵ֖ן אֱמֹ֑ר הִנְנִ֨י נֹתֵ֥ן ל֛וֹ אֶת־בְּרִיתִ֖י " />
         <scrdfftar>
-          <scrdfftar-star-no />
           <scrdfftar-target text="שָׁלֽוֹם" />
-          <scrdfftar-star-yes />
           <scrdfftar-note text="(בספרי ספרד ואשכנז וי״ו קטיעא)" />
+          <starpos-after-word />
         </scrdfftar>
         <text text="׃" />
       </verse>

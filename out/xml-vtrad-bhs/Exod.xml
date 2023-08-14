@@ -800,10 +800,9 @@
       <verse osisID="Exod.17.16" ends-with-sampe="pe2">
         <text text="וַיֹּ֗אמֶר כִּֽי־יָד֙ עַל־" />
         <scrdfftar>
-          <scrdfftar-star-no />
           <scrdfftar-target text="כֵּ֣ס יָ֔הּ" />
-          <scrdfftar-star-yes />
           <scrdfftar-note text="(בכתר ארם צובה היה כתוב כֵּ֣סְיָ֔הּ בתיבה אחת)" />
+          <starpos-after-word />
         </scrdfftar>
         <text text=" מִלְחָמָ֥ה לַיהֹוָ֖ה בַּֽעֲמָלֵ֑ק מִדֹּ֖ר דֹּֽר׃" />
       </verse>
@@ -1248,10 +1247,9 @@
       <verse osisID="Exod.25.31" starts-with-sampe="pe2">
         <text text="וְעָשִׂ֥יתָ מְנֹרַ֖ת זָהָ֣ב טָה֑וֹר מִקְשָׁ֞ה " />
         <scrdfftar>
-          <scrdfftar-star-no />
           <scrdfftar-target text="תֵּעָשֶׂ֤ה" />
-          <scrdfftar-star-yes />
           <scrdfftar-note text="(בספרי ספרד ואשכנז תֵּיעָשֶׂ֤ה)" />
+          <starpos-after-word />
         </scrdfftar>
         <text text=" הַמְּנוֹרָה֙ יְרֵכָ֣הּ וְקָנָ֔הּ גְּבִיעֶ֛יהָ כַּפְתֹּרֶ֥יהָ וּפְרָחֶ֖יהָ מִמֶּ֥נָּה יִהְיֽוּ׃" />
       </verse>
@@ -1394,10 +1392,9 @@
       <verse osisID="Exod.28.26">
         <text text="וְעָשִׂ֗יתָ שְׁתֵּי֙ טַבְּע֣וֹת זָהָ֔ב וְשַׂמְתָּ֣ אֹתָ֔ם עַל־שְׁנֵ֖י קְצ֣וֹת הַחֹ֑שֶׁן עַל־שְׂפָת֕וֹ אֲשֶׁ֛ר אֶל־עֵ֥בֶר " />
         <scrdfftar>
-          <scrdfftar-star-no />
           <scrdfftar-target text="הָאֵפֹ֖ד" />
-          <scrdfftar-star-yes />
           <scrdfftar-note text="(בספרי ספרד ואשכנז הָאֵפ֖וֹד)" />
+          <starpos-after-word />
         </scrdfftar>
         <text text=" בָּֽיְתָה׃" />
       </verse>
@@ -1667,12 +1664,11 @@
       <verse osisID="Exod.33.23">
         <text text="וַהֲסִרֹתִי֙ אֶת־כַּפִּ֔י וְרָאִ֖יתָ אֶת־אֲחֹרָ֑י וּפָנַ֖י לֹ֥א יֵרָאֽוּ׃" />
         <scrdfftar>
-          <scrdfftar-star-no />
           <scrdfftar-target>
             <spi-pe2 />
           </scrdfftar-target>
-          <scrdfftar-star-yes />
           <scrdfftar-note text="(ספק פרשה סתומה בכתר ארם צובה)" />
+          <starpos-after-word />
         </scrdfftar>
       </verse>
     </chapter>
@@ -1691,13 +1687,12 @@
       </verse>
       <verse osisID="Exod.34.7">
         <scrdfftar-of-slh-word>
-          <scrdfftar-star-no />
           <scrdfftar-target>
             <letter-large text="נֹ" />
             <text text="צֵ֥ר" />
           </scrdfftar-target>
-          <scrdfftar-star-yes />
           <scrdfftar-note text="(בספרי תימן נֹצֵ֥ר בנו״ן רגילה)" />
+          <starpos-after-word />
         </scrdfftar-of-slh-word>
         <text text=" חֶ֙סֶד֙ לָאֲלָפִ֔ים נֹשֵׂ֥א עָוֺ֛ן וָפֶ֖שַׁע וְחַטָּאָ֑ה וְנַקֵּה֙ לֹ֣א יְנַקֶּ֔ה פֹּקֵ֣ד" />
         <lp-legarmeih />

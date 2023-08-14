@@ -12206,13 +12206,11 @@ k,·,i,𝓂,y,-,y,a,d,(p)
 SPACE
 ʕ,_,l,-
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 k,·,‥,⅃,σ
 SPACE
 y,a,ƶ,h,·
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,k,τ,r
 SPACE
@@ -12230,6 +12228,7 @@ v,τ,y,v,h
 SPACE
 α,x,τ,RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 SPACE
 m,i,l,:,x,a,m,a,(me),h
@@ -17778,11 +17777,9 @@ SPACE
 m,i,q,:,$,·sh,a,(G),h
 SPACE
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 τ,·,‥,ʕ,a,$,·si,∵,<,h
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -17792,6 +17789,7 @@ w,α,$,k,n,z
 SPACE
 τ,·,‥,y,ʕ,a,$,·si,∵,<,h,RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 SPACE
 h,_,m,·,:,n,w,o,r,a,h,(p)
@@ -20054,11 +20052,9 @@ SPACE
 α,∵,l,-,ʕ,‥,(me),v,∵,r
 SPACE
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 h,a,α,‥,f,o,(ti),d
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -20068,6 +20064,7 @@ w,α,$,k,n,z
 SPACE
 h,a,α,‥,f,(ti),w,o,d,RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 SPACE
 v,·,a,𝓂,y,:,τ,a,h,.
@@ -24551,11 +24548,9 @@ l,o,(me),α
 SPACE
 y,‥,r,a,α,𝓂,w,·,.
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 START spi-pe2
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,σ,f,q
 SPACE
@@ -24569,6 +24564,7 @@ SPACE
 SPACE
 ц,w,v,h,RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 
 Exodus 34:1 in vtrad vtbhs
@@ -24741,14 +24737,12 @@ w,∵,α,:∵,m,∵,𝓂,τ,.
 
 Exodus 34:7 in vtrad vtbhs
 START scrdfftar-of-slh-word
-START scrdfftar-star-no
 START scrdfftar-target
 START letter-large
 n,o
 STOP letter-large
 ц,‥,(me),r
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -24760,6 +24754,7 @@ v,n,w,HPU GERSHAYIM,n.
 SPACE
 r,g,y,l,h,RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar-of-slh-word
 SPACE
 x,∵,(p),σ,∵,d,(p)

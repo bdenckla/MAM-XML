@@ -2281,11 +2281,9 @@ SPACE
 ʕ,:_,w,ḥḥfv,n,i,(ti),y
 SPACE
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 m,i,n,·,:,$,·si,o,𝓂,α
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -2295,6 +2293,7 @@ w,α,$,k,n,z
 SPACE
 m,i,n,·,:,$,·si,𝓂,w,o,α,RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 .
 
@@ -2632,11 +2631,9 @@ Genesis 5:1 in vtrad vtsef
 z,∵,⅃,h
 SPACE
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 σ,‥,ƶ,f,∵,r
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -2653,6 +2650,7 @@ v,σ,m,HPU GERSHAYIM,k.
 SPACE
 g,d,w,l,h,RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 SPACE
 τ,·,w,o,l,:,d,o,(ti),τ
@@ -4121,11 +4119,9 @@ n,i,v,:,q,:,ʕ,w,·,(p)
 SPACE
 k,·,oa,𝓂,l,-
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 m,_,ʕ,:,y,:,n,o,τ,(p)
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -4135,6 +4131,7 @@ w,α,$,k,n,z
 SPACE
 m,_,ʕ,:,y,:,n,w,o,τ,(p),RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 SPACE
 τ,·,:,h,⅃,w,o,m.
@@ -5598,11 +5595,9 @@ $,·sh,a,n,a,𝓂,h,.
 
 Genesis 9:29 in vtrad vtsef
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 w,_,y,·,i,𝓂,h,:,y,w,·,(p)
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -5612,6 +5607,7 @@ w,α,$,k,n,z
 SPACE
 w,_,𝓂,y,:,h,i,y,(p),RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 SPACE
 k,·,oa,l,-,y,:,m,‥,y,-,n,o,ƶ,x,_
@@ -29921,13 +29917,11 @@ SPACE
 SPACE
 v,·,_,τ,-
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 f,·,(me),w,o,θ,i,y
 SPACE
 f,∵,⟓,r,_,ʕ
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -29939,6 +29933,7 @@ v,τ,y,v,h
 SPACE
 α,x,τ,RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 SPACE
 k,·,o,h,‥,(me),n.
@@ -30081,13 +30076,11 @@ SPACE
 SPACE
 v,·,_,τ,-
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 f,·,(me),w,o,θ,i,y
 SPACE
 f,∵,(ti),r,_,ʕ
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -30099,6 +30092,7 @@ v,τ,y,v,h
 SPACE
 α,x,τ,RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 SPACE
 k,·,o,h,‥,(me),n.
@@ -34070,13 +34064,11 @@ SPACE
 SPACE
 v,·,_,τ,-
 START scrdfftar
-START scrdfftar-star-no
 START scrdfftar-target
 f,·,(me),w,o,θ,i,y
 SPACE
 f,∵,(ti),r,_,ʕ
 STOP scrdfftar-target
-START scrdfftar-star-yes
 START scrdfftar-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
@@ -34088,6 +34080,7 @@ v,τ,y,v,h
 SPACE
 α,x,τ,RIGHT PARENTHESIS
 STOP scrdfftar-note
+START starpos-after-word
 STOP scrdfftar
 SPACE
 k,·,o,h,‥,⅃,n.
