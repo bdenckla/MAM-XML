@@ -248,13 +248,13 @@ START sdt-target
 v,·,:,$,·sh,‥,m,o,𝓂,τ
 STOP sdt-target
 START sdt-note
-LEFT PARENTHESIS,v,σ,f,r,y
+v,σ,f,r,y
 SPACE
 σ,f,r,d
 SPACE
 w,α,$,k,n,z
 SPACE
-v,·,:,$,·sh,‥,m,𝓂,w,o,τ,RIGHT PARENTHESIS
+v,·,:,$,·sh,‥,m,𝓂,w,o,τ
 STOP sdt-note
 START sdt-starpos-after-word
 START sdt-is-slh-word-no
@@ -9017,13 +9017,13 @@ START sdt-target
 x,oa,d,:,$,·sh,‥,y,k,∵,m.,∴
 STOP sdt-target
 START sdt-note
-LEFT PARENTHESIS,v,σ,f,r,y
+v,σ,f,r,y
 SPACE
 σ,f,r,d
 SPACE
 w,α,$,k,n,z
 SPACE
-x,oa,d,:,$,·sh,‥,k,∵,m.,∴,RIGHT PARENTHESIS
+x,oa,d,:,$,·sh,‥,k,∵,m.,∴
 STOP sdt-note
 START sdt-starpos-after-word
 START sdt-is-slh-word-no
@@ -18405,13 +18405,13 @@ START sdt-target
 v,·,:,ʕ,o,◆,r
 STOP sdt-target
 START sdt-note
-LEFT PARENTHESIS,v,σ,f,r,y
+v,σ,f,r,y
 SPACE
 σ,f,r,d
 SPACE
 w,α,$,k,n,z
 SPACE
-v,·,:,ʕ,◆,w,o,r,RIGHT PARENTHESIS
+v,·,:,ʕ,◆,w,o,r
 STOP sdt-note
 START sdt-starpos-after-word
 START sdt-is-slh-word-no
@@ -20978,7 +20978,7 @@ START sdt-target
 f,·,i,𝓂,y,n,:,x,a,(qa),σ
 STOP sdt-target
 START sdt-note
-LEFT PARENTHESIS,v,σ,f,r,y
+v,σ,f,r,y
 SPACE
 σ,f,r,d
 SPACE
@@ -20998,7 +20998,7 @@ STOP slh-word
 SPACE
 v,y,w,HPU GERSHAYIM,d
 SPACE
-z,ʕ,y,r,α,RIGHT PARENTHESIS
+z,ʕ,y,r,α
 STOP sdt-note
 START sdt-starpos-after-word
 START sdt-is-slh-word-no
@@ -21048,7 +21048,7 @@ START sdt-target
 $,·sh,a,l,𝓂,w,o,m.
 STOP sdt-target
 START sdt-note
-LEFT PARENTHESIS,v,σ,f,r,y
+v,σ,f,r,y
 SPACE
 σ,f,r,d
 SPACE
@@ -21056,7 +21056,7 @@ w,α,$,k,n,z
 SPACE
 w,y,HPU GERSHAYIM,w
 SPACE
-q,θ,y,ʕ,α,RIGHT PARENTHESIS
+q,θ,y,ʕ,α
 STOP sdt-note
 START sdt-starpos-after-word
 START sdt-is-slh-word-no

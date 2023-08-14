@@ -801,7 +801,7 @@
         <text text="וַיֹּ֗אמֶר כִּֽי־יָד֙ עַל־" />
         <scrdfftar>
           <sdt-target text="כֵּ֣ס יָ֔הּ" />
-          <sdt-note text="(בכתר ארם צובה היה כתוב כֵּ֣סְיָ֔הּ בתיבה אחת)" />
+          <sdt-note text="בכתר ארם צובה היה כתוב כֵּ֣סְיָ֔הּ בתיבה אחת" />
           <sdt-starpos-after-word />
           <sdt-is-slh-word-no />
         </scrdfftar>
@@ -1249,7 +1249,7 @@
         <text text="וְעָשִׂ֥יתָ מְנֹרַ֖ת זָהָ֣ב טָה֑וֹר מִקְשָׁ֞ה " />
         <scrdfftar>
           <sdt-target text="תֵּעָשֶׂ֤ה" />
-          <sdt-note text="(בספרי ספרד ואשכנז תֵּיעָשֶׂ֤ה)" />
+          <sdt-note text="בספרי ספרד ואשכנז תֵּיעָשֶׂ֤ה" />
           <sdt-starpos-after-word />
           <sdt-is-slh-word-no />
         </scrdfftar>
@@ -1395,7 +1395,7 @@
         <text text="וְעָשִׂ֗יתָ שְׁתֵּי֙ טַבְּע֣וֹת זָהָ֔ב וְשַׂמְתָּ֣ אֹתָ֔ם עַל־שְׁנֵ֖י קְצ֣וֹת הַחֹ֑שֶׁן עַל־שְׂפָת֕וֹ אֲשֶׁ֛ר אֶל־עֵ֥בֶר " />
         <scrdfftar>
           <sdt-target text="הָאֵפֹ֖ד" />
-          <sdt-note text="(בספרי ספרד ואשכנז הָאֵפ֖וֹד)" />
+          <sdt-note text="בספרי ספרד ואשכנז הָאֵפ֖וֹד" />
           <sdt-starpos-after-word />
           <sdt-is-slh-word-no />
         </scrdfftar>
@@ -1670,7 +1670,7 @@
           <sdt-target>
             <spi-pe2 />
           </sdt-target>
-          <sdt-note text="(ספק פרשה סתומה בכתר ארם צובה)" />
+          <sdt-note text="ספק פרשה סתומה בכתר ארם צובה" />
           <sdt-starpos-after-word />
           <sdt-is-slh-word-no />
         </scrdfftar>
@@ -1695,7 +1695,7 @@
             <letter-large text="נֹ" />
             <text text="צֵ֥ר" />
           </sdt-target>
-          <sdt-note text="(בספרי תימן נֹצֵ֥ר בנו״ן רגילה)" />
+          <sdt-note text="בספרי תימן נֹצֵ֥ר בנו״ן רגילה" />
           <sdt-starpos-after-word />
           <sdt-is-slh-word-yes />
         </scrdfftar>

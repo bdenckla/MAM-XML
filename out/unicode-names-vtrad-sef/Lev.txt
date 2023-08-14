@@ -2961,7 +2961,7 @@ STOP letter-small
 w,o,q,:,d,a,(qa),h,‾
 STOP sdt-target
 START sdt-note
-LEFT PARENTHESIS,v,σ,f,r,y
+v,σ,f,r,y
 SPACE
 τ,y,m,n.
 SPACE
@@ -2969,7 +2969,7 @@ m,w,o,q,:,d,a,(qa),h,‾
 SPACE
 v,m,HPU GERSHAYIM,m.
 SPACE
-r,g,y,l,h,RIGHT PARENTHESIS
+r,g,y,l,h
 STOP sdt-note
 START sdt-starpos-after-word
 START sdt-is-slh-word-yes
@@ -3991,7 +3991,7 @@ START sdt-target
 START spi-pe2
 STOP sdt-target
 START sdt-note
-LEFT PARENTHESIS,α,y,n.
+α,y,n.
 SPACE
 f,r,$,h
 SPACE
@@ -3999,7 +3999,7 @@ v,σ,f,r,y
 SPACE
 σ,f,r,d
 SPACE
-w,α,$,k,n,z,RIGHT PARENTHESIS
+w,α,$,k,n,z
 STOP sdt-note
 START sdt-starpos-after-word
 START sdt-is-slh-word-no
@@ -4115,13 +4115,13 @@ START sdt-target
 START spi-pe2
 STOP sdt-target
 START sdt-note
-LEFT PARENTHESIS,α,y,n.
+α,y,n.
 SPACE
 f,r,$,h
 SPACE
 v,σ,f,r,y
 SPACE
-τ,y,m,n.,RIGHT PARENTHESIS
+τ,y,m,n.
 STOP sdt-note
 START sdt-starpos-after-word
 START sdt-is-slh-word-no

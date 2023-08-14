@@ -173,7 +173,7 @@
             <letter-small text="מ" />
             <text text="וֹקְדָ֨הֿ" />
           </sdt-target>
-          <sdt-note text="(בספרי תימן מוֹקְדָ֨הֿ במ״ם רגילה)" />
+          <sdt-note text="בספרי תימן מוֹקְדָ֨הֿ במ״ם רגילה" />
           <sdt-starpos-after-word />
           <sdt-is-slh-word-yes />
         </scrdfftar>
@@ -243,7 +243,7 @@
           <sdt-target>
             <spi-pe2 />
           </sdt-target>
-          <sdt-note text="(אין פרשה בספרי ספרד ואשכנז)" />
+          <sdt-note text="אין פרשה בספרי ספרד ואשכנז" />
           <sdt-starpos-after-word />
           <sdt-is-slh-word-no />
         </scrdfftar>
@@ -259,7 +259,7 @@
           <sdt-target>
             <spi-pe2 />
           </sdt-target>
-          <sdt-note text="(אין פרשה בספרי תימן)" />
+          <sdt-note text="אין פרשה בספרי תימן" />
           <sdt-starpos-after-word />
           <sdt-is-slh-word-no />
         </scrdfftar>

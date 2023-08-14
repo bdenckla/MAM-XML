@@ -28,7 +28,7 @@
         <text text="וַיִּקַּ֥ח מֹשֶׁ֖ה וְאַהֲרֹ֑ן אֵ֚ת הָאֲנָשִׁ֣ים הָאֵ֔לֶּה אֲשֶׁ֥ר נִקְּב֖וּ " />
         <scrdfftar>
           <sdt-target text="בְּשֵׁמֹֽת" />
-          <sdt-note text="(בספרי ספרד ואשכנז בְּשֵׁמֽוֹת)" />
+          <sdt-note text="בספרי ספרד ואשכנז בְּשֵׁמֽוֹת" />
           <sdt-starpos-after-word />
           <sdt-is-slh-word-no />
         </scrdfftar>
@@ -622,7 +622,7 @@
         <text text="וּבְי֨וֹם שִׂמְחַתְכֶ֥ם וּֽבְמוֹעֲדֵיכֶם֮ וּבְרָאשֵׁ֣י " />
         <scrdfftar>
           <sdt-target text="חׇדְשֵׁיכֶם֒" />
-          <sdt-note text="(בספרי ספרד ואשכנז חׇדְשֵׁכֶם֒)" />
+          <sdt-note text="בספרי ספרד ואשכנז חׇדְשֵׁכֶם֒" />
           <sdt-starpos-after-word />
           <sdt-is-slh-word-no />
         </scrdfftar>
@@ -1234,7 +1234,7 @@
         <text text="וַיִּשְׁלַ֨ח מַלְאָכִ֜ים אֶל־בִּלְעָ֣ם בֶּן־" />
         <scrdfftar>
           <sdt-target text="בְּעֹ֗ר" />
-          <sdt-note text="(בספרי ספרד ואשכנז בְּע֗וֹר)" />
+          <sdt-note text="בספרי ספרד ואשכנז בְּע֗וֹר" />
           <sdt-starpos-after-word />
           <sdt-is-slh-word-no />
         </scrdfftar>
@@ -1364,13 +1364,13 @@
         <scrdfftar>
           <sdt-target text="פִּֽינְחָ֨ס" />
           <sdt-note>
-            <text text="(בספרי ספרד ואשכנז נהוג לכתוב " />
+            <text text="בספרי ספרד ואשכנז נהוג לכתוב " />
             <slh-word>
               <text text="פִּֽ" />
               <letter-small text="י" />
               <text text="נְחָ֨ס" />
             </slh-word>
-            <text text=" ביו״ד זעירא)" />
+            <text text=" ביו״ד זעירא" />
           </sdt-note>
           <sdt-starpos-after-word />
           <sdt-is-slh-word-no />
@@ -1381,7 +1381,7 @@
         <text text="לָכֵ֖ן אֱמֹ֑ר הִנְנִ֨י נֹתֵ֥ן ל֛וֹ אֶת־בְּרִיתִ֖י " />
         <scrdfftar>
           <sdt-target text="שָׁלֽוֹם" />
-          <sdt-note text="(בספרי ספרד ואשכנז וי״ו קטיעא)" />
+          <sdt-note text="בספרי ספרד ואשכנז וי״ו קטיעא" />
           <sdt-starpos-after-word />
           <sdt-is-slh-word-no />
         </scrdfftar>

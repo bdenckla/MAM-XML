@@ -178,7 +178,7 @@
         <text text="וַיֹּ֥אמֶר קַ֖יִן אֶל־יְהֹוָ֑ה גָּד֥וֹל עֲוֺנִ֖י " />
         <scrdfftar>
           <sdt-target text="מִנְּשֹֽׂא" />
-          <sdt-note text="(בספרי ספרד ואשכנז מִנְּשֽׂוֹא)" />
+          <sdt-note text="בספרי ספרד ואשכנז מִנְּשֽׂוֹא" />
           <sdt-starpos-after-word />
           <sdt-is-slh-word-no />
         </scrdfftar>
@@ -205,12 +205,12 @@
         <scrdfftar>
           <sdt-target text="סֵ֔פֶר" />
           <sdt-note>
-            <text text="(בספרי תימן " />
+            <text text="בספרי תימן " />
             <slh-word>
               <letter-large text="סֵ֔" />
               <text text="פֶר" />
             </slh-word>
-            <text text=" בסמ״ך גדולה)" />
+            <text text=" בסמ״ך גדולה" />
           </sdt-note>
           <sdt-starpos-after-word />
           <sdt-is-slh-word-no />
@@ -308,7 +308,7 @@
         <text text="בִּשְׁנַ֨ת שֵׁשׁ־מֵא֤וֹת שָׁנָה֙ לְחַיֵּי־נֹ֔חַ בַּחֹ֙דֶשׁ֙ הַשֵּׁנִ֔י בְּשִׁבְעָֽה־עָשָׂ֥ר י֖וֹם לַחֹ֑דֶשׁ בַּיּ֣וֹם הַזֶּ֗ה נִבְקְעוּ֙ כׇּֽל־" />
         <scrdfftar>
           <sdt-target text="מַעְיְנֹת֙" />
-          <sdt-note text="(בספרי ספרד ואשכנז מַעְיְנוֹת֙)" />
+          <sdt-note text="בספרי ספרד ואשכנז מַעְיְנוֹת֙" />
           <sdt-starpos-after-word />
           <sdt-is-slh-word-no />
         </scrdfftar>
@@ -408,7 +408,7 @@
       <verse osisID="Gen.9.29" ends-with-sampe="pe2">
         <scrdfftar>
           <sdt-target text="וַיִּֽהְיוּ֙" />
-          <sdt-note text="(בספרי ספרד ואשכנז וַֽיְהִי֙)" />
+          <sdt-note text="בספרי ספרד ואשכנז וַֽיְהִי֙" />
           <sdt-starpos-after-word />
           <sdt-is-slh-word-no />
         </scrdfftar>
@@ -1870,7 +1870,7 @@
         <text text="וַיִּקְרָ֨א פַרְעֹ֣ה שֵׁם־יוֹסֵף֮ צָֽפְנַ֣ת פַּעְנֵ֒חַ֒ וַיִּתֶּן־ל֣וֹ אֶת־אָֽסְנַ֗ת בַּת־" />
         <scrdfftar>
           <sdt-target text="פּ֥וֹטִי פֶ֛רַע" />
-          <sdt-note text="(בספרי תימן פּֽוֹטִיפֶ֛רַע בתיבה אחת)" />
+          <sdt-note text="בספרי תימן פּֽוֹטִיפֶ֛רַע בתיבה אחת" />
           <sdt-starpos-after-word />
           <sdt-is-slh-word-no />
         </scrdfftar>
@@ -1888,7 +1888,7 @@
         <text text="וּלְיוֹסֵ֤ף יֻלַּד֙ שְׁנֵ֣י בָנִ֔ים בְּטֶ֥רֶם תָּב֖וֹא שְׁנַ֣ת הָרָעָ֑ב אֲשֶׁ֤ר יָֽלְדָה־לּוֹ֙ אָֽסְנַ֔ת בַּת־" />
         <scrdfftar>
           <sdt-target text="פּ֥וֹטִי פֶ֖רַע" />
-          <sdt-note text="(בספרי תימן פּֽוֹטִיפֶ֖רַע בתיבה אחת)" />
+          <sdt-note text="בספרי תימן פּֽוֹטִיפֶ֖רַע בתיבה אחת" />
           <sdt-starpos-after-word />
           <sdt-is-slh-word-no />
         </scrdfftar>
@@ -2107,7 +2107,7 @@
         <text text="וַיִּוָּלֵ֣ד לְיוֹסֵף֮ בְּאֶ֣רֶץ מִצְרַ֒יִם֒ אֲשֶׁ֤ר יָֽלְדָה־לּוֹ֙ אָֽסְנַ֔ת בַּת־" />
         <scrdfftar>
           <sdt-target text="פּ֥וֹטִי פֶ֖רַע" />
-          <sdt-note text="(בספרי תימן פּֽוֹטִיפֶ֖רַע בתיבה אחת)" />
+          <sdt-note text="בספרי תימן פּֽוֹטִיפֶ֖רַע בתיבה אחת" />
           <sdt-starpos-after-word />
           <sdt-is-slh-word-no />
         </scrdfftar>
