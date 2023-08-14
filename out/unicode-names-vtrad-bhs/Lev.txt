@@ -2953,14 +2953,14 @@ h,a,ʕ,o,l,a,μ,h
 SPACE
 ʕ,_,l,(tq)
 SPACE
-START scrdfftar-of-slh-word
-START scrdfftar-target
+START scrdfftar
+START sdt-target
 START letter-small
 m
 STOP letter-small
 w,o,q,:,d,a,(qa),h,‾
-STOP scrdfftar-target
-START scrdfftar-note
+STOP sdt-target
+START sdt-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -2970,9 +2970,10 @@ SPACE
 v,m,HPU GERSHAYIM,m.
 SPACE
 r,g,y,l,h,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-after-word
-STOP scrdfftar-of-slh-word
+STOP sdt-note
+START sdt-starpos-after-word
+START sdt-is-slh-word-yes
+STOP scrdfftar
 SPACE
 ʕ,_,l,-,h,_,m,·,i,z,:,v,·,‥,<,x,_
 SPACE
@@ -3986,10 +3987,10 @@ h,_,h,i,(ti),w,α
 SPACE
 m,‥,ʕ,_,m,·,∵,𝓂,y,h,a,.
 START scrdfftar
-START scrdfftar-target
+START sdt-target
 START spi-pe2
-STOP scrdfftar-target
-START scrdfftar-note
+STOP sdt-target
+START sdt-note
 LEFT PARENTHESIS,α,y,n.
 SPACE
 f,r,$,h
@@ -3999,8 +4000,9 @@ SPACE
 σ,f,r,d
 SPACE
 w,α,$,k,n,z,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-after-word
+STOP sdt-note
+START sdt-starpos-after-word
+START sdt-is-slh-word-no
 STOP scrdfftar
 
 Levit 7:22 in vtrad vtbhs
@@ -4109,10 +4111,10 @@ h,_,h,i,(ti),w,α
 SPACE
 m,‥,𝓂,ʕ,_,m,·,∵,𝓂,y,h,a,.
 START scrdfftar
-START scrdfftar-target
+START sdt-target
 START spi-pe2
-STOP scrdfftar-target
-START scrdfftar-note
+STOP sdt-target
+START sdt-note
 LEFT PARENTHESIS,α,y,n.
 SPACE
 f,r,$,h
@@ -4120,8 +4122,9 @@ SPACE
 v,σ,f,r,y
 SPACE
 τ,y,m,n.,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-after-word
+STOP sdt-note
+START sdt-starpos-after-word
+START sdt-is-slh-word-no
 STOP scrdfftar
 
 Levit 7:28 in vtrad vtbhs

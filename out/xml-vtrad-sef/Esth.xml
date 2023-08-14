@@ -279,9 +279,10 @@
         <lp-legarmeih />
         <text text=" אֲשֶׁ֣ר בְּכׇל־עִיר־וָעִ֗יר לְהִקָּהֵל֮ וְלַעֲמֹ֣ד עַל־נַפְשָׁם֒ לְהַשְׁמִיד֩ " />
         <scrdfftar>
-          <scrdfftar-target text="וְלַהֲרֹ֨ג" />
-          <scrdfftar-note text="(במגילות אשכנז לַהֲרֹ֨ג)" />
-          <starpos-after-word />
+          <sdt-target text="וְלַהֲרֹ֨ג" />
+          <sdt-note text="(במגילות אשכנז לַהֲרֹ֨ג)" />
+          <sdt-starpos-after-word />
+          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" וּלְאַבֵּ֜ד אֶת־כׇּל־חֵ֨יל עַ֧ם וּמְדִינָ֛ה הַצָּרִ֥ים אֹתָ֖ם טַ֣ף וְנָשִׁ֑ים וּשְׁלָלָ֖ם לָבֽוֹז׃" />
       </verse>
@@ -314,9 +315,10 @@
       <verse osisID="Esth.9.2">
         <text text="נִקְהֲל֨וּ הַיְּהוּדִ֜ים בְּעָרֵיהֶ֗ם בְּכׇל־מְדִינוֹת֙ הַמֶּ֣לֶךְ אֲחַשְׁוֵר֔וֹשׁ לִשְׁלֹ֣חַ יָ֔ד בִּמְבַקְשֵׁ֖י רָֽעָתָ֑ם וְאִישׁ֙ לֹא־עָמַ֣ד " />
         <scrdfftar>
-          <scrdfftar-target text="לִפְנֵיהֶ֔ם" />
-          <scrdfftar-note text="(במגילות אשכנז בִּפְנֵיהֶ֔ם)" />
-          <starpos-after-word />
+          <sdt-target text="לִפְנֵיהֶ֔ם" />
+          <sdt-note text="(במגילות אשכנז בִּפְנֵיהֶ֔ם)" />
+          <sdt-starpos-after-word />
+          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" כִּֽי־נָפַ֥ל פַּחְדָּ֖ם עַל־כׇּל־הָעַמִּֽים׃" />
       </verse>
@@ -375,9 +377,10 @@
         <text text="וְאֵ֥ת" />
         <lp-paseq />
         <scrdfftar>
-          <scrdfftar-target text="אֲרִדַ֖י" />
-          <scrdfftar-note text="(בספרים אחרים אֲרִידַ֖י וכך כתוב במגילות רבות)" />
-          <starpos-after-word />
+          <sdt-target text="אֲרִדַ֖י" />
+          <sdt-note text="(בספרים אחרים אֲרִידַ֖י וכך כתוב במגילות רבות)" />
+          <sdt-starpos-after-word />
+          <sdt-is-slh-word-no />
         </scrdfftar>
         <shirah-space />
         <text text="וְאֵ֥ת" />

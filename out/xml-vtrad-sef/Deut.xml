@@ -670,8 +670,8 @@
       <verse osisID="Deut.11.21" ends-with-sampe="samekh2">
         <text text="לְמַ֨עַן יִרְבּ֤וּ יְמֵיכֶם֙ וִימֵ֣י בְנֵיכֶ֔ם עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁ֨ר נִשְׁבַּ֧ע יְהֹוָ֛ה לַאֲבֹתֵיכֶ֖ם לָתֵ֣ת לָהֶ֑ם כִּימֵ֥י הַשָּׁמַ֖יִם " />
         <scrdfftar>
-          <scrdfftar-target text="עַל־הָאָֽרֶץ" />
-          <scrdfftar-note>
+          <sdt-target text="עַל־הָאָֽרֶץ" />
+          <sdt-note>
             <text text="(בספרי תימן " />
             <slh-word>
               <text text="הָאָֽרֶ" />
@@ -679,8 +679,9 @@
               <text text="׃" />
             </slh-word>
             <text text=" בצד״י גדולה)" />
-          </scrdfftar-note>
-          <starpos-after-word />
+          </sdt-note>
+          <sdt-starpos-after-word />
+          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text="׃" />
       </verse>
@@ -1071,16 +1072,17 @@
       <verse osisID="Deut.22.6" starts-with-sampe="pe2">
         <text text="כִּ֣י יִקָּרֵ֣א " />
         <scrdfftar>
-          <scrdfftar-target text="קַן־צִפּ֣וֹר" />
-          <scrdfftar-note>
+          <sdt-target text="קַן־צִפּ֣וֹר" />
+          <sdt-note>
             <text text="(בספרי תימן " />
             <slh-word>
               <letter-large text="קַ" />
               <text text="ן" />
             </slh-word>
             <text text=" בקו״ף גדולה)" />
-          </scrdfftar-note>
-          <starpos-before-word />
+          </sdt-note>
+          <sdt-starpos-before-word />
+          <sdt-is-slh-word-no />
         </scrdfftar>
         <lp-paseq />
         <text text="לְפָנֶ֡יךָ בַּדֶּ֜רֶךְ בְּכׇל־עֵ֣ץ" />
@@ -1180,9 +1182,10 @@
       <verse osisID="Deut.23.2" starts-with-sampe="samekh2" ends-with-sampe="samekh2">
         <text text="לֹֽא־יָבֹ֧א פְצֽוּעַ־" />
         <scrdfftar>
-          <scrdfftar-target text="דַּכָּ֛א" />
-          <scrdfftar-note text="(ברוב ספרי אשכנז דַּכָּ֛ה)" />
-          <starpos-after-word />
+          <sdt-target text="דַּכָּ֛א" />
+          <sdt-note text="(ברוב ספרי אשכנז דַּכָּ֛ה)" />
+          <sdt-starpos-after-word />
+          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" וּכְר֥וּת שׇׁפְכָ֖ה בִּקְהַ֥ל יְהֹוָֽה׃" />
       </verse>
@@ -1359,9 +1362,10 @@
       <verse osisID="Deut.27.19" starts-with-sampe="samekh2">
         <text text="אָר֗וּר מַטֶּ֛ה מִשְׁפַּ֥ט גֵּר־יָת֖וֹם וְאַלְמָנָ֑ה וְאָמַ֥ר כׇּל־הָעָ֖ם אָמֵֽן׃" />
         <scrdfftar>
-          <scrdfftar-target />
-          <scrdfftar-note text="(ספק פרשה סתומה בכתר ארם צובה)" />
-          <starpos-after-word />
+          <sdt-target />
+          <sdt-note text="(ספק פרשה סתומה בכתר ארם צובה)" />
+          <sdt-starpos-after-word />
+          <sdt-is-slh-word-no />
         </scrdfftar>
       </verse>
       <verse osisID="Deut.27.20" ends-with-sampe="samekh2" text="אָר֗וּר שֹׁכֵב֙ עִם־אֵ֣שֶׁת אָבִ֔יו כִּ֥י גִלָּ֖ה כְּנַ֣ף אָבִ֑יו וְאָמַ֥ר כׇּל־הָעָ֖ם אָמֵֽן׃" />
@@ -1674,21 +1678,22 @@
       </verse>
       <verse osisID="Deut.32.6">
         <scrdfftar>
-          <scrdfftar-target>
+          <sdt-target>
             <slh-word>
               <letter-large text="הַ" />
             </slh-word>
             <text text=" לְיְהֹוָה֙" />
-          </scrdfftar-target>
-          <scrdfftar-note>
+          </sdt-target>
+          <sdt-note>
             <text text="(בספרי תימן " />
             <slh-word>
               <letter-large text="הַֽ" />
               <text text="לְיהֹוָה֙" />
             </slh-word>
             <text text=" בתיבה אחת)" />
-          </scrdfftar-note>
-          <starpos-after-word />
+          </sdt-note>
+          <sdt-starpos-after-word />
+          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" תִּגְמְלוּ־זֹ֔את" />
         <shirah-space />
@@ -1973,16 +1978,17 @@
       <verse osisID="Deut.33.28" text="וַיִּשְׁכֹּן֩ יִשְׂרָאֵ֨ל בֶּ֤טַח בָּדָד֙ עֵ֣ין יַֽעֲקֹ֔ב אֶל־אֶ֖רֶץ דָּגָ֣ן וְתִיר֑וֹשׁ אַף־שָׁמָ֖יו יַ֥עַרְפוּ טָֽל׃" />
       <verse osisID="Deut.33.29" ends-with-sampe="samekh2">
         <scrdfftar>
-          <scrdfftar-target text="אַשְׁרֶ֨יךָ" />
-          <scrdfftar-note>
+          <sdt-target text="אַשְׁרֶ֨יךָ" />
+          <sdt-note>
             <text text="(בספרי תימן " />
             <slh-word>
               <letter-large text="אַ" />
               <text text="שְׁרֶ֨יךָ" />
             </slh-word>
             <text text=" באל״ף גדולה)" />
-          </scrdfftar-note>
-          <starpos-after-word />
+          </sdt-note>
+          <sdt-starpos-after-word />
+          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" יִשְׂרָאֵ֜ל מִ֣י כָמ֗וֹךָ עַ֚ם נוֹשַׁ֣ע בַּֽיהֹוָ֔ה מָגֵ֣ן עֶזְרֶ֔ךָ וַאֲשֶׁר־חֶ֖רֶב גַּאֲוָתֶ֑ךָ וְיִכָּחֲשׁ֤וּ אֹיְבֶ֙יךָ֙ לָ֔ךְ וְאַתָּ֖ה עַל־בָּמוֹתֵ֥ימוֹ תִדְרֹֽךְ׃" />
       </verse>

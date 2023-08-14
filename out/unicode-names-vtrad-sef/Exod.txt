@@ -12206,12 +12206,12 @@ k,·,i,𝓂,y,-,y,a,d,(p)
 SPACE
 ʕ,_,l,-
 START scrdfftar
-START scrdfftar-target
+START sdt-target
 k,·,‥,⅃,σ
 SPACE
 y,a,ƶ,h,·
-STOP scrdfftar-target
-START scrdfftar-note
+STOP sdt-target
+START sdt-note
 LEFT PARENTHESIS,v,k,τ,r
 SPACE
 α,r,m.
@@ -12227,8 +12227,9 @@ SPACE
 v,τ,y,v,h
 SPACE
 α,x,τ,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-after-word
+STOP sdt-note
+START sdt-starpos-after-word
+START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 m,i,l,:,x,a,m,a,(me),h
@@ -17781,10 +17782,10 @@ SPACE
 m,i,q,:,$,·sh,a,(G),h
 SPACE
 START scrdfftar
-START scrdfftar-target
+START sdt-target
 τ,·,‥,ʕ,a,$,·si,∵,<,h
-STOP scrdfftar-target
-START scrdfftar-note
+STOP sdt-target
+START sdt-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -17792,8 +17793,9 @@ SPACE
 w,α,$,k,n,z
 SPACE
 τ,·,‥,y,ʕ,a,$,·si,∵,<,h,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-after-word
+STOP sdt-note
+START sdt-starpos-after-word
+START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 h,_,m,·,:,n,w,o,r,a,h,(p)
@@ -20056,10 +20058,10 @@ SPACE
 α,∵,l,-,ʕ,‥,(me),v,∵,r
 SPACE
 START scrdfftar
-START scrdfftar-target
+START sdt-target
 h,a,α,‥,f,o,(ti),d
-STOP scrdfftar-target
-START scrdfftar-note
+STOP sdt-target
+START sdt-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -20067,8 +20069,9 @@ SPACE
 w,α,$,k,n,z
 SPACE
 h,a,α,‥,f,(ti),w,o,d,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-after-word
+STOP sdt-note
+START sdt-starpos-after-word
+START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 v,·,a,𝓂,y,:,τ,a,h,.
@@ -24552,10 +24555,10 @@ l,o,(me),α
 SPACE
 y,‥,r,a,α,𝓂,w,·,.
 START scrdfftar
-START scrdfftar-target
+START sdt-target
 START spi-pe2
-STOP scrdfftar-target
-START scrdfftar-note
+STOP sdt-target
+START sdt-note
 LEFT PARENTHESIS,σ,f,q
 SPACE
 f,r,$,h
@@ -24567,8 +24570,9 @@ SPACE
 α,r,m.
 SPACE
 ц,w,v,h,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-after-word
+STOP sdt-note
+START sdt-starpos-after-word
+START sdt-is-slh-word-no
 STOP scrdfftar
 
 Exodus 34:1 in vtrad vtsef
@@ -24740,14 +24744,14 @@ SPACE
 w,∵,α,:∵,m,∵,𝓂,τ,.
 
 Exodus 34:7 in vtrad vtsef
-START scrdfftar-of-slh-word
-START scrdfftar-target
+START scrdfftar
+START sdt-target
 START letter-large
 n,o
 STOP letter-large
 ц,‥,(me),r
-STOP scrdfftar-target
-START scrdfftar-note
+STOP sdt-target
+START sdt-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -24757,9 +24761,10 @@ SPACE
 v,n,w,HPU GERSHAYIM,n.
 SPACE
 r,g,y,l,h,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-after-word
-STOP scrdfftar-of-slh-word
+STOP sdt-note
+START sdt-starpos-after-word
+START sdt-is-slh-word-yes
+STOP scrdfftar
 SPACE
 x,∵,(p),σ,∵,d,(p)
 SPACE

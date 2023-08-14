@@ -9791,10 +9791,10 @@ SPACE
 h,_,$,·sh,·,a,m,_,(ti),y,i,m.
 SPACE
 START scrdfftar
-START scrdfftar-target
+START sdt-target
 ʕ,_,l,-,h,a,α,a,𝓂,r,∵,ц.
-STOP scrdfftar-target
-START scrdfftar-note
+STOP sdt-target
+START sdt-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -9810,8 +9810,9 @@ SPACE
 v,ц,d,HPU GERSHAYIM,y
 SPACE
 g,d,w,l,h,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-after-word
+STOP sdt-note
+START sdt-starpos-after-word
+START sdt-is-slh-word-no
 STOP scrdfftar
 .
 START spi-samekh2
@@ -16688,10 +16689,10 @@ SPACE
 y,i,q,·,a,r,‥,⅃,α
 SPACE
 START scrdfftar
-START scrdfftar-target
+START sdt-target
 q,_,n.,-,ц,i,f,·,⅃,w,o,r
-STOP scrdfftar-target
-START scrdfftar-note
+STOP sdt-target
+START sdt-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -16706,8 +16707,9 @@ SPACE
 v,q,w,HPU GERSHAYIM,f.
 SPACE
 g,d,w,l,h,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-before-word
+STOP sdt-note
+START sdt-starpos-before-word
+START sdt-is-slh-word-no
 STOP scrdfftar
 START lp-paseq
 l,:,f,a,n,∵,μ,y,k.,a
@@ -17373,10 +17375,10 @@ l,o,𝓂,α,-,y,a,v,o,(da),α
 SPACE
 f,:,ц,𝓂,w,·,ʕ,_,-
 START scrdfftar
-START scrdfftar-target
+START sdt-target
 d,·,_,k,·,a,⟓,α
-STOP scrdfftar-target
-START scrdfftar-note
+STOP sdt-target
+START sdt-note
 LEFT PARENTHESIS,v,r,w,v
 SPACE
 σ,f,r,y
@@ -17384,8 +17386,9 @@ SPACE
 α,$,k,n,z
 SPACE
 d,·,_,k,·,a,⟓,h,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-after-word
+STOP sdt-note
+START sdt-starpos-after-word
+START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 w,·,k,:,r,(me),w,·,τ
@@ -20095,8 +20098,8 @@ k,·,oa,l,-,h,a,ʕ,a,(ti),m.
 SPACE
 α,a,m,‥,𝓂,n.,.
 START scrdfftar
-START scrdfftar-target
-START scrdfftar-note
+START sdt-target
+START sdt-note
 LEFT PARENTHESIS,σ,f,q
 SPACE
 f,r,$,h
@@ -20108,8 +20111,9 @@ SPACE
 α,r,m.
 SPACE
 ц,w,v,h,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-after-word
+STOP sdt-note
+START sdt-starpos-after-word
+START sdt-is-slh-word-no
 STOP scrdfftar
 
 Deuter 27:20 in vtrad vtbhs
@@ -24577,7 +24581,7 @@ w,·,f,:,τ,_,l,:,τ,·,o,𝓂,l,.
 
 Deuter 32:6 in vtrad vtbhs
 START scrdfftar
-START scrdfftar-target
+START sdt-target
 START slh-word
 START letter-large
 h,_
@@ -24585,8 +24589,8 @@ STOP letter-large
 STOP slh-word
 SPACE
 l,:,y,:,h,o,w,a,h,(p)
-STOP scrdfftar-target
-START scrdfftar-note
+STOP sdt-target
+START sdt-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -24601,8 +24605,9 @@ SPACE
 v,τ,y,v,h
 SPACE
 α,x,τ,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-after-word
+STOP sdt-note
+START sdt-starpos-after-word
+START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 τ,·,i,g,:,m,:,l,w,·,-,z,o,ƶ,α,τ
@@ -26325,10 +26330,10 @@ SPACE
 
 Deuter 33:29 in vtrad vtbhs
 START scrdfftar
-START scrdfftar-target
+START sdt-target
 α,_,$,·sh,:,r,∵,(qa),y,k.,a
-STOP scrdfftar-target
-START scrdfftar-note
+STOP sdt-target
+START sdt-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 τ,y,m,n.
@@ -26343,8 +26348,9 @@ SPACE
 v,α,l,HPU GERSHAYIM,f.
 SPACE
 g,d,w,l,h,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-after-word
+STOP sdt-note
+START sdt-starpos-after-word
+START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 y,i,$,·si,:,r,a,α,‥,(ge),l

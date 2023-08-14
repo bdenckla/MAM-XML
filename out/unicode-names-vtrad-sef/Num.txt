@@ -244,10 +244,10 @@ SPACE
 n,i,q,·,:,v,(ti),w,·
 SPACE
 START scrdfftar
-START scrdfftar-target
+START sdt-target
 v,·,:,$,·sh,‥,m,o,𝓂,τ
-STOP scrdfftar-target
-START scrdfftar-note
+STOP sdt-target
+START sdt-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -255,8 +255,9 @@ SPACE
 w,α,$,k,n,z
 SPACE
 v,·,:,$,·sh,‥,m,𝓂,w,o,τ,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-after-word
+STOP sdt-note
+START sdt-starpos-after-word
+START sdt-is-slh-word-no
 STOP scrdfftar
 .
 
@@ -9012,10 +9013,10 @@ SPACE
 w,·,v,:,r,a,α,$,·sh,‥,⅃,y
 SPACE
 START scrdfftar
-START scrdfftar-target
+START sdt-target
 x,oa,d,:,$,·sh,‥,y,k,∵,m.,∴
-STOP scrdfftar-target
-START scrdfftar-note
+STOP sdt-target
+START sdt-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -9023,8 +9024,9 @@ SPACE
 w,α,$,k,n,z
 SPACE
 x,oa,d,:,$,·sh,‥,k,∵,m.,∴,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-after-word
+STOP sdt-note
+START sdt-starpos-after-word
+START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 w,·,τ,:,q,_,ʕ,:,τ,·,∵,⅃,m.
@@ -18399,10 +18401,10 @@ SPACE
 SPACE
 v,·,∵,n.,-
 START scrdfftar
-START scrdfftar-target
+START sdt-target
 v,·,:,ʕ,o,◆,r
-STOP scrdfftar-target
-START scrdfftar-note
+STOP sdt-target
+START sdt-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -18410,8 +18412,9 @@ SPACE
 w,α,$,k,n,z
 SPACE
 v,·,:,ʕ,◆,w,o,r,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-after-word
+STOP sdt-note
+START sdt-starpos-after-word
+START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 f,·,:,⌕,τ,⌕,w,o,r,a,h
@@ -20971,10 +20974,10 @@ l,·,‥,α,m,o,𝓂,r,.
 
 Numbers 25:11 in vtrad vtsef
 START scrdfftar
-START scrdfftar-target
+START sdt-target
 f,·,i,𝓂,y,n,:,x,a,(qa),σ
-STOP scrdfftar-target
-START scrdfftar-note
+STOP sdt-target
+START sdt-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -20996,8 +20999,9 @@ SPACE
 v,y,w,HPU GERSHAYIM,d
 SPACE
 z,ʕ,y,r,α,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-after-word
+STOP sdt-note
+START sdt-starpos-after-word
+START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 v,·,∵,n.,-,α,∵,l,:,ʕ,a,z,a,(ge),r
@@ -21040,10 +21044,10 @@ SPACE
 α,∵,τ,-,v,·,:,r,i,y,τ,i,(ti),y
 SPACE
 START scrdfftar
-START scrdfftar-target
+START sdt-target
 $,·sh,a,l,𝓂,w,o,m.
-STOP scrdfftar-target
-START scrdfftar-note
+STOP sdt-target
+START sdt-note
 LEFT PARENTHESIS,v,σ,f,r,y
 SPACE
 σ,f,r,d
@@ -21053,8 +21057,9 @@ SPACE
 w,y,HPU GERSHAYIM,w
 SPACE
 q,θ,y,ʕ,α,RIGHT PARENTHESIS
-STOP scrdfftar-note
-START starpos-after-word
+STOP sdt-note
+START sdt-starpos-after-word
+START sdt-is-slh-word-no
 STOP scrdfftar
 .
 
