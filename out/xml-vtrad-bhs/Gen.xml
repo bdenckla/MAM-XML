@@ -180,7 +180,6 @@
           <sdt-target text="מִנְּשֹֽׂא" />
           <sdt-note text="בספרי ספרד ואשכנז מִנְּשֽׂוֹא" />
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text="׃" />
       </verse>
@@ -213,7 +212,6 @@
             <text text=" בסמ״ך גדולה" />
           </sdt-note>
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" תּוֹלְדֹ֖ת אָדָ֑ם בְּי֗וֹם בְּרֹ֤א אֱלֹהִים֙ אָדָ֔ם בִּדְמ֥וּת אֱלֹהִ֖ים עָשָׂ֥ה אֹתֽוֹ׃" />
       </verse>
@@ -310,7 +308,6 @@
           <sdt-target text="מַעְיְנֹת֙" />
           <sdt-note text="בספרי ספרד ואשכנז מַעְיְנוֹת֙" />
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" תְּה֣וֹם רַבָּ֔ה וַאֲרֻבֹּ֥ת הַשָּׁמַ֖יִם נִפְתָּֽחוּ׃" />
       </verse>
@@ -410,7 +407,6 @@
           <sdt-target text="וַיִּֽהְיוּ֙" />
           <sdt-note text="בספרי ספרד ואשכנז וַֽיְהִי֙" />
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" כׇּל־יְמֵי־נֹ֔חַ תְּשַׁ֤ע מֵאוֹת֙ שָׁנָ֔ה וַחֲמִשִּׁ֖ים שָׁנָ֑ה וַיָּמֹֽת׃" />
       </verse>
@@ -1872,7 +1868,6 @@
           <sdt-target text="פּ֥וֹטִי פֶ֛רַע" />
           <sdt-note text="בספרי תימן פּֽוֹטִיפֶ֛רַע בתיבה אחת" />
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" כֹּהֵ֥ן אֹ֖ן לְאִשָּׁ֑ה וַיֵּצֵ֥א יוֹסֵ֖ף עַל־אֶ֥רֶץ מִצְרָֽיִם׃" />
       </verse>
@@ -1890,7 +1885,6 @@
           <sdt-target text="פּ֥וֹטִי פֶ֖רַע" />
           <sdt-note text="בספרי תימן פּֽוֹטִיפֶ֖רַע בתיבה אחת" />
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" כֹּהֵ֥ן אֽוֹן׃" />
       </verse>
@@ -2109,7 +2103,6 @@
           <sdt-target text="פּ֥וֹטִי פֶ֖רַע" />
           <sdt-note text="בספרי תימן פּֽוֹטִיפֶ֖רַע בתיבה אחת" />
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" כֹּהֵ֣ן אֹ֑ן אֶת־מְנַשֶּׁ֖ה וְאֶת־אֶפְרָֽיִם׃" />
       </verse>

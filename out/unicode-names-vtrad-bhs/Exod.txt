@@ -12229,7 +12229,6 @@ SPACE
 α,x,τ
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 m,i,l,:,x,a,m,a,(me),h
@@ -17791,7 +17790,6 @@ SPACE
 τ,·,‥,y,ʕ,a,$,·si,∵,<,h
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 h,_,m,·,:,n,w,o,r,a,h,(p)
@@ -20067,7 +20065,6 @@ SPACE
 h,a,α,‥,f,(ti),w,o,d
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 v,·,a,𝓂,y,:,τ,a,h,.
@@ -24568,7 +24565,6 @@ SPACE
 ц,w,v,h
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 
 Exodus 34:1 in vtrad vtbhs
@@ -24761,7 +24757,6 @@ SPACE
 r,g,y,l,h
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 x,∵,(p),σ,∵,d,(p)

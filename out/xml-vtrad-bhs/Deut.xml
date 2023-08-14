@@ -685,7 +685,6 @@
             <text text=" בצד״י גדולה" />
           </sdt-note>
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text="׃" />
       </verse>
@@ -1086,7 +1085,6 @@
             <text text=" בקו״ף גדולה" />
           </sdt-note>
           <sdt-starpos-before-word />
-          <sdt-is-slh-word-no />
         </scrdfftar>
         <lp-paseq />
         <text text="לְפָנֶ֡יךָ בַּדֶּ֜רֶךְ בְּכׇל־עֵ֣ץ" />
@@ -1189,7 +1187,6 @@
           <sdt-target text="דַּכָּ֛א" />
           <sdt-note text="ברוב ספרי אשכנז דַּכָּ֛ה" />
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" וּכְר֥וּת שׇׁפְכָ֖ה בִּקְהַ֥ל יְהֹוָֽה׃" />
       </verse>
@@ -1369,7 +1366,6 @@
           <sdt-target />
           <sdt-note text="ספק פרשה סתומה בכתר ארם צובה" />
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-no />
         </scrdfftar>
       </verse>
       <verse osisID="Deut.27.20" ends-with-sampe="samekh2" text="אָר֗וּר שֹׁכֵב֙ עִם־אֵ֣שֶׁת אָבִ֔יו כִּ֥י גִלָּ֖ה כְּנַ֣ף אָבִ֑יו וְאָמַ֥ר כׇּל־הָעָ֖ם אָמֵֽן׃" />
@@ -1697,7 +1693,6 @@
             <text text=" בתיבה אחת" />
           </sdt-note>
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" תִּגְמְלוּ־זֹ֔את" />
         <shirah-space />
@@ -1992,7 +1987,6 @@
             <text text=" באל״ף גדולה" />
           </sdt-note>
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" יִשְׂרָאֵ֜ל מִ֣י כָמ֗וֹךָ עַ֚ם נוֹשַׁ֣ע בַּֽיהֹוָ֔ה מָגֵ֣ן עֶזְרֶ֔ךָ וַאֲשֶׁר־חֶ֖רֶב גַּאֲוָתֶ֑ךָ וְיִכָּחֲשׁ֤וּ אֹיְבֶ֙יךָ֙ לָ֔ךְ וְאַתָּ֖ה עַל־בָּמוֹתֵ֥ימוֹ תִדְרֹֽךְ׃" />
       </verse>

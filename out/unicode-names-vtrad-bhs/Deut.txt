@@ -9812,7 +9812,6 @@ SPACE
 g,d,w,l,h
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 .
 START spi-samekh2
@@ -16709,7 +16708,6 @@ SPACE
 g,d,w,l,h
 STOP sdt-note
 START sdt-starpos-before-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 START lp-paseq
 l,:,f,a,n,∵,μ,y,k.,a
@@ -17388,7 +17386,6 @@ SPACE
 d,·,_,k,·,a,⟓,h
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 w,·,k,:,r,(me),w,·,τ
@@ -20113,7 +20110,6 @@ SPACE
 ц,w,v,h
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 
 Deuter 27:20 in vtrad vtbhs
@@ -24607,7 +24603,6 @@ SPACE
 α,x,τ
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 τ,·,i,g,:,m,:,l,w,·,-,z,o,ƶ,α,τ
@@ -26350,7 +26345,6 @@ SPACE
 g,d,w,l,h
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 y,i,$,·si,:,r,a,α,‥,(ge),l

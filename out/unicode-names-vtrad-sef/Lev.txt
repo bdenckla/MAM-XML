@@ -2974,7 +2974,6 @@ SPACE
 r,g,y,l,h
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 ʕ,_,l,-,h,_,m,·,i,z,:,v,·,‥,<,x,_
@@ -4004,7 +4003,6 @@ SPACE
 w,α,$,k,n,z
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 
 Levit 7:22 in vtrad vtsef
@@ -4126,7 +4124,6 @@ SPACE
 τ,y,m,n.
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 
 Levit 7:28 in vtrad vtsef

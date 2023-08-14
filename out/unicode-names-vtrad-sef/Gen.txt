@@ -2294,7 +2294,6 @@ SPACE
 m,i,n,·,:,$,·si,𝓂,w,o,α
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 .
 
@@ -2652,7 +2651,6 @@ SPACE
 g,d,w,l,h
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 τ,·,w,o,l,:,d,o,(ti),τ
@@ -4134,7 +4132,6 @@ SPACE
 m,_,ʕ,:,y,:,n,w,o,τ,(p)
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 τ,·,:,h,⅃,w,o,m.
@@ -5611,7 +5608,6 @@ SPACE
 w,_,𝓂,y,:,h,i,y,(p)
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 k,·,oa,l,-,y,:,m,‥,y,-,n,o,ƶ,x,_
@@ -29938,7 +29934,6 @@ SPACE
 α,x,τ
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 k,·,o,h,‥,(me),n.
@@ -30098,7 +30093,6 @@ SPACE
 α,x,τ
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 k,·,o,h,‥,(me),n.
@@ -34087,7 +34081,6 @@ SPACE
 α,x,τ
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 k,·,o,h,‥,⅃,n.

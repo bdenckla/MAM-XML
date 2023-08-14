@@ -4198,7 +4198,6 @@ SPACE
 l,_,h,:_,r,o,(qa),g
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 w,·,l,:,α,_,v,·,‥,(ge),d
@@ -4507,7 +4506,6 @@ SPACE
 v,·,i,f,:,n,‥,y,h,∵,ƶ,m.
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 SPACE
 k,·,i,𝓂,y,-,n,a,f,_,(me),l
@@ -4674,7 +4672,6 @@ SPACE
 r,v,w,τ
 STOP sdt-note
 START sdt-starpos-after-word
-START sdt-is-slh-word-no
 STOP scrdfftar
 START shirah-space
 w,:,α,‥,(me),τ

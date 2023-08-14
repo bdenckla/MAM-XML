@@ -803,7 +803,6 @@
           <sdt-target text="כֵּ֣ס יָ֔הּ" />
           <sdt-note text="בכתר ארם צובה היה כתוב כֵּ֣סְיָ֔הּ בתיבה אחת" />
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" מִלְחָמָ֥ה לַיהֹוָ֖ה בַּֽעֲמָלֵ֑ק מִדֹּ֖ר דֹּֽר׃" />
       </verse>
@@ -1251,7 +1250,6 @@
           <sdt-target text="תֵּעָשֶׂ֤ה" />
           <sdt-note text="בספרי ספרד ואשכנז תֵּיעָשֶׂ֤ה" />
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" הַמְּנוֹרָה֙ יְרֵכָ֣הּ וְקָנָ֔הּ גְּבִיעֶ֛יהָ כַּפְתֹּרֶ֥יהָ וּפְרָחֶ֖יהָ מִמֶּ֥נָּה יִהְיֽוּ׃" />
       </verse>
@@ -1397,7 +1395,6 @@
           <sdt-target text="הָאֵפֹ֖ד" />
           <sdt-note text="בספרי ספרד ואשכנז הָאֵפ֖וֹד" />
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" בָּֽיְתָה׃" />
       </verse>
@@ -1672,7 +1669,6 @@
           </sdt-target>
           <sdt-note text="ספק פרשה סתומה בכתר ארם צובה" />
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-no />
         </scrdfftar>
       </verse>
     </chapter>
@@ -1699,7 +1695,6 @@
           </sdt-target>
           <sdt-note text="בספרי תימן נֹצֵ֥ר בנו״ן רגילה" />
           <sdt-starpos-after-word />
-          <sdt-is-slh-word-no />
         </scrdfftar>
         <text text=" חֶ֙סֶד֙ לָאֲלָפִ֔ים נֹשֵׂ֥א עָוֺ֛ן וָפֶ֖שַׁע וְחַטָּאָ֑ה וְנַקֵּה֙ לֹ֣א יְנַקֶּ֔ה פֹּקֵ֣ד" />
         <lp-legarmeih />
