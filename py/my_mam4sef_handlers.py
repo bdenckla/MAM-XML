@@ -182,7 +182,6 @@ HANDLERS = {
     ('letter-small', None): _letter_small,
     ('letter-large', None): _letter_large,
     ('letter-hung', None): _letter_hung,
-    ('slh-word', None): _pass_thru,
     #
     ('kq-k-velo-q', None): _ketiv,
     ('kq-k-velo-q', 'append-maqaf'): _ketiv,
@@ -215,4 +214,11 @@ HANDLERS = {
     ('sdt-note', None): _scrdfftar_note,
     ('sdt-starpos-before-word', None): _empty,
     ('sdt-starpos-after-word', None): _empty,
+    #
+    ('slh-word', None): _pass_thru,
+    ('slhw-targ', None): _pass_thru,
+    ('slhw-desc-0', None): _empty,
+    ('slhw-desc-1', None): _empty,
+    ('slhw-desc-2', None): _empty,
+    ('slhw-desc-3', None): _empty,
 }
