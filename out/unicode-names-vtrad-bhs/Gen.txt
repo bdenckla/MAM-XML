@@ -94,7 +94,7 @@ Genesis 1:5 in vtrad vtbhs
 w,_,y,·,i,q,:,r,a,(qa),α
 SPACE
 α,:∵,l,o,h,i,<,y,m.
-START lp-paseq
+START/STOP lp-paseq
 l,a,α,w,o,r,(p)
 SPACE
 y,ƶ,w,o,m.
@@ -112,7 +112,7 @@ SPACE
 y,(me),w,o,m.
 SPACE
 α,∵,x,a,𝓂,d,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 1:6 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
@@ -184,7 +184,7 @@ SPACE
 y,(me),w,o,m.
 SPACE
 $,·sh,‥,n,i,𝓂,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 1:9 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
@@ -213,7 +213,7 @@ Genesis 1:10 in vtrad vtbhs
 w,_,y,·,i,q,:,r,a,(qa),α
 SPACE
 α,:∵,l,o,h,i,<,y,m.
-START lp-paseq
+START/STOP lp-paseq
 l,_,y,·,_,v,·,a,$,·sh,a,h,(p)
 SPACE
 α,∵,ƶ,r,∵,ц.
@@ -306,7 +306,7 @@ SPACE
 y,(me),w,o,m.
 SPACE
 $,·sh,:,l,i,y,$,·sh,i,𝓂,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 1:14 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
@@ -433,7 +433,7 @@ SPACE
 y,(me),w,o,m.
 SPACE
 r,:,v,i,y,ʕ,i,𝓂,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 1:20 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
@@ -476,7 +476,7 @@ SPACE
 k,·,oa,l,-,n,∵,⅃,f,∵,$,·sh
 SPACE
 h,_,𝓂,x,_,y,·,a,⅃,h
-START lp-paseq
+START/STOP lp-paseq
 h,a,𝓂,r,o,m,∵,μ,$,·si,∵,τ
 SPACE
 α,:_,$,·sh,∵,r,(tq)
@@ -534,7 +534,7 @@ SPACE
 y,(me),w,o,m.
 SPACE
 x,:_,m,i,y,$,·sh,i,𝓂,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 1:24 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
@@ -627,7 +627,7 @@ Genesis 1:27 in vtrad vtbhs
 w,_,y,·,i,v,:,r,a,(qa),α
 SPACE
 α,:∵,l,o,h,i,<,y,m.
-START lp-paseq
+START/STOP lp-paseq
 α,∵,τ,-,h,a,𝓂,α,a,d,a,m.,(p)
 SPACE
 v,·,:,ц,_,l,:,m,ƶ,w,o
@@ -699,7 +699,7 @@ SPACE
 l,a,k,∵,(ge),m.
 SPACE
 α,∵,τ,-,k,·,oa,l,-,ʕ,‥,⅃,$,·si,∵,v
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 z,o,r,‥,⅃,ʕ,_
 SPACE
@@ -737,7 +737,7 @@ SPACE
 h,_,$,·sh,·,a,m,_,(ge),y,i,m.
 SPACE
 w,·,l,:,k,o,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 r,w,o,m,‥,⅃,$,·si
 SPACE
@@ -777,7 +777,7 @@ SPACE
 y,(me),w,o,m.
 SPACE
 h,_,$,·sh,·,i,$,·sh,·,i,𝓂,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 2:1 in vtrad vtbhs
 w,_,y,:,k,u,l,·,⟓,w,·
@@ -841,7 +841,7 @@ SPACE
 α,:∵,l,o,h,i,(ti),y,m.
 SPACE
 l,_,ʕ,:_,$,·si,𝓂,w,o,τ,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 2:4 in vtrad vtbhs
 α,‥,⅃,l,·,∵,h
@@ -888,7 +888,7 @@ w,:,$,·sh,a,m,a,𝓂,y,i,m.,.
 
 Genesis 2:5 in vtrad vtbhs
 w,:,k,o,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·si,i,⅃,y,x,_
 SPACE
@@ -1287,7 +1287,7 @@ SPACE
 y,:,h,o,w,a,(qa),h
 SPACE
 α,:∵,l,o,h,i,(da),y,m.
-START lp-paseq
+START/STOP lp-paseq
 τ,·,_,r,:,d,·,‥,m,a,⟓,h
 SPACE
 ʕ,_,l,-,h,a,α,a,d,a,(ti),m.
@@ -1312,7 +1312,7 @@ SPACE
 y,:,h,o,w,a,(qa),h
 SPACE
 α,:∵,l,o,h,i,(da),y,m.
-START lp-paseq
+START/STOP lp-paseq
 α,∵,𝓂,τ,-,h,_,ц,·,‥,l,a,⟓,ʕ
 SPACE
 α,:_,$,·sh,∵,r,-,l,a,q,_,(me),x
@@ -1719,7 +1719,7 @@ SPACE
 y,:,h,o,w,a,(qa),h
 SPACE
 α,:∵,l,o,h,i,(me),y,m.
-START lp-paseq
+START/STOP lp-paseq
 α,∵,𝓂,l,-,h,_,n,·,a,x,a,$,·sh,~
 SPACE
 k,·,i,⅃,y
@@ -1754,7 +1754,7 @@ x,_,y,·,∵,𝓂,y,k.,a,.
 
 Genesis 3:15 in vtrad vtbhs
 w,:,α,‥,y,v,a,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,a,$,·sh,i,◆,y,τ
 SPACE
@@ -1783,7 +1783,7 @@ SPACE
 τ,·,:,$,·sh,w,·,f,∵,(me),n,·,w,·
 SPACE
 ʕ,a,q,‥,𝓂,v,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 3:16 in vtrad vtbhs
 α,∵,𝓂,l,-,h,a,α,i,$,·sh,·,a,⅃,h
@@ -1811,7 +1811,7 @@ SPACE
 w,:,h,(ti),w,·,α
 SPACE
 y,i,m,:,$,·sh,oa,l,-,v,·,a,𝓂,k.,:,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 3:17 in vtrad vtbhs
 w,·,l,:,α,a,d,a,⅃,m.
@@ -1937,11 +1937,11 @@ SPACE
 ʕ,(ti),w,o,r
 SPACE
 w,_,y,·,_,l,:,v,·,i,$,·sh,‥,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 3:22 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,:,h,o,w,a,⅃,h
 SPACE
@@ -1964,7 +1964,7 @@ SPACE
 w,a,r,a,⅄,ʕ
 SPACE
 w,:,ʕ,_,τ,·,a,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 f,·,∵,n.,-,y,i,$,·sh,:,l,_,⅃,x
 SPACE
@@ -2031,7 +2031,7 @@ SPACE
 ʕ,‥,(me),ц.
 SPACE
 h,_,𝓂,x,_,y,·,i,𝓂,y,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 4:1 in vtrad vtbhs
 w,:,h,a,⅃,α,a,d,a,ƶ,m.
@@ -2321,7 +2321,7 @@ w,α,$,k,n,z
 SPACE
 m,i,n,·,:,$,·si,𝓂,w,o,α
 STOP sdt-note
-START sdt-starpos-after-word
+START/STOP sdt-starpos-after-word
 STOP scrdfftar
 .
 
@@ -2653,7 +2653,7 @@ SPACE
 v,·,:,$,·sh,‥,(me),m.
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 5:1 in vtrad vtbhs
 z,∵,⅃,h
@@ -2692,7 +2692,7 @@ v,σ,m,HPU GERSHAYIM,k.
 SPACE
 g,d,w,l,h
 STOP sdt-note
-START sdt-starpos-after-word
+START/STOP sdt-starpos-after-word
 STOP scrdfftar
 SPACE
 τ,·,w,o,l,:,d,o,(ti),τ
@@ -2802,7 +2802,7 @@ SPACE
 $,·sh,a,n,a,⅄,h
 SPACE
 w,_,y,·,a,m,o,𝓂,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 5:6 in vtrad vtbhs
 w,_,𝓂,y,:,x,i,y,-,$,·sh,‥,Ƶ,τ
@@ -2862,7 +2862,7 @@ SPACE
 $,·sh,a,n,a,⅄,h
 SPACE
 w,_,y,·,a,m,o,𝓂,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 5:9 in vtrad vtbhs
 w,_,y,:,x,i,(me),y
@@ -2924,7 +2924,7 @@ SPACE
 $,·sh,a,n,a,⅄,h
 SPACE
 w,_,y,·,a,m,o,𝓂,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 5:12 in vtrad vtbhs
 w,_,y,:,x,i,(me),y
@@ -2984,7 +2984,7 @@ SPACE
 $,·sh,a,n,a,⅄,h
 SPACE
 w,_,y,·,a,m,o,𝓂,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 5:15 in vtrad vtbhs
 w,_,y,:,x,i,⅃,y
@@ -3050,7 +3050,7 @@ SPACE
 $,·sh,a,n,a,⅄,h
 SPACE
 w,_,y,·,a,m,o,𝓂,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 5:18 in vtrad vtbhs
 w,_,𝓂,y,:,x,i,y,-,y,∵,Ƶ,r,∵,d
@@ -3108,7 +3108,7 @@ SPACE
 $,·sh,a,n,a,⅄,h
 SPACE
 w,_,y,·,a,m,o,𝓂,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 5:21 in vtrad vtbhs
 w,_,y,:,x,i,⅃,y
@@ -3183,7 +3183,7 @@ SPACE
 α,o,τ,(ti),w,o
 SPACE
 α,:∵,l,o,h,i,𝓂,y,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 5:25 in vtrad vtbhs
 w,_,y,:,x,i,⅃,y
@@ -3253,7 +3253,7 @@ SPACE
 $,·sh,a,n,a,⅄,h
 SPACE
 w,_,y,·,a,m,o,𝓂,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 5:28 in vtrad vtbhs
 w,_,𝓂,y,:,x,i,y,-,l,∵,Ƶ,m,∵,k.,:
@@ -3344,7 +3344,7 @@ SPACE
 $,·sh,a,n,a,⅄,h
 SPACE
 w,_,y,·,a,m,o,𝓂,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 5:32 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,-,n,o,Ƶ,x,_
@@ -3482,7 +3482,7 @@ SPACE
 α,_,n,:,$,·sh,‥,(me),y
 SPACE
 h,_,$,·sh,·,‥,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 6:5 in vtrad vtbhs
 w,_,y,·,_,⅃,r,:,α
@@ -3571,7 +3571,7 @@ SPACE
 v,·,:,ʕ,‥,y,n,‥,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 6:9 in vtrad vtbhs
 α,‥,(ye),l,·,∵,h
@@ -3644,7 +3644,7 @@ SPACE
 α,∵,τ,-,d,·,_,r,:,k,·,(ti),w,o
 SPACE
 ʕ,_,l,-,h,a,α,a,𝓂,r,∵,ц.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 6:13 in vtrad vtbhs
 w,_,y,·,o,(qa),α,m,∵,r
@@ -3733,7 +3733,7 @@ q,w,o,m,a,τ,a,𝓂,h,·,.
 
 Genesis 6:16 in vtrad vtbhs
 ц,o,⅃,h,_,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 τ,·,_,ʕ,:_,$,·si,∵,⅃,h
 SPACE
@@ -3934,7 +3934,7 @@ h,_,z,·,∵,𝓂,h,.
 
 Genesis 7:2 in vtrad vtbhs
 m,i,k,·,o,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,_,v,·,:,h,‥,m,a,⅃,h
 SPACE
@@ -4173,7 +4173,7 @@ w,α,$,k,n,z
 SPACE
 m,_,ʕ,:,y,:,n,w,o,τ,(p)
 STOP sdt-note
-START sdt-starpos-after-word
+START/STOP sdt-starpos-after-word
 STOP scrdfftar
 SPACE
 τ,·,:,h,⅃,w,o,m.
@@ -4389,7 +4389,7 @@ Genesis 7:21 in vtrad vtbhs
 w,_,y,·,i,g,:,w,_,(G),ʕ
 SPACE
 k,·,oa,l,-,v,·,a,$,·si,a,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,a,r,o,m,‥,⅃,$,·si
 SPACE
@@ -4434,10 +4434,10 @@ Genesis 7:23 in vtrad vtbhs
 w,_,y,·,i,(ge),m,_,x
 SPACE
 α,∵,𝓂,τ,-,k,·,oa,l,-,h,_,y,:,q,⅃,w,·,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,$,·sh,∵,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 ʕ,_,l,-,f,·,:,n,‥,⅃,y
 SPACE
@@ -4823,7 +4823,7 @@ SPACE
 y,a,v,:,$,·sh,a,(ti),h
 SPACE
 h,a,α,a,𝓂,r,∵,ц.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 8:15 in vtrad vtbhs
 w,_,y,:,d,_,v,·,‥,(me),r
@@ -4929,7 +4929,7 @@ SPACE
 w,_,y,·,i,q,·,_,(G),x
 SPACE
 m,i,k,·,o,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,_,v,·,:,h,‥,m,a,⅃,h
 SPACE
@@ -5181,7 +5181,7 @@ SPACE
 v,a,α,a,(ti),r,∵,ц.
 SPACE
 w,·,r,:,v,w,·,-,v,a,𝓂,h,·,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 9:8 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -5422,7 +5422,7 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 ʕ,_,l,-,h,a,α,a,𝓂,r,∵,ц.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 9:18 in vtrad vtbhs
 w,_,y,·,i,𝓂,h,:,y,⅃,w,·
@@ -5649,7 +5649,7 @@ w,α,$,k,n,z
 SPACE
 w,_,𝓂,y,:,h,i,y,(p)
 STOP sdt-note
-START sdt-starpos-after-word
+START/STOP sdt-starpos-after-word
 STOP scrdfftar
 SPACE
 k,·,oa,l,-,y,:,m,‥,y,-,n,o,ƶ,x,_
@@ -5665,7 +5665,7 @@ SPACE
 $,·sh,a,n,a,⅄,h
 SPACE
 w,_,y,·,a,m,o,𝓂,τ,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 10:1 in vtrad vtbhs
 w,:,α,‥,(p),l,·,∵,h,(p)
@@ -5910,7 +5910,7 @@ SPACE
 f,·,:,l,i,$,·sh,:,τ,·,i,(ti),y,m.
 SPACE
 w,:,α,∵,τ,-,k,·,_,f,:,τ,·,o,r,i,𝓂,y,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 10:15 in vtrad vtbhs
 w,·,k,:,n,_,◆,ʕ,_,n.
@@ -5993,7 +5993,7 @@ SPACE
 v,·,:,α,_,r,:,ц,o,τ,a,(ti),m.
 SPACE
 v,·,:,g,w,o,y,‥,h,∵,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 10:21 in vtrad vtbhs
 w,·,l,:,$,·sh,‥,(me),m.
@@ -6172,7 +6172,7 @@ SPACE
 α,_,x,_,(me),r
 SPACE
 h,_,m,·,_,v,·,𝓂,w,·,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 11:1 in vtrad vtbhs
 w,_,y,:,h,i,(me),y
@@ -6243,7 +6243,7 @@ Genesis 11:4 in vtrad vtbhs
 w,_,y,·,o,α,m,:,r,(G),w,·
 SPACE
 h,a,⅃,v,a,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 n,i,v,:,n,∵,h,-,l,·,a,⅃,n,w,·
 SPACE
@@ -6391,7 +6391,7 @@ SPACE
 ʕ,_,l,-,f,·,:,n,‥,(ti),y
 SPACE
 k,·,oa,l,-,h,a,α,a,𝓂,r,∵,ц.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 11:10 in vtrad vtbhs
 α,‥,(ye),l,·,∵,h
@@ -6436,7 +6436,7 @@ SPACE
 v,·,a,n,i,(ti),y,m.
 SPACE
 w,·,v,a,n,𝓂,w,o,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 11:12 in vtrad vtbhs
 w,:,α,_,r,:,f,·,_,k,:,$,·sh,_,⅃,d
@@ -6479,7 +6479,7 @@ SPACE
 v,·,a,n,i,(ti),y,m.
 SPACE
 w,·,v,a,n,𝓂,w,o,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 11:14 in vtrad vtbhs
 w,:,$,·sh,∵,(me),l,_,x
@@ -6518,7 +6518,7 @@ SPACE
 v,·,a,n,i,(ti),y,m.
 SPACE
 w,·,v,a,n,𝓂,w,o,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 11:16 in vtrad vtbhs
 w,_,𝓂,y,:,x,i,y,-,ʕ,‥,Ƶ,v,∵,r
@@ -6557,7 +6557,7 @@ SPACE
 v,·,a,n,i,(ti),y,m.
 SPACE
 w,·,v,a,n,𝓂,w,o,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 11:18 in vtrad vtbhs
 w,_,𝓂,y,:,x,i,y,-,f,∵,(ti),l,∵,g
@@ -6592,7 +6592,7 @@ SPACE
 v,·,a,n,i,(ti),y,m.
 SPACE
 w,·,v,a,n,𝓂,w,o,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 11:20 in vtrad vtbhs
 w,_,y,:,x,i,⅃,y
@@ -6633,7 +6633,7 @@ SPACE
 v,·,a,n,i,(ti),y,m.
 SPACE
 w,·,v,a,n,𝓂,w,o,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 11:22 in vtrad vtbhs
 w,_,y,:,x,i,(me),y
@@ -6668,7 +6668,7 @@ SPACE
 v,·,a,n,i,(ti),y,m.
 SPACE
 w,·,v,a,n,𝓂,w,o,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 11:24 in vtrad vtbhs
 w,_,y,:,x,i,⅃,y
@@ -6709,7 +6709,7 @@ SPACE
 v,·,a,n,i,(ti),y,m.
 SPACE
 w,·,v,a,n,𝓂,w,o,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 11:26 in vtrad vtbhs
 w,_,𝓂,y,:,x,i,y,-,τ,∵,(ti),r,_,x
@@ -6879,7 +6879,7 @@ SPACE
 τ,·,∵,(ti),r,_,x
 SPACE
 v,·,:,x,a,r,a,𝓂,n.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 12:1 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -7111,7 +7111,7 @@ SPACE
 w,:,n,a,σ,(ti),w,o,ʕ,_
 SPACE
 h,_,n,·,∵,𝓂,g,:,v,·,a,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 12:10 in vtrad vtbhs
 w,_,y,:,h,i,(me),y
@@ -7276,7 +7276,7 @@ Genesis 12:17 in vtrad vtbhs
 w,_,y,:,n,_,g,·,_,(qa),ʕ
 SPACE
 y,:,h,o,w,a,(da),h
-START lp-paseq
+START/STOP lp-paseq
 α,∵,τ,-,f,·,_,r,:,ʕ,o,⟓,h
 SPACE
 n,:,g,a,ʕ,i,(me),y,m.
@@ -7579,7 +7579,7 @@ SPACE
 m,_,$,·sh,:,q,∵,⅄,h
 SPACE
 l,i,f,:,n,‥,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,_,x,‥,⅃,τ
 SPACE
@@ -7718,7 +7718,7 @@ SPACE
 h,a,α,a,⅄,r,∵,ц.
 SPACE
 α,:_,$,·sh,∵,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,i,m.,-,y,w,·,k,_,⅃,l
 SPACE
@@ -7773,7 +7773,7 @@ SPACE
 m,i,z,:,v,·,‥,(ti),x,_
 SPACE
 l,_,𝓂,y,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 14:1 in vtrad vtbhs
 w,_,y,:,h,i,◆,y
@@ -7820,7 +7820,7 @@ SPACE
 ʕ,:_,m,o,r,a,⅄,h
 SPACE
 $,·sh,i,n,:,α,a,⅃,v
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,∵,⅃,l,∵,k.,:
 SPACE
@@ -8160,7 +8160,7 @@ Genesis 14:15 in vtrad vtbhs
 w,_,y,·,‥,x,a,l,‥,(qa),q
 SPACE
 ʕ,:_,l,‥,y,h,∵,(da),m.
-START lp-paseq
+START/STOP lp-paseq
 l,_,⟓,y,:,l,a,h
 SPACE
 h,(me),w,·,α
@@ -8385,11 +8385,11 @@ SPACE
 y,i,q,:,x,(me),w,·
 SPACE
 x,∵,l,:,q,a,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 15:1 in vtrad vtbhs
 α,_,x,_,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,_,d,·,:,v,a,r,i,⅃,y,m.
 SPACE
@@ -8682,7 +8682,7 @@ SPACE
 τ,·,‥,d,_,(ge),ʕ
 SPACE
 k,·,i,y,-,g,‥,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,i,h,:,y,∵,⅃,h
 SPACE
@@ -8849,7 +8849,7 @@ SPACE
 w,:,α,∵,τ,-,h,_,g,·,i,r,:,g,·,a,$,·sh,i,(ti),y
 SPACE
 w,:,α,∵,τ,-,h,_,y,:,v,w,·,σ,i,𝓂,y,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 16:1 in vtrad vtbhs
 w,:,$,·si,a,r,_,y,(p)
@@ -9258,7 +9258,7 @@ SPACE
 α,∵,τ,-,y,i,$,·sh,:,m,a,ʕ,‥,(ti),α,l
 SPACE
 l,:,α,_,v,:,r,a,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 17:1 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
@@ -9427,7 +9427,7 @@ SPACE
 α,_,x,:_,r,∵,(ge),y,k.,a
 SPACE
 α,‥,⅃,τ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,⅃,r,∵,ц.
 SPACE
@@ -9547,7 +9547,7 @@ h,𝓂,w,·,α,.
 
 Genesis 17:13 in vtrad vtbhs
 h,i,m,·,(da),w,o,l
-START lp-paseq
+START/STOP lp-paseq
 y,i,m,·,⟓,w,o,l
 SPACE
 y,:,l,i,(me),y,d
@@ -9570,7 +9570,7 @@ SPACE
 
 Genesis 17:14 in vtrad vtbhs
 w,:,ʕ,a,r,‥,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 z,a,k,a,◆,r
 SPACE
@@ -9593,7 +9593,7 @@ SPACE
 α,∵,τ,-,v,·,:,r,i,y,τ,i,(ti),y
 SPACE
 h,‥,f,_,𝓂,r,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 17:15 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -9732,7 +9732,7 @@ SPACE
 $,·sh,:,m,_,ʕ,:,τ,·,i,∴,y,k.,a,∴
 SPACE
 h,i,n,·,‥,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,‥,r,_,⅃,k,:,τ,·,i,y
 SPACE
@@ -9916,7 +9916,7 @@ SPACE
 n,i,m,·,o,(ti),l,w,·
 SPACE
 α,i,τ,·,𝓂,w,o,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 18:1 in vtrad vtbhs
 w,_,y,·,‥,r,a,<,α
@@ -10256,7 +10256,7 @@ Genesis 18:15 in vtrad vtbhs
 w,_,τ,·,:,k,_,x,‥,(qa),$,·sh
 SPACE
 $,·si,a,r,a,(da),h
-START lp-paseq
+START/STOP lp-paseq
 l,‥,α,m,o,⟓,r
 SPACE
 l,o,(me),α
@@ -10264,11 +10264,11 @@ SPACE
 ц,a,x,_,(ti),q,:,τ,·,i,y
 SPACE
 k,·,i,⅃,y
-START lp-paseq
+START/STOP lp-paseq
 y,a,r,‥,⅄,α,a,h
 SPACE
 w,_,y,·,o,(me),α,m,∵,r
-START lp-paseq
+START/STOP lp-paseq
 l,o,(ti),α
 SPACE
 k,·,i,(me),y
@@ -10410,7 +10410,7 @@ SPACE
 α,‥,l,_,(ti),y
 SPACE
 ʕ,a,$,·si,⅃,w,·
-START lp-paseq
+START/STOP lp-paseq
 k,·,a,l,a,⅄,h
 SPACE
 w,:,α,i,m.,-,l,o,(ti),α
@@ -10490,7 +10490,7 @@ SPACE
 l,·,:,k.,a,(ge)
 SPACE
 m,‥,ʕ,:_,$,·si,o,⅃,τ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 k,·,_,d,·,a,v,a,⅃,r
 SPACE
@@ -10952,7 +10952,7 @@ q,o,r,a,τ,i,𝓂,y,.
 
 Genesis 19:9 in vtrad vtbhs
 w,_,y,·,o,α,m,:,r,⅃,w,·
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 g,·,∵,$,·sh,-,h,a,◆,l,:,α,a,h
 SPACE
@@ -11086,10 +11086,10 @@ SPACE
 l,(ge),w,o,θ
 SPACE
 w,_,y,:,d,_,v,·,‥,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,l,-,x,:_,τ,a,n,a,⅃,y,w
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,o,q,:,x,‥,⅃,y
 SPACE
@@ -11154,7 +11154,7 @@ h,a,ʕ,i,𝓂,y,r,.
 
 Genesis 19:16 in vtrad vtbhs
 w,_,𝓂,y,·,i,τ,:,m,_,h,:,m,a,(sh),h,·
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,_,y,·,_,x,:_,z,i,(qa),y,q,w,·
 SPACE
@@ -11717,7 +11717,7 @@ SPACE
 v,:,n,‥,𝓂,y,-,ʕ,_,m,·,(ti),w,o,n.
 SPACE
 ʕ,_,d,-,h,_,y,·,𝓂,w,o,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 20:1 in vtrad vtbhs
 w,_,y,·,i,σ,·,_,(qa),ʕ
@@ -12206,7 +12206,7 @@ SPACE
 α,‥,(me),$,·sh,∵,τ
 SPACE
 α,_,v,:,r,a,h,a,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 21:1 in vtrad vtbhs
 w,_,𝓂,y,h,o,w,a,⟓,h
@@ -12479,7 +12479,7 @@ Genesis 21:14 in vtrad vtbhs
 w,_,y,·,_,$,·sh,:,k,·,‥,⅃,m.
 SPACE
 α,_,v,:,r,a,h,a,⅃,m.
-START lp-paseq
+START/STOP lp-paseq
 v,·,_,v,·,o,μ,q,∵,r
 SPACE
 w,_,y,·,i,𝓂,q,·,_,𝓂,x,-,l,∵,(tq),x,∵,m.,(tq)
@@ -12576,7 +12576,7 @@ SPACE
 m,_,l,:,α,_,(qa),k.,:
 SPACE
 α,:∵,l,o,h,i,<,y,m.
-START lp-paseq
+START/STOP lp-paseq
 α,∵,l,-,h,a,g,a,r,(p)
 SPACE
 m,i,n.,-,h,_,$,·sh,·,a,m,_,ƶ,y,i,m.
@@ -12682,7 +12682,7 @@ SPACE
 m,‥,α,∵,(me),r,∵,ц.
 SPACE
 m,i,ц,:,r,a,𝓂,y,i,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 21:22 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -12970,7 +12970,7 @@ SPACE
 y,a,m,i,(me),y,m.
 SPACE
 r,_,v,·,i,𝓂,y,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 22:1 in vtrad vtbhs
 w,_,y,:,h,i,◆,y
@@ -13270,7 +13270,7 @@ SPACE
 w,_,y,·,o,(ti),α,m,∵,r
 SPACE
 α,_,v,:,r,a,h,a,⅃,m.
-START lp-paseq
+START/STOP lp-paseq
 α,_,v,:,r,a,h,a,⅄,m.
 SPACE
 w,_,y,·,o,(ti),α,m,∵,r
@@ -13293,7 +13293,7 @@ SPACE
 m,:,α,⅄,w,·,m,a,h
 SPACE
 k,·,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 ʕ,_,τ,·,a,⅃,h
 SPACE
@@ -13360,7 +13360,7 @@ SPACE
 h,_,h,(ti),w,·,α
 SPACE
 y,:,h,o,w,a,⅃,h
-START lp-paseq
+START/STOP lp-paseq
 y,i,r,:,α,∵,⅄,h
 SPACE
 α,:_,$,·sh,∵,r,(p)
@@ -13493,7 +13493,7 @@ SPACE
 v,·,i,v,:,α,‥,(me),r
 SPACE
 $,·sh,a,𝓂,v,_,ʕ,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 22:20 in vtrad vtbhs
 w,_,y,:,h,i,◆,y
@@ -13591,7 +13591,7 @@ SPACE
 w,:,α,∵,τ,-,τ,·,_,(ti),x,_,$,·sh
 SPACE
 w,:,α,∵,𝓂,τ,-,m,_,ʕ,:_,k,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 23:1 in vtrad vtbhs
 w,_,y,·,i,h,:,y,w,·,(p)
@@ -13717,7 +13717,7 @@ l,𝓂,w,o,.
 
 Genesis 23:6 in vtrad vtbhs
 $,·sh,:,m,a,ʕ,‥,⅃,n,w,·
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,d,o,n,i,◆,y
 SPACE
@@ -13991,7 +13991,7 @@ l,_,σ,·,o,x,‥,𝓂,r,.
 
 Genesis 23:17 in vtrad vtbhs
 w,_,y,·,a,⅃,q,oa,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·si,:,d,‥,⅃,h
 SPACE
@@ -14085,7 +14085,7 @@ SPACE
 m,‥,α,‥,(ti),τ
 SPACE
 v,·,:,n,‥,y,-,x,‥,𝓂,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 24:1 in vtrad vtbhs
 w,:,α,_,v,:,r,a,h,a,⅃,m.
@@ -14229,7 +14229,7 @@ $,·sh,a,𝓂,m,·,a,h,.
 
 Genesis 24:7 in vtrad vtbhs
 y,:,h,o,w,a,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -14389,7 +14389,7 @@ h,_,$,·sh,·,o,α,:_,v,o,𝓂,τ,.
 
 Genesis 24:12 in vtrad vtbhs
 w,_,y,·,o,α,m,_,(sh),r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,:,h,o,w,a,◆,h
 SPACE
@@ -14810,7 +14810,7 @@ SPACE
 
 Genesis 24:30 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 k,·,i,r,:,α,o,⅃,τ
 SPACE
@@ -15743,7 +15743,7 @@ SPACE
 α,_,x,:_,r,‥,(me),y
 SPACE
 α,i,m,·,𝓂,w,o,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 25:1 in vtrad vtbhs
 w,_,y,·,o,(da),σ,∵,f.
@@ -15977,7 +15977,7 @@ SPACE
 l,_,x,_,(ti),y
 SPACE
 r,o,α,i,𝓂,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 25:12 in vtrad vtbhs
 w,:,α,‥,⟓,l,·,∵,h
@@ -16119,7 +16119,7 @@ SPACE
 k,oa,l,-,α,∵,x,a,(ti),y,w
 SPACE
 n,a,f,a,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 25:19 in vtrad vtbhs
 w,:,α,‥,⟓,l,·,∵,h
@@ -16493,7 +16493,7 @@ SPACE
 ʕ,‥,$,·si,a,(ti),w
 SPACE
 α,∵,τ,-,h,_,v,·,:,k,o,r,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 26:1 in vtrad vtbhs
 w,_,y,:,h,i,<,y
@@ -16922,7 +16922,7 @@ SPACE
 y,i,ц,:,x,a,(ge),q
 SPACE
 w,_,y,·,_,x,:,f,·,o,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,τ,-,v,·,:,α,‥,r,o,⅃,τ
 SPACE
@@ -17181,7 +17181,7 @@ SPACE
 k,·,i,𝓂,y,-,h,a,y,a,⅃,h
 SPACE
 y,:,h,o,w,a,⅃,h
-START lp-paseq
+START/STOP lp-paseq
 ʕ,i,m,·,a,k.,:,∴
 SPACE
 w,_,n,·,o,◆,α,m,∵,r
@@ -17271,7 +17271,7 @@ v,·,:,$,·sh,a,l,𝓂,w,o,m.,.
 
 Genesis 26:32 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -17323,7 +17323,7 @@ SPACE
 h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 26:34 in vtrad vtbhs
 w,_,y,:,h,i,<,y
@@ -17360,7 +17360,7 @@ SPACE
 l,:,y,i,ц,:,x,a,(ti),q
 SPACE
 w,·,l,:,r,i,v,:,q,a,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 27:1 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -17378,7 +17378,7 @@ SPACE
 w,_,y,·,i,q,:,r,a,(G),α
 SPACE
 α,∵,τ,-,ʕ,‥,$,·si,a,⅃,w
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,:,n,⅃,w,o
 SPACE
@@ -18797,7 +18797,7 @@ SPACE
 w,_,y,·,i,q,·,_,μ,x
 SPACE
 α,∵,𝓂,τ,-,m,a,x,:_,l,_,⅃,τ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,τ,-,y,i,$,·sh,:,m,a,ʕ,‥,(qa),α,l
 SPACE
@@ -18812,7 +18812,7 @@ SPACE
 l,(me),w,o
 SPACE
 l,:,α,i,$,·sh,·,a,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 28:10 in vtrad vtbhs
 w,_,y,·,‥,ц,‥,(me),α
@@ -19367,7 +19367,7 @@ SPACE
 ʕ,i,m,·,a,⅄,m.
 SPACE
 w,:,r,a,x,‥,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,a,◆,α,a,h
 SPACE
@@ -19480,7 +19480,7 @@ SPACE
 l,a,v,a,(ge),n.
 SPACE
 α,∵,τ,-,$,·sh,‥,⅃,m,_,ʕ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,_,ʕ,:_,q,o,⅃,v
 SPACE
@@ -20169,7 +20169,7 @@ SPACE
 n,_,f,:,τ,·,w,·,l,‥,(qa),y
 SPACE
 α,:∵,l,o,h,i,(da),y,m.
-START lp-paseq
+START/STOP lp-paseq
 n,i,f,:,τ,·,_,⟓,l,:,τ,·,i,y
 SPACE
 ʕ,i,m.,-,α,:_,x,o,τ,i,(ti),y
@@ -20450,7 +20450,7 @@ SPACE
 z,:,v,a,d,_,(qa),n,i,y
 SPACE
 α,:∵,l,o,h,i,(me),y,m.
-START lp-paseq
+START/STOP lp-paseq
 α,o,τ,i,y,~
 SPACE
 z,‥,⅃,v,∵,d
@@ -20726,7 +20726,7 @@ SPACE
 m,i,$,·sh,·,a,(ge),m.
 SPACE
 k,·,oa,l,-,$,·si,∵,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 n,a,q,o,⅃,d
 SPACE
@@ -21713,7 +21713,7 @@ SPACE
 α,:_,v,i,y,k,∵,(ge),m.
 SPACE
 α,∵,⅃,m,∵,$,·sh
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,a,m,_,(da),r
 SPACE
@@ -21820,7 +21820,7 @@ SPACE
 v,·,:,α,o,(me),h,∵,l
 SPACE
 y,_,ʕ,:_,q,o,⅃,v
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,·,v,:,α,o,⅃,h,∵,l
 SPACE
@@ -22307,7 +22307,7 @@ SPACE
 l,:,y,_,ʕ,:_,q,o,⅄,v
 SPACE
 h,i,n,·,‥,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,_,g,·,_,⅃,l
 SPACE
@@ -22472,7 +22472,7 @@ SPACE
 h,_,h,(ti),w,·,α
 SPACE
 m,_,𝓂,x,:_,n,a,𝓂,y,i,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 32:4 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,l,_,(qa),x
@@ -22977,7 +22977,7 @@ v,·,_,𝓂,m,·,_,x,:_,n,∵,𝓂,h,.
 
 Genesis 32:23 in vtrad vtbhs
 w,_,y,·,a,⅃,q,oa,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,l,·,_,⅃,y,:,l,a,h
 SPACE
@@ -23613,7 +23613,7 @@ SPACE
 $,·sh,‥,m.,-,h,_,m,·,a,q,(ti),w,o,m.
 SPACE
 σ,u,k,·,𝓂,w,o,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 33:18 in vtrad vtbhs
 w,_,y,·,a,v,o,α,(tq)
@@ -23681,7 +23681,7 @@ SPACE
 α,:∵,l,o,h,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 34:1 in vtrad vtbhs
 w,_,τ,·,‥,ц,‥,<,α
@@ -24401,7 +24401,7 @@ SPACE
 y,_,ʕ,:_,$,·si,∵,(ti),h
 SPACE
 α,∵,τ,-,α,:_,x,w,o,τ,‥,𝓂,n,w,·,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 35:1 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -24535,7 +24535,7 @@ Genesis 35:5 in vtrad vtbhs
 w,_,y,·,i,σ,·,a,⅄,ʕ,w,·
 SPACE
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 x,i,τ,·,_,⅃,τ
 SPACE
@@ -24637,7 +24637,7 @@ SPACE
 α,_,l,·,(me),w,o,n.
 SPACE
 v,·,a,k,𝓂,w,·,τ,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 35:9 in vtrad vtbhs
 w,_,y,·,‥,r,a,(qa),α
@@ -24949,7 +24949,7 @@ cant_dual
     w,_,y,·,i,$,·sh,:,m,_,(ti),ʕ
     SPACE
     y,i,$,·si,:,r,a,α,‥,⅄,CGJ,𝓂,l
-    START spi-pe2
+    START/STOP spi-pe2
     w,_,y,·,i,𝓂,h,:,y,(me),w,·
     SPACE
     v,:,n,‥,𝓂,y,-,y,_,ʕ,:_,q,o,(ti),v
@@ -24983,7 +24983,7 @@ cant_alef
     w,_,y,·,i,$,·sh,:,m,_,(ti),ʕ
     SPACE
     y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-    START spi-pe2
+    START/STOP spi-pe2
     w,_,y,·,i,𝓂,h,:,y,(me),w,·
     SPACE
     v,:,n,‥,𝓂,y,-,y,_,ʕ,:_,q,o,(ti),v
@@ -25017,7 +25017,7 @@ cant_bet
     w,_,y,·,i,$,·sh,:,m,_,(ti),ʕ
     SPACE
     y,i,$,·si,:,r,a,α,‥,⅄,l
-    START spi-pe2
+    START/STOP spi-pe2
     w,_,y,·,i,𝓂,h,:,y,(me),w,·
     SPACE
     v,:,n,‥,𝓂,y,-,y,_,ʕ,:_,q,o,(ti),v
@@ -25162,7 +25162,7 @@ SPACE
 w,:,y,_,ʕ,:_,q,o,(ti),v
 SPACE
 v,·,a,n,a,𝓂,y,w,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 36:1 in vtrad vtbhs
 w,:,α,‥,⟓,l,·,∵,h
@@ -25397,7 +25397,7 @@ w,·,q,:,n,_,𝓂,z,.
 
 Genesis 36:12 in vtrad vtbhs
 w,:,τ,i,m,:,n,_,⅃,ʕ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,a,y,:,τ,a,⅃,h
 SPACE
@@ -25635,7 +25635,7 @@ SPACE
 h,(me),w,·,α
 SPACE
 α,:∵,d,𝓂,w,o,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 36:20 in vtrad vtbhs
 α,‥,<,l,·,∵,h
@@ -25831,7 +25831,7 @@ SPACE
 v,·,:,α,∵,(me),r,∵,ц.
 SPACE
 $,·si,‥,ʕ,i,𝓂,y,r,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 36:31 in vtrad vtbhs
 w,:,α,‥,(p),l,·,∵,h,(p)
@@ -26067,7 +26067,7 @@ SPACE
 ʕ,i,y,r,a,⅄,m.
 SPACE
 α,‥,⅃,l,·,∵,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,_,l,·,w,·,f,‥,⅃,y
 SPACE
@@ -26086,7 +26086,7 @@ SPACE
 α,:_,v,i,(me),y
 SPACE
 α,:∵,d,𝓂,w,o,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 37:1 in vtrad vtbhs
 w,_,y,·,‥,⅃,$,·sh,∵,v
@@ -26105,7 +26105,7 @@ k,·,:,n,a,𝓂,ʕ,_,n.,.
 
 Genesis 37:2 in vtrad vtbhs
 α,‥,⅃,l,·,∵,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 τ,·,o,l,:,d,⅃,w,o,τ
 SPACE
@@ -26566,7 +26566,7 @@ v,·,a,𝓂,α,.
 
 Genesis 37:20 in vtrad vtbhs
 w,:,ʕ,_,τ,·,a,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,:,k,⅃,w,·
 SPACE
@@ -26613,7 +26613,7 @@ Genesis 37:22 in vtrad vtbhs
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 α,:_,l,‥,h,∵,⅃,m.
-START lp-paseq
+START/STOP lp-paseq
 r,:,α,w,·,v,‥,n.,~
 SPACE
 α,_,l,-,τ,·,i,$,·sh,:,f,·,:,k,w,·,-,d,a,m.,∴
@@ -26967,7 +26967,7 @@ SPACE
 $,·si,_,(ti),r
 SPACE
 h,_,θ,·,_,v,·,a,x,i,𝓂,y,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 38:1 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -27534,7 +27534,7 @@ m,:,ц,a,α,τ,a,𝓂,h,·,.
 
 Genesis 38:24 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 k,·,:,m,i,$,·sh,:,l,o,⅃,$,·sh
 SPACE
@@ -27670,7 +27670,7 @@ r,i,α,$,·sh,o,n,a,𝓂,h,.
 
 Genesis 38:29 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 k,·,:,m,‥,$,·sh,i,⅃,y,v
 SPACE
@@ -27714,7 +27714,7 @@ SPACE
 $,·sh,:,m,(ti),w,o
 SPACE
 z,a,𝓂,r,_,x,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 39:1 in vtrad vtbhs
 w,:,y,w,o,σ,‥,(ti),f.
@@ -27915,7 +27915,7 @@ SPACE
 
 Genesis 39:8 in vtrad vtbhs
 w,_,y,:,m,a,α,‥,(sh),n.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,_,y,·,o,(p),α,m,∵,r,(p)
 SPACE
@@ -27988,7 +27988,7 @@ SPACE
 α,∵,l,-,y,w,o,σ,‥,(ti),f.
 SPACE
 y,⅃,w,o,m.
-START lp-paseq
+START/STOP lp-paseq
 y,⅄,w,o,m.
 SPACE
 w,:,l,o,α,-,$,·sh,a,m,_,(me),ʕ
@@ -28317,7 +28317,7 @@ SPACE
 
 Genesis 39:23 in vtrad vtbhs
 α,‥,⅃,y,n.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·si,_,⅃,r
 SPACE
@@ -28342,7 +28342,7 @@ SPACE
 y,:,h,o,w,a,(me),h
 SPACE
 m,_,ц,:,l,i,𝓂,y,x,_,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 40:1 in vtrad vtbhs
 w,_,y,:,h,i,◆,y
@@ -28642,7 +28642,7 @@ h,‥,𝓂,m.,.
 
 Genesis 40:13 in vtrad vtbhs
 v,·,:,ʕ,⅃,w,o,d
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,:,l,o,⅃,$,·sh,∵,τ
 SPACE
@@ -28803,7 +28803,7 @@ h,‥,𝓂,m.,.
 
 Genesis 40:19 in vtrad vtbhs
 v,·,:,ʕ,⅃,w,o,d
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,:,l,o,⅃,$,·sh,∵,τ
 SPACE
@@ -28833,7 +28833,7 @@ m,‥,ʕ,a,l,∵,𝓂,y,k.,a,.
 
 Genesis 40:20 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -28854,7 +28854,7 @@ SPACE
 w,_,y,·,i,$,·si,·,a,(G),α
 SPACE
 α,∵,τ,-,r,o,⅃,α,$,·sh
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·si,_,⅃,r
 SPACE
@@ -28912,7 +28912,7 @@ SPACE
 α,∵,τ,-,y,w,o,σ,‥,(ti),f.
 SPACE
 w,_,y,·,i,$,·sh,:,k,·,a,x,‥,𝓂,h,w,·,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 41:1 in vtrad vtbhs
 w,_,y,:,h,i,Ƶ,y
@@ -29026,7 +29026,7 @@ SPACE
 $,·sh,‥,n,i,⅄,y,τ
 SPACE
 w,:,h,i,n,·,‥,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,∵,⅃,v,_,ʕ
 SPACE
@@ -29428,7 +29428,7 @@ SPACE
 v,·,_,x,:_,l,o,m,i,⅄,y
 SPACE
 w,:,h,i,n,·,‥,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,∵,⅃,v,_,ʕ
 SPACE
@@ -30003,7 +30003,7 @@ v,τ,y,v,h
 SPACE
 α,x,τ
 STOP sdt-note
-START sdt-starpos-after-word
+START/STOP sdt-starpos-after-word
 STOP scrdfftar
 SPACE
 k,·,o,h,‥,(me),n.
@@ -30066,7 +30066,7 @@ Genesis 41:48 in vtrad vtbhs
 w,_,y,·,i,q,:,v,·,o,(G),ц.
 SPACE
 α,∵,τ,-,k,·,oa,l,-,α,o,⅃,k,∵,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,∵,⅃,v,_,ʕ
 SPACE
@@ -30162,7 +30162,7 @@ v,τ,y,v,h
 SPACE
 α,x,τ
 STOP sdt-note
-START sdt-starpos-after-word
+START/STOP sdt-starpos-after-word
 STOP scrdfftar
 SPACE
 k,·,o,h,‥,(me),n.
@@ -30606,7 +30606,7 @@ SPACE
 ʕ,:_,v,a,d,∵,(qa),y,k.,a
 SPACE
 α,_,x,i,(da),y,m.
-START lp-paseq
+START/STOP lp-paseq
 α,:_,n,_,⟓,x,:,n,w,·
 SPACE
 v,·,:,n,‥,(me),y
@@ -30798,7 +30798,7 @@ SPACE
 α,:_,v,a,l,~
 SPACE
 α,:_,$,·sh,‥,m,i,⅃,y,m.
-START lp-paseq
+START/STOP lp-paseq
 α,:_,n,_,≁,x,:,n,w,·,~
 SPACE
 ʕ,_,l,-,α,a,x,i,∴,y,n,w,·,∴
@@ -30843,7 +30843,7 @@ SPACE
 α,a,m,_,(qa),r,:,τ,·,i,y
 SPACE
 α,:_,l,‥,y,k,∵,(da),m.
-START lp-paseq
+START/STOP lp-paseq
 l,‥,α,m,o,⟓,r
 SPACE
 α,_,l,-,τ,·,∵,x,∵,θ,:,α,(me),w,·
@@ -31548,7 +31548,7 @@ SPACE
 α,:_,v,i,y,h,∵,◆,m.
 SPACE
 α,i,m.,-,k,·,‥,⅃,n.
-START lp-paseq
+START/STOP lp-paseq
 α,‥,f,w,o,α,~
 SPACE
 z,o,⅃,α,τ
@@ -32618,7 +32618,7 @@ SPACE
 l,:,$,·sh,a,l,(ti),w,o,m.
 SPACE
 α,∵,l,-,α,:_,v,i,y,k,∵,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 44:18 in vtrad vtbhs
 w,_,y,·,i,g,·,_,(qa),$,·sh
@@ -33119,7 +33119,7 @@ m,i,ц,:,r,a,𝓂,y,:,m,a,h,.
 
 Genesis 45:5 in vtrad vtbhs
 w,:,ʕ,_,τ,·,a,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,_,l,-,τ,·,‥,ʕ,a,⅃,ц,:,v,◆,w,·
 SPACE
@@ -33733,7 +33733,7 @@ Genesis 46:2 in vtrad vtbhs
 w,_,y,·,o,(qa),α,m,∵,r
 SPACE
 α,:∵,l,o,h,i,<,y,m.
-START lp-paseq
+START/STOP lp-paseq
 l,:,y,i,$,·si,:,r,a,α,‥,l,(p)
 SPACE
 v,·,:,m,_,r,:,α,o,⅃,τ
@@ -33743,7 +33743,7 @@ SPACE
 w,_,y,·,o,(ti),α,m,∵,r
 SPACE
 y,_,ʕ,:_,q,o,⅃,v
-START lp-paseq
+START/STOP lp-paseq
 y,_,ʕ,:_,q,o,⅄,v
 SPACE
 w,_,y,·,o,(ti),α,m,∵,r
@@ -33876,7 +33876,7 @@ SPACE
 α,i,τ,·,(ti),w,o
 SPACE
 m,i,ц,:,r,a,𝓂,y,:,m,a,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 46:8 in vtrad vtbhs
 w,:,α,‥,(qa),l,·,∵,h
@@ -34001,7 +34001,7 @@ w,:,y,_,x,:,l,:,α,‥,𝓂,l,.
 
 Genesis 46:15 in vtrad vtbhs
 α,‥,⅃,l,·,∵,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,:,n,‥,⅃,y
 SPACE
@@ -34150,7 +34150,7 @@ v,τ,y,v,h
 SPACE
 α,x,τ
 STOP sdt-note
-START sdt-starpos-after-word
+START/STOP sdt-starpos-after-word
 STOP scrdfftar
 SPACE
 k,·,o,h,‥,⅃,n.
@@ -34295,7 +34295,7 @@ SPACE
 m,i,ц,:,r,_,(ti),y,:,m,a,h
 SPACE
 $,·sh,i,v,:,ʕ,i,𝓂,y,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 46:28 in vtrad vtbhs
 w,:,α,∵,τ,-,y,:,h,w,·,d,a,(G),h
@@ -35300,7 +35300,7 @@ SPACE
 l,a,m,w,·,τ,∴
 SPACE
 w,_,y,·,i,q,:,r,a,⅃,α
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,i,v,:,n,⅃,w,o
 SPACE
@@ -35379,7 +35379,7 @@ SPACE
 ʕ,_,l,-,r,o,(me),α,$,·sh
 SPACE
 h,_,m,·,i,θ,·,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 48:1 in vtrad vtbhs
 w,_,y,:,h,i,◆,y
@@ -35545,7 +35545,7 @@ v,·,:,n,_,x,:_,l,a,τ,a,𝓂,m.,.
 
 Genesis 48:7 in vtrad vtbhs
 w,_,α,:_,n,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,:,v,o,α,i,⅃,y
 SPACE
@@ -36001,7 +36001,7 @@ SPACE
 v,·,:,x,_,r,:,v,·,i,(ti),y
 SPACE
 w,·,v,:,q,_,$,·sh,:,τ,·,i,𝓂,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 49:1 in vtrad vtbhs
 w,_,y,·,i,q,:,r,a,(me),α
@@ -36086,7 +36086,7 @@ SPACE
 y,:,ц,w,·,ʕ,i,(me),y
 SPACE
 ʕ,a,l,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 49:5 in vtrad vtbhs
 $,·sh,i,m,:,ʕ,(me),w,o,n.
@@ -36148,7 +36148,7 @@ SPACE
 w,_,α,:_,f,i,y,ц,‥,(ti),m.
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 49:8 in vtrad vtbhs
 y,:,h,w,·,d,a,◆,h
@@ -36263,7 +36263,7 @@ SPACE
 w,·,l,:,v,∵,n.,-,$,·sh,i,n,·,_,(ti),y,i,m.
 SPACE
 m,‥,x,a,l,a,𝓂,v,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 49:13 in vtrad vtbhs
 z,:,v,w,·,l,u,Ƶ,n.
@@ -36283,7 +36283,7 @@ SPACE
 w,:,y,_,r,:,k,a,τ,(ti),w,o
 SPACE
 ʕ,_,l,-,ц,i,y,d,o,𝓂,n.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 49:14 in vtrad vtbhs
 y,i,$,·si,·,a,$,k,a,(ti),r
@@ -36322,7 +36322,7 @@ SPACE
 w,_,y,:,h,i,(ti),y
 SPACE
 l,:,m,_,σ,-,ʕ,o,v,‥,𝓂,d,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 49:16 in vtrad vtbhs
 d,·,a,(ti),n.
@@ -36364,7 +36364,7 @@ SPACE
 q,i,w,·,i,(me),y,τ,i,y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 49:19 in vtrad vtbhs
 g,·,a,(ti),d
@@ -36378,7 +36378,7 @@ SPACE
 y,a,g,u,(me),d
 SPACE
 ʕ,a,q,‥,𝓂,v,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 49:20 in vtrad vtbhs
 m,‥,α,a,$,·sh,‥,(ti),r
@@ -36392,7 +36392,7 @@ SPACE
 y,i,τ,·,‥,(ti),n.
 SPACE
 m,_,𝓂,ʕ,:_,d,_,n,·,‥,y,-,m,∵,𝓂,l,∵,k.,:,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 49:21 in vtrad vtbhs
 n,_,f,:,τ,·,a,l,i,(ti),y
@@ -36404,7 +36404,7 @@ SPACE
 h,_,n,·,o,τ,‥,(ti),n.
 SPACE
 α,i,m,:,r,‥,y,-,$,·sh,a,𝓂,f,∵,r,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Genesis 49:22 in vtrad vtbhs
 v,·,‥,<,n.
@@ -36524,7 +36524,7 @@ SPACE
 n,:,z,i,(me),y,r
 SPACE
 α,∵,x,a,𝓂,y,w,.
-START spi-pe2
+START/STOP spi-pe2
 
 Genesis 49:27 in vtrad vtbhs
 v,·,i,n,:,y,a,m,i,y,n.,(p)

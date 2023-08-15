@@ -112,7 +112,7 @@ SPACE
 α,:∵,w,i,y,l,i,(me),y,m.
 SPACE
 v,·,a,𝓂,z,w,·,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 1:8 in vtrad vtsef
 $,·sh,:,m,_,⅃,ʕ
@@ -131,7 +131,7 @@ SPACE
 
 Proverbs 1:9 in vtrad vtsef
 k,·,i,<,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,i,w,:,y,_,<,τ
 SPACE
@@ -278,7 +278,7 @@ SPACE
 v,·,:,ʕ,a,l,a,⅃,y,w
 SPACE
 y,i,q,·,a,𝓂,x,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 1:20 in vtrad vtsef
 x,oa,(de),k,:,m,w,o,τ
@@ -312,11 +312,11 @@ SPACE
 
 Proverbs 1:22 in vtrad vtsef
 ʕ,_,d,-,m,a,τ,_,⅃,y
-START lp-paseq
+START/STOP lp-paseq
 f,·,:,τ,a,y,i,m.,~
 SPACE
 τ,·,:,𝓂,α,‥,h,:_,v,(ol),w,·
-START implicit-maqaf
+START/STOP implicit-maqaf
 f,∵,(me),τ,i,y
 SPACE
 w,:,l,‥,ц,i,◆,y,m.
@@ -398,7 +398,7 @@ k,$,α,w,h
 STOP kq-k
 START kq-q
 k,:,$,·sh,w,o,α,a,(qa),h
-START lp-legarmeih
+START/STOP lp-legarmeih
 STOP kq-q
 STOP kq
 SPACE
@@ -495,7 +495,7 @@ SPACE
 m,i,f,·,_,(me),x,_,d
 SPACE
 r,a,ʕ,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 2:1 in vtrad vtsef
 v,·,:,(de),n,i,y
@@ -783,7 +783,7 @@ SPACE
 y,i,σ,·,:,x,(me),w,·
 SPACE
 m,i,m,·,∵,𝓂,n,·,a,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 3:1 in vtrad vtsef
 v,·,:,(de),n,i,y
@@ -914,7 +914,7 @@ SPACE
 y,:,q,a,v,∵,(me),y,k.,a
 SPACE
 y,i,f,:,r,o,𝓂,ц,w,·,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 3:11 in vtrad vtsef
 m,w,·,σ,_,⅃,r
@@ -933,7 +933,7 @@ Proverbs 3:12 in vtrad vtsef
 k,·,i,<,y
 SPACE
 α,∵,(me),τ
-START implicit-maqaf
+START/STOP implicit-maqaf
 α,:_,$,·sh,∵,⅃,r
 SPACE
 y,∵,α,:∵,h,_,⅃,v
@@ -1030,7 +1030,7 @@ SPACE
 w,:,𝓂,τ,o,m,:,k,∵,(me),y,h,a
 SPACE
 m,:,α,u,$,·sh,·,a,𝓂,r,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 3:19 in vtrad vtsef
 y,:,𝓂,h,o,w,a,◆,h
@@ -1163,7 +1163,7 @@ l,r,ʕ,y,k.
 STOP kq-k
 START kq-q
 l,:,r,‥,ʕ,:_,k.,a,(qa)
-START lp-legarmeih
+START/STOP lp-legarmeih
 STOP kq-q
 STOP kq
 SPACE
@@ -1280,7 +1280,7 @@ SPACE
 m,‥,r,i,(me),y,m.
 SPACE
 q,a,l,𝓂,w,o,n.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 4:1 in vtrad vtsef
 $,·sh,i,m,:,ʕ,⅃,w,·
@@ -1558,7 +1558,7 @@ SPACE
 v,·,_,m,·,∵,(me),h
 SPACE
 y,i,k,·,a,$,·sh,‥,𝓂,l,w,·,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 4:20 in vtrad vtsef
 v,·,:,(de),n,i,y
@@ -1657,7 +1657,7 @@ SPACE
 r,_,g,:,l,:,k.,a,⅃
 SPACE
 m,‥,r,a,𝓂,ʕ,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 5:1 in vtrad vtsef
 v,·,:,(de),n,i,y
@@ -1738,7 +1738,7 @@ SPACE
 l,o,⅃,α
 SPACE
 τ,‥,d,a,𝓂,ʕ,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 5:7 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,⅃,h
@@ -1922,7 +1922,7 @@ Proverbs 5:21 in vtrad vtsef
 k,·,i,<,y
 SPACE
 n,o,(qa),k,_,x
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 ʕ,‥,y,n,‥,⅃,y
 SPACE
@@ -1961,7 +1961,7 @@ SPACE
 α,i,w,·,_,l,:,τ,·,⅃,w,o
 SPACE
 y,i,$,·sh,:,g,·,∵,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 6:1 in vtrad vtsef
 v,·,:,(de),n,i,y
@@ -1991,7 +1991,7 @@ SPACE
 z,o,(me),α,τ
 SPACE
 α,‥,f,(yy),w,o,α
-START lp-paseq
+START/STOP lp-paseq
 v,·,:,n,i,μ,y
 SPACE
 w,:,𝓂,h,i,n,·,a,ц,‥,◆,l
@@ -2033,7 +2033,7 @@ SPACE
 m,i,y,·,_,(me),d
 SPACE
 y,a,q,𝓂,w,·,$,·sh,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 6:6 in vtrad vtsef
 l,‥,𝓂,k.,:,-,α,∵,l,-,n,:,m,a,l,a,(me),h
@@ -2074,7 +2074,7 @@ Proverbs 6:9 in vtrad vtsef
 ʕ,_,d,-,m,a,τ,_,(ti),y
 SPACE
 ʕ,a,ц,‥,(me),l
-START lp-paseq
+START/STOP lp-paseq
 τ,·,i,$,·sh,:,k,·,a,⅄,v
 SPACE
 m,a,γ,τ,_,◆,y
@@ -2093,7 +2093,7 @@ SPACE
 τ,·,:,n,w,·,m,⅄,w,o,τ
 SPACE
 m,:,ʕ,_,(sh),θ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 x,i,v,·,u,(ti),q
 SPACE
@@ -2111,7 +2111,7 @@ SPACE
 k,·,:,α,i,⅃,y,$,·sh
 SPACE
 m,a,g,‥,𝓂,n.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 6:12 in vtrad vtsef
 α,a,d,a,⅃,m.
@@ -2147,7 +2147,7 @@ v,·,:,α,∵,ц,:,v,·,:,ʕ,o,τ,a,𝓂,y,w,.
 
 Proverbs 6:14 in vtrad vtsef
 τ,·,_,(me),h,:,f,·,u,k,(qa),w,o,τ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,:,l,i,v,·,◆,w,o
 SPACE
@@ -2184,7 +2184,7 @@ SPACE
 w,:,α,‥,⅃,y,n.
 SPACE
 m,_,r,:,f,·,‥,𝓂,α,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 6:16 in vtrad vtsef
 $,·sh,∵,$,·sh,-,h,‥,(de),n,·,a,h
@@ -2254,7 +2254,7 @@ SPACE
 v,·,‥,⅃,y,n.
 SPACE
 α,_,x,i,𝓂,y,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 6:20 in vtrad vtsef
 n,:,ц,o,⅃,r
@@ -2284,7 +2284,7 @@ SPACE
 
 Proverbs 6:22 in vtrad vtsef
 v,·,:,h,i,τ,:,h,_,l,·,∵,k,:,k.,a,(qa)
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 τ,·,_,n,:,x,∵,(il),h
 SPACE
@@ -2353,7 +2353,7 @@ SPACE
 z,w,o,n,a,◆,h
 SPACE
 ʕ,_,𝓂,d,-,k,·,i,k,·,_,(ol),r
-START implicit-maqaf
+START/STOP implicit-maqaf
 l,a,(me),x,∵,m.
 SPACE
 w,:,α,‥,(me),$,·sh,∵,τ
@@ -2365,7 +2365,7 @@ SPACE
 y,:,q,a,r,a,⅃,h
 SPACE
 τ,a,ц,𝓂,w,·,d,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 6:27 in vtrad vtsef
 h,:_,y,_,x,:,τ,·,∵,<,h
@@ -2491,7 +2491,7 @@ SPACE
 k,·,i,⅃,y
 SPACE
 τ,_,r,:,v,·,∵,h,-,$,·sh,·,o,𝓂,x,_,d,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 7:1 in vtrad vtsef
 v,·,:,(de),n,i,y
@@ -2640,7 +2640,7 @@ r,_,g,:,l,∵,𝓂,y,h,a,.
 
 Proverbs 7:12 in vtrad vtsef
 f,·,_,<,ʕ,_,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,x,◆,w,·,ц.
 SPACE
@@ -2860,7 +2860,7 @@ SPACE
 y,o,γ,r,:,d,◆,w,o,τ
 SPACE
 α,∵,l,-,x,_,d,:,r,‥,y,-,m,a,𝓂,w,∵,τ,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 8:1 in vtrad vtsef
 h,:_,l,o,𝓂,α,-,x,oa,k,:,m,a,(me),h
@@ -3016,13 +3016,13 @@ SPACE
 y,:,h,o,w,a,h,~
 SPACE
 $,·si,:,𝓂,n,o,(ol),α,τ
-START implicit-maqaf
+START/STOP implicit-maqaf
 r,a,(me),ʕ
 SPACE
 g,·,‥,≁,α,a,<,h
 SPACE
 w,:,g,a,α,(qa),w,o,n.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,:,d,∵,⅃,r,∵,k.,:
 SPACE
@@ -3132,7 +3132,7 @@ Proverbs 8:21 in vtrad vtsef
 l,:,h,_,n,:,x,i,(ti),y,l
 SPACE
 α,o,h,:_,v,_,(me),y
-START lp-paseq
+START/STOP lp-paseq
 y,‥,⅄,$,·sh
 SPACE
 w,:,α,o,ц,:,r,o,(ti),τ,‥,y,h,∵,⅃,m.
@@ -3236,7 +3236,7 @@ Proverbs 8:29 in vtrad vtsef
 v,·,:,$,·si,≁,w,·,m,<,w,o
 SPACE
 l,_,y,·,a,(qa),m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 x,u,q,·,◆,w,o
 SPACE
@@ -3264,7 +3264,7 @@ SPACE
 $,·sh,_,(de),ʕ,:_,$,·sh,w,·,ʕ,i,y,m.
 SPACE
 y,<,w,o,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,⅄,w,o,m.
 SPACE
@@ -3286,7 +3286,7 @@ SPACE
 α,∵,τ,-,v,·,:,n,‥,(me),y
 SPACE
 α,a,d,a,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 8:32 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,⅃,h
@@ -3324,7 +3324,7 @@ SPACE
 ʕ,_,l,-,d,·,_,(de),l,:,τ,o,τ,_,y
 SPACE
 y,<,w,o,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,⅄,w,o,m.
 SPACE
@@ -3451,7 +3451,7 @@ v,·,i,y,n,a,𝓂,h,.
 
 Proverbs 9:7 in vtrad vtsef
 y,o,<,σ,‥,(qa),r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,‥,◆,ц.
 SPACE
@@ -3609,7 +3609,7 @@ SPACE
 $,·sh,:,α,⅃,w,o,l
 SPACE
 q,:,r,u,α,∵,𝓂,y,h,a,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 10:1 in vtrad vtsef
 m,i,$,·sh,:,l,‥,◆,y
@@ -3982,7 +3982,7 @@ SPACE
 
 Proverbs 10:26 in vtrad vtsef
 k,·,_,x,o,<,m,∵,ц.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,_,$,·sh,·,i,n,·,_,◆,y,i,m.
 SPACE
@@ -6126,7 +6126,7 @@ SPACE
 g,·,‥,(de),α,i,y,m.
 SPACE
 y,i,σ,·,_,(me),x
-START lp-paseq
+START/STOP lp-paseq
 y,:,h,o,w,a,⅄,h
 SPACE
 w,:,γ,y,_,ц,·,‥,◆,v
@@ -6376,7 +6376,7 @@ SPACE
 
 Proverbs 16:10 in vtrad vtsef
 q,∵,<,σ,∵,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 ʕ,_,𝓂,l,-,$,·si,i,f,:,τ,‥,y,-,m,∵,⅄,l,∵,k.,:
 SPACE
@@ -6388,7 +6388,7 @@ y,i,m,:,ʕ,_,l,-,f,·,i,𝓂,y,w,.
 
 Proverbs 16:11 in vtrad vtsef
 f,·,∵,<,l,∵,σ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,·,m,o,α,z,:,n,‥,⅃,y
 SPACE
@@ -7587,9 +7587,9 @@ m,_,τ,·,a,𝓂,n.,.
 
 Proverbs 19:7 in vtrad vtsef
 k,·,oa,(me),l
-START implicit-maqaf
+START/STOP implicit-maqaf
 α,:_,x,‥,y,-,r,a,(qa),$,·sh
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·si,:,𝓂,n,‥,α,u,◆,h,w,·
 SPACE
@@ -7644,7 +7644,7 @@ SPACE
 k,·,:,z,a,v,i,⅃,y,m.
 SPACE
 y,o,α,v,‥,𝓂,d,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 19:10 in vtrad vtsef
 l,o,α,-,n,a,α,w,∵,⅃,h
@@ -7656,7 +7656,7 @@ SPACE
 α,_,γ,◆,f.
 SPACE
 k,·,i,𝓂,y,-,l,:,ʕ,∵,<,v,∵,d
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,:,$,·sh,o,(il),l
 SPACE
@@ -8676,7 +8676,7 @@ w,a,k,a,𝓂,ʕ,_,σ,.
 
 Proverbs 21:20 in vtrad vtsef
 α,w,o,ц,a,<,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 n,∵,x,:,m,a,⅃,d
 SPACE
@@ -8816,7 +8816,7 @@ SPACE
 w,:,γ,y,a,$,·sh,a,◆,r
 SPACE
 h,<,w,·,α
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 START kq
 START kq-k
@@ -8848,7 +8848,7 @@ SPACE
 l,:,n,∵,⅃,g,∵,d
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 21:31 in vtrad vtsef
 σ,◆,w,·,σ
@@ -8895,7 +8895,7 @@ y,:,h,o,w,a,𝓂,h,.
 
 Proverbs 22:3 in vtrad vtsef
 ʕ,a,r,<,w,·,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 r,a,α,a,⅃,h
 SPACE
@@ -9306,7 +9306,7 @@ Proverbs 22:29 in vtrad vtsef
 x,a,z,i,μ,y,τ,a
 SPACE
 α,i,<,y,$,·sh
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,a,≁,h,i,<,y,r
 SPACE
@@ -9321,7 +9321,7 @@ SPACE
 l,i,f,:,n,‥,(me),y
 SPACE
 x,:_,$,·sh,u,k,·,i,𝓂,y,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 23:1 in vtrad vtsef
 k,·,i,𝓂,y,-,τ,‥,(de),$,·sh,‥,v
@@ -9407,7 +9407,7 @@ STOP kq-q
 STOP kq
 SPACE
 h,_,$,·sh,·,a,m,a,𝓂,y,i,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 23:6 in vtrad vtsef
 α,_,l,-,τ,·,i,l,:,x,_,◆,m.
@@ -9424,7 +9424,7 @@ l,:,m,_,θ,:,ʕ,_,m,·,o,τ,a,𝓂,y,w,.
 
 Proverbs 23:7 in vtrad vtsef
 k,·,i,<,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 k,·,:,m,(me),w,o
 SPACE
@@ -9758,7 +9758,7 @@ m,d,w,n,y,m.
 STOP kq-k
 START kq-q
 m,i,d,:,y,a,n,i,(qa),y,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 STOP kq-q
 STOP kq
 SPACE
@@ -10018,7 +10018,7 @@ SPACE
 h,:_,𝓂,l,o,α,-,τ,o,≁,k,‥,<,n.
 SPACE
 l,i,v,·,(qa),w,o,τ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,𝓂,w,·,α,-,y,a,v,i,◆,y,n.
 SPACE
@@ -10051,7 +10051,7 @@ SPACE
 
 Proverbs 24:14 in vtrad vtsef
 k,·,‥,<,n.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 d,·,:,ʕ,∵,(me),h
 SPACE
@@ -10070,7 +10070,7 @@ SPACE
 l,o,⅃,α
 SPACE
 τ,i,k,·,a,r,‥,𝓂,τ,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 24:15 in vtrad vtsef
 α,_,l,-,τ,·,∵,α,:∵,r,o,⅃,v
@@ -10089,7 +10089,7 @@ Proverbs 24:16 in vtrad vtsef
 k,·,i,<,y
 SPACE
 $,·sh,∵,(qa),v,_,ʕ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,i,f,·,⅃,w,o,l
 SPACE
@@ -10149,7 +10149,7 @@ v,·,a,𝓂,r,:,$,·sh,a,ʕ,i,𝓂,y,m.,.
 
 Proverbs 24:20 in vtrad vtsef
 k,·,i,<,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,o,α,-,τ,i,h,:,y,∵,⅃,h
 SPACE
@@ -10188,7 +10188,7 @@ SPACE
 m,i,⅃,y
 SPACE
 y,w,o,d,‥,𝓂,ʕ,_,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 24:23 in vtrad vtsef
 g,·,_,m.,-,α,‥,(me),l,·,∵,h
@@ -10203,7 +10203,7 @@ v,·,_,l,-,θ,𝓂,w,o,v,.
 
 Proverbs 24:24 in vtrad vtsef
 α,o,<,m,‥,(qa),r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,:,r,a,$,·sh,a,ʕ,~
 SPACE
@@ -10245,7 +10245,7 @@ Proverbs 24:27 in vtrad vtsef
 h,a,≁,k,‥,<,n.
 SPACE
 v,·,_,x,(qa),w,·,ц.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,:,l,_,α,k,:,τ,·,∵,◆,k.,a
 SPACE
@@ -10260,7 +10260,7 @@ SPACE
 w,·,v,a,n,i,(me),y,τ,a
 SPACE
 v,‥,y,τ,∵,𝓂,k.,a,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 24:28 in vtrad vtsef
 α,_,l,-,τ,·,:,h,i,⅃,y
@@ -10289,7 +10289,7 @@ SPACE
 l,a,α,i,⅃,y,$,·sh
 SPACE
 k,·,:,f,oa,ʕ,:a,l,𝓂,w,o,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 24:30 in vtrad vtsef
 ʕ,_,l,-,$,·si,:,d,‥,⅃,h
@@ -10310,7 +10310,7 @@ SPACE
 ʕ,a,≁,l,a,<,h
 SPACE
 k,u,l,·,(qa),w,o
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 q,i,m,·,:,$,·si,o,n,i,◆,y,m.
 SPACE
@@ -10351,7 +10351,7 @@ SPACE
 τ,·,:,n,w,·,m,⅄,w,o,τ
 SPACE
 m,:,ʕ,_,(sh),θ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 x,i,v,·,u,(ti),q
 SPACE
@@ -10369,7 +10369,7 @@ SPACE
 k,·,:,α,i,⅃,y,$,·sh
 SPACE
 m,a,g,‥,𝓂,n.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 25:1 in vtrad vtsef
 g,·,_,m.,-,α,‥,(de),l,·,∵,h
@@ -10383,7 +10383,7 @@ SPACE
 h,∵,γ,ʕ,:,τ,·,i,◆,y,q,w,·
 SPACE
 α,_,n,:,$,·sh,‥,<,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 x,i,z,:,q,i,y,·,a,(il),h
 SPACE
@@ -10468,7 +10468,7 @@ SPACE
 α,:_,m,oa,r,-,l,:,k.,a,◆
 SPACE
 ʕ,:_,𝓂,l,‥,(ol),h
-START implicit-maqaf
+START/STOP implicit-maqaf
 h,‥,(me),n,·,a,h
 SPACE
 m,‥,(de),h,_,$,·sh,:,f,·,i,⅃,y,l,:,k.,a
@@ -10558,7 +10558,7 @@ $,·sh,o,m,a,𝓂,ʕ,_,τ,.
 
 Proverbs 25:13 in vtrad vtsef
 k,·,:,ц,i,n,·,_,τ,-,$,·sh,∵,(qa),l,∵,g
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,:,y,(il),w,o,m.
 SPACE
@@ -10575,7 +10575,7 @@ SPACE
 α,:_,d,o,n,a,⅃,y,w
 SPACE
 y,a,$,·sh,i,𝓂,y,v,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 25:14 in vtrad vtsef
 n,:,$,·si,i,y,α,i,⅃,y,m.
@@ -10671,7 +10671,7 @@ SPACE
 
 Proverbs 25:20 in vtrad vtsef
 m,_,(me),ʕ,:_,d,∵,h,-,v,·,∵,(qa),g,∵,d
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,:,y,⅃,w,o,m.
 SPACE
@@ -10688,7 +10688,7 @@ SPACE
 ʕ,_,⅃,l
 SPACE
 l,∵,v,-,r,a,𝓂,ʕ,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 25:21 in vtrad vtsef
 α,i,m.,-,r,a,ʕ,‥,⅃,v
@@ -10827,7 +10827,7 @@ l,:,r,w,·,x,𝓂,w,o,.
 
 Proverbs 26:1 in vtrad vtsef
 k,·,_,$,·sh,·,∵,<,l,∵,g
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,q,·,_,◆,y,i,ц.
 SPACE
@@ -11130,7 +11130,7 @@ STOP kq-q
 STOP kq
 SPACE
 l,:,x,_,r,:,x,_,r,-,r,i,𝓂,y,v,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 26:22 in vtrad vtsef
 d,·,i,v,:,r,‥,⅃,y
@@ -11411,7 +11411,7 @@ d,a,v,a,𝓂,r,.
 
 Proverbs 27:12 in vtrad vtsef
 ʕ,a,r,<,w,·,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 r,a,α,a,⅃,h
 SPACE
@@ -11442,7 +11442,7 @@ Proverbs 27:14 in vtrad vtsef
 m,:,v,a,≁,r,‥,<,k.,:
 SPACE
 r,‥,ʕ,‥,(qa),h,w,·
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,:,q,⅃,w,o,l
 SPACE
@@ -11568,7 +11568,7 @@ Proverbs 27:22 in vtrad vtsef
 α,i,(me),m.
 SPACE
 τ,·,i,k,:,τ,·,𝓂,w,o,$,·sh,-,α,∵,τ,-,h,a,α,:∵,w,i,(qa),y,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,(me),m,·,_,k,:,τ,·,‥,μ,$,·sh
 SPACE
@@ -11583,7 +11583,7 @@ SPACE
 m,‥,γ,ʕ,a,l,a,◆,y,w
 SPACE
 α,i,w,·,_,l,:,τ,·,𝓂,w,o,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 27:23 in vtrad vtsef
 y,a,d,o,⅃,ʕ,_
@@ -11649,7 +11649,7 @@ SPACE
 
 Proverbs 27:27 in vtrad vtsef
 w,:,d,‥,<,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 x,:_,l,‥,(il),v
 SPACE
@@ -11728,7 +11728,7 @@ SPACE
 y,i,τ,:,g,·,a,(me),r,w,·
 SPACE
 v,a,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 28:5 in vtrad vtsef
 α,_,n,:,$,·sh,‥,y,-,r,a,(de),ʕ
@@ -11818,7 +11818,7 @@ Proverbs 28:10 in vtrad vtsef
 m,_,$,·sh,:,g,·,∵,<,h
 SPACE
 y,:,$,·sh,a,r,i,(qa),y,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,:,d,∵,(me),r,∵,k.,:
 SPACE
@@ -11831,7 +11831,7 @@ SPACE
 w,·,γ,τ,:,m,i,y,m,i,◆,y,m.
 SPACE
 y,i,n,:,x,:_,l,w,·,-,θ,𝓂,w,o,v,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 28:11 in vtrad vtsef
 x,a,k,a,⅃,m.
@@ -11937,7 +11937,7 @@ SPACE
 y,_,α,:_,r,i,(me),y,k.,:
 SPACE
 y,a,m,i,𝓂,y,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 28:17 in vtrad vtsef
 START slh-word
@@ -12058,7 +12058,7 @@ l,a,$,·sh,𝓂,w,o,n.,.
 
 Proverbs 28:24 in vtrad vtsef
 g,·,w,o,z,‥,<,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,a,≁,v,i,<,y,w
 SPACE
@@ -12384,7 +12384,7 @@ SPACE
 m,_,ʕ,:_,d,_,n,·,i,⅃,y,m.
 SPACE
 l,:,n,_,f,:,$,·sh,∵,𝓂,k.,a,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 29:18 in vtrad vtsef
 v,·,:,α,‥,⅃,y,n.
@@ -12525,11 +12525,11 @@ SPACE
 r,a,$,·sh,a,⅃,ʕ
 SPACE
 y,:,$,·sh,_,r,-,d,·,a,𝓂,r,∵,k.,:,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 30:1 in vtrad vtsef
 d,·,i,v,:,r,‥,<,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,a,g,(me),w,·,r
 SPACE
@@ -12577,21 +12577,21 @@ Proverbs 30:4 in vtrad vtsef
 m,i,<,y
 SPACE
 ʕ,a,l,a,𝓂,h,-,$,·sh,a,m,_,(qa),y,i,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,_,y,·,‥,r,_,μ,d
 SPACE
 m,i,<,y
 SPACE
 α,a,𝓂,σ,_,f.,-,r,(qa),w,·,x,_
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,:,x,oa,f,:,n,a,μ,y,w
 SPACE
 m,i,<,y
 SPACE
 ц,a,𝓂,r,_,r,-,m,_,(qa),y,i,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,$,·si,·,i,m,:,l,a,◆,h
 SPACE
@@ -12634,7 +12634,7 @@ SPACE
 v,·,:,k.,a,⅃
 SPACE
 w,:,n,i,k,:,z,a,𝓂,v,:,τ,·,a,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 30:7 in vtrad vtsef
 $,·sh,:,(de),τ,·,_,y,i,m.
@@ -12653,7 +12653,7 @@ SPACE
 
 Proverbs 30:8 in vtrad vtsef
 $,·sh,a,<,w,:,α
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,·,𝓂,d,:,v,_,r,-,k,·,a,z,a,μ,v
 SPACE
@@ -12677,7 +12677,7 @@ Proverbs 30:9 in vtrad vtsef
 f,·,∵,(me),n.
 SPACE
 α,∵,$,·si,:,v,·,_,(qa),ʕ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,:,k,i,x,_,$,·sh,:,τ,·,i,y,~
 SPACE
@@ -12696,7 +12696,7 @@ SPACE
 $,·sh,‥,⅃,m.
 SPACE
 α,:∵,l,o,h,a,𝓂,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 30:10 in vtrad vtsef
 α,_,l,-,τ,·,_,l,:,$,·sh,‥,⅃,n.
@@ -12748,7 +12748,7 @@ y,i,n,·,a,$,·si,‥,𝓂,α,w,·,.
 
 Proverbs 30:14 in vtrad vtsef
 d,·,<,w,o,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 x,:_,r,a,v,⅃,w,o,τ
 SPACE
@@ -12767,11 +12767,11 @@ SPACE
 w,:,γ,α,∵,v,:,y,w,o,n,i,◆,y,m.
 SPACE
 m,‥,α,a,d,a,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 30:15 in vtrad vtsef
 l,_,(me),ʕ,:_,l,w,·,q,a,(qa),h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,:,τ,·,‥,(me),y
 SPACE
@@ -12783,7 +12783,7 @@ h,_,<
 START letter-small
 v
 STOP letter-small
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 STOP slhw-targ
 START slhw-desc-0
@@ -12836,7 +12836,7 @@ h,𝓂,w,o,n.,.
 
 Proverbs 30:17 in vtrad vtsef
 ʕ,_,<,y,i,n.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 τ,·,i,(me),l,:,ʕ,_,⅃,g
 SPACE
@@ -12853,7 +12853,7 @@ SPACE
 w,:,𝓂,y,o,α,k,:,l,(me),w,·,h,a
 SPACE
 v,:,n,‥,y,-,n,a,𝓂,$,·sh,∵,r,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 30:18 in vtrad vtsef
 $,·sh,:,l,o,$,·sh,a,⅃,h
@@ -12881,7 +12881,7 @@ Proverbs 30:19 in vtrad vtsef
 d,·,∵,<,r,∵,k.,:
 SPACE
 h,_,n,·,∵,(qa),$,·sh,∵,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,$,·sh,·,a,m,_,y,i,m.,~
 SPACE
@@ -12903,7 +12903,7 @@ v,·,:,ʕ,_,l,:,m,a,𝓂,h,.
 
 Proverbs 30:20 in vtrad vtsef
 k,·,‥,<,n.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 d,·,∵,(me),r,∵,k.,:
 SPACE
@@ -12922,7 +12922,7 @@ SPACE
 l,o,α,-,f,a,ʕ,_,(me),l,:,τ,·,i,y
 SPACE
 α,a,𝓂,w,∵,n.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 30:21 in vtrad vtsef
 τ,·,_,⅃,x,_,τ
@@ -12968,7 +12968,7 @@ SPACE
 k,·,i,𝓂,y,-,τ,i,y,r,_,(me),$,·sh
 SPACE
 g,·,:,v,i,r,:,τ,·,a,𝓂,h,·,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 30:24 in vtrad vtsef
 α,_,r,:,v,·,a,⅃,ʕ,a,h
@@ -13034,7 +13034,7 @@ SPACE
 v,·,:,h,‥,⅃,y,k,:,l,‥,y
 SPACE
 m,∵,𝓂,l,∵,k.,:,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 30:29 in vtrad vtsef
 $,·sh,:,l,o,$,·sh,a,⅃,h
@@ -13110,7 +13110,7 @@ SPACE
 y,⅃,w,o,ц,i,y,α
 SPACE
 r,i,𝓂,y,v,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 31:1 in vtrad vtsef
 d,·,i,(de),v,:,r,‥,y
@@ -13151,7 +13151,7 @@ Proverbs 31:4 in vtrad vtsef
 α,_,<,l
 SPACE
 l,_,𝓂,m,:,l,a,k,i,(qa),y,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,:,𝓂,m,w,o,α,‥,◆,l
 SPACE
@@ -13210,7 +13210,7 @@ SPACE
 l,o,⅃,α
 SPACE
 y,i,z,:,k,·,oa,r,-,ʕ,𝓂,w,o,d,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 31:8 in vtrad vtsef
 f,·,:,τ,_,x,-,f,·,i,(me),y,k.,a
@@ -13233,7 +13233,7 @@ SPACE
 ʕ,a,n,i,(me),y
 SPACE
 w,:,α,∵,v,:,y,𝓂,w,o,n.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Proverbs 31:10 in vtrad vtsef
 α,‥,𝓂,$,·sh,∵,τ,-,x,_,(de),y,i,l
@@ -13304,7 +13304,7 @@ l,_,x,:,m,a,𝓂,h,·,.
 
 Proverbs 31:15 in vtrad vtsef
 w,_,τ,·,a,<,q,oa,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,:,ʕ,(il),w,o,d
 SPACE

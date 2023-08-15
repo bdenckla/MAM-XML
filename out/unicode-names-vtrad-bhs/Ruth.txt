@@ -54,7 +54,7 @@ SPACE
 w,:,$,·sh,‥,(me),m.
 SPACE
 $,·sh,:,n,‥,𝓂,y,-,v,a,n,a,⅃,y,w
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,_,x,:,l,<,w,o,n.
 SPACE
@@ -341,7 +341,7 @@ v,a,n,i,𝓂,y,m.,.
 
 Ruth 1:13 in vtrad vtbhs
 h,:_,l,a,h,‥,⅃,n.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 τ,·,:,$,·si,_,v,·,‥,◆,r,:,n,a,h
 SPACE
@@ -1239,7 +1239,7 @@ SPACE
 h,_,m,·,w,o,α,:_,v,i,y,·,a,⅄,h
 SPACE
 g,·,_,⅃,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 k,·,i,y,-,α,a,m,_,⅃,r
 SPACE
@@ -1357,7 +1357,7 @@ h,_,l,·,a,𝓂,y,:,l,a,h,.
 
 Ruth 3:3 in vtrad vtbhs
 w,:,r,a,x,_,⅃,ц,:,τ,·,:
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,a,σ,_,◆,k,:,τ,·,:
 SPACE
@@ -1647,7 +1647,7 @@ START slhw-desc-3
 n,SOLIDUS,g
 STOP slhw-desc-3
 STOP slh-word
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,_,l,·,_,◆,y,:,l,a,h
 SPACE
@@ -2169,7 +2169,7 @@ SPACE
 α,∵,l,-,v,·,‥,y,τ,∵,◆,k.,a
 SPACE
 k,·,:,r,a,x,‥,<,l
-START lp-paseq
+START/STOP lp-paseq
 w,·,k,:,l,‥,α,a,h,(p)
 SPACE
 α,:_,$,·sh,∵,(qa),r
@@ -2351,7 +2351,7 @@ SPACE
 α,:_,v,i,(me),y
 SPACE
 d,a,w,i,𝓂,d,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ruth 4:18 in vtrad vtbhs
 w,:,α,‥,(p),l,·,∵,h,(p)

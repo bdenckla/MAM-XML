@@ -11,7 +11,7 @@ SPACE
 $,·sh,:,m,⅄,w,o
 SPACE
 w,:,h,a,y,a,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,a,α,i,⅃,y,$,·sh
 SPACE
@@ -168,7 +168,7 @@ SPACE
 α,i,y,·,(ti),w,o,v
 SPACE
 k,·,oa,l,-,h,_,y,·,a,m,i,𝓂,y,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 1:6 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -422,7 +422,7 @@ l,a,𝓂,k.,:,.
 
 Job 1:16 in vtrad vtsef
 ʕ,⅃,w,o,d
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 z,∵,⅃,h
 SPACE
@@ -462,7 +462,7 @@ l,a,𝓂,k.,:,.
 
 Job 1:17 in vtrad vtsef
 ʕ,⅃,w,o,d
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 z,∵,⅃,h
 SPACE
@@ -477,7 +477,7 @@ SPACE
 k,·,_,$,·si,:,d,·,i,(G),y,m.
 SPACE
 $,·si,a,⅃,m,w,·
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,:,l,o,$,·sh,a,⅃,h
 SPACE
@@ -542,7 +542,7 @@ SPACE
 g,·,:,d,w,o,l,a,(ge),h
 SPACE
 v,·,a,⅃,α,a,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,‥,ʕ,‥,⅃,v,∵,r
 SPACE
@@ -636,7 +636,7 @@ SPACE
 τ,·,i,f,:,l,a,(ti),h
 SPACE
 l,‥,α,l,o,h,i,𝓂,y,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 2:1 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
@@ -908,13 +908,13 @@ SPACE
 α,i,y,·,(ti),w,o,v
 SPACE
 v,·,i,$,·si,:,f,a,τ,a,𝓂,y,w,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 2:11 in vtrad vtsef
 w,_,𝓂,y,·,i,$,·sh,:,m,:,ʕ,(G),w,·
 SPACE
 $,·sh,:,l,o,⅃,$,·sh,∵,τ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 r,‥,ʕ,‥,⅃,y
 SPACE
@@ -1032,7 +1032,7 @@ SPACE
 w,_,y,:,q,_,l,·,‥,(ti),l
 SPACE
 α,∵,τ,-,y,w,o,m,𝓂,w,o,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 3:2 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -1064,7 +1064,7 @@ SPACE
 h,_,h,◆,w,·,α
 SPACE
 y,:,𝓂,h,i,(ol),y
-START implicit-maqaf
+START/STOP implicit-maqaf
 x,o,(me),$,·sh,∵,k.,:
 SPACE
 α,_,𝓂,l,-,y,i,d,:,r,:,$,·sh,‥,⅃,h,w,·
@@ -1215,7 +1215,7 @@ SPACE
 y,a,γ,$,·sh,_,◆,n,:,τ,·,i,y
 SPACE
 α,a,<,z
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,a,n,(il),w,·,x,_,𝓂
 SPACE
@@ -1399,7 +1399,7 @@ Job 3:26 in vtrad vtsef
 l,o,<,α
 SPACE
 $,·sh,a,l,_,(qa),w,:,τ,·,i,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,:,l,o,(ti),α
 SPACE
@@ -1410,7 +1410,7 @@ SPACE
 w,_,y,·,a,(me),v,o,α
 SPACE
 r,o,𝓂,g,∵,z,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 4:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -1468,7 +1468,7 @@ Job 4:5 in vtrad vtsef
 k,·,i,<,y
 SPACE
 ʕ,_,τ,·,a,(qa),h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 τ,·,a,v,⅃,w,o,α
 SPACE
@@ -1624,7 +1624,7 @@ v,·,:,$,·si,a,r,i,𝓂,y,.
 
 Job 4:16 in vtrad vtsef
 y,_,ʕ,:_,m,o,<,d
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,:,𝓂,l,o,α,-,α,_,k,·,i,(il),y,r
 SPACE
@@ -1672,7 +1672,7 @@ SPACE
 
 Job 4:19 in vtrad vtsef
 α,_,<,f.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,o,k,:,n,‥,(il),y
 SPACE
@@ -1770,7 +1770,7 @@ Job 5:5 in vtrad vtsef
 α,:_,$,·sh,∵,<,r
 SPACE
 q,:,ц,i,y,r,(qa),w,o
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 r,a,≁,ʕ,‥,<,v
 SPACE
@@ -1788,7 +1788,7 @@ x,‥,y,l,a,𝓂,m.,.
 
 Job 5:6 in vtrad vtsef
 k,·,i,<,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,o,α,-,y,‥,ц,‥,⅃,α
 SPACE
@@ -1978,7 +1978,7 @@ SPACE
 y,_,ц,·,i,y,l,∵,⅄,k.,·,a
 SPACE
 w,·,v,:,$,·sh,∵,(sh),v,_,ʕ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,o,𝓂,α,-,y,i,g,·,_,(ti),ʕ
 SPACE
@@ -2095,7 +2095,7 @@ SPACE
 w,:,α,_,τ,·,a,(me),h
 SPACE
 d,_,𝓂,ʕ,-,l,a,𝓂,k.,:,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 6:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -2229,7 +2229,7 @@ w,i,y,v,_,ц,·,:,ʕ,‥,𝓂,n,i,y,.
 
 Job 6:10 in vtrad vtsef
 w,·,(me),τ,:,h,i,y,-,ʕ,(qa),w,o,d
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 n,∵,≁,x,a,<,m,a,τ,i,◆,y
 SPACE
@@ -2681,7 +2681,7 @@ SPACE
 l,o,<,α
 SPACE
 α,∵,x,:∵,$,·si,oa,(ol),k.,:
-START implicit-maqaf
+START/STOP implicit-maqaf
 f,·,i,(me),y
 SPACE
 α,:_,𝓂,(de),d,_,v,·,:,r,a,h
@@ -2796,7 +2796,7 @@ SPACE
 m,a,<,h
 SPACE
 α,∵,f,:,ʕ,_,(qa),l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,a,k.,:,~
 SPACE
@@ -2820,7 +2820,7 @@ l,:,m,_,$,·si,·,a,𝓂,α,.
 
 Job 7:21 in vtrad vtsef
 w,·,m,∵,<,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,o,𝓂,α,-,τ,i,$,·si,·,a,⅃,α
 SPACE
@@ -2839,7 +2839,7 @@ SPACE
 w,:,$,·sh,i,(ti),x,_,r,:,τ,·,_,⅃,n,i,y
 SPACE
 w,:,α,‥,y,n,∵,𝓂,n,·,i,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 8:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -3124,7 +3124,7 @@ SPACE
 r,:,$,·sh,a,ʕ,i,⅃,y,m.
 SPACE
 α,‥,y,n,∵,𝓂,n,·,w,·,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 9:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -3429,7 +3429,7 @@ y,i,l,:,ʕ,a,𝓂,g,.
 
 Job 9:24 in vtrad vtsef
 α,∵,<,r,∵,ц.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 n,i,τ,·,:,n,a,(il),h
 SPACE
@@ -3644,7 +3644,7 @@ Job 10:3 in vtrad vtsef
 h,:_,θ,<,w,o,v
 SPACE
 l,:,k.,a,(qa)
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 k,·,i,𝓂,y,-,τ,_,ʕ,:_,$,·sh,o,◆,q
 SPACE
@@ -3831,7 +3831,7 @@ Job 10:17 in vtrad vtsef
 τ,·,:,x,_,d,·,‥,(il),$,·sh
 SPACE
 ʕ,‥,d,∵,(qa),y,k.,a
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 n,∵,g,:,d,·,i,◆,y
 SPACE
@@ -3921,7 +3921,7 @@ Job 10:22 in vtrad vtsef
 α,∵,<,r,∵,ц.
 SPACE
 ʕ,‥,f,a,(qa),τ,a,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 k,·,:,m,(me),w,o
 SPACE
@@ -3936,7 +3936,7 @@ SPACE
 w,_,τ,·,o,(me),f,_,ʕ
 SPACE
 k,·,:,m,w,o,-,α,o,𝓂,f,∵,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 11:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -4005,7 +4005,7 @@ SPACE
 
 Job 11:6 in vtrad vtsef
 w,:,y,_,g,·,∵,d,-,l,:,k.,a,(qa)
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 τ,·,_,(me),ʕ,:_,l,u,m,⅃,w,o,τ
 SPACE
@@ -4131,7 +4131,7 @@ SPACE
 
 Job 11:15 in vtrad vtsef
 k,·,i,y,-,α,a,<,z
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 τ,·,i,$,·si,·,a,⅃,α
 SPACE
@@ -4215,7 +4215,7 @@ SPACE
 w,:,γ,τ,i,q,:,w,a,τ,a,◆,m.
 SPACE
 m,_,𝓂,f,·,_,𝓂,x,-,n,a,𝓂,f,∵,$,·sh,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 12:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -4241,7 +4241,7 @@ Job 12:3 in vtrad vtsef
 g,·,_,m.,-,l,i,<,y
 SPACE
 l,‥,v,a,(qa),v
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 k,·,:,𝓂,m,w,o,k,∵,◆,m.
 SPACE
@@ -4259,7 +4259,7 @@ Job 12:4 in vtrad vtsef
 $,·si,:,x,o,<,q
 SPACE
 l,:,r,‥,ʕ,‥,(qa),h,w,·
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,h,:,y,∵,◆,h
 SPACE
@@ -4294,7 +4294,7 @@ Job 12:6 in vtrad vtsef
 y,i,$,·sh,:,l,a,<,y,w,·
 SPACE
 α,o,h,a,l,i,(qa),y,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,:,$,·sh,o,(me),d,:,d,i,◆,y,m.
 SPACE
@@ -4734,7 +4734,7 @@ m,a,𝓂,h,.
 
 Job 13:14 in vtrad vtsef
 ʕ,_,l,-,m,a,<,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,$,·si,·,a,⅃,α
 SPACE
@@ -4913,7 +4913,7 @@ Job 13:27 in vtrad vtsef
 w,:,τ,a,≁,$,·si,‥,<,m.
 SPACE
 v,·,_,σ,·,_,(qa),d
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 r,_,g,:,l,_,◆,y
 SPACE
@@ -4998,7 +4998,7 @@ Job 14:5 in vtrad vtsef
 α,i,(me),m.
 SPACE
 x,:_,r,w,·,ц,i,(qa),y,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,a,m,a,◆,y,w
 SPACE
@@ -5121,7 +5121,7 @@ Job 14:13 in vtrad vtsef
 m,i,<,y
 SPACE
 y,i,τ,·,‥,(qa),n.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,i,$,·sh,:,α,(il),w,o,l
 SPACE
@@ -5208,7 +5208,7 @@ m,i,m,·,:,q,o,m,𝓂,w,o,.
 
 Job 14:19 in vtrad vtsef
 α,:_,v,a,n,i,<,y,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,a,(me),x,:_,q,w,·
 SPACE
@@ -5264,7 +5264,7 @@ SPACE
 ʕ,a,l,a,(me),y,w
 SPACE
 τ,·,∵,α,:∵,v,a,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 15:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -5563,7 +5563,7 @@ SPACE
 α,_,y,·,‥,⅄,h
 SPACE
 y,a,d,_,(sh),ʕ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 k,·,i,y,-,n,a,k,(ti),w,o,n.
 SPACE
@@ -5581,7 +5581,7 @@ SPACE
 τ,·,i,γ,τ,:,q,:,f,‥,◆,h,w,·
 SPACE
 k,·,:,m,∵,<,l,∵,k.,:
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 ʕ,a,τ,i,(il),y,d
 SPACE
@@ -5626,7 +5626,7 @@ SPACE
 
 Job 15:28 in vtrad vtsef
 w,_,y,·,i,$,·sh,:,k,·,<,w,o,n.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 ʕ,a,≁,r,i,<,y,m.
 SPACE
@@ -5659,7 +5659,7 @@ m,i,n,:,l,a,𝓂,m.,.
 
 Job 15:30 in vtrad vtsef
 l,o,𝓂,α,-,y,a,σ,(qa),w,·,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,i,n,·,i,y,-,x,o,◆,$,·sh,∵,k.,:
 SPACE
@@ -5739,7 +5739,7 @@ SPACE
 τ,·,a,k,i,(me),y,n.
 SPACE
 m,i,r,:,m,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 16:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -5776,7 +5776,7 @@ SPACE
 
 Job 16:4 in vtrad vtsef
 g,·,_,<,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,a,n,o,k,i,y,~
 SPACE
@@ -5862,7 +5862,7 @@ Job 16:9 in vtrad vtsef
 α,_,f,·,<,w,o
 SPACE
 θ,a,r,_,(qa),f.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,_,𝓂,y,·,i,$,·si,:,θ,:,m,‥,◆,n,i,y
 SPACE
@@ -5873,7 +5873,7 @@ SPACE
 v,·,:,$,·sh,i,n,·,a,⅄,y,w
 SPACE
 ц,a,r,i,(sh),y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,i,l,:,θ,o,(ti),$,·sh
 SPACE
@@ -5885,7 +5885,7 @@ Job 16:10 in vtrad vtsef
 f,·,a,ʕ,:_,r,(il),w,·
 SPACE
 ʕ,a,l,_,(qa),y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,:,f,i,y,h,∵,◆,m.
 SPACE
@@ -5920,7 +5920,7 @@ Job 16:12 in vtrad vtsef
 $,·sh,a,≁,l,‥,<,w
 SPACE
 h,a,y,i,(qa),y,τ,i,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,_,𝓂,y,:,f,_,r,:,f,·,:,r,‥,◆,n,i,y
 SPACE
@@ -5940,7 +5940,7 @@ Job 16:13 in vtrad vtsef
 y,a,≁,σ,o,<,v,·,w,·
 SPACE
 ʕ,a,l,_,(qa),y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 r,_,v,·,a,◆,y,w
 SPACE
@@ -6310,7 +6310,7 @@ SPACE
 ʕ,_,l,-,ʕ,a,f,a,⅃,r
 SPACE
 n,a,𝓂,x,_,τ,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 18:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -6323,7 +6323,7 @@ w,_,y,·,o,α,m,_,𝓂,r,.
 
 Job 18:2 in vtrad vtsef
 ʕ,_,d,-,α,a,<,n,a,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 τ,·,:,$,·si,i,y,m,⅃,w,·,n.
 SPACE
@@ -6581,7 +6581,7 @@ SPACE
 m,:,q,⅃,w,o,m.
 SPACE
 l,o,𝓂,α,-,y,a,d,_,𝓂,ʕ,-,α,‥,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 19:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -6726,7 +6726,7 @@ k,:,ц,a,r,a,𝓂,y,w,.
 
 Job 19:12 in vtrad vtsef
 y,_,<,x,_,d
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,a,≁,v,o,<,α,w,·
 SPACE
@@ -6934,7 +6934,7 @@ Job 19:27 in vtrad vtsef
 α,:_,$,·sh,∵,<,r
 SPACE
 α,:_,n,i,(qa),y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,x,:∵,z,∵,h,-,l,·,i,◆,y
 SPACE
@@ -6967,7 +6967,7 @@ Job 19:29 in vtrad vtsef
 g,·,<,w,·,r,w,·
 SPACE
 l,a,k,∵,(qa),m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,i,f,·,:,n,‥,y,-,x,∵,◆,r,∵,v
 SPACE
@@ -6990,7 +6990,7 @@ $,·sh,_,d,·,𝓂,w,·,n.
 STOP kq-q
 STOP kq
 .
-START spi-pe2
+START/STOP spi-pe2
 
 Job 20:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -7253,7 +7253,7 @@ y,i,v,:,n,‥,𝓂,h,w,·,.
 
 Job 20:20 in vtrad vtsef
 k,·,i,<,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,o,α,-,y,a,d,_,⅃,ʕ
 SPACE
@@ -7295,7 +7295,7 @@ SPACE
 
 Job 20:23 in vtrad vtsef
 y,:,h,i,<,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,:,m,_,l,·,‥,(il),α
 SPACE
@@ -7390,7 +7390,7 @@ SPACE
 
 Job 20:29 in vtrad vtsef
 z,∵,<,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 x,‥,l,∵,q,-,α,a,d,a,⅃,m.
 SPACE
@@ -7403,7 +7403,7 @@ SPACE
 α,i,m,:,r,⅃,w,o
 SPACE
 m,‥,α,‥,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 21:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -7620,7 +7620,7 @@ m,∵,𝓂,n,·,i,y,.
 
 Job 21:17 in vtrad vtsef
 k,·,_,m,·,a,<,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 n,‥,r,-,r,:,$,·sh,a,≁,ʕ,i,<,y,m.
 SPACE
@@ -7784,7 +7784,7 @@ SPACE
 w,:,γ,α,_,y,·,‥,◆,h
 SPACE
 α,o,<,h,∵,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,i,$,·sh,:,k,·,:,n,(il),w,o,τ
 SPACE
@@ -7850,7 +7850,7 @@ Job 21:33 in vtrad vtsef
 m,a,𝓂,τ,:,q,w,·,-,l,◆,w,o
 SPACE
 r,i,g,:,v,‥,(ol),y
-START implicit-maqaf
+START/STOP implicit-maqaf
 n,a,(me),x,_,l
 SPACE
 w,:,(de),α,_,x,:_,r,a,y,w
@@ -7875,7 +7875,7 @@ SPACE
 w,·,γ,τ,:,$,·sh,(me),w,·,v,o,τ,‥,y,k,∵,◆,m.
 SPACE
 n,i,$,·sh,:,α,_,r,-,m,a,𝓂,ʕ,_,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 22:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -8256,7 +8256,7 @@ SPACE
 v,·,:,v,o,⅃,r
 SPACE
 k,·,_,f,·,∵,𝓂,y,k.,a,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 23:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -8535,7 +8535,7 @@ Job 24:5 in vtrad vtsef
 h,‥,<,n.
 SPACE
 f,·,:,r,a,α,i,(qa),y,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,(me),m,·,i,d,:,v,·,a,◆,r
 SPACE
@@ -8644,7 +8644,7 @@ Job 24:12 in vtrad vtsef
 m,‥,≁,ʕ,i,<,y,r
 SPACE
 m,:,τ,i,(qa),y,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,i,n,:,α,a,◆,q,w,·
 SPACE
@@ -8660,12 +8660,12 @@ SPACE
 
 Job 24:13 in vtrad vtsef
 h,‥,<,m,·,a,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,a,y,w,·,~
 SPACE
 v,·,:,𝓂,m,o,r,:,d,‥,(ol),y
-START implicit-maqaf
+START/STOP implicit-maqaf
 α,(me),w,o,r
 SPACE
 l,o,α,-,h,i,k,·,i,(me),y,r,w,·
@@ -8699,7 +8699,7 @@ Job 24:15 in vtrad vtsef
 w,:,ʕ,‥,<,y,n.
 SPACE
 n,o,α,‥,(qa),f.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,a,<,m,:,r,a,𝓂,h
 SPACE
@@ -8736,7 +8736,7 @@ Job 24:17 in vtrad vtsef
 k,·,i,<,y
 SPACE
 y,_,x,:,d,·,a,(qa),w
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,o,⅃,q,∵,r
 SPACE
@@ -8752,7 +8752,7 @@ SPACE
 
 Job 24:18 in vtrad vtsef
 q,_,l,-,h,<,w,·,α
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 ʕ,_,l,-,f,·,:,n,‥,y,-,m,_,◆,y,i,m.
 SPACE
@@ -8785,7 +8785,7 @@ Job 24:20 in vtrad vtsef
 y,i,$,·sh,:,k,·,a,≁,x,‥,<,h,w,·
 SPACE
 r,∵,(qa),x,∵,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,:,τ,a,≁,q,<,w,o
 SPACE
@@ -8844,7 +8844,7 @@ Job 24:24 in vtrad vtsef
 r,<,w,o,m,·,w,·
 SPACE
 m,·,:,ʕ,_,(qa),θ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,:,𝓂,α,‥,y,n,∵,◆,n,·,w,·
 SPACE
@@ -8874,7 +8874,7 @@ SPACE
 l,:,γ,α,_,◆,l
 SPACE
 m,i,l,·,a,τ,i,𝓂,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 25:1 in vtrad vtsef
 w,_,(de),y,·,_,ʕ,_,n.
@@ -8949,7 +8949,7 @@ SPACE
 w,·,v,∵,n.,-,α,a,γ,d,a,◆,m.
 SPACE
 τ,·,w,o,l,‥,ʕ,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 26:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -9113,7 +9113,7 @@ v,·,a,r,i,𝓂,x,_,.
 
 Job 26:14 in vtrad vtsef
 h,∵,n.,-,α,‥,<,l,·,∵,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 q,:,ц,(il),w,o,τ
 SPACE
@@ -9134,7 +9134,7 @@ SPACE
 m,i,⅃,y
 SPACE
 y,i,τ,:,v,·,w,o,n,a,𝓂,n.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 27:1 in vtrad vtsef
 w,_,y,·,o,⅃,σ,∵,f.
@@ -9252,7 +9252,7 @@ Job 27:9 in vtrad vtsef
 h,:_,𝓂,(de),ц,_,ʕ,:_,q,a,τ,w,o
 SPACE
 y,i,$,·sh,:,m,_,(me),ʕ
-START lp-paseq
+START/STOP lp-paseq
 α,‥,⅄,l
 SPACE
 k,·,i,𝓂,y,-,τ,a,v,(ti),w,o,α
@@ -9302,12 +9302,12 @@ SPACE
 
 Job 27:13 in vtrad vtsef
 z,∵,<,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 x,‥,l,∵,q,-,α,a,d,a,(ti),m.
 SPACE
 r,a,$,·sh,a,(me),ʕ
-START lp-paseq
+START/STOP lp-paseq
 ʕ,i,m.,-,α,‥,⅄,l
 SPACE
 w,:,𝓂,n,_,x,:_,l,_,(me),τ
@@ -9482,7 +9482,7 @@ n,:,x,w,·,$,·sh,a,𝓂,h,.
 
 Job 28:3 in vtrad vtsef
 q,‥,<,ц.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·si,a,<,m.
 SPACE
@@ -9504,7 +9504,7 @@ Job 28:4 in vtrad vtsef
 f,·,a,<,r,_,ц.
 SPACE
 n,_,(qa),x,_,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,‥,𝓂,ʕ,i,m.,-,g,·,a,◆,r
 SPACE
@@ -9606,7 +9606,7 @@ SPACE
 y,o,⅃,ц,i,α
 SPACE
 α,𝓂,w,o,r,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 28:12 in vtrad vtsef
 w,:,𝓂,(de),h,_,x,oa,k,:,m,a,h
@@ -9828,7 +9828,7 @@ w,:,g,_,m.,-,x,:_,q,a,r,a,𝓂,h,·,.
 
 Job 28:28 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,a,α,a,d,a,◆,m.
 SPACE
@@ -9847,7 +9847,7 @@ SPACE
 m,‥,r,a,⅃,ʕ
 SPACE
 v,·,i,y,n,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 29:1 in vtrad vtsef
 w,_,y,·,o,⅃,σ,∵,f.
@@ -10192,7 +10192,7 @@ y,:,n,_,x,‥,𝓂,m.,.
 
 Job 30:1 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,<,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·si,a,(me),x,:_,q,⅃,w,·
 SPACE
@@ -10653,7 +10653,7 @@ SPACE
 
 Job 31:2 in vtrad vtsef
 w,·,m,∵,<,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 x,‥,⅃,l,∵,q
 SPACE
@@ -11109,7 +11109,7 @@ Job 31:34 in vtrad vtsef
 k,·,i,<,y
 SPACE
 α,∵,ʕ,:∵,r,(qa),w,o,ц.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,a,≁,m,<,w,o,n.
 SPACE
@@ -11129,7 +11129,7 @@ Job 31:35 in vtrad vtsef
 m,i,<,y
 SPACE
 y,i,τ,·,∵,n.,-,l,i,(qa),y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,o,≁,m,‥,<,ʕ,_,𝓂
 SPACE
@@ -11203,7 +11203,7 @@ Job 31:40 in vtrad vtsef
 τ,·,_,<,x,_,τ
 SPACE
 x,i,θ,·,a,(qa),h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,‥,(me),ц,‥,α
 SPACE
@@ -11218,7 +11218,7 @@ SPACE
 d,·,i,v,:,r,‥,(me),y
 SPACE
 α,i,y,·,𝓂,w,o,v,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 32:1 in vtrad vtsef
 w,_,𝓂,y,·,i,$,·sh,:,v,·,:,τ,μ,w,·
@@ -11240,13 +11240,13 @@ SPACE
 ц,_,d,·,i,⅃,y,q
 SPACE
 v,·,:,ʕ,‥,y,n,a,𝓂,y,w,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 32:2 in vtrad vtsef
 w,_,y,·,i,<,x,_,r
 SPACE
 α,_,(qa),f.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:∵,l,i,y,h,⅃,w,·,α
 SPACE
@@ -11328,11 +11328,11 @@ SPACE
 w,_,y,·,i,(me),x,_,r
 SPACE
 α,_,f,·,𝓂,w,o,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 32:6 in vtrad vtsef
 w,_,y,·,_,<,ʕ,_,n.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:∵,l,i,y,h,(ti),w,·,α
 SPACE
@@ -11357,7 +11357,7 @@ SPACE
 z,a,x,_,(me),l,:,τ,·,i,y
 SPACE
 w,a,α,i,y,r,a,(sh),α
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,‥,x,_,w,·,ḥḥfv,(ti),τ
 SPACE
@@ -11421,7 +11421,7 @@ Job 32:11 in vtrad vtsef
 h,‥,<,n.
 SPACE
 h,w,o,x,_,(qa),l,:,τ,·,i,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,:,𝓂,d,i,v,:,r,‥,y,k,∵,◆,m.
 SPACE
@@ -11692,7 +11692,7 @@ SPACE
 α,:_,n,i,◆,y
 SPACE
 v,·,:,𝓂,l,i,(ol),y
-START implicit-maqaf
+START/STOP implicit-maqaf
 f,a,(me),$,·sh,_,ʕ
 SPACE
 START slh-word
@@ -11791,7 +11791,7 @@ y,:,$,·sh,w,·,r,∵,𝓂,n,·,a,h,.
 
 Job 33:15 in vtrad vtsef
 v,·,_,x,:_,l,<,w,o,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 x,∵,z,:,y,(il),w,o,n.
 SPACE
@@ -11918,7 +11918,7 @@ Job 33:23 in vtrad vtsef
 α,i,m.,-,y,‥,<,$,·sh
 SPACE
 ʕ,a,l,a,(qa),y,w
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,_,l,:,α,a,◆,k.,:
 SPACE
@@ -11966,7 +11966,7 @@ Job 33:26 in vtrad vtsef
 y,∵,ʕ,:,τ,·,_,<,r
 SPACE
 α,∵,l,-,α,:∵,l,(qa),w,o,h,·,_
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,_,y,·,i,r,:,ц,‥,◆,h,w,·
 SPACE
@@ -11984,7 +11984,7 @@ SPACE
 
 Job 33:27 in vtrad vtsef
 y,a,$,·sh,o,<,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 ʕ,_,l,-,α,:_,n,a,$,·sh,i,◆,y,m.
 SPACE
@@ -12089,7 +12089,7 @@ SPACE
 w,_,α,:_,α,_,l,·,∵,f,:,k.,a,(me)
 SPACE
 x,oa,k,:,m,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 34:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -12194,14 +12194,14 @@ SPACE
 
 Job 34:10 in vtrad vtsef
 l,a,k,‥,<,n.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,_,(me),n,:,$,·sh,‥,(me),y
 SPACE
 l,‥,v,a,◆,v
 SPACE
 $,·sh,i,m,:,ʕ,(ol),w,·
-START implicit-maqaf
+START/STOP implicit-maqaf
 l,i,(me),y
 SPACE
 x,a,l,i,(ti),l,a,h
@@ -12326,7 +12326,7 @@ Job 34:19 in vtrad vtsef
 α,:_,$,·sh,∵,<,r
 SPACE
 l,o,𝓂,α,-,n,a,$,·si,a,(qa),α
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 f,·,:,n,‥,(me),y
 SPACE
@@ -12346,7 +12346,7 @@ k,·,u,l,·,a,𝓂,m.,.
 
 Job 34:20 in vtrad vtsef
 r,∵,<,g,_,ʕ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,a,m,u,τ,w,·,~
 SPACE
@@ -12476,7 +12476,7 @@ Job 34:29 in vtrad vtsef
 w,:,h,<,w,·,α
 SPACE
 y,_,$,·sh,:,q,i,(qa),θ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,·,m,i,(me),y
 SPACE
@@ -12539,7 +12539,7 @@ Job 34:33 in vtrad vtsef
 h,:_,𝓂,m,‥,ʕ,i,m,·,:,k.,a,(il)
 SPACE
 y,:,$,·sh,_,l,·,:,m,∵,(qa),n,·,a,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 k,·,i,𝓂,y,-,m,a,α,_,◆,σ,:,τ,·,a
 SPACE
@@ -12614,7 +12614,7 @@ SPACE
 α,:_,m,a,r,a,⅃,y,w
 SPACE
 l,a,α,‥,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 35:1 in vtrad vtsef
 w,_,y,·,_,(me),ʕ,_,n.
@@ -12762,7 +12762,7 @@ Job 35:13 in vtrad vtsef
 α,_,k.,:,-,$,·sh,a,(de),w,:,α
 SPACE
 l,o,α,-,y,i,$,·sh,:,m,_,(me),ʕ
-START lp-paseq
+START/STOP lp-paseq
 α,‥,⅄,l
 SPACE
 w,:,γ,$,·sh,_,d,·,_,◆,y
@@ -12815,7 +12815,7 @@ SPACE
 m,i,l,·,i,(me),y,n.
 SPACE
 y,_,k,:,v,·,i,𝓂,r,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 36:1 in vtrad vtsef
 w,_,y,·,o,(me),σ,∵,f.
@@ -13012,7 +13012,7 @@ Job 36:16 in vtrad vtsef
 w,:,α,_,<,f.
 SPACE
 h,:_,σ,i,𝓂,y,τ,:,k.,a,(qa)
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,i,f,·,i,y,-,ц,a,◆,r
 SPACE
@@ -13175,7 +13175,7 @@ SPACE
 y,i,γ,r,:,ʕ,:_,f,◆,w,·
 SPACE
 ʕ,:_,l,‥,<,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,a,d,a,(il),m.
 SPACE
@@ -13279,7 +13279,7 @@ h,a,α,a,𝓂,r,∵,ц.,.
 
 Job 37:4 in vtrad vtsef
 α,_,x,:_,r,a,<,y,w
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,i,$,·sh,:,α,_,g,-,q,◆,w,o,l
 SPACE
@@ -13318,12 +13318,12 @@ Job 37:6 in vtrad vtsef
 k,·,i,<,y
 SPACE
 l,_,$,·sh,·,∵,(qa),l,∵,g
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,o,α,m,_,◆,r
 SPACE
 h,:∵,w,‥,(ol),α
-START implicit-maqaf
+START/STOP implicit-maqaf
 α,a,(me),r,∵,ц.
 SPACE
 w,:,g,∵,(me),$,·sh,∵,m.
@@ -13397,7 +13397,7 @@ Job 37:12 in vtrad vtsef
 w,:,h,<,w,·,α
 SPACE
 m,:,σ,i,v,·,(qa),w,o,τ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,i,τ,:,h,_,f,·,‥,⅃,k.,:
 SPACE
@@ -13412,7 +13412,7 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 y,:,ц,_,w,·,‥,(sh),m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 ʕ,_,l,-,f,·,:,n,‥,(ti),y
 SPACE
@@ -13439,7 +13439,7 @@ SPACE
 ʕ,:_,γ,m,o,◆,d
 SPACE
 w,:,h,i,τ,:,v,·,w,o,n,‥,<,n.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 n,i,f,:,l,:,α,(il),w,o,τ
 SPACE
@@ -13521,7 +13521,7 @@ y,:,v,u,l,·,a,𝓂,ʕ,.
 
 Job 37:21 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,<,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,o,≁,α
 SPACE
@@ -13579,7 +13579,7 @@ SPACE
 l,o,𝓂,α,-,y,i,γ,r,:,α,∵,◆,h
 SPACE
 k,·,oa,l,-,x,_,k,:,m,‥,y,-,l,‥,𝓂,v,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 38:1 in vtrad vtsef
 w,_,y,·,_,𝓂,ʕ,_,n.,-,y,:,h,o,w,a,⅃,h
@@ -13592,7 +13592,7 @@ m,n,h,σ,ʕ,r,h
 STOP kq-k
 START kq-q
 m,i,(me),n.
-START lp-paseq
+START/STOP lp-paseq
 h,_,σ,·,:,ʕ,a,r,a,◆,h
 STOP kq-q
 STOP kq
@@ -13603,7 +13603,7 @@ Job 38:2 in vtrad vtsef
 m,i,<,y
 SPACE
 z,∵,(qa),h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,_,x,:,$,·sh,i,(ti),y,k.,:
 SPACE
@@ -14419,7 +14419,7 @@ SPACE
 l,_,γ,σ,·,◆,w,·,σ
 SPACE
 w,·,l,:,r,o,k,:,v,𝓂,w,o,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 39:19 in vtrad vtsef
 h,:_,τ,i,τ,·,‥,⅃,n.
@@ -14501,7 +14501,7 @@ Job 39:25 in vtrad vtsef
 v,·,:,d,‥,<,y
 SPACE
 $,·sh,o,f,a,(qa),r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,o,≁,α,m,_,<,r
 SPACE
@@ -14581,7 +14581,7 @@ SPACE
 $,·sh,a,⅃,m.
 SPACE
 h,𝓂,w,·,α,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 40:1 in vtrad vtsef
 w,_,y,·,_,(ti),ʕ,_,n.
@@ -14604,7 +14604,7 @@ SPACE
 α,:∵,l,⅃,w,o,h,·,_
 SPACE
 y,_,ʕ,:_,n,∵,𝓂,n,·,a,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 40:3 in vtrad vtsef
 w,_,y,·,_,(ti),ʕ,_,n.
@@ -14644,7 +14644,7 @@ SPACE
 w,:,l,o,⅃,α
 SPACE
 α,w,o,σ,i,𝓂,y,f.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 40:6 in vtrad vtsef
 w,_,y,·,_,ʕ,_,n.,-,y,:,h,o,w,a,⅃,h
@@ -14657,7 +14657,7 @@ m,n,σ,ʕ,r,h
 STOP kq-k
 START kq-q
 m,i,(me),n.
-START lp-paseq
+START/STOP lp-paseq
 σ,:,ʕ,a,r,a,◆,h
 STOP kq-q
 STOP kq
@@ -14692,7 +14692,7 @@ Job 40:9 in vtrad vtsef
 w,:,α,i,m.,-,z,:,r,(ti),w,o,ʕ,_
 SPACE
 k,·,a,α,‥,(me),l
-START lp-paseq
+START/STOP lp-paseq
 l,a,⅄,k.,:
 SPACE
 w,·,γ,v,:,q,◆,w,o,l
@@ -14882,7 +14882,7 @@ SPACE
 y,_,x,:,f,·,⅄,w,o,z
 SPACE
 y,i,v,:,θ,_,(sh),x
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 k,·,i,𝓂,y,-,y,a,g,i,(ti),y,x,_
 SPACE
@@ -15332,7 +15332,7 @@ SPACE
 m,∵,⅃,l,∵,k.,:
 SPACE
 ʕ,_,l,-,k,·,oa,l,-,v,·,:,n,‥,y,-,$,·sh,a,𝓂,x,_,ц.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 42:1 in vtrad vtsef
 w,_,y,·,_,(ti),ʕ,_,n.
@@ -15367,14 +15367,14 @@ Job 42:3 in vtrad vtsef
 m,i,<,y
 SPACE
 z,∵,(qa),h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,_,ʕ,:,l,i,(me),y,m.
 SPACE
 ʕ,‥,ц,a,◆,h
 SPACE
 v,·,:,𝓂,l,i,(ol),y
-START implicit-maqaf
+START/STOP implicit-maqaf
 d,a,(me),ʕ,_,τ
 SPACE
 l,a,k,‥,⅃,n.
@@ -15425,7 +15425,7 @@ SPACE
 ʕ,_,l,-,ʕ,a,f,a,(me),r
 SPACE
 w,a,α,‥,𝓂,f,∵,r,.
-START spi-pe2
+START/STOP spi-pe2
 
 Job 42:7 in vtrad vtsef
 w,_,y,:,h,i,◆,y
@@ -15473,7 +15473,7 @@ SPACE
 k,·,:,ʕ,_,v,:,d,·,i,(me),y
 SPACE
 α,i,y,·,𝓂,w,o,v,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Job 42:8 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,μ,h
@@ -15487,7 +15487,7 @@ SPACE
 α,‥,y,l,i,(ge),y,m.
 SPACE
 w,·,l,:,k,⅃,w,·
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,l,-,ʕ,_,v,:,d,·,i,⅃,y
 SPACE

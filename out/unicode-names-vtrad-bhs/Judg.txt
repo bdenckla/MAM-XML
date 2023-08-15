@@ -153,7 +153,7 @@ SPACE
 α,:_,d,o,𝓂,n,i,y,-,v,∵,◆,z,∵,q
 SPACE
 $,·sh,i,v,:,ʕ,i,⅃,y,m.
-START lp-paseq
+START/STOP lp-paseq
 m,:,l,a,k,i,μ,y,m.
 SPACE
 v,·,:,𝓂,h,o,n,w,o,τ,(tq)
@@ -189,7 +189,7 @@ SPACE
 w,_,y,·,a,(me),m,oa,τ
 SPACE
 $,·sh,a,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 1:8 in vtrad vtbhs
 w,_,y,·,i,l,·,a,x,:_,m,<,w,·
@@ -384,7 +384,7 @@ SPACE
 g,·,u,l,·,o,(me),τ
 SPACE
 τ,·,_,x,:,τ,·,i,𝓂,y,τ,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 1:16 in vtrad vtbhs
 w,·,v,:,n,‥,⅃,y
@@ -545,7 +545,7 @@ SPACE
 h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 1:22 in vtrad vtbhs
 w,_,y,·,_,ʕ,:_,l,(da),w,·
@@ -649,7 +649,7 @@ SPACE
 h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 1:27 in vtrad vtbhs
 w,:,l,o,𝓂,α,-,h,w,o,r,i,⅃,y,$,·sh
@@ -718,7 +718,7 @@ SPACE
 l,o,(me),α
 SPACE
 h,w,o,r,i,y,$,·sh,𝓂,w,o,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Judges 1:29 in vtrad vtbhs
 w,:,α,∵,f,:,r,_,(p),y,i,m.,(p)
@@ -740,7 +740,7 @@ SPACE
 v,·,:,q,i,r,:,v,·,(ti),w,o
 SPACE
 v,·,:,g,a,𝓂,z,∵,r,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Judges 1:30 in vtrad vtbhs
 z,:,v,w,·,l,u,◆,n.
@@ -766,7 +766,7 @@ SPACE
 w,_,y,·,i,𝓂,h,:,y,(ti),w,·
 SPACE
 l,a,m,_,𝓂,σ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Judges 1:31 in vtrad vtbhs
 α,a,$,·sh,‥,◆,r
@@ -811,7 +811,7 @@ SPACE
 l,o,(me),α
 SPACE
 h,𝓂,w,o,r,i,y,$,·sh,𝓂,w,o,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Judges 1:33 in vtrad vtbhs
 n,_,f,:,τ,·,a,l,i,◆,y
@@ -902,7 +902,7 @@ SPACE
 m,‥,h,_,σ,·,∵,(ti),l,_,ʕ
 SPACE
 w,a,m,a,𝓂,ʕ,:,l,a,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 2:1 in vtrad vtbhs
 w,_,y,·,_,(da),ʕ,_,l
@@ -912,7 +912,7 @@ SPACE
 m,i,n.,-,h,_,g,·,i,l,:,g,·,a,(ti),l
 SPACE
 α,∵,l,-,h,_,v,·,o,k,i,⅄,y,m.
-START spi-pe3
+START/STOP spi-pe3
 w,_,y,·,o,(tq),α,m,∵,r,(tq)
 SPACE
 α,_,ʕ,:_,l,∵,(qa),h
@@ -1030,7 +1030,7 @@ SPACE
 w,_,y,·,i,z,:,v,·,:,x,w,·,-,$,·sh,a,(ti),m.
 SPACE
 l,_,y,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 2:6 in vtrad vtbhs
 w,_,y,:,$,·sh,_,l,·,_,(me),x
@@ -1065,7 +1065,7 @@ SPACE
 y,:,h,w,o,$,·sh,u,⅄,ʕ,_
 SPACE
 w,:,k,o,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,:,m,‥,⅃,y
 SPACE
@@ -1169,7 +1169,7 @@ SPACE
 ʕ,a,$,·si,a,(ti),h
 SPACE
 l,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 2:11 in vtrad vtbhs
 w,_,y,·,_,ʕ,:_,$,·si,(da),w,·
@@ -1190,7 +1190,7 @@ Judges 2:12 in vtrad vtbhs
 w,_,y,·,_,ʕ,_,z,:,v,(G),w,·
 SPACE
 α,∵,τ,-,y,:,h,o,w,a,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -1207,7 +1207,7 @@ SPACE
 w,_,y,·,‥,l,:,k,(G),w,·
 SPACE
 α,_,x,:_,r,‥,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:∵,l,o,h,i,⅃,y,m.
 SPACE
@@ -1275,7 +1275,7 @@ SPACE
 
 Judges 2:15 in vtrad vtbhs
 v,·,:,k,o,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
@@ -1367,7 +1367,7 @@ Judges 2:18 in vtrad vtbhs
 w,:,k,i,y,-,h,‥,q,i,(qa),y,m.
 SPACE
 y,:,h,o,w,a,(me),h
-START lp-paseq
+START/STOP lp-paseq
 l,a,h,∵,m.,~
 SPACE
 $,·sh,o,f,:,θ,i,y,m.,∴
@@ -1404,7 +1404,7 @@ w,:,d,o,x,:_,q,‥,y,h,∵,𝓂,m.,.
 
 Judges 2:19 in vtrad vtbhs
 w,:,h,a,y,a,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,:,m,⅃,w,o,τ
 SPACE
@@ -1543,7 +1543,7 @@ SPACE
 n,:,τ,a,n,a,(ti),m.
 SPACE
 v,·,:,y,_,d,-,y,:,h,w,o,$,·sh,u,𝓂,ʕ,_,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 3:1 in vtrad vtbhs
 w,:,α,‥,<,l,·,∵,h
@@ -1599,7 +1599,7 @@ y,:,d,a,ʕ,𝓂,w,·,m.,.
 
 Judges 3:3 in vtrad vtbhs
 x,:_,m,‥,⅃,$,·sh,∵,τ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 σ,_,r,:,n,‥,⅃,y
 SPACE
@@ -1691,7 +1691,7 @@ SPACE
 w,_,y,·,_,ʕ,_,v,:,d,(ti),w,·
 SPACE
 α,∵,τ,-,α,:∵,l,o,h,‥,y,h,∵,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 3:7 in vtrad vtbhs
 w,_,y,·,_,ʕ,:_,$,·si,(qa),w,·
@@ -1835,7 +1835,7 @@ SPACE
 ʕ,oa,τ,:,n,i,y,α,‥,(me),l
 SPACE
 v,·,∵,n.,-,q,:,n,_,𝓂,z,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 3:12 in vtrad vtbhs
 w,_,y,·,o,σ,i,(p),f,w,·,(p)
@@ -2057,7 +2057,7 @@ SPACE
 
 Judges 3:20 in vtrad vtbhs
 w,:,α,‥,h,⅃,w,·,d
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,a,⅃,α
 SPACE
@@ -2354,7 +2354,7 @@ SPACE
 $,·sh,:,m,w,o,n,i,(me),y,m.
 SPACE
 $,·sh,a,n,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 3:31 in vtrad vtbhs
 w,:,α,_,x,:_,r,a,<,y,w
@@ -2382,7 +2382,7 @@ SPACE
 g,·,_,m.,-,h,(ti),w,·,α
 SPACE
 α,∵,τ,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 4:1 in vtrad vtbhs
 w,_,y,·,o,σ,i,(p),f,w,·,(p)
@@ -2462,7 +2462,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 $,·sh,a,n,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 4:4 in vtrad vtbhs
 w,·,d,:,v,w,o,r,a,h,(p)
@@ -2536,7 +2536,7 @@ SPACE
 h,:_,l,o,(me),α
 SPACE
 ц,i,w,·,a,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,:,h,o,w,a,⅃,h
 SPACE
@@ -3132,7 +3132,7 @@ SPACE
 y,a,v,i,(me),y,n.
 SPACE
 m,∵,l,∵,k.,:,-,k,·,:,n,a,𝓂,ʕ,_,n.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 5:1 in vtrad vtbhs
 w,_,τ,·,a,⅃,$,·sh,_,r
@@ -3142,13 +3142,13 @@ SPACE
 w,·,v,a,r,a,(ti),q
 SPACE
 v,·,∵,n.,-,α,:_,v,i,y,n,o,⅄,ʕ,_,m.
-START shirah-space
+START/STOP shirah-space
 v,·,_,y,·,(me),w,o,m.
 SPACE
 h,_,h,(ti),w,·,α
 SPACE
 l,‥,α,m,o,𝓂,r,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:2 in vtrad vtbhs
 v,·,i,f,:,r,o,<,ʕ,_
@@ -3156,7 +3156,7 @@ SPACE
 f,·,:,r,a,ʕ,w,o,τ,(p)
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,ƶ,l
-START shirah-space
+START/STOP shirah-space
 v,·,:,h,i,τ,:,n,_,d,·,‥,(ti),v
 SPACE
 ʕ,a,⅄,m.
@@ -3164,7 +3164,7 @@ SPACE
 v,·,a,𝓂,r,:,k,(ti),w,·
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:3 in vtrad vtbhs
 $,·sh,i,m,:,ʕ,⅃,w,·
@@ -3174,7 +3174,7 @@ SPACE
 h,_,α,:_,z,i,(ti),y,n,w,·
 SPACE
 r,o,𝓂,z,:,n,i,⅄,y,m.
-START shirah-space
+START/STOP shirah-space
 α,a,n,o,k,i,◆,y
 SPACE
 l,_,𝓂,y,h,o,w,a,h,(p)
@@ -3182,7 +3182,7 @@ SPACE
 α,a,n,o,k,i,⅃,y
 SPACE
 α,a,$,·sh,i,ƶ,y,r,a,h
-START shirah-space
+START/STOP shirah-space
 α,:_,z,_,m,·,‥,Ƶ,r
 SPACE
 l,_,𝓂,y,h,o,w,a,(ti),h
@@ -3190,7 +3190,7 @@ SPACE
 α,:∵,l,o,h,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:4 in vtrad vtbhs
 y,:,h,o,w,a,◆,h
@@ -3198,13 +3198,13 @@ SPACE
 v,·,:,ц,‥,α,τ,:,k.,a,<
 SPACE
 m,i,$,·si,·,‥,ʕ,i,y,r,(p)
-START shirah-space
+START/STOP shirah-space
 v,·,:,ц,_,ʕ,:,d,·,:,k.,a,(p)
 SPACE
 m,i,$,·si,·,:,d,‥,⅃,h
 SPACE
 α,:∵,d,ƶ,w,o,m.
-START shirah-space
+START/STOP shirah-space
 α,∵,⅃,r,∵,ц.
 SPACE
 r,a,ʕ,a,ƶ,$,·sh,a,h
@@ -3212,13 +3212,13 @@ SPACE
 g,·,_,m.,-,$,·sh,a,m,_,(ti),y,i,m.
 SPACE
 n,a,θ,a,⅄,f,w,·
-START shirah-space
+START/STOP shirah-space
 g,·,_,m.,-,ʕ,a,v,i,(ti),y,m.
 SPACE
 n,a,(me),θ,:,f,w,·
 SPACE
 m,a,𝓂,y,i,m.,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:5 in vtrad vtbhs
 h,a,r,i,(me),y,m.
@@ -3228,7 +3228,7 @@ SPACE
 m,i,f,·,:,n,‥,⅃,y
 SPACE
 y,:,h,o,w,a,⅄,h
-START shirah-space
+START/STOP shirah-space
 z,∵,⅃,h
 SPACE
 σ,i,y,n,_,ƶ,y
@@ -3240,7 +3240,7 @@ SPACE
 α,:∵,l,o,h,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:6 in vtrad vtbhs
 v,·,i,y,m,‥,(G),y
@@ -3248,7 +3248,7 @@ SPACE
 $,·sh,_,m,:,g,·,_,<,r
 SPACE
 v,·,∵,n.,-,ʕ,:_,n,a,τ,(p)
-START shirah-space
+START/STOP shirah-space
 v,·,i,y,m,‥,⅃,y
 SPACE
 y,a,ʕ,‥,ƶ,l
@@ -3256,7 +3256,7 @@ SPACE
 x,a,𝓂,d,:,l,(ti),w,·
 SPACE
 α,:a,r,a,x,⅄,w,o,τ
-START shirah-space
+START/STOP shirah-space
 w,:,h,o,l,:,k,‥,⅃,y
 SPACE
 n,:,τ,i,y,v,ƶ,w,o,τ
@@ -3266,7 +3266,7 @@ SPACE
 α,:a,r,a,x,(ti),w,o,τ
 SPACE
 ʕ,:_,q,_,l,:,q,_,l,·,𝓂,w,o,τ,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:7 in vtrad vtbhs
 x,a,d,:,l,(da),w,·
@@ -3276,7 +3276,7 @@ SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 x,a,d,‥,⅄,l,·,w,·
-START shirah-space
+START/STOP shirah-space
 ʕ,_,<,d
 SPACE
 $,·sh,_,q,·,_,(p),m,:,τ,·,i,y,(p)
@@ -3288,7 +3288,7 @@ SPACE
 α,‥,(ti),m.
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:8 in vtrad vtbhs
 y,i,v,:,x,_,r,(p)
@@ -3302,19 +3302,19 @@ SPACE
 l,a,x,∵,⅃,m.
 SPACE
 $,·sh,:,ʕ,a,r,i,⅄,y,m.
-START shirah-space
+START/STOP shirah-space
 m,a,g,‥,<,n.
 SPACE
 α,i,m.,-,y,‥,𝓂,r,a,α,∵,h,(p)
 SPACE
 w,a,r,o,ƶ,m,_,x
-START shirah-space
+START/STOP shirah-space
 v,·,:,α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 α,∵,(ti),l,∵,f.
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:9 in vtrad vtbhs
 l,i,v,·,i,y,(p)
@@ -3322,7 +3322,7 @@ SPACE
 l,:,x,w,o,q,:,q,‥,⅃,y
 SPACE
 y,i,$,·si,:,r,a,α,‥,ƶ,l
-START shirah-space
+START/STOP shirah-space
 h,_,m,·,i,𝓂,τ,:,n,_,d,·,:,v,i,(ti),y,m.
 SPACE
 v,·,a,ʕ,a,⅄,m.
@@ -3330,7 +3330,7 @@ SPACE
 v,·,a,r,:,k,(ti),w,·
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:10 in vtrad vtbhs
 r,o,k,:,v,‥,y,(tq)
@@ -3338,7 +3338,7 @@ SPACE
 α,:_,τ,o,n,(qa),w,o,τ
 SPACE
 ц,:,x,o,r,(ge),w,o,τ
-START shirah-space
+START/STOP shirah-space
 y,o,$,·sh,:,v,‥,(da),y
 SPACE
 ʕ,_,l,-,m,i,d,·,i,⟓,y,n.
@@ -3348,7 +3348,7 @@ SPACE
 ʕ,_,l,-,d,·,∵,(ti),r,∵,k.,:
 SPACE
 $,·si,i,𝓂,y,x,w,·,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:11 in vtrad vtbhs
 m,i,q,·,⅃,w,o,l
@@ -3358,7 +3358,7 @@ SPACE
 v,·,‥,(ye),y,n.
 SPACE
 m,_,$,·sh,:,α,_,v,·,i,ƶ,y,m.
-START shirah-space
+START/STOP shirah-space
 $,·sh,a,<,m.
 SPACE
 y,:,τ,_,n,·,w,·,(p)
@@ -3366,13 +3366,13 @@ SPACE
 ц,i,d,:,q,⅃,w,o,τ
 SPACE
 y,:,h,o,w,a,ƶ,h
-START shirah-space
+START/STOP shirah-space
 ц,i,d,:,q,o,(me),τ
 SPACE
 f,·,i,r,:,z,w,o,n,(ti),w,o
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,⅄,l
-START shirah-space
+START/STOP shirah-space
 α,a,⟓,z
 SPACE
 y,a,𝓂,r,:,d,(me),w,·
@@ -3380,7 +3380,7 @@ SPACE
 l,_,$,·sh,·,:,ʕ,a,r,i,(ti),y,m.
 SPACE
 ʕ,_,m.,-,y,:,h,o,w,a,𝓂,h,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:12 in vtrad vtbhs
 ʕ,w,·,r,i,<,y
@@ -3388,13 +3388,13 @@ SPACE
 ʕ,w,·,r,i,y,(p)
 SPACE
 d,·,:,v,w,o,r,a,ƶ,h
-START shirah-space
+START/STOP shirah-space
 ʕ,(me),w,·,r,i,y
 SPACE
 ʕ,(ti),w,·,r,i,y
 SPACE
 d,·,_,v,·,:,r,i,y,-,$,·sh,i,⅄,y,r
-START shirah-space
+START/STOP shirah-space
 q,(me),w,·,m.
 SPACE
 v,·,a,r,a,⟓,q
@@ -3404,7 +3404,7 @@ SPACE
 $,·sh,∵,v,:,y,:,k.,a,(ti)
 SPACE
 v,·,∵,n.,-,α,:_,v,i,y,n,o,𝓂,ʕ,_,m.,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:13 in vtrad vtbhs
 α,a,(ye),z
@@ -3416,13 +3416,13 @@ SPACE
 l,:,α,_,d,·,i,y,r,i,(ti),y,m.
 SPACE
 ʕ,a,⅄,m.
-START shirah-space
+START/STOP shirah-space
 y,:,h,o,w,a,Ƶ,h
 SPACE
 y,:,r,_,d,-,l,i,(ti),y
 SPACE
 v,·,_,g,·,i,v,·,w,o,r,i,𝓂,y,m.,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:14 in vtrad vtbhs
 m,i,n,·,i,⅃,y
@@ -3432,13 +3432,13 @@ SPACE
 $,·sh,oa,r,:,$,·sh,a,m.,(p)
 SPACE
 v,·,_,ʕ,:_,m,a,l,‥,ƶ,q
-START shirah-space
+START/STOP shirah-space
 α,_,x,:_,r,∵,(me),y,k.,a
 SPACE
 v,i,n,:,y,a,m,i,(ti),y,n.
 SPACE
 v,·,_,ʕ,:_,m,a,m,∵,⅄,y,k.,a
-START shirah-space
+START/STOP shirah-space
 m,i,n,·,i,⅃,y
 SPACE
 m,a,k,i,◆,y,r
@@ -3446,7 +3446,7 @@ SPACE
 y,a,𝓂,r,:,d,w,·,(p)
 SPACE
 m,:,x,o,⅃,q,:,q,i,ƶ,y,m.
-START shirah-space
+START/STOP shirah-space
 w,·,m,i,(qa),z,·,:,v,w,·,l,u,ƶ,n.
 SPACE
 m,o,$,·sh,:,k,i,(ti),y,m.
@@ -3454,7 +3454,7 @@ SPACE
 v,·,:,$,·sh,‥,(me),v,∵,θ
 SPACE
 σ,o,f,‥,𝓂,r,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:15 in vtrad vtbhs
 w,:,$,·si,a,r,_,<,y
@@ -3462,7 +3462,7 @@ SPACE
 v,·,:,y,i,$,·si,·,a,$,k,a,r,(p)
 SPACE
 ʕ,i,m.,-,d,·,:,v,o,r,a,ƶ,h
-START shirah-space
+START/STOP shirah-space
 w,:,y,i,$,·si,·,a,$,k,a,r,(p)
 SPACE
 k,·,‥,⅃,n.
@@ -3474,7 +3474,7 @@ SPACE
 $,·sh,u,l,·,_,⅃,x
 SPACE
 v,·,:,r,_,g,:,l,a,⅄,y,w
-START shirah-space
+START/STOP shirah-space
 v,·,i,f,:,l,_,g,·,⅃,w,o,τ
 SPACE
 r,:,α,w,·,v,‥,ƶ,n.
@@ -3482,7 +3482,7 @@ SPACE
 g,·,:,d,o,l,i,(ti),y,m.
 SPACE
 x,i,q,:,q,‥,y,-,l,‥,𝓂,v,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:16 in vtrad vtbhs
 l,a,⅃,m,·,a,h
@@ -3492,13 +3492,13 @@ SPACE
 v,·,‥,(ye),y,n.
 SPACE
 h,_,𝓂,m,·,i,$,·sh,:,f,·,:,τ,_,ƶ,y,i,m.
-START shirah-space
+START/STOP shirah-space
 l,i,$,·sh,:,m,o,(ti),ʕ,_
 SPACE
 $,·sh,:,r,i,q,⅃,w,o,τ
 SPACE
 ʕ,:_,d,a,r,i,⅄,y,m.
-START shirah-space
+START/STOP shirah-space
 l,i,f,:,l,_,g,·,⅃,w,o,τ
 SPACE
 r,:,α,w,·,v,‥,ƶ,n.
@@ -3506,7 +3506,7 @@ SPACE
 g,·,:,d,w,o,l,i,(ti),y,m.
 SPACE
 x,i,q,:,r,‥,y,-,l,‥,𝓂,v,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:17 in vtrad vtbhs
 g,·,i,l,:,ʕ,a,◆,d
@@ -3516,7 +3516,7 @@ SPACE
 h,_,y,·,_,r,:,d,·,‥,n.,(p)
 SPACE
 $,·sh,a,k,‥,ƶ,n.
-START shirah-space
+START/STOP shirah-space
 w,:,d,a,Ƶ,n.
 SPACE
 l,a,(me),m,·,a,h
@@ -3524,7 +3524,7 @@ SPACE
 y,a,g,(ti),w,·,r
 SPACE
 α,:a,n,i,y,·,⅄,w,o,τ
-START shirah-space
+START/STOP shirah-space
 α,a,$,·sh,‥,◆,r
 SPACE
 y,a,$,·sh,_,v,(p)
@@ -3532,13 +3532,13 @@ SPACE
 l,:,x,⅃,w,o,f.
 SPACE
 y,_,m,·,i,ƶ,y,m.
-START shirah-space
+START/STOP shirah-space
 w,:,ʕ,_,(me),l
 SPACE
 m,i,f,:,r,a,ц,a,(ti),y,w
 SPACE
 y,i,$,·sh,:,k,·,𝓂,w,o,n.,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:18 in vtrad vtbhs
 z,:,v,u,l,◆,w,·,n.
@@ -3548,7 +3548,7 @@ SPACE
 x,‥,r,‥,(me),f.
 SPACE
 n,_,f,:,$,·sh,⟓,w,o
-START shirah-space
+START/STOP shirah-space
 l,a,m,(ti),w,·,τ
 SPACE
 w,:,n,_,f,:,τ,·,a,l,i,⅄,y
@@ -3558,7 +3558,7 @@ SPACE
 m,:,r,w,o,m,‥,(me),y
 SPACE
 $,·si,a,d,∵,𝓂,h,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:19 in vtrad vtbhs
 v,·,a,<,α,w,·
@@ -3566,7 +3566,7 @@ SPACE
 m,:,l,a,k,i,y,m.,(p)
 SPACE
 n,i,l,:,x,a,ƶ,m,w,·
-START shirah-space
+START/STOP shirah-space
 α,a,<,z
 SPACE
 n,i,l,:,x,:_,m,w,·,(p)
@@ -3574,13 +3574,13 @@ SPACE
 m,_,l,:,k,‥,⅃,y
 SPACE
 k,:,n,_,ƶ,ʕ,_,n.
-START shirah-space
+START/STOP shirah-space
 v,·,:,τ,_,ʕ,:,n,_,(ti),k.,:
 SPACE
 ʕ,_,l,-,m,‥,⅃,y
 SPACE
 m,:,g,i,d,·,⅄,w,o
-START shirah-space
+START/STOP shirah-space
 v,·,∵,(me),ц,_,ʕ
 SPACE
 k,·,∵,(ti),σ,∵,f.
@@ -3588,13 +3588,13 @@ SPACE
 l,o,(me),α
 SPACE
 l,a,q,a,𝓂,x,w,·,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:20 in vtrad vtbhs
 m,i,n.,-,$,·sh,a,m,_,(ti),y,i,m.
 SPACE
 n,i,l,:,x,a,⅄,m,w,·
-START shirah-space
+START/STOP shirah-space
 h,_,k,·,𝓂,w,o,k,a,v,i,y,m.,(p)
 SPACE
 m,i,m,·,:,σ,i,l,·,w,o,τ,a,ƶ,m.
@@ -3602,7 +3602,7 @@ SPACE
 n,i,l,:,x,:_,m,(ti),w,·
 SPACE
 ʕ,i,m.,-,σ,i,𝓂,y,σ,:,r,a,𝓂,α,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:21 in vtrad vtbhs
 n,_,<,x,_,l
@@ -3610,7 +3610,7 @@ SPACE
 q,i,y,$,·sh,w,o,n.,(p)
 SPACE
 g,·,:,r,a,f,a,ƶ,m.
-START shirah-space
+START/STOP shirah-space
 n,_,(me),x,_,l
 SPACE
 q,:,d,w,·,m,i,(ti),y,m.
@@ -3618,13 +3618,13 @@ SPACE
 n,_,⅃,x,_,l
 SPACE
 q,i,y,$,·sh,⅄,w,o,n.
-START shirah-space
+START/STOP shirah-space
 τ,·,i,d,:,r,:,k,i,(me),y
 SPACE
 n,_,f,:,$,·sh,i,(ti),y
 SPACE
 ʕ,o,𝓂,z,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:22 in vtrad vtbhs
 α,a,(me),z
@@ -3632,13 +3632,13 @@ SPACE
 h,a,l,:,m,(ti),w,·
 SPACE
 ʕ,i,q,·,:,v,‥,y,-,σ,⅄,w,·,σ
-START shirah-space
+START/STOP shirah-space
 m,i,𝓂,d,·,_,h,:_,r,(ti),w,o,τ
 SPACE
 d,·,_,h,:_,r,(me),w,o,τ
 SPACE
 α,_,v,·,i,y,r,a,𝓂,y,w,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:23 in vtrad vtbhs
 α,⅃,w,o,r,w,·
@@ -3656,7 +3656,7 @@ SPACE
 α,a,r,(ti),w,o,r
 SPACE
 y,o,$,·sh,:,v,∵,⅄,y,h,a
-START shirah-space
+START/STOP shirah-space
 k,·,i,<,y
 SPACE
 l,o,𝓂,α,-,v,a,(p),α,w,·,(p)
@@ -3664,13 +3664,13 @@ SPACE
 l,:,ʕ,∵,z,:,r,_,⅃,τ
 SPACE
 y,:,h,o,w,a,ƶ,h
-START shirah-space
+START/STOP shirah-space
 l,:,ʕ,∵,z,:,r,_,(me),τ
 SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 v,·,_,g,·,i,v,·,w,o,r,i,𝓂,y,m.,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:24 in vtrad vtbhs
 τ,·,:,v,o,r,_,k.,:,(p)
@@ -3684,13 +3684,13 @@ SPACE
 x,∵,⅃,v,∵,r
 SPACE
 h,_,q,·,‥,y,n,i,⅄,y
-START shirah-space
+START/STOP shirah-space
 m,i,n,·,a,$,·sh,i,(me),y,m.
 SPACE
 v,·,a,α,o,(ti),h,∵,l
 SPACE
 τ,·,:,v,o,r,a,𝓂,k.,:,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:25 in vtrad vtbhs
 m,_,(me),y,i,m.
@@ -3700,7 +3700,7 @@ SPACE
 x,a,l,a,⅃,v
 SPACE
 n,a,τ,a,⅄,n,a,h
-START shirah-space
+START/STOP shirah-space
 v,·,:,σ,‥,(me),f,∵,l
 SPACE
 α,_,d,·,i,y,r,i,(ti),y,m.
@@ -3708,7 +3708,7 @@ SPACE
 h,i,q,:,r,i,(me),y,v,a,h
 SPACE
 x,∵,m,:,α,a,𝓂,h,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:26 in vtrad vtbhs
 y,a,d,a,h,·,(p)
@@ -3716,13 +3716,13 @@ SPACE
 l,_,y,·,a,τ,‥,⅃,d
 SPACE
 τ,·,i,$,·sh,:,l,_,ƶ,x,:,n,a,h
-START shirah-space
+START/STOP shirah-space
 w,i,y,m,i,y,n,a,(ti),h,·
 SPACE
 l,:,h,_,l,:,m,⅃,w,·,τ
 SPACE
 ʕ,:_,m,‥,l,i,⅄,y,m.
-START shirah-space
+START/STOP shirah-space
 w,:,h,a,l,:,m,a,<,h
 SPACE
 σ,i,𝓂,y,σ,:,r,a,α,(p)
@@ -3730,13 +3730,13 @@ SPACE
 m,a,x,:_,q,a,⅃,h
 SPACE
 r,o,α,$,·sh,ƶ,w,o
-START shirah-space
+START/STOP shirah-space
 w,·,m,a,x,:_,ц,a,(me),h
 SPACE
 w,:,x,a,l,:,f,a,(ti),h
 SPACE
 r,_,q,·,a,τ,𝓂,w,o,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:27 in vtrad vtbhs
 v,·,‥,⅃,y,n.
@@ -3748,7 +3748,7 @@ SPACE
 n,a,f,_,(ti),l
 SPACE
 $,·sh,a,k,a,⅄,v
-START shirah-space
+START/STOP shirah-space
 v,·,‥,<,y,n.
 SPACE
 r,_,g,:,l,∵,(p),y,h,a,(p)
@@ -3756,7 +3756,7 @@ SPACE
 k,·,a,r,_,⅃,ʕ
 SPACE
 n,a,f,a,ƶ,l
-START shirah-space
+START/STOP shirah-space
 v,·,_,α,:_,$,·sh,∵,⅃,r
 SPACE
 k,·,a,r,_,ƶ,ʕ
@@ -3766,7 +3766,7 @@ SPACE
 n,a,f,_,(me),l
 SPACE
 $,·sh,a,d,𝓂,w,·,d,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:28 in vtrad vtbhs
 v,·,:,ʕ,_,d,(tq)
@@ -3784,7 +3784,7 @@ SPACE
 v,·,:,ʕ,_,⅃,d
 SPACE
 h,a,α,∵,$,·sh,:,n,a,⅄,v
-START shirah-space
+START/STOP shirah-space
 m,_,d,·,◆,w,·,ʕ,_
 SPACE
 v,·,o,$,·sh,‥,<,$,·sh
@@ -3792,7 +3792,7 @@ SPACE
 r,i,k,:,v,·,w,o,(p)
 SPACE
 l,a,v,ƶ,w,o,α
-START shirah-space
+START/STOP shirah-space
 m,_,d,·,⅃,w,·,ʕ,_
 SPACE
 α,∵,𝓂,x,:∵,r,ƶ,w,·
@@ -3800,7 +3800,7 @@ SPACE
 f,·,_,ʕ,:_,m,‥,(ti),y
 SPACE
 m,_,r,:,k,·,:,v,w,o,τ,a,𝓂,y,w,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:29 in vtrad vtbhs
 x,_,k,:,m,(me),w,o,τ
@@ -3808,7 +3808,7 @@ SPACE
 $,·si,a,r,w,o,τ,∵,(ti),y,h,a
 SPACE
 τ,·,_,ʕ,:_,n,∵,⅄,y,n,·,a,h
-START shirah-space
+START/STOP shirah-space
 α,_,f.,-,h,i,Ƶ,y,α
 SPACE
 τ,·,a,$,·sh,i,(me),y,v
@@ -3816,7 +3816,7 @@ SPACE
 α,:_,m,a,r,∵,(ti),y,h,a
 SPACE
 l,a,𝓂,h,·,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:30 in vtrad vtbhs
 h,:_,l,o,(qa),α
@@ -3826,7 +3826,7 @@ SPACE
 y,:,x,_,l,·,:,q,⅃,w,·
 SPACE
 $,·sh,a,l,a,◆,l
-START shirah-space
+START/STOP shirah-space
 r,_,<,x,_,m.
 SPACE
 r,_,x,:_,m,a,τ,_,(p),y,i,m.,(p)
@@ -3834,19 +3834,19 @@ SPACE
 l,:,r,o,⅃,α,$,·sh
 SPACE
 g,·,∵,ƶ,v,∵,r
-START shirah-space
+START/STOP shirah-space
 $,·sh,:,l,_,<,l
 SPACE
 ц,:,v,a,ʕ,i,y,m.,(p)
 SPACE
 l,:,σ,i,⅃,y,σ,:,r,a,ƶ,α
-START shirah-space
+START/STOP shirah-space
 $,·sh,:,l,_,(me),l
 SPACE
 ц,:,v,a,ʕ,i,(ti),y,m.
 SPACE
 r,i,q,:,m,a,⅄,h
-START shirah-space
+START/STOP shirah-space
 ц,∵,(me),v,_,ʕ
 SPACE
 r,i,q,:,m,a,τ,_,(ti),y,i,m.
@@ -3854,7 +3854,7 @@ SPACE
 l,:,ц,_,w,·,:,α,r,‥,(me),y
 SPACE
 $,·sh,a,l,a,𝓂,l,.
-START shirah-space
+START/STOP shirah-space
 
 Judges 5:31 in vtrad vtbhs
 k,·,‥,⌕,n.
@@ -3872,7 +3872,7 @@ SPACE
 h,_,$,·sh,·,∵,(ti),m,∵,$,·sh
 SPACE
 v,·,i,g,:,v,u,r,a,τ,⅄,w,o
-START shirah-space
+START/STOP shirah-space
 w,_,τ,·,i,$,·sh,:,q,o,(me),θ
 SPACE
 h,a,α,a,(ti),r,∵,ц.
@@ -3880,7 +3880,7 @@ SPACE
 α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 $,·sh,a,n,a,𝓂,h,.
-START spi-pe3
+START/STOP spi-pe3
 
 Judges 6:1 in vtrad vtbhs
 w,_,y,·,_,ʕ,:_,$,·si,(da),w,·
@@ -3917,7 +3917,7 @@ SPACE
 ʕ,a,$,·si,(me),w,·
 SPACE
 l,a,h,∵,⅃,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,:,n,‥,⅃,y
 SPACE
@@ -4033,7 +4033,7 @@ SPACE
 v,:,n,‥,y,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 α,∵,l,-,y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 6:7 in vtrad vtbhs
 w,_,y,:,h,i,Ƶ,y
@@ -4070,7 +4070,7 @@ SPACE
 k,·,o,h,-,α,a,m,_,(me),r
 SPACE
 y,:,h,o,w,a,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -4149,7 +4149,7 @@ SPACE
 $,·sh,:,m,_,ʕ,:,τ,·,∵,(ti),m.
 SPACE
 v,·,:,q,w,o,l,i,𝓂,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 6:11 in vtrad vtbhs
 w,_,y,·,a,v,o,(G),α
@@ -4433,7 +4433,7 @@ SPACE
 h,a,α,‥,l,a,(ti),h
 SPACE
 w,_,y,·,_,g,·,_,𝓂,$,·sh,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 6:20 in vtrad vtbhs
 w,_,y,·,o,(qa),α,m,∵,r
@@ -4585,7 +4585,7 @@ SPACE
 α,:_,v,i,(me),y
 SPACE
 h,a,ʕ,∵,z,:,r,i,𝓂,y,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Judges 6:25 in vtrad vtbhs
 w,_,y,:,h,i,y,~
@@ -4821,7 +4821,7 @@ SPACE
 ʕ,a,l,a,(ge),y,w
 SPACE
 h,_,α,_,τ,·,∵,⅃,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 τ,·,:,r,i,y,v,⅃,w,·,n.
 SPACE
@@ -4877,7 +4877,7 @@ SPACE
 n,a,τ,_,(ti),ц.
 SPACE
 α,∵,𝓂,τ,-,m,i,z,:,v,·,:,x,𝓂,w,o,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Judges 6:33 in vtrad vtbhs
 w,:,k,oa,l,-,m,i,d,:,y,a,(da),n.
@@ -5084,7 +5084,7 @@ SPACE
 h,a,(me),y,a,h
 SPACE
 θ,a,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 7:1 in vtrad vtbhs
 w,_,y,·,_,$,·sh,:,k,·,‥,(qa),m.
@@ -5120,7 +5120,7 @@ SPACE
 h,_,m,·,w,o,r,∵,(ti),h
 SPACE
 v,·,a,ʕ,‥,𝓂,m,∵,q,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Judges 7:2 in vtrad vtbhs
 w,_,y,·,o,<,α,m,∵,r
@@ -5197,7 +5197,7 @@ SPACE
 α,:_,l,a,f,i,(ti),y,m.
 SPACE
 n,i,$,·sh,:,α,a,𝓂,r,w,·,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Judges 7:4 in vtrad vtbhs
 w,_,y,·,o,(qa),α,m,∵,r
@@ -5233,7 +5233,7 @@ SPACE
 α,‥,l,∵,(ge),y,k.,a
 SPACE
 z,∵,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,‥,l,‥,⅃,k.,:
 SPACE
@@ -5334,7 +5334,7 @@ SPACE
 l,i,$,·sh,:,τ,·,(me),w,o,τ
 SPACE
 m,a,𝓂,y,i,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Judges 7:7 in vtrad vtbhs
 w,_,y,·,o,(qa),α,m,∵,r
@@ -5411,7 +5411,7 @@ SPACE
 m,i,τ,·,_,(me),x,_,τ
 SPACE
 v,·,a,ʕ,‥,𝓂,m,∵,q,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 7:9 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -5598,7 +5598,7 @@ SPACE
 α,∵,τ,-,m,i,d,:,y,a,(ti),n.
 SPACE
 w,:,α,∵,τ,-,k,·,oa,l,-,h,_,𝓂,m,·,_,x,:_,n,∵,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 7:15 in vtrad vtbhs
 w,_,y,:,h,i,y,(tq)
@@ -5719,7 +5719,7 @@ SPACE
 l,_,y,h,o,w,a,(me),h
 SPACE
 w,·,l,:,g,i,d,:,ʕ,𝓂,w,o,n.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 7:19 in vtrad vtbhs
 w,_,y,·,a,v,o,⅃,α
@@ -6218,7 +6218,7 @@ SPACE
 α,∵,τ,-,h,_,m,·,i,g,:,d,·,a,(me),l
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 8:10 in vtrad vtbhs
 w,:,z,∵,(qa),v,_,x
@@ -6300,7 +6300,7 @@ SPACE
 w,_,y,·,i,l,:,k,·,o,(G),d
 SPACE
 α,∵,τ,-,$,·sh,:,n,‥,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,_,l,:,k,‥,⅃,y
 SPACE
@@ -6552,7 +6552,7 @@ SPACE
 v,·,:,ц,_,w,·,:,α,r,‥,(me),y
 SPACE
 g,:,m,_,l,·,‥,y,h,∵,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 8:22 in vtrad vtbhs
 w,_,y,·,o,α,m,:,r,<,w,·
@@ -6766,7 +6766,7 @@ SPACE
 v,·,i,y,m,‥,(me),y
 SPACE
 g,i,d,:,ʕ,𝓂,w,o,n.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 8:29 in vtrad vtbhs
 w,_,y,·,‥,⟓,l,∵,k.,:
@@ -6843,7 +6843,7 @@ SPACE
 α,:_,v,i,(me),y
 SPACE
 h,a,ʕ,∵,z,:,r,i,𝓂,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 8:33 in vtrad vtbhs
 w,_,y,:,h,i,◆,y
@@ -6917,7 +6917,7 @@ SPACE
 ʕ,a,$,·si,a,(ti),h
 SPACE
 ʕ,i,m.,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 9:1 in vtrad vtbhs
 w,_,y,·,‥,(qa),l,∵,k.,:
@@ -7083,7 +7083,7 @@ SPACE
 k,·,i,(me),y
 SPACE
 n,∵,x,:,v,·,a,𝓂,α,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Judges 9:6 in vtrad vtbhs
 w,_,y,·,‥,α,a,(qa),σ,:,f,(ge),w,·
@@ -7502,7 +7502,7 @@ SPACE
 α,:_,v,i,y,m,∵,(me),l,∵,k.,:
 SPACE
 α,a,x,i,𝓂,y,w,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 9:22 in vtrad vtbhs
 w,_,y,·,a,(da),$,·si,_,r
@@ -7607,7 +7607,7 @@ SPACE
 w,_,y,·,u,g,·,_,(ti),d
 SPACE
 l,_,α,:_,v,i,y,m,∵,𝓂,l,∵,k.,:,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 9:26 in vtrad vtbhs
 w,_,y,·,a,v,o,(G),α
@@ -7659,7 +7659,7 @@ SPACE
 
 Judges 9:28 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 g,·,_,⅃,ʕ,_,l
 SPACE
@@ -8029,7 +8029,7 @@ SPACE
 m,i,$,·sh,·,∵,(me),v,∵,τ
 SPACE
 v,·,i,$,·sh,:,k,∵,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Judges 9:42 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -8138,7 +8138,7 @@ SPACE
 w,_,y,·,i,z,:,r,a,ʕ,∵,(ti),h,a
 SPACE
 m,∵,𝓂,l,_,x,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 9:46 in vtrad vtbhs
 w,_,𝓂,y,·,i,$,·sh,:,m,:,ʕ,ƶ,w,·
@@ -8261,7 +8261,7 @@ SPACE
 α,i,(me),y,$,·sh
 SPACE
 w,:,α,i,$,·sh,·,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 9:50 in vtrad vtbhs
 w,_,y,·,‥,(me),l,∵,k.,:
@@ -8353,7 +8353,7 @@ SPACE
 m,:,h,‥,r,a,(ge),h
 SPACE
 α,∵,l,-,h,_,n,·,_,⅃,ʕ,_,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 n,o,$,·si,‥,⅃,α
 SPACE
@@ -8447,7 +8447,7 @@ SPACE
 y,w,o,τ,a,(me),m.
 SPACE
 v,·,∵,n.,-,y,:,r,u,v,·,a,𝓂,ʕ,_,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 10:1 in vtrad vtbhs
 w,_,y,·,a,(tq),q,oa,m.,(tq)
@@ -8494,7 +8494,7 @@ SPACE
 w,_,y,·,i,q,·,a,v,‥,(me),r
 SPACE
 v,·,:,$,·sh,a,m,i,𝓂,y,r,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 10:3 in vtrad vtbhs
 w,_,y,·,a,⅃,q,oa,m.
@@ -8537,7 +8537,7 @@ SPACE
 l,a,h,∵,(G),m.
 SPACE
 y,i,q,:,r,:,α,⅃,w,·
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 x,_,w,·,ḥḥfv,⅃,τ
 SPACE
@@ -8563,11 +8563,11 @@ SPACE
 w,_,y,·,i,q,·,a,v,‥,(ti),r
 SPACE
 v,·,:,q,a,m,𝓂,w,o,n.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 10:6 in vtrad vtbhs
 w,_,y,·,o,σ,i,⅃,y,f,w,·
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,:,n,‥,⅃,y
 SPACE
@@ -8596,7 +8596,7 @@ SPACE
 ц,i,y,d,(ge),w,o,n.
 SPACE
 w,:,α,‥,⅃,τ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -8723,7 +8723,7 @@ SPACE
 w,_,𝓂,n,·,_,ʕ,:_,v,o,(ti),d
 SPACE
 α,∵,τ,-,h,_,v,·,:,ʕ,a,l,i,𝓂,y,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 10:11 in vtrad vtbhs
 w,_,(me),y,·,o,α,m,∵,r
@@ -8858,7 +8858,7 @@ SPACE
 v,·,_,ʕ,:_,m,_,(me),l
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 10:17 in vtrad vtbhs
 w,_,y,·,i,ц,·,a,𝓂,ʕ,:_,q,w,·,(p)
@@ -8917,7 +8917,7 @@ SPACE
 y,o,$,·sh,:,v,‥,(me),y
 SPACE
 g,i,l,:,ʕ,a,𝓂,d,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 11:1 in vtrad vtbhs
 w,:,y,i,f,:,τ,·,a,⅃,x
@@ -9001,7 +9001,7 @@ SPACE
 w,_,y,·,‥,ц,:,α,(ti),w,·
 SPACE
 ʕ,i,m,·,𝓂,w,o,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 11:4 in vtrad vtbhs
 w,_,y,:,h,i,(ti),y
@@ -9224,7 +9224,7 @@ SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 v,·,_,m,·,i,ц,:,f,·,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 11:12 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,l,_,<,x
@@ -9353,11 +9353,11 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,⅃,l
 SPACE
 m,_,l,:,α,a,k,i,⅃,y,m.
-START lp-paseq
+START/STOP lp-paseq
 α,∵,l,-,m,∵,(tq),l,∵,k.,:,(tq)
 SPACE
 α,:∵,d,(qa),w,o,m.
-START lp-paseq
+START/STOP lp-paseq
 l,‥,α,m,o,(ge),r
 SPACE
 α,∵,ʕ,:,v,·,:,r,a,h,-,n,·,a,⅃,α
@@ -9539,7 +9539,7 @@ Judges 11:23 in vtrad vtbhs
 w,:,ʕ,_,τ,·,a,(G),h
 SPACE
 y,:,h,o,w,a,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -9715,7 +9715,7 @@ SPACE
 $,·sh,a,l,_,(ti),x
 SPACE
 α,‥,l,a,𝓂,y,w,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 11:29 in vtrad vtbhs
 w,_,τ,·,:,h,i,<,y
@@ -9799,7 +9799,7 @@ SPACE
 w,:,h,_,ʕ,:_,l,i,y,τ,i,(ti),y,h,w,·
 SPACE
 ʕ,o,l,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 11:32 in vtrad vtbhs
 w,_,y,·,_,ʕ,:_,v,o,(me),r
@@ -9856,7 +9856,7 @@ SPACE
 v,·,:,n,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 11:34 in vtrad vtbhs
 w,_,y,·,a,v,o,(qa),α
@@ -10047,7 +10047,7 @@ Judges 11:39 in vtrad vtbhs
 w,_,y,:,h,i,(G),y
 SPACE
 m,i,q,·,‥,⅃,ц.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,:,n,_,⅃,y,i,m.
 SPACE
@@ -10079,7 +10079,7 @@ v,·,:,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 Judges 11:40 in vtrad vtbhs
 m,i,y,·,a,m,i,⅃,y,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,a,m,i,◆,y,m,a,h
 SPACE
@@ -10100,7 +10100,7 @@ SPACE
 y,a,m,i,(ti),y,m.
 SPACE
 v,·,_,$,·sh,·,a,n,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 12:1 in vtrad vtbhs
 w,_,y,·,i,ц,·,a,ʕ,‥,q,(p)
@@ -10118,10 +10118,10 @@ SPACE
 l,:,y,i,f,:,τ,·,a,(ge),x
 SPACE
 m,_,d,·,⅃,w,·,ʕ,_
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 ʕ,a,v,_,⅃,r,:,τ,·,a
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,:,h,i,l,·,a,x,‥,⅃,m.
 SPACE
@@ -10290,7 +10290,7 @@ SPACE
 α,_,(ti),τ,·,a,h
 SPACE
 w,_,y,·,o,(me),α,m,∵,𝓂,r
-START lp-paseq
+START/STOP lp-paseq
 l,o,𝓂,α,.
 
 Judges 12:6 in vtrad vtbhs
@@ -10360,7 +10360,7 @@ SPACE
 v,·,:,ʕ,a,r,‥,(me),y
 SPACE
 g,i,l,:,ʕ,a,𝓂,d,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 12:8 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,f,·,o,<,θ
@@ -10418,7 +10418,7 @@ SPACE
 v,·,:,v,‥,(me),y,τ
 SPACE
 l,a,𝓂,x,∵,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 12:11 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,f,·,o,<,θ
@@ -10453,7 +10453,7 @@ SPACE
 v,·,:,α,∵,(me),r,∵,ц.
 SPACE
 z,:,v,w,·,l,u,𝓂,n.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 12:13 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,f,·,o,(me),θ
@@ -10515,7 +10515,7 @@ SPACE
 v,·,:,h,_,(ti),r
 SPACE
 h,a,ʕ,:_,m,a,l,‥,q,i,𝓂,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 13:1 in vtrad vtbhs
 w,_,y,·,o,σ,i,(p),y,f,w,·,(p)
@@ -10541,7 +10541,7 @@ SPACE
 α,_,r,:,v,·,a,ʕ,i,(me),y,m.
 SPACE
 $,·sh,a,n,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 13:2 in vtrad vtbhs
 w,_,y,:,h,i,y,(tq)
@@ -10710,7 +10710,7 @@ SPACE
 w,:,ʕ,_,τ,·,a,(G),h
 SPACE
 α,_,l,-,τ,·,i,$,·sh,:,τ,·,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,_,⅃,y,i,n.
 SPACE
@@ -10733,7 +10733,7 @@ SPACE
 ʕ,_,d,-,y,(me),w,o,m.
 SPACE
 m,w,o,τ,𝓂,w,o,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 13:8 in vtrad vtbhs
 w,_,y,·,∵,ʕ,:,τ,·,_,(me),r
@@ -10925,7 +10925,7 @@ SPACE
 α,:_,$,·sh,∵,r,-,ц,i,w,·,i,y,τ,i,(ti),y,h,a
 SPACE
 τ,·,i,$,·sh,:,m,o,𝓂,r,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Judges 13:15 in vtrad vtbhs
 w,_,y,·,o,(me),α,m,∵,r
@@ -11027,7 +11027,7 @@ SPACE
 l,i,$,·sh,:,m,i,⅄,y
 SPACE
 w,:,h,w,·,α,-,f,∵,𝓂,l,i,α,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 13:19 in vtrad vtbhs
 w,_,y,·,i,q,·,_,(qa),x
@@ -11209,7 +11209,7 @@ SPACE
 w,·,v,‥,(me),y,n.
 SPACE
 α,∵,$,·sh,:,τ,·,a,α,o,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 14:1 in vtrad vtbhs
 w,_,y,·,‥,(me),r,∵,d
@@ -11625,7 +11625,7 @@ y,a,m,i,𝓂,y,m.,.
 
 Judges 14:15 in vtrad vtbhs
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -11726,7 +11726,7 @@ SPACE
 h,_,m,·,i,$,·sh,:,τ,·,∵,⅄,h
 SPACE
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -11807,7 +11807,7 @@ SPACE
 w,_,y,·,_,(me),k.,:
 SPACE
 m,‥,h,∵,⅃,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,:,l,o,$,·sh,i,⅃,y,m.
 SPACE
@@ -11849,7 +11849,7 @@ SPACE
 r,‥,ʕ,a,(ti),h
 SPACE
 l,𝓂,w,o,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 15:1 in vtrad vtbhs
 w,_,y,:,h,i,(qa),y
@@ -12076,7 +12076,7 @@ SPACE
 σ,∵,(me),l,_,ʕ
 SPACE
 ʕ,‥,y,θ,a,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 15:9 in vtrad vtbhs
 w,_,y,·,_,ʕ,:_,l,⅃,w,·
@@ -12406,7 +12406,7 @@ SPACE
 w,_,y,·,∵,⅄,x,i,y
 SPACE
 ʕ,_,l,-,k,·,‥,⅃,n.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 q,a,r,a,⅃,α
 SPACE
@@ -12438,7 +12438,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 $,·sh,a,n,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 16:1 in vtrad vtbhs
 w,_,y,·,‥,(me),l,∵,k.,:
@@ -12459,7 +12459,7 @@ SPACE
 
 Judges 16:2 in vtrad vtbhs
 l,_,ʕ,_,z,·,a,τ,i,⅃,y,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,‥,α,m,o,◆,r
 SPACE
@@ -12501,7 +12501,7 @@ SPACE
 h,_,l,·,_,∴,y,:,l,a,h,∴
 SPACE
 w,_,y,·,a,⅃,q,oa,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,x,:_,ц,i,⅃,y
 SPACE
@@ -12536,7 +12536,7 @@ SPACE
 ʕ,_,l,-,f,·,:,n,‥,(me),y
 SPACE
 x,∵,v,:,r,𝓂,w,o,n.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 16:4 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -13131,7 +13131,7 @@ SPACE
 k,·,_,α,:_,$,·sh,∵,(me),r
 SPACE
 g,·,u,l,·,a,𝓂,x,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 16:23 in vtrad vtbhs
 w,:,σ,_,r,:,n,‥,⅃,y
@@ -13366,7 +13366,7 @@ SPACE
 $,·sh,i,m,:,$,·sh,(ge),w,o,n.
 SPACE
 α,∵,τ,-,$,·sh,:,n,‥,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 ʕ,_,m,·,w,·,d,‥,⅃,y
 SPACE
@@ -13449,7 +13449,7 @@ SPACE
 α,o,τ,w,o,∴
 SPACE
 w,_,𝓂,y,·,_,ʕ,:_,l,⅃,w,·
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,_,y,·,i,q,:,v,·,:,r,⅃,w,·
 SPACE
@@ -13478,7 +13478,7 @@ SPACE
 ʕ,∵,$,·si,:,r,i,(me),y,m.
 SPACE
 $,·sh,a,n,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 17:1 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,-,α,i,(me),y,$,·sh
@@ -13654,7 +13654,7 @@ SPACE
 v,·,:,ʕ,‥,y,n,a,(ti),y,w
 SPACE
 y,_,ʕ,:_,$,·si,∵,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 17:7 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,-,n,_,◆,ʕ,_,r
@@ -13840,7 +13840,7 @@ SPACE
 h,_,l,·,‥,w,i,(ti),y
 SPACE
 l,:,k,o,h,‥,𝓂,n.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 18:1 in vtrad vtbhs
 v,·,_,y,·,a,m,i,⅃,y,m.
@@ -13882,13 +13882,13 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 v,·,:,n,_,x,:_,l,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 18:2 in vtrad vtbhs
 w,_,y,·,i,$,·sh,:,l,:,x,⅃,w,·
 SPACE
 v,:,n,‥,y,-,d,a,⅃,n.
-START lp-paseq
+START/STOP lp-paseq
 m,i,𝓂,m,·,i,$,·sh,:,f,·,_,x,:,τ,·,a,μ,m.
 SPACE
 x,:_,m,i,$,·sh,·,a,⅃,h
@@ -14036,7 +14036,7 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 τ,·,‥,l,:,k,w,·,-,v,a,𝓂,h,·,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 18:7 in vtrad vtbhs
 w,_,y,·,‥,𝓂,l,:,k,w,·,(p)
@@ -14062,7 +14062,7 @@ SPACE
 ц,i,d,o,n,i,(ge),y,m.
 SPACE
 $,·sh,o,q,‥,⅃,θ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,·,v,o,θ,‥,◆,x,_
 SPACE
@@ -14146,7 +14146,7 @@ Judges 18:10 in vtrad vtbhs
 k,·,:,v,o,α,:_,k,∵,(G),m.
 SPACE
 τ,·,a,v,o,⅃,α,w,·
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,l,-,ʕ,_,⅃,m.
 SPACE
@@ -14430,7 +14430,7 @@ SPACE
 w,·,l,:,k,o,h,‥,⅄,n.
 SPACE
 h,:_,θ,⅃,w,o,v
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,:∵,y,w,o,τ,:,k.,a,⅃
 SPACE
@@ -14787,7 +14787,7 @@ SPACE
 v,·,‥,y,τ,-,h,a,α,:∵,l,o,h,i,(ti),y,m.
 SPACE
 v,·,:,$,·sh,i,l,o,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 19:1 in vtrad vtbhs
 w,_,𝓂,y,:,h,i,y,(p)
@@ -14803,7 +14803,7 @@ SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,⅄,l
 SPACE
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,i,⅃,y,$,·sh
 SPACE
@@ -15016,7 +15016,7 @@ SPACE
 l,a,l,∵,∴,k,∵,τ,∴
 SPACE
 w,_,y,·,o,⅃,α,m,∵,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,v,i,⅃,y
 SPACE
@@ -15255,7 +15255,7 @@ l,a,l,𝓂,w,·,n.,.
 
 Judges 19:16 in vtrad vtbhs
 w,:,h,i,n,·,‥,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,i,⅃,y,$,·sh
 SPACE
@@ -15754,7 +15754,7 @@ SPACE
 ʕ,u,(me),ц,w,·
 SPACE
 w,:,d,_,v,·,‥,𝓂,r,w,·,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 20:1 in vtrad vtbhs
 w,_,y,·,‥,ц,:,α,w,·,~
@@ -15815,7 +15815,7 @@ SPACE
 r,_,g,:,l,i,(ti),y
 SPACE
 $,·sh,o,(me),l,‥,𝓂,f.,-,x,a,𝓂,r,∵,v,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 20:3 in vtrad vtbhs
 w,_,𝓂,y,·,i,$,·sh,:,m,:,ʕ,w,·,(p)
@@ -16002,7 +16002,7 @@ SPACE
 l,_,m,·,‥,α,a,(ge),h
 SPACE
 l,:,k,o,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,i,v,:,θ,‥,⅃,y
 SPACE
@@ -16052,7 +16052,7 @@ SPACE
 α,∵,x,a,(ti),d
 SPACE
 x,:_,v,‥,r,i,𝓂,y,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 20:12 in vtrad vtbhs
 w,_,𝓂,y,·,i,$,·sh,:,l,:,x,(G),w,·
@@ -16180,7 +16180,7 @@ v,·,a,x,𝓂,w,·,r,.
 
 Judges 20:16 in vtrad vtbhs
 m,i,k,·,o,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,a,ʕ,a,⅃,m.
 SPACE
@@ -16209,7 +16209,7 @@ SPACE
 w,:,l,o,(me),α
 SPACE
 y,_,x,:_,θ,i,𝓂,α,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 20:17 in vtrad vtbhs
 w,:,α,i,(qa),y,$,·sh
@@ -16395,7 +16395,7 @@ SPACE
 ʕ,:_,l,(me),w,·
 SPACE
 α,‥,l,a,𝓂,y,w,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 20:24 in vtrad vtbhs
 w,_,y,·,i,q,:,r,:,v,(da),w,·
@@ -16414,9 +16414,9 @@ Judges 20:25 in vtrad vtbhs
 w,_,y,·,‥,ц,‥,α,(tq)
 SPACE
 v,i,n,:,y,a,m,i,(qa),n.
-START lp-paseq
+START/STOP lp-paseq
 l,i,q,:,r,a,α,τ,a,(me),m.
-START lp-paseq
+START/STOP lp-paseq
 m,i,𝓂,n.,-,h,_,g,·,i,v,:,ʕ,a,h,~
 SPACE
 v,·,_,y,·,⅃,w,o,m.
@@ -16513,7 +16513,7 @@ SPACE
 v,·,∵,𝓂,n.,-,α,_,h,:_,r,o,(ge),n.
 SPACE
 ʕ,o,m,‥,⅃,d
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,:,f,a,n,a,◆,y,w
 SPACE
@@ -16561,7 +16561,7 @@ SPACE
 α,∵,l,-,h,_,g,·,i,v,:,ʕ,a,(ti),h
 SPACE
 σ,a,v,i,𝓂,y,v,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 20:30 in vtrad vtbhs
 w,_,y,·,_,ʕ,:_,l,(da),w,·
@@ -16606,7 +16606,7 @@ SPACE
 x,:_,l,a,l,i,(ge),y,m.
 SPACE
 k,·,:,f,_,⅃,ʕ,_,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,:,f,_,◆,ʕ,_,m.
 SPACE
@@ -16663,7 +16663,7 @@ SPACE
 
 Judges 20:33 in vtrad vtbhs
 w,:,k,o,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,i,⅃,y,$,·sh
 SPACE
@@ -16723,13 +16723,13 @@ SPACE
 ʕ,:_,l,‥,y,h,∵,(ti),m.
 SPACE
 h,a,r,a,ʕ,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 20:35 in vtrad vtbhs
 w,_,y,·,i,g,·,o,(qa),f.
 SPACE
 y,:,h,o,w,a,(me),h
-START lp-paseq
+START/STOP lp-paseq
 α,∵,𝓂,τ,-,v,·,i,n,:,y,a,m,i,n.,~
 SPACE
 l,i,f,:,n,‥,⅃,y
@@ -17102,7 +17102,7 @@ SPACE
 $,·sh,i,l,·,:,x,(me),w,·
 SPACE
 v,a,α,‥,𝓂,$,·sh,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 21:1 in vtrad vtbhs
 w,:,α,i,⅃,y,$,·sh
@@ -17199,7 +17199,7 @@ SPACE
 ʕ,o,l,(ti),w,o,τ
 SPACE
 w,·,$,·sh,:,l,a,m,i,𝓂,y,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 21:5 in vtrad vtbhs
 w,_,y,·,o,𝓂,α,m,:,r,w,·,(p)
@@ -17400,7 +17400,7 @@ Judges 21:12 in vtrad vtbhs
 w,_,𝓂,y,·,i,m,:,ц,:,α,(G),w,·
 SPACE
 m,i,y,·,w,o,$,·sh,:,v,‥,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,a,v,‥,⅃,y,$,·sh
 SPACE
@@ -17437,7 +17437,7 @@ SPACE
 v,·,:,α,∵,(me),r,∵,ц.
 SPACE
 k,·,:,n,a,𝓂,ʕ,_,n.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 21:13 in vtrad vtbhs
 w,_,𝓂,y,·,i,$,·sh,:,l,:,x,w,·,(p)
@@ -17570,7 +17570,7 @@ SPACE
 α,i,$,·sh,·,a,(ti),h
 SPACE
 l,:,v,i,n,:,y,a,m,i,𝓂,n.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Judges 21:19 in vtrad vtbhs
 w,_,y,·,o,α,m,:,r,μ,w,·
@@ -17582,7 +17582,7 @@ SPACE
 v,·,:,$,·sh,i,l,(ge),w,o
 SPACE
 m,i,y,·,a,m,i,⅃,y,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,a,m,i,◆,y,m,a,h
 SPACE
@@ -17682,7 +17682,7 @@ l,r,w,v
 STOP kq-k
 START kq-q
 l,a,r,i,⅃,y,v
-START lp-legarmeih
+START/STOP lp-legarmeih
 STOP kq-q
 STOP kq
 SPACE
@@ -17721,7 +17721,7 @@ SPACE
 k,·,a,ʕ,‥,(me),τ
 SPACE
 τ,·,∵,α,:,$,·sh,a,𝓂,m,w,·,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Judges 21:23 in vtrad vtbhs
 w,_,y,·,_,𝓂,ʕ,:_,$,·si,w,·,-,k,‥,n.,(p)
@@ -17780,7 +17780,7 @@ SPACE
 α,i,(ti),y,$,·sh
 SPACE
 l,:,n,_,x,:_,l,a,τ,𝓂,w,o,.
-START spi-pe2
+START/STOP spi-pe2
 
 Judges 21:25 in vtrad vtbhs
 v,·,_,y,·,a,m,i,⅃,y,m.

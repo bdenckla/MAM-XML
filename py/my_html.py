@@ -103,12 +103,10 @@ def table(contents, attr=None):
     return hel_mk('table', attr, contents)
 
 
-def unordered_list(contents, attr=None):
-    return hel_mk('ul', attr, contents)
-
-
-def list_item(contents, attr=None):
-    return hel_mk('li', attr, contents)
+def unordered_list(liconts, attr=None):
+    # licont: list item contents
+    # liconts: a tuple where each element is a licont
+    return hel_mk('ul', attr, tuple(map(_list_item, liconts)))
 
 
 def heading_level_1(contents, attr=None):
@@ -182,6 +180,9 @@ def hel_mk(
         lb2=None,
         noclose=None):
     """ Make an HTML element """
+    assert isinstance(tag, str)
+    assert isinstance(attr, (type(None), dict))
+    assert isinstance(contents, (type(None), tuple, list))
     opts1 = {
         'attr': attr,
         'contents': contents,
@@ -195,6 +196,10 @@ def hel_mk(
 
 def hel_get_tag(hel):
     return hel['_hel_tag']
+
+
+def _list_item(contents, attr=None):
+    return hel_mk('li', attr, contents)
 
 
 def _link_to_css(css_href):

@@ -30,7 +30,7 @@ SPACE
 h,a,h,‥,⅄,m.
 SPACE
 k,·,:,$,·sh,∵,⅃,v,∵,τ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,_,m,·,∵,⅃,l,∵,k.,:
 SPACE
@@ -64,7 +64,7 @@ SPACE
 w,_,ʕ,:_,v,a,d,a,⅄,y,w
 SPACE
 x,‥,⅃,y,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 f,·,a,r,_,⅃,σ
 SPACE
@@ -105,7 +105,7 @@ y,𝓂,w,o,m.,.
 
 Esther 1:5 in vtrad vtsef
 w,·,v,i,m,:,l,⅃,w,o,α,τ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,_,y,·,a,m,i,⅃,y,m.
 SPACE
@@ -162,7 +162,7 @@ START slhw-desc-3
 x,SOLIDUS,g
 STOP slhw-desc-3
 STOP slh-word
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 k,·,_,r,:,f,·,_,⅃,σ
 SPACE
@@ -183,7 +183,7 @@ SPACE
 $,·sh,‥,⅄,$,·sh
 SPACE
 m,i,θ,·,⅃,w,o,τ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 z,a,h,a,⅃,v
 SPACE
@@ -232,7 +232,7 @@ SPACE
 α,o,n,‥,⅄,σ
 SPACE
 k,·,i,y,-,k,‥,⅃,n.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,i,σ,·,_,⅃,d
 SPACE
@@ -272,7 +272,7 @@ SPACE
 l,_,m,·,∵,(me),l,∵,k.,:
 SPACE
 α,:_,x,_,$,·sh,:,w,‥,r,𝓂,w,o,$,·sh,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Esther 1:10 in vtrad vtsef
 v,·,_,y,·,w,o,m.,(p)
@@ -420,7 +420,7 @@ SPACE
 $,·sh,i,v,:,ʕ,_,(G),τ
 SPACE
 $,·si,a,r,‥,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 f,·,a,r,_,⅃,σ
 SPACE
@@ -448,7 +448,7 @@ SPACE
 w,_,$,·sh,:,τ,·,i,⅄,y
 SPACE
 ʕ,_,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
@@ -463,7 +463,7 @@ SPACE
 v,·,:,y,_,(ti),d
 SPACE
 h,_,σ,·,a,r,i,y,σ,i,𝓂,y,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Esther 1:16 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -546,7 +546,7 @@ SPACE
 h,_,z,·,∵,(ge),h
 SPACE
 τ,·,o,α,m,_,⅃,r,:,n,a,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·si,a,r,⅃,w,o,τ
 SPACE
@@ -699,7 +699,7 @@ SPACE
 k,·,i,l,:,$,·sh,(me),w,o,n.
 SPACE
 ʕ,_,m,·,𝓂,w,o,.
-START spi-pe2
+START/STOP spi-pe2
 
 Esther 2:1 in vtrad vtsef
 α,_,x,_,r,(p)
@@ -820,7 +820,7 @@ SPACE
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 k,·,‥,𝓂,n.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Esther 2:5 in vtrad vtsef
 α,i,⅃,y,$,·sh
@@ -1029,7 +1029,7 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 l,o,α,-,τ,_,g,·,i,𝓂,y,d,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Esther 2:11 in vtrad vtsef
 w,·,v,:,k,oa,l,-,y,⅃,w,o,m.
@@ -1066,7 +1066,7 @@ SPACE
 w,:,n,_,ʕ,:_,r,a,(ge),h
 SPACE
 l,a,v,⅃,w,o,α
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,l,-,h,_,m,·,∵,⅃,l,∵,k.,:
 SPACE
@@ -1149,7 +1149,7 @@ h,_,m,·,∵,𝓂,l,∵,k.,:,.
 
 Esther 2:14 in vtrad vtsef
 v,·,a,ʕ,∵,⅃,r,∵,v
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,i,⅃,y,α
 SPACE
@@ -1386,7 +1386,7 @@ SPACE
 v,:,α,oa,m,:,n,a,(ti),h
 SPACE
 α,i,τ,·,𝓂,w,o,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Esther 2:21 in vtrad vtsef
 v,·,_,y,·,a,m,i,⅃,y,m.
@@ -1470,11 +1470,11 @@ SPACE
 l,i,f,:,n,‥,(me),y
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START spi-pe2
+START/STOP spi-pe2
 
 Esther 3:1 in vtrad vtsef
 α,_,x,_,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,_,d,·,:,v,a,r,i,⅃,y,m.
 SPACE
@@ -1698,7 +1698,7 @@ SPACE
 h,a,m,a,◆,n.
 SPACE
 m,i,y,·,(da),w,o,m.
-START lp-paseq
+START/STOP lp-paseq
 l,:,y,⟓,w,o,m.
 SPACE
 w,·,m,‥,x,o,⟓,d,∵,$,·sh
@@ -1710,7 +1710,7 @@ SPACE
 h,w,·,α,-,x,o,(me),d,∵,$,·sh
 SPACE
 α,:_,d,a,𝓂,r,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Esther 3:8 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -1866,7 +1866,7 @@ SPACE
 w,:,𝓂,α,∵,l,-,h,_,f,·,_,x,(G),w,o,τ
 SPACE
 α,:_,$,·sh,∵,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 ʕ,_,l,-,m,:,d,i,y,n,a,⅃,h
 SPACE
@@ -2010,7 +2010,7 @@ SPACE
 $,·sh,w,·,$,·sh,a,(ti),n.
 SPACE
 n,a,v,𝓂,w,o,k,a,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Esther 4:1 in vtrad vtsef
 w,·,m,oa,r,:,d,·,:a,k,_,◆,y
@@ -2205,7 +2205,7 @@ SPACE
 q,a,r,a,⅄,h,w,·
 SPACE
 w,:,α,‥,⅃,τ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 f,·,a,r,a,$,·sh,_,⅃,τ
 SPACE
@@ -2374,7 +2374,7 @@ SPACE
 d,·,i,v,:,r,‥,(me),y
 SPACE
 α,∵,σ,:,τ,·,‥,𝓂,r,.
-START spi-pe2
+START/STOP spi-pe2
 
 Esther 4:13 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
@@ -2510,11 +2510,11 @@ SPACE
 ʕ,a,l,a,(ti),y,w
 SPACE
 α,∵,σ,:,τ,·,‥,𝓂,r,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Esther 5:1 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -2602,7 +2602,7 @@ SPACE
 v,·,:,r,o,(me),α,$,·sh
 SPACE
 h,_,$,·sh,·,_,r,:,v,i,𝓂,y,θ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Esther 5:3 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -2927,7 +2927,7 @@ SPACE
 α,_,m,·,a,h,∴
 SPACE
 w,·,v,_,v,·,o,⅃,q,∵,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:∵,m,o,⅃,r
 SPACE
@@ -2956,7 +2956,7 @@ SPACE
 w,_,y,·,_,(me),ʕ,_,$,·si
 SPACE
 h,a,ʕ,‥,𝓂,ц.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Esther 6:1 in vtrad vtsef
 v,·,_,l,·,_,⅃,y,:,l,a,h
@@ -3549,7 +3549,7 @@ SPACE
 v,·,:,n,‥,(me),z,∵,q
 SPACE
 h,_,m,·,∵,𝓂,l,∵,k.,:,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Esther 7:5 in vtrad vtsef
 w,_,y,·,o,(p),α,m,∵,r,(p)
@@ -3660,7 +3660,7 @@ SPACE
 h,_,v,·,i,y,τ,a,(ge),n.
 SPACE
 α,∵,l,-,v,·,‥,⅃,y,τ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,i,$,·sh,:,τ,·,‥,⅃,h
 SPACE
@@ -3705,7 +3705,7 @@ SPACE
 h,a,m,a,(ti),n.
 SPACE
 x,a,f,𝓂,w,·,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Esther 7:9 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -3772,7 +3772,7 @@ SPACE
 h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
 $,·sh,a,k,a,𝓂,k,a,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Esther 8:1 in vtrad vtsef
 v,·,_,y,·,⅃,w,o,m.
@@ -3846,7 +3846,7 @@ SPACE
 ʕ,_,l,-,v,·,‥,(me),y,τ
 SPACE
 h,a,m,a,𝓂,n.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Esther 8:3 in vtrad vtsef
 w,_,τ,·,⅃,w,o,σ,∵,f.
@@ -3989,7 +3989,7 @@ SPACE
 v,·,:,α,oa,v,:,d,_,(ti),n.
 SPACE
 m,w,o,l,_,d,:,τ,·,i,𝓂,y,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Esther 8:7 in vtrad vtsef
 w,_,y,·,o,(qa),α,m,∵,r
@@ -4111,7 +4111,7 @@ SPACE
 h,_,m,·,:,d,i,y,n,(ge),w,o,τ
 SPACE
 α,:_,$,·sh,∵,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,‥,h,o,⅃,d,·,w,·
 SPACE
@@ -4186,7 +4186,7 @@ SPACE
 h,_,m,·,∵,(ge),l,∵,k.,:
 SPACE
 l,_,y,·,:,h,w,·,d,i,⅃,y,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
@@ -4211,7 +4211,7 @@ SPACE
 SPACE
 l,_,h,:_,r,o,(qa),g
 STOP sdt-note
-START sdt-starpos-after-word
+START/STOP sdt-starpos-after-word
 STOP scrdfftar
 SPACE
 w,·,l,:,α,_,v,·,‥,(ge),d
@@ -4328,13 +4328,13 @@ SPACE
 v,·,:,$,·sh,w,·,$,·sh,_,(me),n.
 SPACE
 h,_,v,·,i,y,r,a,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Esther 8:15 in vtrad vtsef
 w,·,m,oa,r,:,d,·,:a,k,_,(G),y
 SPACE
 y,a,ц,a,⅃,α
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,i,l,·,i,f,:,n,‥,⅃,y
 SPACE
@@ -4519,7 +4519,7 @@ SPACE
 SPACE
 v,·,i,f,:,n,‥,y,h,∵,ƶ,m.
 STOP sdt-note
-START sdt-starpos-after-word
+START/STOP sdt-starpos-after-word
 STOP scrdfftar
 SPACE
 k,·,i,𝓂,y,-,n,a,f,_,(me),l
@@ -4613,11 +4613,11 @@ SPACE
 m,‥,α,(ti),w,o,τ
 SPACE
 α,i,𝓂,y,$,·sh,.
-START shirah-space
+START/STOP shirah-space
 
 Esther 9:7 in vtrad vtsef
 w,:,α,‥,(da),τ
-START lp-paseq
+START/STOP lp-paseq
 START slh-word
 START slhw-targ
 f,·,_,r,:,$,·sh,_,n,:,d,·,a,⟓
@@ -4639,33 +4639,33 @@ START slhw-desc-3
 τ,SOLIDUS,q
 STOP slhw-desc-3
 STOP slh-word
-START shirah-space
+START/STOP shirah-space
 w,:,α,‥,(me),τ
-START lp-paseq
+START/STOP lp-paseq
 d,·,_,𝓂,l,:,f,(ti),w,o,n.
-START shirah-space
+START/STOP shirah-space
 w,:,α,‥,(me),τ
-START lp-paseq
+START/STOP lp-paseq
 α,_,σ,:,f,·,a,𝓂,τ,a,α,.
-START shirah-space
+START/STOP shirah-space
 
 Esther 9:8 in vtrad vtsef
 w,:,α,‥,(da),τ
-START lp-paseq
+START/STOP lp-paseq
 f,·,w,o,r,a,⟓,τ,a,α
-START shirah-space
+START/STOP shirah-space
 w,:,α,‥,(me),τ
-START lp-paseq
+START/STOP lp-paseq
 α,:_,d,_,l,:,y,a,(ti),α
-START shirah-space
+START/STOP shirah-space
 w,:,α,‥,(me),τ
-START lp-paseq
+START/STOP lp-paseq
 α,:_,r,i,y,d,a,𝓂,τ,a,α,.
-START shirah-space
+START/STOP shirah-space
 
 Esther 9:9 in vtrad vtsef
 w,:,α,‥,<,τ
-START lp-paseq
+START/STOP lp-paseq
 START slh-word
 START slhw-targ
 f,·,_,r,:,m,_,(p)
@@ -4687,13 +4687,13 @@ START slhw-desc-3
 $,SOLIDUS,q
 STOP slhw-desc-3
 STOP slh-word
-START shirah-space
+START/STOP shirah-space
 w,:,α,‥,⅃,τ
-START lp-paseq
+START/STOP lp-paseq
 α,:_,r,i,y,σ,_,ƶ,y
-START shirah-space
+START/STOP shirah-space
 w,:,α,‥,(me),τ
-START lp-paseq
+START/STOP lp-paseq
 START scrdfftar
 START sdt-target
 α,:_,r,i,d,_,(ti),y
@@ -4713,11 +4713,11 @@ v,m,g,y,l,w,τ
 SPACE
 r,v,w,τ
 STOP sdt-note
-START sdt-starpos-after-word
+START/STOP sdt-starpos-after-word
 STOP scrdfftar
-START shirah-space
+START/STOP shirah-space
 w,:,α,‥,(me),τ
-START lp-paseq
+START/STOP lp-paseq
 START slh-word
 START slhw-targ
 START letter-large
@@ -4743,7 +4743,7 @@ w,SOLIDUS,g,COMMA,z,SOLIDUS,q
 STOP slhw-desc-3
 STOP slh-word
 .
-START shirah-space
+START/STOP shirah-space
 
 Esther 9:10 in vtrad vtsef
 ʕ,:_,⌕,$,·si,∵,⌕,r,∵,τ
@@ -4954,7 +4954,7 @@ SPACE
 h,_,m,·,∵,(ge),l,∵,k.,:
 SPACE
 n,i,q,:,h,:_,l,⅃,w,·
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 w,:,ʕ,a,m,o,⅃,d
 SPACE
@@ -5102,7 +5102,7 @@ SPACE
 α,i,(me),y,$,·sh
 SPACE
 l,:,r,‥,ʕ,‥,𝓂,h,w,·,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Esther 9:20 in vtrad vtsef
 w,_,y,·,i,k,:,τ,·,o,⅃,v
@@ -5342,9 +5342,9 @@ STOP kq-q
 STOP kq
 SPACE
 h,_,y,·,:,h,w,·,d,i,y,m.,(tq)
-START lp-paseq
+START/STOP lp-paseq
 ʕ,:_,l,‥,y,h,∵,(qa),m.
-START lp-paseq
+START/STOP lp-paseq
 w,:,ʕ,_,l,-,z,_,r,:,ʕ,a,(ge),m.
 SPACE
 w,:,ʕ,_,(qa),l
@@ -5421,7 +5421,7 @@ SPACE
 l,o,α,-,y,a,σ,(me),w,·,f.
 SPACE
 m,i,z,·,_,r,:,ʕ,a,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Esther 9:29 in vtrad vtsef
 START slh-word
@@ -5550,7 +5550,7 @@ SPACE
 w,:,n,i,k,:,τ,·,a,(ti),v
 SPACE
 v,·,_,σ,·,‥,𝓂,f,∵,r,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Esther 10:1 in vtrad vtsef
 w,_,y,·,a,(tq),$,·si,∵,m.,(tq)
@@ -5565,7 +5565,7 @@ START kq-q
 α,:_,x,_,$,·sh,:,w,‥,r,(da),w,o,$,·sh
 STOP kq-q
 STOP kq
-START lp-paseq
+START/STOP lp-paseq
 m,_,⟓,σ
 SPACE
 ʕ,_,l,-,h,a,α,a,(ti),r,∵,ц.
@@ -5611,7 +5611,7 @@ w,·,f,a,r,a,𝓂,σ,.
 
 Esther 10:3 in vtrad vtsef
 k,·,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,oa,r,:,d,·,:a,k,_,⅃,y
 SPACE

@@ -99,10 +99,12 @@ def _write_segments(out_fp, segments, cant_dab=None, indent=''):
             segtag = my_html.hel_get_tag(segment)  # e.g. 'span'
             attr = segment.get('attr')
             kev_strs = _key_eq_val_strs(attr or {})
-            out_fp.write(indent + _stasto('START', segtag, kev_strs))
             if contents := segment.get('contents'):
+                out_fp.write(indent + _stasto('START', segtag, kev_strs))
                 _write_segments(out_fp, contents, None, indent)
                 out_fp.write(indent + _stasto('STOP', segtag, kev_strs))
+            else:
+                out_fp.write(indent + _stasto('START/STOP', segtag, kev_strs))
             continue
         assert False, 'instance of unexpected type'
 

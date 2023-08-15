@@ -84,7 +84,7 @@ SPACE
 α,∵,l,-,ц,a,f,⅄,w,o,n.
 SPACE
 σ,w,o,v,‥,<,v
-START lp-paseq
+START/STOP lp-paseq
 σ,o,v,‥,v,(p)
 SPACE
 h,w,o,l,‥,⅃,k.,:
@@ -217,7 +217,7 @@ SPACE
 $,·sh,∵,y,·,i,h,:,y,(ti),w,·
 SPACE
 l,a,α,_,x,:_,r,o,n,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ecclesiastes 1:12 in vtrad vtsef
 α,:_,n,i,⅃,y
@@ -254,7 +254,7 @@ SPACE
 h,_,$,·sh,·,a,m,a,⅄,y,i,m.
 SPACE
 h,⅃,w,·,α
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 ʕ,i,n,:,y,_,⅃,n.
 SPACE
@@ -692,7 +692,7 @@ SPACE
 w,:,σ,i,k,:,l,⅄,w,·,τ
 SPACE
 k,·,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,∵,⅃,h
 SPACE
@@ -1092,63 +1092,63 @@ SPACE
 τ,·,_,(me),x,_,τ
 SPACE
 h,_,$,·sh,·,a,m,a,𝓂,y,i,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ecclesiastes 3:2 in vtrad vtsef
 ʕ,‥,(me),τ
 SPACE
 l,a,l,∵,(ti),d,∵,τ
-START shirah-space
+START/STOP shirah-space
 w,:,ʕ,‥,⅃,τ
 SPACE
 l,a,m,⅄,w,·,τ
-START shirah-space
+START/STOP shirah-space
 ʕ,‥,⅃,τ
 SPACE
 l,a,θ,_,ƶ,ʕ,_,τ
-START shirah-space
+START/STOP shirah-space
 w,:,ʕ,‥,(ti),τ
 SPACE
 l,_,ʕ,:_,q,(me),w,o,r
 SPACE
 n,a,θ,𝓂,w,·,ʕ,_,.
-START shirah-space
+START/STOP shirah-space
 
 Ecclesiastes 3:3 in vtrad vtsef
 ʕ,‥,<,τ
 SPACE
 l,_,h,:_,r,w,o,g,(p)
-START shirah-space
+START/STOP shirah-space
 w,:,ʕ,‥,⅃,τ
 SPACE
 l,i,r,:,f,·,ƶ,w,o,α
-START shirah-space
+START/STOP shirah-space
 ʕ,‥,(me),τ
 SPACE
 l,i,f,:,r,(ti),w,o,ц.
-START shirah-space
+START/STOP shirah-space
 w,:,ʕ,‥,(me),τ
 SPACE
 l,i,v,:,n,𝓂,w,o,τ,.
-START shirah-space
+START/STOP shirah-space
 
 Ecclesiastes 3:4 in vtrad vtsef
 ʕ,‥,<,τ
 SPACE
 l,i,v,:,k,·,w,o,τ,(p)
-START shirah-space
+START/STOP shirah-space
 w,:,ʕ,‥,⅃,τ
 SPACE
 l,i,$,·si,:,x,ƶ,w,o,q
-START shirah-space
+START/STOP shirah-space
 ʕ,‥,(me),τ
 SPACE
 σ,:,f,(ti),w,o,d
-START shirah-space
+START/STOP shirah-space
 w,:,ʕ,‥,(me),τ
 SPACE
 r,:,q,𝓂,w,o,d,.
-START shirah-space
+START/STOP shirah-space
 
 Ecclesiastes 3:5 in vtrad vtsef
 ʕ,‥,(ye),τ
@@ -1156,77 +1156,77 @@ SPACE
 l,:,h,_,$,·sh,:,l,i,⅃,y,k.,:
 SPACE
 α,:_,v,a,n,i,ƶ,y,m.
-START shirah-space
+START/STOP shirah-space
 w,:,ʕ,‥,(ti),τ
 SPACE
 k,·,:,n,⅃,w,o,σ
 SPACE
 α,:_,v,a,n,i,⅄,y,m.
-START shirah-space
+START/STOP shirah-space
 ʕ,‥,⅃,τ
 SPACE
 l,_,x,:_,v,ƶ,w,o,q
-START shirah-space
+START/STOP shirah-space
 w,:,ʕ,‥,(ti),τ
 SPACE
 l,i,r,:,x,o,(me),q
 SPACE
 m,‥,x,_,v,·,‥,𝓂,q,.
-START shirah-space
+START/STOP shirah-space
 
 Ecclesiastes 3:6 in vtrad vtsef
 ʕ,‥,<,τ
 SPACE
 l,:,v,_,q,·,‥,$,·sh,(p)
-START shirah-space
+START/STOP shirah-space
 w,:,ʕ,‥,⅃,τ
 SPACE
 l,:,α,_,v,·,‥,ƶ,d
-START shirah-space
+START/STOP shirah-space
 ʕ,‥,(me),τ
 SPACE
 l,i,$,·sh,:,m,(ti),w,o,r
-START shirah-space
+START/STOP shirah-space
 w,:,ʕ,‥,(me),τ
 SPACE
 l,:,h,_,$,·sh,:,l,i,𝓂,y,k.,:,.
-START shirah-space
+START/STOP shirah-space
 
 Ecclesiastes 3:7 in vtrad vtsef
 ʕ,‥,<,τ
 SPACE
 l,i,q,:,r,(p),w,o,ʕ,_,(p)
-START shirah-space
+START/STOP shirah-space
 w,:,ʕ,‥,⅃,τ
 SPACE
 l,i,τ,:,f,·,ƶ,w,o,r
-START shirah-space
+START/STOP shirah-space
 ʕ,‥,(me),τ
 SPACE
 l,_,x,:_,$,·sh,(ti),w,o,τ
-START shirah-space
+START/STOP shirah-space
 w,:,ʕ,‥,(me),τ
 SPACE
 l,:,d,_,v,·,‥,𝓂,r,.
-START shirah-space
+START/STOP shirah-space
 
 Ecclesiastes 3:8 in vtrad vtsef
 ʕ,‥,<,τ
 SPACE
 l,∵,𝓂,α,:∵,h,o,v,(p)
-START shirah-space
+START/STOP shirah-space
 w,:,ʕ,‥,⅃,τ
 SPACE
 l,i,$,·si,:,n,o,ƶ,α
-START shirah-space
+START/STOP shirah-space
 ʕ,‥,(me),τ
 SPACE
 m,i,l,:,x,a,m,a,(ti),h
-START shirah-space
+START/STOP shirah-space
 w,:,ʕ,‥,(me),τ
 SPACE
 $,·sh,a,l,𝓂,w,o,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ecclesiastes 3:9 in vtrad vtsef
 m,_,h,-,y,·,i,τ,:,r,w,o,n.,(p)
@@ -1618,7 +1618,7 @@ SPACE
 h,_,$,·sh,·,a,⅄,m,∵,$,·sh
 SPACE
 w,:,h,i,n,·,‥,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 d,·,i,m,:,ʕ,_,⅃,τ
 SPACE
@@ -1802,7 +1802,7 @@ SPACE
 ʕ,o,⅄,$,·sh,∵,r
 SPACE
 w,·,l,:,m,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,n,i,⅃,y
 SPACE
@@ -2435,7 +2435,7 @@ SPACE
 θ,w,o,v,a,(ge),h
 SPACE
 v,·,:,k,oa,l,-,ʕ,:_,m,a,l,⅃,w,o
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,∵,y,·,_,ʕ,:_,m,o,⅃,l
 SPACE
@@ -2555,7 +2555,7 @@ SPACE
 x,a,σ,‥,(me),r
 SPACE
 l,:,n,_,f,:,$,·sh,⅃,w,o
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,i,k,·,o,⅃,l
 SPACE
@@ -2601,7 +2601,7 @@ SPACE
 y,i,𝓂,x,:,y,∵,(ge),h
 SPACE
 w,:,r,_,⅃,v
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,∵,y,·,i,h,:,y,⅃,w,·
 SPACE
@@ -3301,7 +3301,7 @@ SPACE
 m,_,h,-,$,·sh,·,∵,h,a,y,a,⅄,h
 SPACE
 w,:,ʕ,a,m,o,(me),q
-START lp-paseq
+START/STOP lp-paseq
 ʕ,a,m,o,(ti),q
 SPACE
 m,i,(me),y
@@ -3772,7 +3772,7 @@ SPACE
 ʕ,_,l,-,h,a,α,a,∴,r,∵,ц.,∴
 SPACE
 α,:_,$,·sh,∵,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,‥,⅃,$,·sh
 SPACE
@@ -4021,7 +4021,7 @@ y,a,r,‥,𝓂,α,.
 
 Ecclesiastes 9:3 in vtrad vtsef
 z,∵,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 r,a,◆,ʕ
 SPACE

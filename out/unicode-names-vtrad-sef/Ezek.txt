@@ -1,7 +1,7 @@
 unicode_names Ezek
 Ezekiel 1:1 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,i,$,·sh,:,l,o,$,·sh,i,⅃,y,m.
 SPACE
@@ -651,7 +651,7 @@ m,i,l,:,m,a,𝓂,ʕ,:,l,a,h,.
 
 Ezekiel 1:27 in vtrad vtsef
 w,a,α,‥,⅃,r,∵,α
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 k,·,:,ʕ,‥,⅃,y,n.
 SPACE
@@ -727,7 +727,7 @@ SPACE
 q,(me),w,o,l
 SPACE
 m,:,d,_,v,·,‥,𝓂,r,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 2:1 in vtrad vtsef
 w,_,y,·,o,(ti),α,m,∵,r
@@ -768,7 +768,7 @@ SPACE
 m,i,d,·,_,v,·,‥,(me),r
 SPACE
 α,‥,l,a,𝓂,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 2:3 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -862,7 +862,7 @@ SPACE
 h,a,y,a,(me),h
 SPACE
 v,:,τ,w,o,k,a,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 2:6 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -923,7 +923,7 @@ SPACE
 m,:,r,i,(ti),y
 SPACE
 h,‥,𝓂,m,·,a,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 2:8 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -997,7 +997,7 @@ SPACE
 w,a,h,∵,(ti),g,∵,h
 SPACE
 w,a,h,i,𝓂,y,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 3:1 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -1077,7 +1077,7 @@ SPACE
 k,·,i,d,:,v,_,(me),$,·sh
 SPACE
 l,:,m,a,τ,𝓂,w,o,q,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 3:4 in vtrad vtsef
 w,_,y,·,o,(ti),α,m,∵,r
@@ -1123,7 +1123,7 @@ y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 Ezekiel 3:6 in vtrad vtsef
 l,o,⅃,α
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,l,-,ʕ,_,m,·,i,⅃,y,m.
 SPACE
@@ -1235,7 +1235,7 @@ SPACE
 m,:,r,i,(ti),y
 SPACE
 h,‥,𝓂,m,·,a,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 3:10 in vtrad vtsef
 w,_,y,·,o,(ti),α,m,∵,r
@@ -1314,7 +1314,7 @@ m,i,m,·,:,q,w,o,m,𝓂,w,o,.
 
 Ezekiel 3:13 in vtrad vtsef
 w,:,q,⅃,w,o,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 k,·,_,n,:,f,‥,⅃,y
 SPACE
@@ -1407,7 +1407,7 @@ SPACE
 $,·sh,i,v,:,ʕ,_,⅃,τ
 SPACE
 y,a,m,i,⅄,y,m.
-START spi-pe3
+START/STOP spi-pe3
 w,_,y,:,h,i,(me),y
 SPACE
 d,:,v,_,r,-,y,:,h,o,w,a,(ti),h
@@ -1586,7 +1586,7 @@ SPACE
 α,∵,𝓂,τ,-,n,_,f,:,$,·sh,:,k.,a,(me)
 SPACE
 h,i,ц,·,_,𝓂,l,:,τ,·,a,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 3:22 in vtrad vtsef
 w,_,τ,·,:,h,i,(me),y
@@ -1733,11 +1733,11 @@ SPACE
 y,:∵,h,o,w,i,⅄,h
 SPACE
 h,_,$,·sh,·,o,m,‥,<,ʕ,_
-START lp-paseq
+START/STOP lp-paseq
 y,i,$,·sh,:,m,a,ʕ,(p)
 SPACE
 w,:,h,∵,x,a,d,‥,⅃,l
-START lp-paseq
+START/STOP lp-paseq
 y,∵,x,:,d,·,a,ƶ,l
 SPACE
 k,·,i,⟓,y
@@ -1747,7 +1747,7 @@ SPACE
 m,:,r,i,(ti),y
 SPACE
 h,‥,𝓂,m,·,a,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 4:1 in vtrad vtsef
 w,:,α,_,τ,·,a,<,h
@@ -1847,7 +1847,7 @@ SPACE
 l,:,v,‥,(me),y,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 4:4 in vtrad vtsef
 w,:,α,_,τ,·,a,<,h
@@ -2025,7 +2025,7 @@ SPACE
 h,_,y,·,a,m,i,(ge),y,m.
 SPACE
 α,:_,$,·sh,∵,r,-,α,_,τ,·,a,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,w,o,k,‥,⅃,v
 SPACE
@@ -2095,7 +2095,7 @@ SPACE
 τ,·,:,ʕ,u,g,∵,(ti),n,a,h
 SPACE
 l,:,ʕ,‥,y,n,‥,y,h,∵,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 4:13 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -2154,7 +2154,7 @@ SPACE
 v,·,:,$,·si,_,(me),r
 SPACE
 f,·,i,g,·,𝓂,w,·,l,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 4:15 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -2190,7 +2190,7 @@ SPACE
 α,∵,𝓂,τ,-,l,_,x,:,m,:,k.,a,(ti)
 SPACE
 ʕ,:_,l,‥,y,h,∵,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 4:16 in vtrad vtsef
 w,_,y,·,o,⅃,α,m,∵,r
@@ -2239,7 +2239,7 @@ SPACE
 w,:,n,a,m,_,(ti),q,·,w,·
 SPACE
 v,·,_,ʕ,:_,w,ḥḥfv,n,a,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 5:1 in vtrad vtsef
 w,:,α,_,τ,·,a,(qa),h
@@ -2247,7 +2247,7 @@ SPACE
 v,∵,n.,-,α,a,d,a,(ge),m.
 SPACE
 q,_,x,-,l,:,k.,a,⅃
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 x,∵,⅃,r,∵,v
 SPACE
@@ -2359,7 +2359,7 @@ SPACE
 α,∵,l,-,k,·,oa,l,-,v,·,‥,(me),y,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 5:5 in vtrad vtsef
 k,·,o,<,h
@@ -2412,13 +2412,13 @@ SPACE
 l,o,α,-,h,a,l,:,k,(me),w,·
 SPACE
 v,a,h,∵,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 5:7 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -2507,7 +2507,7 @@ SPACE
 y,_,(ti),ʕ,_,n.
 SPACE
 k,·,oa,l,-,τ,·,w,o,ʕ,:_,v,o,τ,a,𝓂,y,i,k.,:,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 5:10 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -2537,7 +2537,7 @@ SPACE
 α,∵,τ,-,k,·,oa,l,-,$,·sh,:,α,‥,r,i,y,τ,‥,(ti),k.,:
 SPACE
 l,:,k,oa,l,-,r,𝓂,w,·,x,_,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 5:11 in vtrad vtsef
 l,a,k,‥,⅃,n.
@@ -2757,7 +2757,7 @@ SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 d,·,i,v,·,_,𝓂,r,:,τ,·,i,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 6:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -3003,7 +3003,7 @@ SPACE
 h,a,r,a,ʕ,a,(me),h
 SPACE
 h,_,z,·,o,𝓂,α,τ,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 6:11 in vtrad vtsef
 k,·,o,𝓂,h,-,α,a,m,_,(G),r
@@ -3095,7 +3095,7 @@ SPACE
 r,a,m,a,(ge),h
 SPACE
 v,·,:,k,o,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 r,a,α,$,·sh,‥,⅃,y
 SPACE
@@ -3155,7 +3155,7 @@ SPACE
 k,·,i,𝓂,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 7:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -3256,7 +3256,7 @@ SPACE
 k,·,i,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 7:5 in vtrad vtsef
 k,·,o,(me),h
@@ -3402,7 +3402,7 @@ h,_,z,·,a,d,𝓂,w,o,n.,.
 
 Ezekiel 7:11 in vtrad vtsef
 h,∵,𝓂,x,a,m,a,(me),σ
-START lp-paseq
+START/STOP lp-paseq
 q,a,(ti),m.
 SPACE
 l,:,m,_,θ,·,‥,h,-,r,∵,⅄,$,·sh,_,ʕ
@@ -3693,7 +3693,7 @@ SPACE
 f,·,a,r,i,y,ц,i,(ti),y,m.
 SPACE
 w,:,x,i,l,·,:,l,𝓂,w,·,h,a,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 7:23 in vtrad vtsef
 ʕ,:_,$,·si,‥,(ti),h
@@ -3807,11 +3807,11 @@ SPACE
 k,·,i,𝓂,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 8:1 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,$,·sh,·,a,n,a,⅃,h
 SPACE
@@ -3894,7 +3894,7 @@ SPACE
 α,o,τ,i,⅃,y
 SPACE
 r,⅃,w,·,x,_
-START lp-paseq
+START/STOP lp-paseq
 v,·,‥,𝓂,y,n.,-,h,a,α,a,⅃,r,∵,ц.
 SPACE
 w,·,v,‥,⅃,y,n.
@@ -4020,7 +4020,7 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 ʕ,o,$,·si,i,⅃,y,m.
 SPACE
@@ -4041,7 +4041,7 @@ SPACE
 τ,·,w,o,ʕ,‥,v,(ti),w,o,τ
 SPACE
 g,·,:,d,o,l,𝓂,w,o,τ,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 8:7 in vtrad vtsef
 w,_,y,·,a,v,‥,(me),α
@@ -4080,7 +4080,7 @@ SPACE
 f,·,∵,(me),τ,_,x
 SPACE
 α,∵,x,a,𝓂,d,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 8:9 in vtrad vtsef
 w,_,y,·,o,(ti),α,m,∵,r
@@ -4129,7 +4129,7 @@ SPACE
 ʕ,_,l,-,h,_,q,·,i,(ti),y,r
 SPACE
 σ,a,v,i,(me),y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,𝓂,y,v,.
 
 Ezekiel 8:11 in vtrad vtsef
@@ -4251,7 +4251,7 @@ SPACE
 m,:,v,_,k,·,(ti),w,o,τ
 SPACE
 α,∵,τ,-,h,_,τ,·,_,m,·,𝓂,w,·,z,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 8:15 in vtrad vtsef
 w,_,y,·,o,(me),α,m,∵,r
@@ -4426,14 +4426,14 @@ SPACE
 α,:_,n,a,$,·sh,i,μ,y,m.
 SPACE
 v,·,a,α,i,⅃,y,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,i,d,·,∵,r,∵,k.,:,-,$,·sh,_,(qa),ʕ,_,r
 SPACE
 h,a,ʕ,∵,l,:,y,(ge),w,o,n.
 SPACE
 α,:_,$,·sh,∵,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,oa,f,:,n,∵,⅃,h
 SPACE
@@ -4473,7 +4473,7 @@ h,_,n,·,:,x,o,𝓂,$,·sh,∵,τ,.
 
 Ezekiel 9:3 in vtrad vtsef
 w,·,k,:,v,⅃,w,o,d
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:∵,l,o,h,‥,⅃,y
 SPACE
@@ -4512,7 +4512,7 @@ SPACE
 h,_,σ,·,o,f,‥,(ti),r
 SPACE
 v,·,:,m,oa,τ,:,n,a,𝓂,y,w,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 9:4 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -4754,7 +4754,7 @@ Ezekiel 9:11 in vtrad vtsef
 w,:,h,i,n,·,‥,(G),h
 SPACE
 h,a,α,i,⅃,y,$,·sh
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,:,v,u,⅃,$,·sh
 SPACE
@@ -4786,7 +4786,7 @@ STOP kq-q
 STOP kq
 SPACE
 ц,i,w,·,i,y,τ,a,𝓂,n,i,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 10:1 in vtrad vtsef
 w,a,α,∵,r,:,α,∵,◆,h
@@ -4819,7 +4819,7 @@ Ezekiel 10:2 in vtrad vtsef
 w,_,y,·,o,(ge),α,m,∵,r
 SPACE
 α,∵,l,-,h,a,α,i,⅃,y,$,·sh
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,:,v,u,⅃,$,·sh
 SPACE
@@ -5405,7 +5405,7 @@ SPACE
 $,·si,a,r,‥,(me),y
 SPACE
 h,a,ʕ,a,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 11:2 in vtrad vtsef
 w,_,y,·,o,(ti),α,m,∵,r
@@ -5448,7 +5448,7 @@ SPACE
 w,_,α,:_,n,_,(ti),x,:,n,w,·
 SPACE
 h,_,v,·,a,$,·si,a,𝓂,r,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 11:4 in vtrad vtsef
 l,a,k,‥,(ti),n.
@@ -5510,7 +5510,7 @@ SPACE
 x,w,·,ц,o,τ,∵,(ti),y,h,a
 SPACE
 x,a,l,a,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 11:7 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -5692,7 +5692,7 @@ SPACE
 $,·sh,:,α,‥,r,i,(me),y,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 11:14 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -5745,7 +5745,7 @@ SPACE
 h,a,α,a,(ti),r,∵,ц.
 SPACE
 l,:,m,w,o,r,a,$,·sh,a,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 11:16 in vtrad vtsef
 l,a,k,‥,⅃,n.
@@ -5783,7 +5783,7 @@ SPACE
 α,:_,$,·sh,∵,r,-,v,·,a,(me),α,w,·
 SPACE
 $,·sh,a,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 11:17 in vtrad vtsef
 l,a,k,‥,⅃,n.
@@ -5999,7 +5999,7 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 h,∵,r,:,α,a,𝓂,n,i,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 12:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -6193,7 +6193,7 @@ SPACE
 n,a,$,·si,a,(ti),α,τ,i,y
 SPACE
 l,:,ʕ,‥,y,n,‥,y,h,∵,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 12:8 in vtrad vtsef
 w,_,y,:,h,i,(da),y
@@ -6421,7 +6421,7 @@ SPACE
 k,·,i,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 12:17 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -6514,7 +6514,7 @@ SPACE
 k,·,i,𝓂,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 12:21 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -6614,7 +6614,7 @@ y,i,$,·si,:,r,a,α,‥,𝓂,l,.
 
 Ezekiel 12:25 in vtrad vtsef
 k,·,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,n,i,⅃,y
 SPACE
@@ -6657,7 +6657,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 12:26 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -6729,7 +6729,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 13:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -6869,7 +6869,7 @@ SPACE
 l,o,(me),α
 SPACE
 d,i,v,·,_,𝓂,r,:,τ,·,i,y,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 13:8 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -6992,7 +6992,7 @@ SPACE
 w,:,y,i,f,·,o,⅄,l
 SPACE
 h,a,y,a,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 g,·,∵,⅃,$,·sh,∵,m.
 SPACE
@@ -7032,7 +7032,7 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 θ,_,x,:,τ,·,∵,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 13:13 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -7149,7 +7149,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 13:17 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -7176,7 +7176,7 @@ Ezekiel 13:18 in vtrad vtsef
 w,:,α,a,m,_,r,:,τ,·,a,(G)
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -7189,7 +7189,7 @@ SPACE
 k,·,:,σ,a,τ,(ge),w,o,τ
 SPACE
 ʕ,_,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 k,·,oa,l,-,α,_,ц,·,i,y,l,‥,⅃,y
 SPACE
@@ -7257,13 +7257,13 @@ SPACE
 $,·sh,o,m,:,ʕ,‥,(me),y
 SPACE
 k,a,z,a,𝓂,v,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 13:20 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -7402,7 +7402,7 @@ SPACE
 w,_,y,·,‥,$,·sh,:,v,(ti),w,·
 SPACE
 l,:,f,a,n,a,𝓂,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 14:2 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -7441,7 +7441,7 @@ SPACE
 α,i,d,·,a,r,‥,(ti),$,·sh
 SPACE
 l,a,h,∵,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 14:4 in vtrad vtsef
 l,a,k,‥,⅃,n.
@@ -7453,7 +7453,7 @@ SPACE
 α,:_,l,‥,y,h,∵,(ge),m.
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -7528,13 +7528,13 @@ SPACE
 v,·,:,g,i,l,·,w,·,l,‥,y,h,∵,(ti),m.
 SPACE
 k,·,u,l,·,a,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 14:6 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
 α,:∵,m,o,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,l,-,v,·,‥,⅃,y,τ
 SPACE
@@ -7643,7 +7643,7 @@ SPACE
 k,·,i,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 14:9 in vtrad vtsef
 w,:,h,_,n,·,a,v,i,<,y,α
@@ -7729,7 +7729,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 14:12 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -7995,7 +7995,7 @@ SPACE
 y,_,ц,·,i,(me),y,l,w,·
 SPACE
 n,_,f,:,$,·sh,a,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 14:21 in vtrad vtsef
 k,·,i,y,(tq)
@@ -8013,7 +8013,7 @@ SPACE
 k,·,i,𝓂,y,-,α,_,r,:,v,·,_,⅃,ʕ,_,τ
 SPACE
 $,·sh,:,f,a,θ,_,⅃,y
-START lp-paseq
+START/STOP lp-paseq
 h,a,r,a,ʕ,i,μ,y,m.
 SPACE
 x,∵,⌕,r,∵,v
@@ -8113,7 +8113,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 15:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -8219,7 +8219,7 @@ SPACE
 ʕ,(ti),w,o,d
 SPACE
 l,i,m,:,l,a,α,k,a,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 15:6 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -8299,7 +8299,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 16:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -8636,7 +8636,7 @@ SPACE
 v,·,:,y,oa,f,:,y,‥,⅄,k.,:
 SPACE
 k,·,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 k,·,a,l,i,⅃,y,l
 SPACE
@@ -9132,7 +9132,7 @@ SPACE
 $,·sh,i,m,:,ʕ,i,(ti),y
 SPACE
 d,·,:,v,_,r,-,y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 16:36 in vtrad vtsef
 k,·,o,h,-,α,a,m,_,(G),r
@@ -9361,7 +9361,7 @@ SPACE
 h,‥,(ge),α
 SPACE
 d,·,_,r,:,k,·,‥,⅃,k.,:
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,:,r,o,⅃,α,$,·sh
 SPACE
@@ -9571,7 +9571,7 @@ SPACE
 k,·,_,α,:_,$,·sh,∵,(me),r
 SPACE
 r,a,α,i,𝓂,y,τ,i,y,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 16:51 in vtrad vtsef
 w,:,$,·sh,o,⅃,m,:,r,ƶ,w,o,n.
@@ -9618,7 +9618,7 @@ STOP kq
 
 Ezekiel 16:52 in vtrad vtsef
 g,·,_,m.,-,α,_,⅃,τ,·,:
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·si,:,α,i,⅃,y
 SPACE
@@ -9800,7 +9800,7 @@ SPACE
 n,:,α,u,(ti),m.
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 16:59 in vtrad vtsef
 k,·,i,⅃,y
@@ -9935,7 +9935,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 17:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -9965,7 +9965,7 @@ Ezekiel 17:3 in vtrad vtsef
 w,:,α,a,m,_,r,:,τ,·,a,(G)
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -10164,7 +10164,7 @@ SPACE
 y,:,n,_,τ,·,‥,(ge),q
 SPACE
 w,:,α,∵,τ,-,f,·,i,r,:,y,a,⅃,h,·
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 y,:,q,w,o,σ,‥,⅃,σ
 SPACE
@@ -10214,7 +10214,7 @@ SPACE
 ц,i,m,:,x,a,(ti),h,·
 SPACE
 τ,·,i,y,v,a,𝓂,$,·sh,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 17:11 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -10423,7 +10423,7 @@ SPACE
 l,o,(me),α
 SPACE
 y,i,m,·,a,l,‥,𝓂,θ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 17:19 in vtrad vtsef
 l,a,k,‥,(G),n.
@@ -10507,7 +10507,7 @@ SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 d,·,i,v,·,_,𝓂,r,:,τ,·,i,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 17:22 in vtrad vtsef
 k,·,o,<,h
@@ -10601,7 +10601,7 @@ SPACE
 y,:,h,o,w,a,h,(p)
 SPACE
 h,i,$,·sh,:,f,·,_,⅃,l,:,τ,·,i,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 ʕ,‥,⅃,ц.
 SPACE
@@ -10632,7 +10632,7 @@ SPACE
 d,·,i,v,·,_,(me),r,:,τ,·,i,y
 SPACE
 w,:,ʕ,a,$,·si,i,𝓂,y,τ,i,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 18:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -11147,7 +11147,7 @@ SPACE
 v,·,‥,(G),n.
 SPACE
 l,o,𝓂,α,-,y,i,$,·si,·,a,⅃,α
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,ʕ,:_,w,ḥḥfv,⅃,n.
 SPACE
@@ -11185,7 +11185,7 @@ SPACE
 ʕ,a,l,a,(me),y,w
 SPACE
 τ,·,i,𝓂,h,:,y,∵,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 18:21 in vtrad vtsef
 w,:,h,a,r,a,$,·sh,a,◆,ʕ
@@ -11259,7 +11259,7 @@ SPACE
 m,i,d,·,:,r,a,k,a,(ti),y,w
 SPACE
 w,:,x,a,y,a,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 18:24 in vtrad vtsef
 w,·,v,:,$,·sh,(qa),w,·,v
@@ -11353,7 +11353,7 @@ SPACE
 α,:_,$,·sh,∵,r,-,ʕ,a,$,·si,a,(ti),h
 SPACE
 y,a,m,𝓂,w,·,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 18:27 in vtrad vtsef
 w,·,v,:,$,·sh,⅃,w,·,v
@@ -11525,7 +11525,7 @@ SPACE
 w,:,h,a,$,·sh,i,(ti),y,v,w,·
 SPACE
 w,i,𝓂,x,:,y,𝓂,w,·,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 19:1 in vtrad vtsef
 w,:,α,_,τ,·,a,h,(p)
@@ -11705,7 +11705,7 @@ SPACE
 α,∵,l,-,h,a,r,‥,(me),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 19:10 in vtrad vtsef
 α,i,m,·,:,k.,a,(me)
@@ -11827,11 +11827,11 @@ SPACE
 w,_,τ,·,:,h,i,(me),y
 SPACE
 l,:,q,i,y,n,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 20:1 in vtrad vtsef
 w,_,y,:,h,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,$,·sh,·,a,n,a,⅃,h
 SPACE
@@ -11858,7 +11858,7 @@ SPACE
 w,_,y,·,‥,$,·sh,:,v,(ti),w,·
 SPACE
 l,:,f,a,n,a,𝓂,y,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 20:2 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -12556,7 +12556,7 @@ SPACE
 α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 20:27 in vtrad vtsef
 l,a,k,‥,(G),n.
@@ -12674,13 +12674,13 @@ SPACE
 h,_,y,·,(me),w,o,m.
 SPACE
 h,_,z,·,∵,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 20:30 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
 α,:∵,m,o,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,l,-,v,·,‥,⅃,y,τ
 SPACE
@@ -12728,7 +12728,7 @@ SPACE
 l,:,k,oa,l,-,g,·,i,l,·,𝓂,w,·,l,‥,y,k,∵,m.,(p)
 SPACE
 ʕ,_,d,-,h,_,y,·,ƶ,w,o,m.
-START spi-samekh2
+START/STOP spi-samekh2
 w,_,α,:_,n,i,⟓,y
 SPACE
 α,i,d,·,a,r,‥,(me),$,·sh
@@ -12763,7 +12763,7 @@ SPACE
 τ,i,𝓂,h,:,y,∵,⅄,h
 SPACE
 α,:_,$,·sh,∵,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,_,τ,·,∵,⅃,m.
 SPACE
@@ -12941,7 +12941,7 @@ SPACE
 v,·,‥,𝓂,y,τ,-,y,i,$,·si,:,r,a,α,‥,(ge),l
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -12981,7 +12981,7 @@ SPACE
 v,:,h,_,r,-,q,oa,d,:,$,·sh,i,(G),y
 SPACE
 v,·,:,h,_,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,:,r,⅃,w,o,m.
 SPACE
@@ -13144,7 +13144,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 21:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -13198,7 +13198,7 @@ SPACE
 h,i,n,:,n,i,⅃,y
 SPACE
 m,_,𝓂,ц,·,i,y,τ,-,v,·,:,k.,a,⅃
-START lp-paseq
+START/STOP lp-paseq
 α,‥,μ,$,·sh
 SPACE
 w,:,α,a,k,:,l,a,⅃,h
@@ -13264,7 +13264,7 @@ SPACE
 m,:,$,·sh,a,l,i,(ti),y,m.
 SPACE
 h,𝓂,w,·,α,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 21:6 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -13372,7 +13372,7 @@ SPACE
 τ,a,$,·sh,(ti),w,·,v
 SPACE
 ʕ,𝓂,w,o,d,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 21:11 in vtrad vtsef
 w,:,α,_,τ,·,a,(me),h
@@ -13439,7 +13439,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 21:13 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -13578,7 +13578,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 21:19 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -13617,7 +13617,7 @@ l,a,h,∵,𝓂,m.,.
 
 Ezekiel 21:20 in vtrad vtsef
 l,:,m,_,⅃,ʕ,_,n.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,a,m,⅃,w,·,g
 SPACE
@@ -13678,7 +13678,7 @@ SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 d,·,i,v,·,_,𝓂,r,:,τ,·,i,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 21:23 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -13695,7 +13695,7 @@ SPACE
 v,∵,n.,-,α,a,d,a,(ge),m.
 SPACE
 $,·si,i,y,m.,-,l,:,k.,a,⅃
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 $,·sh,:,n,_,⅃,y,i,m.
 SPACE
@@ -13779,7 +13779,7 @@ Ezekiel 21:27 in vtrad vtsef
 v,·,i,y,m,i,y,n,(G),w,o
 SPACE
 h,a,y,a,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,_,q,·,∵,⅃,σ,∵,m.
 SPACE
@@ -13843,7 +13843,7 @@ SPACE
 ʕ,a,w,ḥḥfv,(ti),n.
 SPACE
 l,:,h,i,τ,·,a,f,‥,𝓂,$,·si,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 21:29 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -13879,7 +13879,7 @@ SPACE
 v,·,_,k,·,_,(ti),f.
 SPACE
 τ,·,i,τ,·,a,f,‥,𝓂,$,·si,w,·,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 21:30 in vtrad vtsef
 w,:,α,_,τ,·,a,h,(p)
@@ -13901,7 +13901,7 @@ SPACE
 ʕ,:_,w,ḥḥfv,(me),n.
 SPACE
 q,‥,𝓂,ц.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 21:31 in vtrad vtsef
 k,·,o,<,h
@@ -13954,7 +13954,7 @@ SPACE
 h,_,m,·,i,$,·sh,:,f,·,a,(ti),θ
 SPACE
 w,·,n,:,τ,_,τ,·,i,𝓂,y,w,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 21:33 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -14098,7 +14098,7 @@ SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 d,·,i,v,·,_,𝓂,r,:,τ,·,i,y,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 22:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -14300,7 +14300,7 @@ SPACE
 
 Ezekiel 22:11 in vtrad vtsef
 w,:,α,i,⅃,y,$,·sh
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,τ,-,α,‥,⅃,$,·sh,∵,τ
 SPACE
@@ -14436,7 +14436,7 @@ SPACE
 k,·,i,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 22:17 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -14482,7 +14482,7 @@ SPACE
 k,·,∵,(ti),σ,∵,f.
 SPACE
 h,a,y,𝓂,w,·,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 22:19 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -14595,7 +14595,7 @@ SPACE
 x,:_,m,a,τ,i,(ti),y
 SPACE
 ʕ,:_,l,‥,y,k,∵,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 22:23 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -14833,7 +14833,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 23:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -15046,7 +15046,7 @@ SPACE
 ʕ,a,(me),$,·si,w,·
 SPACE
 v,a,𝓂,h,·,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 23:11 in vtrad vtsef
 w,_,τ,·,‥,(p),r,∵,α,(p)
@@ -15298,7 +15298,7 @@ SPACE
 $,·sh,:,d,‥,(me),y
 SPACE
 n,:,ʕ,w,·,r,a,𝓂,y,i,k.,:,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 23:22 in vtrad vtsef
 l,a,k,‥,⅃,n.
@@ -15483,7 +15483,7 @@ SPACE
 l,o,(me),α
 SPACE
 τ,i,z,:,k,·,:,r,i,y,-,ʕ,𝓂,w,o,d,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 23:28 in vtrad vtsef
 k,·,i,⅃,y
@@ -15572,7 +15572,7 @@ SPACE
 k,w,o,σ,a,(ti),h,·
 SPACE
 v,·,:,y,a,d,‥,𝓂,k.,:,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 23:32 in vtrad vtsef
 k,·,o,<,h
@@ -15648,7 +15648,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 23:35 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -15682,7 +15682,7 @@ SPACE
 z,i,m,·,a,τ,‥,(ti),k.,:
 SPACE
 w,:,α,∵,τ,-,τ,·,_,z,:,n,w,·,τ,a,𝓂,y,i,k.,:,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 23:36 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -15958,7 +15958,7 @@ SPACE
 w,:,d,a,(ti),m.
 SPACE
 v,·,i,y,d,‥,y,h,∵,𝓂,n.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 23:46 in vtrad vtsef
 k,·,i,⟓,y
@@ -16051,7 +16051,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 24:1 in vtrad vtsef
 w,_,y,:,h,i,y,(tq)
@@ -16185,13 +16185,13 @@ SPACE
 ʕ,:_,ц,a,m,∵,(ti),y,h,a
 SPACE
 v,·,:,τ,w,o,k,a,𝓂,h,·,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 24:6 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -16278,7 +16278,7 @@ SPACE
 l,:,v,i,l,:,τ,·,i,(ti),y
 SPACE
 h,i,k,·,a,σ,𝓂,w,o,τ,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 24:9 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -16421,7 +16421,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 24:15 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -16463,7 +16463,7 @@ d,·,i,m,:,ʕ,a,τ,∵,𝓂,k.,a,.
 
 Ezekiel 24:17 in vtrad vtsef
 h,‥,α,a,n,‥,⅃,q
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 d,·,o,◆,m.
 SPACE
@@ -16556,7 +16556,7 @@ l,‥,α,m,o,𝓂,r,.
 
 Ezekiel 24:21 in vtrad vtsef
 α,:∵,m,o,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,:,v,‥,⅃,y,τ
 SPACE
@@ -16672,7 +16672,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 24:25 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -16750,7 +16750,7 @@ SPACE
 k,·,i,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 25:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -16878,7 +16878,7 @@ SPACE
 k,·,i,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 25:6 in vtrad vtsef
 k,·,i,⅃,y
@@ -16950,7 +16950,7 @@ SPACE
 k,·,i,𝓂,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 25:8 in vtrad vtsef
 k,·,o,(me),h
@@ -17047,7 +17047,7 @@ SPACE
 k,·,i,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 25:12 in vtrad vtsef
 k,·,o,<,h
@@ -17234,7 +17234,7 @@ SPACE
 α,∵,τ,-,n,i,q,:,m,a,τ,i,(ti),y
 SPACE
 v,·,a,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 26:1 in vtrad vtsef
 w,_,y,:,h,i,⟓,y
@@ -17383,7 +17383,7 @@ SPACE
 k,·,i,𝓂,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 26:7 in vtrad vtsef
 k,·,i,⅃,y
@@ -17598,7 +17598,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 26:15 in vtrad vtsef
 k,·,o,(me),h
@@ -17612,7 +17612,7 @@ SPACE
 l,:,ц,⅄,w,o,r
 SPACE
 h,:_,l,o,⅃,α
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,i,q,·,⅃,w,o,l
 SPACE
@@ -17656,7 +17656,7 @@ SPACE
 y,i,f,:,$,·sh,o,⅄,θ,w,·
 SPACE
 x,:_,r,a,d,<,w,o,τ
-START lp-paseq
+START/STOP lp-paseq
 y,i,l,:,v,·,a,(p),$,·sh,w,·,(p)
 SPACE
 ʕ,_,l,-,h,a,α,a,⅃,r,∵,ц.
@@ -17730,7 +17730,7 @@ SPACE
 α,:_,$,·sh,∵,r,-,v,·,_,y,·,a,(ti),m.
 SPACE
 m,i,ц,·,‥,α,τ,‥,𝓂,k.,:,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 26:19 in vtrad vtsef
 k,·,i,⅃,y
@@ -17828,7 +17828,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 27:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -17875,7 +17875,7 @@ SPACE
 α,∵,l,-,α,i,y,·,i,(ti),y,m.
 SPACE
 r,_,v,·,i,⅄,y,m.
-START spi-samekh2
+START/STOP spi-samekh2
 k,·,o,<,h
 SPACE
 α,a,m,_,r,(p)
@@ -18635,7 +18635,7 @@ SPACE
 w,:,α,‥,y,n,‥,(ti),k.,:
 SPACE
 ʕ,_,d,-,ʕ,w,o,l,a,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 28:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -18656,7 +18656,7 @@ SPACE
 ц,o,(ge),r
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -18755,7 +18755,7 @@ SPACE
 l,:,v,a,v,:,k.,a,(ti)
 SPACE
 v,·,:,x,‥,y,l,∵,𝓂,k.,a,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 28:6 in vtrad vtsef
 l,a,k,‥,Ƶ,n.
@@ -18863,7 +18863,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 28:11 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -19101,7 +19101,7 @@ SPACE
 w,:,α,‥,y,n,:,k.,a,(ti)
 SPACE
 ʕ,_,d,-,ʕ,w,o,l,a,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 28:20 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -19223,7 +19223,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 28:25 in vtrad vtsef
 k,·,o,h,-,α,a,m,_,r,~
@@ -19233,7 +19233,7 @@ SPACE
 y,:∵,h,o,w,i,h,∴
 SPACE
 v,·,:,q,_,v,·,:,ц,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,τ,-,v,·,‥,⅃,y,τ
 SPACE
@@ -19307,7 +19307,7 @@ SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 α,:∵,l,o,h,‥,y,h,∵,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 29:1 in vtrad vtsef
 v,·,_,$,·sh,·,a,n,a,h,(p)
@@ -19357,7 +19357,7 @@ SPACE
 w,:,α,a,m,_,r,:,τ,·,a,(ge)
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -19526,7 +19526,7 @@ SPACE
 l,a,h,∵,(ti),m.
 SPACE
 k,·,oa,l,-,m,oa,τ,:,n,a,𝓂,y,i,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 29:8 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -19646,7 +19646,7 @@ SPACE
 $,·sh,:,m,a,m,a,(ge),h
 SPACE
 v,·,:,τ,⅃,w,o,k.,:
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,r,a,ц,⅃,w,o,τ
 SPACE
@@ -19677,7 +19677,7 @@ SPACE
 w,:,z,‥,r,i,y,τ,i,(ti),y,m.
 SPACE
 v,·,a,α,:_,r,a,ц,𝓂,w,o,τ,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 29:13 in vtrad vtsef
 k,·,i,⟓,y
@@ -19782,7 +19782,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 29:17 in vtrad vtsef
 w,_,y,:,h,i,◆,y
@@ -19847,7 +19847,7 @@ SPACE
 α,:_,$,·sh,∵,r,-,ʕ,a,v,_,(me),d
 SPACE
 ʕ,a,l,∵,𝓂,y,h,a,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 29:19 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -19943,7 +19943,7 @@ SPACE
 k,·,i,𝓂,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 30:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -20045,7 +20045,7 @@ SPACE
 v,·,_,x,∵,(me),r,∵,v
 SPACE
 y,i,f,·,o,𝓂,l,w,·,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 30:6 in vtrad vtsef
 k,·,o,(ye),h
@@ -20146,7 +20146,7 @@ SPACE
 h,i,n,·,‥,(ti),h
 SPACE
 v,·,a,α,a,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 30:10 in vtrad vtsef
 k,·,o,(me),h
@@ -20224,7 +20224,7 @@ SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
 d,·,i,v,·,_,𝓂,r,:,τ,·,i,y,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 30:13 in vtrad vtsef
 k,·,o,𝓂,h,-,α,a,m,_,(G),r
@@ -20385,7 +20385,7 @@ SPACE
 k,·,i,𝓂,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 30:20 in vtrad vtsef
 w,_,y,:,h,i,◆,y
@@ -20440,13 +20440,13 @@ SPACE
 l,i,τ,:,f,·,o,(me),$,·si
 SPACE
 v,·,∵,x,a,𝓂,r,∵,v,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 30:22 in vtrad vtsef
 l,a,k,‥,(G),n.
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -20567,7 +20567,7 @@ SPACE
 k,·,i,𝓂,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 31:1 in vtrad vtsef
 w,_,y,:,h,i,◆,y
@@ -20789,7 +20789,7 @@ SPACE
 v,·,:,g,_,(me),n.
 SPACE
 h,a,α,:∵,l,o,h,i,𝓂,y,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 31:10 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -20949,7 +20949,7 @@ SPACE
 α,∵,l,-,y,(me),w,o,r,:,d,‥,y
 SPACE
 v,𝓂,w,o,r,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 31:15 in vtrad vtsef
 k,·,o,𝓂,h,-,α,a,m,_,(G),r
@@ -21092,7 +21092,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 32:1 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -21157,7 +21157,7 @@ SPACE
 w,_,τ,·,i,r,:,f,·,o,(ti),σ
 SPACE
 n,_,h,:_,r,w,o,τ,a,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 32:3 in vtrad vtsef
 k,·,o,<,h
@@ -21342,7 +21342,7 @@ SPACE
 v,·,:,y,(ti),w,o,m.
 SPACE
 m,_,f,·,_,l,:,τ,·,∵,𝓂,k.,a,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 32:11 in vtrad vtsef
 k,·,i,⟓,y
@@ -21487,7 +21487,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 32:17 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
@@ -21662,7 +21662,7 @@ SPACE
 α,:_,𝓂,$,·sh,∵,r,-,y,a,r,:,d,(me),w,·
 SPACE
 ʕ,:_,r,‥,l,i,⅃,y,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,l,-,α,∵,⅃,r,∵,ц.
 SPACE
@@ -21929,7 +21929,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 33:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -22084,7 +22084,7 @@ SPACE
 m,i,y,·,_,𝓂,d,-,h,_,ц,·,o,f,∵,(me),h
 SPACE
 α,∵,d,:,r,o,𝓂,$,·sh,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 33:7 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -22174,7 +22174,7 @@ SPACE
 n,_,f,:,$,·sh,:,k.,a,(me)
 SPACE
 h,i,ц,·,_,𝓂,l,:,τ,·,a,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 33:10 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -22215,10 +22215,10 @@ SPACE
 α,:_,l,‥,y,h,∵,(ge),m.
 SPACE
 x,_,y,-,α,a,⅃,n,i,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 n,:,α,u,⅃,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -22255,7 +22255,7 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 33:12 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -22491,7 +22491,7 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 33:21 in vtrad vtsef
 w,_,y,:,h,i,(G),y
@@ -22556,7 +22556,7 @@ SPACE
 n,∵,α,:∵,l,_,(ti),m,:,τ,·,i,y
 SPACE
 ʕ,𝓂,w,o,d,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 33:23 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -22605,7 +22605,7 @@ SPACE
 h,a,α,a,(ti),r,∵,ц.
 SPACE
 l,:,m,w,o,r,a,$,·sh,a,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 33:25 in vtrad vtsef
 l,a,k,‥,n.,(tq)
@@ -22615,14 +22615,14 @@ SPACE
 α,:_,l,‥,h,∵,(ge),m.
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
 y,:∵,h,o,w,i,◆,h
 SPACE
 ʕ,_,l,-,h,_,d,·,a,(da),m.
-START lp-paseq
+START/STOP lp-paseq
 τ,·,o,α,k,‥,⟓,l,w,·
 SPACE
 w,:,ʕ,‥,y,n,‥,k,∵,⟓,m.
@@ -22659,7 +22659,7 @@ SPACE
 w,:,h,a,α,a,(ti),r,∵,ц.
 SPACE
 τ,·,i,y,r,a,𝓂,$,·sh,w,·,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 33:27 in vtrad vtsef
 k,·,o,h,-,τ,o,α,m,_,(qa),r
@@ -22753,7 +22753,7 @@ SPACE
 α,:_,$,·sh,∵,(me),r
 SPACE
 ʕ,a,$,·si,𝓂,w,·,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 33:30 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -22882,7 +22882,7 @@ SPACE
 h,a,y,a,(me),h
 SPACE
 v,:,τ,w,o,k,a,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 34:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -22913,7 +22913,7 @@ SPACE
 k,·,o,(me),h
 SPACE
 α,a,m,_,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -23058,7 +23058,7 @@ Ezekiel 34:8 in vtrad vtsef
 x,_,y,-,α,a,(ge),n,i,y
 SPACE
 n,:,α,u,⅃,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -23069,7 +23069,7 @@ SPACE
 y,_,⅃,ʕ,_,n.
 SPACE
 h,:∵,y,𝓂,w,o,τ,-,ц,o,α,n,i,⅃,y
-START lp-paseq
+START/STOP lp-paseq
 l,a,v,_,μ,z
 SPACE
 w,_,τ,·,i,h,:,y,∵,(tq),y,n,a,h,(tq)
@@ -23155,7 +23155,7 @@ SPACE
 l,a,h,∵,(ti),m.
 SPACE
 l,:,α,oa,k,:,l,a,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 34:11 in vtrad vtsef
 k,·,i,⟓,y
@@ -23387,7 +23387,7 @@ SPACE
 r,_,g,:,l,‥,y,k,∵,(ti),m.
 SPACE
 τ,·,i,$,·sh,:,τ,·,∵,𝓂,y,n,a,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 34:20 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -23706,7 +23706,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 35:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -23926,7 +23926,7 @@ SPACE
 $,·sh,a,(me),m.
 SPACE
 h,a,y,a,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 35:11 in vtrad vtsef
 l,a,k,‥,⅃,n.
@@ -23971,7 +23971,7 @@ SPACE
 y,:,h,o,w,a,h,∴
 SPACE
 $,·sh,a,m,_,⅃,ʕ,:,τ,·,i,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,τ,-,k,·,oa,l,-,n,a,α,a,𝓂,ц,w,o,τ,∵,◆,y,k.,a
 SPACE
@@ -23984,7 +23984,7 @@ SPACE
 y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 l,‥,α,m,o,⅃,r
-START lp-paseq
+START/STOP lp-paseq
 START kq
 START kq-q
 $,·sh,a,m,‥,⅄,m,w,·
@@ -24016,7 +24016,7 @@ SPACE
 α,:_,n,i,(ti),y
 SPACE
 $,·sh,a,m,a,𝓂,ʕ,:,τ,·,i,y,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 35:14 in vtrad vtsef
 k,·,o,(me),h
@@ -24065,7 +24065,7 @@ SPACE
 k,·,i,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 36:1 in vtrad vtsef
 w,:,α,_,τ,·,a,⅃,h
@@ -24239,7 +24239,7 @@ SPACE
 α,:_,$,·sh,∵,⅃,r
 SPACE
 n,a,τ,:,n,𝓂,w,·,-,α,∵,τ,-,α,_,r,:,ц,i,⅃,y
-START lp-paseq
+START/STOP lp-paseq
 l,a,⌕,h,∵,⌕,m.
 SPACE
 l,:,m,(qa),w,o,r,a,$,·sh,a,(ge),h
@@ -24278,7 +24278,7 @@ SPACE
 w,:,l,_,g,·,‥,α,a,y,(ge),w,o,τ
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -24447,7 +24447,7 @@ SPACE
 ʕ,(ti),w,o,d
 SPACE
 l,:,$,·sh,_,k,·,:,l,a,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 36:13 in vtrad vtsef
 k,·,o,<,h
@@ -24563,7 +24563,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 36:16 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -24684,7 +24684,7 @@ SPACE
 α,:_,$,·sh,∵,r,-,v,·,a,(me),α,w,·
 SPACE
 $,·sh,a,𝓂,m,·,a,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 36:22 in vtrad vtsef
 l,a,k,‥,(G),n.
@@ -24984,7 +24984,7 @@ SPACE
 v,·,‥,(me),y,τ
 SPACE
 y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 36:33 in vtrad vtsef
 k,·,o,<,h
@@ -25069,7 +25069,7 @@ SPACE
 σ,:,v,i,y,v,𝓂,w,o,τ,‥,y,k,∵,m.,∴
 SPACE
 k,·,i,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,n,i,⅃,y
 SPACE
@@ -25090,7 +25090,7 @@ SPACE
 d,·,i,v,·,_,(me),r,:,τ,·,i,y
 SPACE
 w,:,ʕ,a,$,·si,i,𝓂,y,τ,i,y,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 36:37 in vtrad vtsef
 k,·,o,<,h
@@ -25151,7 +25151,7 @@ SPACE
 k,·,i,𝓂,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 37:1 in vtrad vtsef
 h,a,y,:,τ,a,⅃,h
@@ -25184,7 +25184,7 @@ SPACE
 ʕ,:_,l,‥,y,h,∵,(ti),m.
 SPACE
 σ,a,v,i,⅃,y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,⅄,y,v
 SPACE
 w,:,h,i,n,·,‥,(qa),h
@@ -25369,9 +25369,9 @@ SPACE
 w,:,α,a,m,_,r,:,τ,·,a,(qa)
 SPACE
 α,∵,l,-,h,a,r,(ge),w,·,x,_
-START spi-samekh2
+START/STOP spi-samekh2
 k,·,o,h,-,α,a,m,_,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -25535,7 +25535,7 @@ SPACE
 w,:,ʕ,a,$,·si,i,(ti),y,τ,i,y
 SPACE
 n,:,α,u,m.,-,y,:,h,o,w,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 37:15 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -25989,7 +25989,7 @@ SPACE
 v,·,:,τ,w,o,k,a,(ti),m.
 SPACE
 l,:,ʕ,w,o,l,a,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 38:1 in vtrad vtsef
 w,_,y,:,h,i,(me),y
@@ -26158,10 +26158,10 @@ SPACE
 h,_,$,·sh,·,a,n,i,(ge),y,m.
 SPACE
 τ,·,a,v,⅃,w,o,α
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,l,-,α,∵,⅃,r,∵,ц.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,:,$,·sh,w,o,v,∵,⅃,v,∵,τ
 SPACE
@@ -26221,7 +26221,7 @@ SPACE
 r,_,v,·,i,(ti),y,m.
 SPACE
 α,w,o,τ,a,𝓂,k.,:,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 38:10 in vtrad vtsef
 k,·,o,(me),h
@@ -26233,7 +26233,7 @@ SPACE
 y,:∵,h,o,w,i,⅄,h
 SPACE
 w,:,h,a,y,a,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -26351,7 +26351,7 @@ SPACE
 q,:,h,a,l,∵,⅄,k.,a
 SPACE
 l,a,$,·si,‥,⅃,α,τ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 k,·,∵,⅃,σ,∵,f.
 SPACE
@@ -26368,7 +26368,7 @@ SPACE
 $,·sh,a,l,a,(me),l
 SPACE
 g,·,a,d,𝓂,w,o,l,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 38:14 in vtrad vtsef
 l,a,k,‥,n.,(p)
@@ -26390,7 +26390,7 @@ SPACE
 y,:∵,h,o,w,i,⅄,h
 SPACE
 h,:_,l,⅃,w,o,α
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -26475,7 +26475,7 @@ SPACE
 l,:,ʕ,‥,y,n,‥,y,h,∵,(ti),m.
 SPACE
 g,·,𝓂,w,o,g,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 38:17 in vtrad vtsef
 k,·,o,h,-,α,a,m,_,(G),r
@@ -26513,11 +26513,11 @@ SPACE
 α,o,τ,:,k.,a,(ti)
 SPACE
 ʕ,:_,l,‥,y,h,∵,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 38:18 in vtrad vtsef
 w,:,h,a,y,a,⅃,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -26553,7 +26553,7 @@ SPACE
 d,·,i,v,·,_,⅄,r,:,τ,·,i,y
 SPACE
 α,i,m.,-,l,o,⅃,α
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
@@ -26694,7 +26694,7 @@ SPACE
 k,·,i,𝓂,y,-,α,:_,n,i,(me),y
 SPACE
 y,:,h,o,w,a,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 39:1 in vtrad vtsef
 w,:,α,_,τ,·,a,<,h
@@ -26886,7 +26886,7 @@ Ezekiel 39:9 in vtrad vtsef
 w,:,𝓂,y,a,ц,:,α,(G),w,·
 SPACE
 y,o,𝓂,$,·sh,:,v,‥,⅃,y
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 ʕ,a,r,‥,⅃,y
 SPACE
@@ -26954,7 +26954,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 39:11 in vtrad vtsef
 w,:,h,a,y,a,⅃,h
@@ -26966,7 +26966,7 @@ SPACE
 α,∵,τ,·,‥,⅃,n.
 SPACE
 l,:,g,w,o,g,(tq)
-START lp-paseq
+START/STOP lp-paseq
 m,:,q,𝓂,w,o,m.,-,$,·sh,a,(qa),m.
 SPACE
 q,∵,(ge),v,∵,r
@@ -27115,7 +27115,7 @@ SPACE
 w,:,θ,i,h,:_,r,(me),w,·
 SPACE
 h,a,α,a,𝓂,r,∵,ц.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 39:17 in vtrad vtsef
 w,:,α,_,τ,·,a,(qa),h
@@ -27123,7 +27123,7 @@ SPACE
 v,∵,n.,-,α,a,d,a,(ge),m.
 SPACE
 k,·,o,h,-,α,a,m,_,⅃,r
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,:_,d,o,n,a,⅃,y
 SPACE
@@ -27136,7 +27136,7 @@ SPACE
 k,·,oa,l,-,k,·,a,n,a,(ge),f.
 SPACE
 w,·,l,:,k,o,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 x,_,y,·,_,⅃,τ
 SPACE
@@ -27338,7 +27338,7 @@ SPACE
 f,·,a,n,_,(ti),y
 SPACE
 m,‥,h,∵,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 39:25 in vtrad vtsef
 l,a,k,‥,◆,n.
@@ -27478,7 +27478,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 40:1 in vtrad vtsef
 v,·,:,ʕ,∵,$,·si,:,r,i,⅃,y,m.
@@ -27512,7 +27512,7 @@ SPACE
 h,a,ʕ,i,⅄,y,r
 SPACE
 v,·,:,ʕ,∵,⅃,ц,∵,m.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 h,_,y,·,⅃,w,o,m.
 SPACE
@@ -27643,7 +27643,7 @@ SPACE
 l,_,v,·,_,(ti),y,i,τ
 SPACE
 σ,a,v,i,⅃,y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,⅄,y,v
 SPACE
 w,·,v,:,y,_,(qa),d
@@ -27694,7 +27694,7 @@ SPACE
 v,·,:,m,_,ʕ,:_,l,w,o,τ,a,⅄,w
 SPACE
 w,_,y,·,a,⅃,m,oa,d
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,τ,-,σ,_,⅃,f.
 SPACE
@@ -27919,7 +27919,7 @@ SPACE
 h,_,$,·sh,·,_,(ti),ʕ,_,r
 SPACE
 σ,a,v,i,(me),y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,𝓂,y,v,.
 
 Ezekiel 40:15 in vtrad vtsef
@@ -27966,7 +27966,7 @@ SPACE
 l,_,$,·sh,·,_,(p),ʕ,_,r,(p)
 SPACE
 σ,a,v,i,⅃,y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,ƶ,y,v
 SPACE
 w,:,k,‥,(ti),n.
@@ -27976,7 +27976,7 @@ SPACE
 w,:,x,_,l,·,w,o,n,(G),w,o,τ
 SPACE
 σ,a,v,i,<,y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,y,v,(p)
 SPACE
 l,i,f,:,n,i,ƶ,y,m,a,h
@@ -28003,7 +28003,7 @@ SPACE
 l,∵,x,a,ц,‥,(ti),r
 SPACE
 σ,a,v,i,⅃,y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,⅄,y,v
 SPACE
 $,·sh,:,l,o,$,·sh,i,(me),y,m.
@@ -28207,7 +28207,7 @@ SPACE
 w,·,l,:,α,‥,𝓂,y,l,_,m,·,a,w,(p)
 SPACE
 σ,a,v,i,⅃,y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,ƶ,y,v
 SPACE
 k,·,:,h,_,x,_,l,·,o,n,(ti),w,o,τ
@@ -28317,7 +28317,7 @@ SPACE
 w,·,l,:,α,‥,l,_,m,·,a,(ti),w
 SPACE
 σ,a,v,i,⅃,y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,⅄,y,v
 SPACE
 x,:_,m,i,$,·sh,·,i,<,y,m.
@@ -28338,7 +28338,7 @@ Ezekiel 40:30 in vtrad vtsef
 w,:,α,‥,l,_,m,·,(ti),w,o,τ
 SPACE
 σ,a,v,i,⅃,y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,⅄,y,v
 SPACE
 α,o,◆,r,∵,k.,:
@@ -28409,7 +28409,7 @@ SPACE
 w,·,l,:,α,‥,l,_,m,·,a,(ti),w
 SPACE
 σ,a,v,i,⅃,y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,⅄,y,v
 SPACE
 α,o,(ye),r,∵,k.,:
@@ -28472,7 +28472,7 @@ SPACE
 l,(ti),w,o
 SPACE
 σ,a,v,i,⅃,y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,⅄,y,v
 SPACE
 α,o,(ye),r,∵,k.,:
@@ -28669,7 +28669,7 @@ SPACE
 v,·,_,v,·,_,(ti),y,i,τ
 SPACE
 σ,a,v,i,⅃,y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,⅄,y,v
 SPACE
 w,:,α,∵,l,-,h,_,$,·sh,·,u,l,:,x,a,n,(ti),w,o,τ
@@ -28783,7 +28783,7 @@ SPACE
 α,∵,τ,-,h,∵,x,a,ц,‥,(ge),r
 SPACE
 α,o,⅃,r,∵,k.,:
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 m,‥,α,a,⅃,h
 SPACE
@@ -29017,7 +29017,7 @@ SPACE
 α,_,m,·,(ge),w,o,τ
 SPACE
 σ,a,v,i,(da),y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,⟓,y,v
 SPACE
 l,_,v,·,_,(ti),y,i,τ
@@ -29046,7 +29046,7 @@ SPACE
 l,_,ц,·,:,l,a,ʕ,⟓,w,o,τ
 SPACE
 σ,a,v,i,(me),y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,(ti),y,v
 SPACE
 l,i,h,:,y,⅃,w,o,τ
@@ -29081,7 +29081,7 @@ SPACE
 l,:,m,_,(ge),ʕ,:,l,a,h
 SPACE
 σ,a,v,i,<,y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,y,v,(p)
 SPACE
 l,_,v,·,_,ƶ,y,i,τ
@@ -29110,7 +29110,7 @@ SPACE
 g,·,o,(ti),v,_,h,·
 SPACE
 σ,a,v,i,⅃,y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,⅄,y,v
 SPACE
 START kq
@@ -29175,7 +29175,7 @@ SPACE
 l,_,v,·,_,(ti),y,i,τ
 SPACE
 σ,a,v,i,(me),y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,𝓂,y,v,.
 
 Ezekiel 41:11 in vtrad vtsef
@@ -29210,7 +29210,7 @@ SPACE
 α,_,m,·,(ti),w,o,τ
 SPACE
 σ,a,v,i,(me),y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,𝓂,y,v,.
 
 Ezekiel 41:12 in vtrad vtsef
@@ -29241,7 +29241,7 @@ SPACE
 r,o,(ti),x,_,v
 SPACE
 σ,a,v,i,⅃,y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,⅄,y,v
 SPACE
 w,:,α,oa,r,:,k,·,(ti),w,o
@@ -29334,7 +29334,7 @@ SPACE
 h,a,⌕,α,:_,θ,u,m,⌕,w,o,τ
 SPACE
 w,:,h,a,𝓂,α,_,τ,·,i,y,q,i,<,y,m.
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,y,v,(p)
 SPACE
 l,i,$,·sh,:,l,oa,$,·sh,:,τ,·,a,ƶ,m.
@@ -29348,7 +29348,7 @@ SPACE
 ʕ,‥,(ti),ц.
 SPACE
 σ,a,v,i,⅃,y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,⅄,y,v
 SPACE
 w,:,h,a,α,a,(p),r,∵,ц.,(p)
@@ -29373,7 +29373,7 @@ SPACE
 w,:,α,∵,l,-,k,·,oa,l,-,h,_,q,·,i,(qa),y,r
 SPACE
 σ,a,v,i,(da),y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,⟓,y,v
 SPACE
 v,·,_,f,·,:,n,i,y,m,i,(me),y
@@ -29421,7 +29421,7 @@ SPACE
 α,∵,l,-,k,·,oa,l,-,h,_,v,·,_,(ti),y,i,τ
 SPACE
 σ,a,v,i,(me),y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,𝓂,y,v,.
 
 Ezekiel 41:20 in vtrad vtsef
@@ -29810,7 +29810,7 @@ h,_,x,i,ц,o,n,a,𝓂,h,.
 
 Ezekiel 42:10 in vtrad vtsef
 v,·,:,r,o,⅃,x,_,v
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 g,·,∵,⅃,d,∵,r
 SPACE
@@ -29910,7 +29910,7 @@ SPACE
 h,_,g,·,i,z,:,r,a,h,∴
 SPACE
 h,‥,⅃,n,·,a,h
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 l,i,𝓂,$,·sh,:,k,⅃,w,o,τ
 SPACE
@@ -29933,7 +29933,7 @@ SPACE
 $,·sh,a,(G),m.
 SPACE
 y,_,n,·,i,⅃,y,x,w,·
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 q,oa,d,:,$,·sh,‥,⅃,y
 SPACE
@@ -30023,7 +30023,7 @@ SPACE
 w,·,m,:,d,a,d,(ti),w,o
 SPACE
 σ,a,v,i,(me),y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,𝓂,y,v,.
 
 Ezekiel 42:16 in vtrad vtsef
@@ -30118,7 +30118,7 @@ SPACE
 l,w,o,(p)
 SPACE
 σ,a,v,i,⅃,y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,ƶ,y,v
 SPACE
 α,o,(ye),r,∵,k.,:
@@ -30346,7 +30346,7 @@ SPACE
 w,·,v,‥,y,n,‥,y,h,∵,⅄,m.
 SPACE
 w,:,θ,i,m,·,:,α,⅃,w,·
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 α,∵,τ,-,$,·sh,‥,⅃,m.
 SPACE
@@ -30382,7 +30382,7 @@ SPACE
 v,:,τ,w,o,k,a,(ti),m.
 SPACE
 l,:,ʕ,w,o,l,a,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 43:10 in vtrad vtsef
 α,_,τ,·,a,⅃,h
@@ -30471,7 +30471,7 @@ SPACE
 k,·,oa,l,-,g,·,:,v,u,l,(G),w,o
 SPACE
 σ,a,v,i,<,y,v
-START lp-paseq
+START/STOP lp-paseq
 σ,a,v,i,y,v,(p)
 SPACE
 q,o,⅃,d,∵,$,·sh
@@ -30879,7 +30879,7 @@ Ezekiel 43:27 in vtrad vtsef
 w,i,𝓂,y,k,_,l,·,(ti),w,·
 SPACE
 α,∵,τ,-,h,_,y,·,a,m,i,⅄,y,m.
-START spi-samekh2
+START/STOP spi-samekh2
 w,:,h,a,y,a,h,(tq)
 SPACE
 v,_,y,·,(qa),w,o,m.
@@ -30907,7 +30907,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 44:1 in vtrad vtsef
 w,_,y,·,a,⅃,$,·sh,∵,v
@@ -31160,7 +31160,7 @@ SPACE
 v,·,:,m,i,q,:,d,·,a,$,·sh,i,(ti),y
 SPACE
 l,a,k,∵,𝓂,m.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 44:9 in vtrad vtsef
 k,·,o,h,-,α,a,m,_,r,~
@@ -31347,7 +31347,7 @@ SPACE
 y,‥,ʕ,a,$,·si,∵,(ti),h
 SPACE
 v,·,𝓂,w,o,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 44:15 in vtrad vtsef
 w,:,h,_,k,·,o,h,:_,n,i,(qa),y,m.
@@ -31793,7 +31793,7 @@ SPACE
 y,o,α,k,:,l,(ti),w,·
 SPACE
 h,_,k,·,o,h,:_,n,i,𝓂,y,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 45:1 in vtrad vtsef
 w,·,v,:,h,_,f,·,i,𝓂,y,l,:,k,∵,(qa),m.
@@ -31807,7 +31807,7 @@ SPACE
 τ,:,r,w,·,m,a,(qa),h
 SPACE
 l,_,y,h,o,w,a,(me),h
-START lp-paseq
+START/STOP lp-paseq
 q,o,≁,d,∵,$,·sh,~
 SPACE
 m,i,n.,-,h,a,α,a,∴,r,∵,ц.,∴
@@ -32076,7 +32076,7 @@ SPACE
 l,:,v,‥,𝓂,y,τ,-,y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 l,:,$,·sh,i,v,:,θ,‥,y,h,∵,𝓂,m.,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 45:9 in vtrad vtsef
 k,·,o,h,-,α,a,m,_,(G),r
@@ -32266,7 +32266,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 45:16 in vtrad vtsef
 k,·,o,(ye),l
@@ -32323,7 +32323,7 @@ SPACE
 v,·,:,ʕ,_,(me),d
 SPACE
 v,·,‥,𝓂,y,τ,-,y,i,$,·si,:,r,a,α,‥,𝓂,l,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 45:18 in vtrad vtsef
 k,·,o,h,-,α,a,m,_,r,~
@@ -32528,7 +32528,7 @@ SPACE
 w,:,k,_,m,·,i,n,:,x,a,(ti),h
 SPACE
 w,:,k,_,$,·sh,·,a,𝓂,m,∵,n.,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 46:1 in vtrad vtsef
 k,·,o,h,-,α,a,m,_,r,~
@@ -32672,7 +32672,7 @@ SPACE
 h,i,(me),y,n.
 SPACE
 l,a,α,‥,y,f,a,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 46:6 in vtrad vtsef
 w,·,v,:,y,⅃,w,o,m.
@@ -32843,7 +32843,7 @@ SPACE
 h,i,(me),y,n.
 SPACE
 l,a,α,‥,y,f,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 46:12 in vtrad vtsef
 w,:,k,i,𝓂,y,-,y,_,ʕ,:_,$,·si,∵,h,(tq)
@@ -32975,7 +32975,7 @@ SPACE
 ʕ,w,o,l,_,(ti),τ
 SPACE
 τ,·,a,m,i,𝓂,y,d,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 46:16 in vtrad vtsef
 k,·,o,h,-,α,a,m,_,(G),r
@@ -33007,7 +33007,7 @@ SPACE
 h,i,(ti),y,α
 SPACE
 v,·,:,n,_,x,:_,l,a,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 46:17 in vtrad vtsef
 w,:,k,i,𝓂,y,-,y,i,τ,·,‥,(qa),n.
@@ -33464,7 +33464,7 @@ SPACE
 k,oa,l,-,n,∵,⅃,f,∵,$,·sh
 SPACE
 x,_,y,·,a,⅃,h
-START lp-paseq
+START/STOP lp-paseq
 α,:_,𝓂,$,·sh,∵,r,-,y,i,$,·sh,:,r,o,μ,ц.
 SPACE
 α,∵,⅃,l
@@ -33576,9 +33576,9 @@ SPACE
 ʕ,_,l,-,$,·si,:,f,a,τ,⅃,w,o
 SPACE
 m,i,z,·,∵,⅃,h
-START lp-paseq
+START/STOP lp-paseq
 w,·,m,i,z,·,∵,⅃,h
-START lp-paseq
+START/STOP lp-paseq
 k,·,oa,l,-,ʕ,‥,𝓂,ц.,-,m,_,⌕,α,:_,k,a,⌕,l
 SPACE
 l,o,α,-,y,i,v,·,(qa),w,o,l
@@ -33619,7 +33619,7 @@ SPACE
 w,:,ʕ,a,l,‥,(ti),h,w,·
 SPACE
 l,i,τ,:,r,w,·,f,a,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 47:13 in vtrad vtsef
 k,·,o,<,h
@@ -33706,7 +33706,7 @@ SPACE
 
 Ezekiel 47:16 in vtrad vtsef
 x,:_,m,a,<,τ
-START lp-paseq
+START/STOP lp-paseq
 v,·,‥,r,(p),w,o,τ,a,h,(p)
 SPACE
 σ,i,v,:,r,_,ƶ,y,i,m.
@@ -33749,7 +33749,7 @@ SPACE
 d,·,_,m,·,∵,ƶ,$,·si,∵,q
 SPACE
 w,:,ц,a,f,(me),w,o,n.
-START lp-paseq
+START/STOP lp-paseq
 ц,a,f,(ti),w,o,n,a,h
 SPACE
 w,·,g,:,v,⅃,w,·,l
@@ -33925,7 +33925,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-pe2
+START/STOP spi-pe2
 
 Ezekiel 48:1 in vtrad vtsef
 w,:,α,‥,(ti),l,·,∵,h
@@ -33941,7 +33941,7 @@ SPACE
 α,∵,l,-,y,_,⅃,d
 SPACE
 d,·,∵,𝓂,r,∵,k.,:,-,x,∵,τ,:,l,o,⅃,n.
-START lp-paseq
+START/STOP lp-paseq
 l,:,𝓂,v,w,o,α,-,x,:_,m,a,μ,τ
 SPACE
 x,:_,ц,_,⅃,r
@@ -33970,7 +33970,7 @@ SPACE
 
 Ezekiel 48:2 in vtrad vtsef
 w,:,ʕ,_,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -33988,7 +33988,7 @@ SPACE
 
 Ezekiel 48:3 in vtrad vtsef
 w,:,ʕ,_,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -34006,7 +34006,7 @@ SPACE
 
 Ezekiel 48:4 in vtrad vtsef
 w,:,ʕ,_,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -34024,7 +34024,7 @@ SPACE
 
 Ezekiel 48:5 in vtrad vtsef
 w,:,ʕ,_,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -34042,7 +34042,7 @@ SPACE
 
 Ezekiel 48:6 in vtrad vtsef
 w,:,ʕ,_,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -34060,7 +34060,7 @@ SPACE
 
 Ezekiel 48:7 in vtrad vtsef
 w,:,ʕ,_,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -34429,7 +34429,7 @@ SPACE
 v,·,a,α,o,(ge),r,∵,k.,:
 SPACE
 l,:,ʕ,u,m,·,_,⅃,τ
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 τ,·,:,r,w,·,m,_,⅃,τ
 SPACE
@@ -34511,9 +34511,9 @@ SPACE
 l,_,n,·,a,$,·si,i,⅃,y,α
 SPACE
 m,i,z,·,∵,⅃,h
-START lp-paseq
+START/STOP lp-paseq
 w,·,m,i,z,·,∵,⅃,h
-START lp-paseq
+START/STOP lp-paseq
 l,i,τ,:,r,𝓂,w,·,m,_,τ,-,h,_,q,·,o,⅃,d,∵,$,·sh
 SPACE
 w,:,l,_,α,:_,x,u,z,·,_,(yy),τ
@@ -34527,7 +34527,7 @@ SPACE
 w,:,ʕ,∵,$,·si,:,r,i,(qa),y,m.
 SPACE
 α,∵,(me),l,∵,f.
-START lp-paseq
+START/STOP lp-paseq
 τ,·,:,r,w,·,m,a,h,~
 SPACE
 ʕ,_,d,-,g,·,:,v,⅃,w,·,l
@@ -34584,7 +34584,7 @@ SPACE
 y,i,h,:,y,∵,⅄,h
 SPACE
 v,·,‥,⅃,y,n.
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -34617,7 +34617,7 @@ SPACE
 
 Ezekiel 48:24 in vtrad vtsef
 w,:,ʕ,_,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -34635,7 +34635,7 @@ SPACE
 
 Ezekiel 48:25 in vtrad vtsef
 w,:,ʕ,_,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -34653,7 +34653,7 @@ SPACE
 
 Ezekiel 48:26 in vtrad vtsef
 w,:,ʕ,_,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -34671,7 +34671,7 @@ SPACE
 
 Ezekiel 48:27 in vtrad vtsef
 w,:,ʕ,_,⅃,l
-START lp-legarmeih
+START/STOP lp-legarmeih
 SPACE
 g,·,:,v,⅃,w,·,l
 SPACE
@@ -34740,7 +34740,7 @@ SPACE
 α,:_,d,o,n,a,(me),y
 SPACE
 y,:∵,h,o,w,i,𝓂,h,.
-START spi-samekh2
+START/STOP spi-samekh2
 
 Ezekiel 48:30 in vtrad vtsef
 w,:,α,‥,(ti),l,·,∵,h
@@ -34915,6 +34915,6 @@ SPACE
 m,i,y,·,(ti),w,o,m.
 SPACE
 y,:,h,o,w,a,(me),h
-START lp-paseq
+START/STOP lp-paseq
 $,·sh,a,𝓂,m,·,a,h,.
 
