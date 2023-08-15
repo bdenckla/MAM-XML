@@ -14739,7 +14739,7 @@ START slhw-desc-0
 v,·,∵,n.,-,m,:,n,_,$,·sh,·,∵,(ge),h
 STOP slhw-desc-0
 START slhw-desc-1
-FULL STOP,FULL STOP,FULL STOP,FULL STOP,n,FULL STOP,FULL STOP
+FULL STOP,FULL STOP,-,FULL STOP,n,FULL STOP,FULL STOP
 STOP slhw-desc-1
 START slhw-desc-2
 τ

@@ -7392,7 +7392,7 @@ START slhw-desc-0
 ʕ,_,l,-,g,·,a,x,(ge),w,o,n.
 STOP slhw-desc-0
 START slhw-desc-1
-FULL STOP,FULL STOP,FULL STOP,FULL STOP,FULL STOP,w,FULL STOP
+FULL STOP,FULL STOP,-,FULL STOP,FULL STOP,w,FULL STOP
 STOP slhw-desc-1
 START slhw-desc-2
 g

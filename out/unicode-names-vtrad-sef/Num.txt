@@ -12036,7 +12036,7 @@ START slhw-desc-0
 y,i,g,:,d,·,_,l,-,n,a,(ti),α
 STOP slhw-desc-0
 START slhw-desc-1
-y,FULL STOP,FULL STOP,FULL STOP,FULL STOP,FULL STOP,FULL STOP
+y,FULL STOP,FULL STOP,FULL STOP,-,FULL STOP,FULL STOP
 STOP slhw-desc-1
 START slhw-desc-2
 g

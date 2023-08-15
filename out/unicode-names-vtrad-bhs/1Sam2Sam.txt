@@ -41621,7 +41621,7 @@ START slhw-desc-0
 v,·,∵,n.,-,y,_,ʕ,:,r,‥,(qa),y
 STOP slhw-desc-0
 START slhw-desc-1
-FULL STOP,FULL STOP,FULL STOP,FULL STOP,FULL STOP,r,FULL STOP
+FULL STOP,FULL STOP,-,FULL STOP,FULL STOP,r,FULL STOP
 STOP slhw-desc-1
 START slhw-desc-2
 q
