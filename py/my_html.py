@@ -2,14 +2,34 @@ import xml.etree.ElementTree as ET
 import html
 
 import my_open
+import my_two_col_css_styles as my_css_styles
 from my_str_defs import NBSP, THSP
 
 
 def write_html_to_file(html_el, path):
+    """
+    Write HTML to file based on two pieces of information:
+        * a top-level html element
+        * an output path
+    """
     def _write_callback(out_fp):
         out_fp.write('<!doctype html>\n')
         out_fp.write(el_to_str(html_el))
     my_open.with_tmp_openw(path, _write_callback)
+
+
+def write_html_to_file2(body_contents, write_rec):
+    """
+    Write HTML to file based on two pieces of information:
+        * a body contents
+        * a "write record" containing:
+            * a title
+            * an output path
+    """
+    title = write_rec['title']
+    other = {'head_style': my_css_styles.STYLES_STR}
+    html_el = html_el2(title, body_contents, other=other)
+    write_html_to_file(html_el, write_rec['out_path'])
 
 
 def el_to_str(elem):
@@ -135,6 +155,10 @@ def col(attr=None):
 
 def span(contents, attr=None):
     return hel_mk('span', attr=attr, contents=contents, lb1='', lb2='')
+
+
+def span_c(contents, the_class=None):
+    return span(contents, the_class and {'class': the_class})
 
 
 def bold(contents, attr=None):

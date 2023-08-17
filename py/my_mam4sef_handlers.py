@@ -18,12 +18,12 @@ def _text(etel, _ofc1, _ofc2):
 
 
 def _samekh2_or_3(_etel, _ofc1, _ofc2):
-    span = my_html.span(('{ס}',), {'class': 'mam-spi-samekh'})
+    span = my_html.span_c(('{ס}',), 'mam-spi-samekh')
     return [NBSP, span, OCTO_NBSP]
 
 
 def _pe2_or_3(_etel, _ofc1, _ofc2):
-    span = my_html.span(('{פ}',), {'class': 'mam-spi-pe'})
+    span = my_html.span_c(('{פ}',), 'mam-spi-pe')
     return [NBSP, span, my_html.line_break()]
 
 
@@ -46,7 +46,7 @@ def _invnun(etel, _ofc1, _ofc2):
     """
     maybe_nbsp_dic = {'including-trailing-space': [NBSP], None: []}
     maybe_nbsp = maybe_nbsp_dic[etel.attrib.get('class')]
-    span = my_html.span((NUN_HAF,), {'class': 'mam-spi-invnun'})
+    span = my_html.span_c((NUN_HAF,), 'mam-spi-invnun')
     return [span, *maybe_nbsp]
 
 
@@ -80,7 +80,7 @@ def _letter_hung(_etel, ofc1, _ofc2):
 
 def _kq_trivial(_etel, ofc1, _ofc2):
     """ Handle a trivial ketiv/qere element """
-    return [my_html.span(ofc1, {'class': 'mam-kq-trivial'})]
+    return [my_html.span_c(ofc1, 'mam-kq-trivial')]
 
 
 def _ketiv_qere(etel, _ofc1, ofc2):
@@ -89,7 +89,7 @@ def _ketiv_qere(etel, _ofc1, ofc2):
     separator = sep_dic[etel.attrib.get('class')]
     kq_or_qk = tuple(ofc2.values())
     inside = [*kq_or_qk[0], separator, *kq_or_qk[1]]
-    return [my_html.span(inside, {'class': 'mam-kq'})]
+    return [my_html.span_c(inside, 'mam-kq')]
 
 
 def _ketiv(etel, ofc1, _ofc2):
@@ -144,7 +144,7 @@ def _shirah_space(_etel, _ofc1, _ofc2):
 
 
 def _implicit_maqaf(_etel, _ofc1, _ofc2):
-    return [my_html.span([MAQ], {'class': 'mam-implicit-maqaf'})]
+    return [my_html.span_c([MAQ], 'mam-implicit-maqaf')]
 
 
 #######################################################################
