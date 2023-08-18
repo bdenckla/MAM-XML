@@ -2,15 +2,9 @@
   <book39 osisID="Prov">
     <chapter osisID="Prov.1">
       <verse osisID="Prov.1.1">
-        <slh-word>
-          <slhw-targ>
-            <letter-large text="מִ֭" />
-            <text text="שְׁלֵי" />
-          </slhw-targ>
-          <slhw-desc-0 text="מִ֭שְׁלֵי" />
-          <slhw-desc-1 text="מ..." />
-          <slhw-desc-2 text="ג" />
-          <slhw-desc-3 text="מ/ג" />
+        <slh-word slhw-desc-0="מִ֭שְׁלֵי" slhw-desc-1="מ..." slhw-desc-2="ג" slhw-desc-3="מ/ג">
+          <letter-large text="מִ֭" />
+          <text text="שְׁלֵי" />
         </slh-word>
         <text text=" שְׁלֹמֹ֣ה בֶן־דָּוִ֑ד מֶ֝֗לֶךְ יִשְׂרָאֵֽל׃" />
       </verse>
@@ -1499,16 +1493,10 @@
       </verse>
       <spi-pe2 />
       <verse osisID="Prov.28.17" starts-with-sampe="pe2">
-        <slh-word>
-          <slhw-targ>
-            <text text="אָ֭" />
-            <letter-small text="דָ" />
-            <text text="ם" />
-          </slhw-targ>
-          <slhw-desc-0 text="אָ֭דָם" />
-          <slhw-desc-1 text=".ד." />
-          <slhw-desc-2 text="ק" />
-          <slhw-desc-3 text="ד/ק" />
+        <slh-word slhw-desc-0="אָ֭דָם" slhw-desc-1=".ד." slhw-desc-2="ק" slhw-desc-3="ד/ק">
+          <text text="אָ֭" />
+          <letter-small text="דָ" />
+          <text text="ם" />
         </slh-word>
         <text text=" עָשֻׁ֣ק בְּדַם־נָ֑פֶשׁ עַד־בּ֥וֹר יָ֝נ֗וּס אַל־יִתְמְכוּ־בֽוֹ׃" />
       </verse>
@@ -1605,17 +1593,11 @@
         <text text="לַ֥עֲלוּקָ֨ה" />
         <lp-legarmeih />
         <text text=" שְׁתֵּ֥י בָנוֹת֮ " />
-        <slh-word>
-          <slhw-targ>
-            <text text="הַ֤" />
-            <letter-small text="ב" />
-            <lp-legarmeih />
-            <text text=" " />
-          </slhw-targ>
-          <slhw-desc-0 text="הַ֤ב" />
-          <slhw-desc-1 text=".ב" />
-          <slhw-desc-2 text="ק" />
-          <slhw-desc-3 text="ב/ק" />
+        <slh-word slhw-desc-0="הַ֤ב" slhw-desc-1=".ב" slhw-desc-2="ק" slhw-desc-3="ב/ק">
+          <text text="הַ֤" />
+          <letter-small text="ב" />
+          <lp-legarmeih />
+          <text text=" " />
         </slh-word>
         <text text="הַ֥֫ב שָׁל֣וֹשׁ הֵ֭נָּה לֹ֣א תִשְׂבַּ֑עְנָה אַ֝רְבַּ֗ע לֹא־אָ֥מְרוּ הֽוֹן׃" />
       </verse>

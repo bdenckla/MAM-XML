@@ -2,15 +2,9 @@
   <book39 osisID="Song">
     <chapter osisID="Song.1">
       <verse osisID="Song.1.1">
-        <slh-word>
-          <slhw-targ>
-            <letter-large text="שִׁ֥" />
-            <text text="יר" />
-          </slhw-targ>
-          <slhw-desc-0 text="שִׁ֥יר" />
-          <slhw-desc-1 text="ש.." />
-          <slhw-desc-2 text="ג" />
-          <slhw-desc-3 text="ש/ג" />
+        <slh-word slhw-desc-0="שִׁ֥יר" slhw-desc-1="ש.." slhw-desc-2="ג" slhw-desc-3="ש/ג">
+          <letter-large text="שִׁ֥" />
+          <text text="יר" />
         </slh-word>
         <text text=" הַשִּׁירִ֖ים אֲשֶׁ֥ר לִשְׁלֹמֹֽה׃" />
       </verse>

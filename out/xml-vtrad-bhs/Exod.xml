@@ -1688,15 +1688,9 @@
       <verse osisID="Exod.34.7">
         <scrdfftar>
           <sdt-target>
-            <slh-word>
-              <slhw-targ>
-                <letter-large text="נֹ" />
-                <text text="צֵ֥ר" />
-              </slhw-targ>
-              <slhw-desc-0 text="נֹצֵ֥ר" />
-              <slhw-desc-1 text="נ.." />
-              <slhw-desc-2 text="ג" />
-              <slhw-desc-3 text="נ/ג" />
+            <slh-word slhw-desc-0="נֹצֵ֥ר" slhw-desc-1="נ.." slhw-desc-2="ג" slhw-desc-3="נ/ג">
+              <letter-large text="נֹ" />
+              <text text="צֵ֥ר" />
             </slh-word>
           </sdt-target>
           <sdt-note text="בספרי תימן נֹצֵ֥ר בנו״ן רגילה" />
@@ -1714,15 +1708,9 @@
       <verse osisID="Exod.34.13" text="כִּ֤י אֶת־מִזְבְּחֹתָם֙ תִּתֹּצ֔וּן וְאֶת־מַצֵּבֹתָ֖ם תְּשַׁבֵּר֑וּן וְאֶת־אֲשֵׁרָ֖יו תִּכְרֹתֽוּן׃" />
       <verse osisID="Exod.34.14">
         <text text="כִּ֛י לֹ֥א תִֽשְׁתַּחֲוֶ֖ה לְאֵ֣ל " />
-        <slh-word>
-          <slhw-targ>
-            <text text="אַחֵ֑" />
-            <letter-large text="ר" />
-          </slhw-targ>
-          <slhw-desc-0 text="אַחֵ֑ר" />
-          <slhw-desc-1 text="..ר" />
-          <slhw-desc-2 text="ג" />
-          <slhw-desc-3 text="ר/ג" />
+        <slh-word slhw-desc-0="אַחֵ֑ר" slhw-desc-1="..ר" slhw-desc-2="ג" slhw-desc-3="ר/ג">
+          <text text="אַחֵ֑" />
+          <letter-large text="ר" />
         </slh-word>
         <text text=" כִּ֤י יְהֹוָה֙ קַנָּ֣א שְׁמ֔וֹ אֵ֥ל קַנָּ֖א הֽוּא׃" />
       </verse>

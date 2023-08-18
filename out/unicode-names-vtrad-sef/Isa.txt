@@ -21627,26 +21627,12 @@ v,·,_,ʕ,:_,ц,‥,y,-,y,a,⅄,ʕ,_,r
 SPACE
 n,a,θ,_,(me),ʕ
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=אֹ֖רֶן slhw-desc-1=..ן slhw-desc-2=ק slhw-desc-3=ן/ק
 α,o,(ti),r,∵
 START letter-small
 n.
 STOP letter-small
-STOP slhw-targ
-START slhw-desc-0
-α,o,(ti),r,∵,n.
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,FULL STOP,n.
-STOP slhw-desc-1
-START slhw-desc-2
-q
-STOP slhw-desc-2
-START slhw-desc-3
-n.,SOLIDUS,q
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=אֹ֖רֶן slhw-desc-1=..ן slhw-desc-2=ק slhw-desc-3=ן/ק
 SPACE
 w,:,g,∵,(me),$,·sh,∵,m.
 SPACE
@@ -27320,26 +27306,12 @@ v,·,_,y,·,a,𝓂,ʕ,_,r,.
 START/STOP spi-pe2
 
 Isaiah 56:10 in vtrad vtsef
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=צֹפָ֞ו slhw-desc-1=צ.. slhw-desc-2=ג slhw-desc-3=צ/ג
 START letter-large
 ц,o
 STOP letter-large
 f,a,(G),w
-STOP slhw-targ
-START slhw-desc-0
-ц,o,f,a,(G),w
-STOP slhw-desc-0
-START slhw-desc-1
-ц,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-ц,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=צֹפָ֞ו slhw-desc-1=צ.. slhw-desc-2=ג slhw-desc-3=צ/ג
 SPACE
 ʕ,i,w,:,r,i,<,y,m.
 SPACE

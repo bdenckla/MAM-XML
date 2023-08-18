@@ -6714,8 +6714,7 @@ v,·,‥,α,d,_,⅃,y,i,n.
 SPACE
 m,_,l,:,k,·,a,ƶ,α
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=בִּשְׁפַּרְפָּרָ֖א slhw-desc-1=..פ.פ.. slhw-desc-2=קג slhw-desc-3=פ/ק,פ/ג
 v,·,i,$,·sh,:
 START letter-small
 f,·,_
@@ -6725,20 +6724,7 @@ START letter-large
 f,·,a
 STOP letter-large
 r,a,(ti),α
-STOP slhw-targ
-START slhw-desc-0
-v,·,i,$,·sh,:,f,·,_,r,:,f,·,a,r,a,(ti),α
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,FULL STOP,f,FULL STOP,f,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-q,g
-STOP slhw-desc-2
-START slhw-desc-3
-f,SOLIDUS,q,COMMA,f,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=בִּשְׁפַּרְפָּרָ֖א slhw-desc-1=..פ.פ.. slhw-desc-2=קג slhw-desc-3=פ/ק,פ/ג
 SPACE
 y,:,q,⅃,w,·,m.
 SPACE

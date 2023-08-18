@@ -368,26 +368,12 @@ z,w,o,l,‥,l,a,𝓂,h,.
 START/STOP spi-samekh2
 
 Lamentations 1:12 in vtrad vtsef
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=ל֣וֹא slhw-desc-1=ל.. slhw-desc-2=ק slhw-desc-3=ל/ק
 START letter-small
 l,⅃
 STOP letter-small
 w,o,α
-STOP slhw-targ
-START slhw-desc-0
-l,⅃,w,o,α
-STOP slhw-desc-0
-START slhw-desc-1
-l,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-q
-STOP slhw-desc-2
-START slhw-desc-3
-l,SOLIDUS,q
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=ל֣וֹא slhw-desc-1=ל.. slhw-desc-2=ק slhw-desc-3=ל/ק
 SPACE
 α,:_,l,‥,y,k,∵,m.,~
 SPACE
@@ -1003,26 +989,12 @@ SPACE
 START/STOP spi-samekh2
 
 Lamentations 2:9 in vtrad vtsef
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=טָבְע֤וּ slhw-desc-1=ט... slhw-desc-2=ק slhw-desc-3=ט/ק
 START letter-small
 θ,a
 STOP letter-small
 v,:,ʕ,<,w,·
-STOP slhw-targ
-START slhw-desc-0
-θ,a,v,:,ʕ,<,w,·
-STOP slhw-desc-0
-START slhw-desc-1
-θ,FULL STOP,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-q
-STOP slhw-desc-2
-START slhw-desc-3
-θ,SOLIDUS,q
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=טָבְע֤וּ slhw-desc-1=ט... slhw-desc-2=ק slhw-desc-3=ט/ק
 SPACE
 v,a,α,a,(p),r,∵,ц.,(p)
 SPACE
@@ -1949,27 +1921,13 @@ SPACE
 START/STOP spi-samekh3
 
 Lamentations 3:36 in vtrad vtsef
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=לְעַוֵּ֤ת slhw-desc-1=.ע.. slhw-desc-2=ק slhw-desc-3=ע/ק
 l,:
 START letter-small
 ʕ,_
 STOP letter-small
 w,·,‥,<,τ
-STOP slhw-targ
-START slhw-desc-0
-l,:,ʕ,_,w,·,‥,<,τ
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,ʕ,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-q
-STOP slhw-desc-2
-START slhw-desc-3
-ʕ,SOLIDUS,q
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=לְעַוֵּ֤ת slhw-desc-1=.ע.. slhw-desc-2=ק slhw-desc-3=ע/ק
 SPACE
 α,a,d,a,m.,(p)
 SPACE

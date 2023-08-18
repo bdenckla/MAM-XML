@@ -260,15 +260,9 @@
     </chapter>
     <chapter osisID="Eccl.7">
       <verse osisID="Eccl.7.1">
-        <slh-word>
-          <slhw-targ>
-            <letter-large text="ט֥" />
-            <text text="וֹב" />
-          </slhw-targ>
-          <slhw-desc-0 text="ט֥וֹב" />
-          <slhw-desc-1 text="ט.." />
-          <slhw-desc-2 text="ג" />
-          <slhw-desc-3 text="ט/ג" />
+        <slh-word slhw-desc-0="ט֥וֹב" slhw-desc-1="ט.." slhw-desc-2="ג" slhw-desc-3="ט/ג">
+          <letter-large text="ט֥" />
+          <text text="וֹב" />
         </slh-word>
         <text text=" שֵׁ֖ם מִשֶּׁ֣מֶן ט֑וֹב וְי֣וֹם הַמָּ֔וֶת מִיּ֖וֹם הִוָּלְדֽוֹ׃" />
       </verse>
@@ -439,15 +433,9 @@
       <verse osisID="Eccl.12.11" text="דִּבְרֵ֤י חֲכָמִים֙ כַּדָּ֣רְבֹנ֔וֹת וּֽכְמַשְׂמְר֥וֹת נְטוּעִ֖ים בַּעֲלֵ֣י אֲסֻפּ֑וֹת נִתְּנ֖וּ מֵרֹעֶ֥ה אֶחָֽד׃" />
       <verse osisID="Eccl.12.12" text="וְיֹתֵ֥ר מֵהֵ֖מָּה בְּנִ֣י הִזָּהֵ֑ר עֲשׂ֨וֹת סְפָרִ֤ים הַרְבֵּה֙ אֵ֣ין קֵ֔ץ וְלַ֥הַג הַרְבֵּ֖ה יְגִעַ֥ת בָּשָֽׂר׃" />
       <verse osisID="Eccl.12.13">
-        <slh-word>
-          <slhw-targ>
-            <letter-large text="ס֥" />
-            <text text="וֹף" />
-          </slhw-targ>
-          <slhw-desc-0 text="ס֥וֹף" />
-          <slhw-desc-1 text="ס.." />
-          <slhw-desc-2 text="ג" />
-          <slhw-desc-3 text="ס/ג" />
+        <slh-word slhw-desc-0="ס֥וֹף" slhw-desc-1="ס.." slhw-desc-2="ג" slhw-desc-3="ס/ג">
+          <letter-large text="ס֥" />
+          <text text="וֹף" />
         </slh-word>
         <text text=" דָּבָ֖ר הַכֹּ֣ל נִשְׁמָ֑ע אֶת־הָאֱלֹהִ֤ים יְרָא֙ וְאֶת־מִצְוֺתָ֣יו שְׁמ֔וֹר כִּי־זֶ֖ה כׇּל־הָאָדָֽם׃" />
       </verse>

@@ -1,25 +1,11 @@
 unicode_names Gen
 Genesis 1:1 in vtrad vtbhs
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=בְּרֵאשִׁ֖ית slhw-desc-1=ב..... slhw-desc-2=ג slhw-desc-3=ב/ג
 START letter-large
 v,·,:
 STOP letter-large
 r,‥,α,$,·sh,i,(ti),y,τ
-STOP slhw-targ
-START slhw-desc-0
-v,·,:,r,‥,α,$,·sh,i,(ti),y,τ
-STOP slhw-desc-0
-START slhw-desc-1
-v,FULL STOP,FULL STOP,FULL STOP,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-v,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=בְּרֵאשִׁ֖ית slhw-desc-1=ב..... slhw-desc-2=ג slhw-desc-3=ב/ג
 SPACE
 v,·,a,r,a,⅃,α
 SPACE
@@ -852,27 +838,13 @@ h,_,$,·sh,·,a,m,_,⟓,y,i,m.
 SPACE
 w,:,h,a,α,a,(ti),r,∵,ц.
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=בְּהִבָּֽרְאָ֑ם slhw-desc-1=.ה.... slhw-desc-2=ק slhw-desc-3=ה/ק
 v,·,:
 START letter-small
 h,i
 STOP letter-small
 v,·,a,𝓂,r,:,α,a,⅄,m.
-STOP slhw-targ
-START slhw-desc-0
-v,·,:,h,i,v,·,a,𝓂,r,:,α,a,⅄,m.
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,h,FULL STOP,FULL STOP,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-q
-STOP slhw-desc-2
-START slhw-desc-3
-h,SOLIDUS,q
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=בְּהִבָּֽרְאָ֑ם slhw-desc-1=.ה.... slhw-desc-2=ק slhw-desc-3=ה/ק
 SPACE
 v,·,:,y,◆,w,o,m.
 SPACE
@@ -2667,26 +2639,12 @@ v,σ,f,r,y
 SPACE
 τ,y,m,n.
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=סֵ֔פֶר slhw-desc-1=ס.. slhw-desc-2=ג slhw-desc-3=ס/ג
 START letter-large
 σ,‥,ƶ
 STOP letter-large
 f,∵,r
-STOP slhw-targ
-START slhw-desc-0
-σ,‥,ƶ,f,∵,r
-STOP slhw-desc-0
-START slhw-desc-1
-σ,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-σ,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=סֵ֔פֶר slhw-desc-1=ס.. slhw-desc-2=ג slhw-desc-3=ס/ג
 SPACE
 v,σ,m,HPU GERSHAYIM,k.
 SPACE
@@ -13643,27 +13601,13 @@ l,i,σ,:,f,·,o,(me),d
 SPACE
 l,:,$,·si,a,r,a,(ti),h
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=וְלִבְכֹּתָֽהּ slhw-desc-1=...כ.. slhw-desc-2=ק slhw-desc-3=כ/ק
 w,:,l,i,v,:
 START letter-small
 k,·,o
 STOP letter-small
 τ,a,𝓂,h,·
-STOP slhw-targ
-START slhw-desc-0
-w,:,l,i,v,:,k,·,o,τ,a,𝓂,h,·
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,FULL STOP,FULL STOP,k,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-q
-STOP slhw-desc-2
-START slhw-desc-3
-k,SOLIDUS,q
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=וְלִבְכֹּתָֽהּ slhw-desc-1=...כ.. slhw-desc-2=ק slhw-desc-3=כ/ק
 .
 
 Genesis 23:3 in vtrad vtbhs
@@ -18532,26 +18476,12 @@ r,i,v,:,q,a,h,(p)
 SPACE
 α,∵,l,-,y,i,ц,:,x,a,ƶ,q
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=קַ֣צְתִּי slhw-desc-1=ק... slhw-desc-2=ק slhw-desc-3=ק/ק
 START letter-small
 q,_,⅃
 STOP letter-small
 ц,:,τ,·,i,y
-STOP slhw-targ
-START slhw-desc-0
-q,_,⅃,ц,:,τ,·,i,y
-STOP slhw-desc-0
-START slhw-desc-1
-q,FULL STOP,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-q
-STOP slhw-desc-2
-START slhw-desc-3
-q,SOLIDUS,q
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=קַ֣צְתִּי slhw-desc-1=ק... slhw-desc-2=ק slhw-desc-3=ק/ק
 SPACE
 v,:,x,_,y,·,_,ƶ,y
 SPACE

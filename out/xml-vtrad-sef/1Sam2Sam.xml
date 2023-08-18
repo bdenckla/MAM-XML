@@ -3181,16 +3181,10 @@
       <spi-samekh2 />
       <verse osisID="2Sam.21.19" starts-with-sampe="samekh2" ends-with-sampe="samekh2">
         <text text="וַתְּהִי־ע֧וֹד הַמִּלְחָמָ֛ה בְּג֖וֹב עִם־פְּלִשְׁתִּ֑ים וַיַּ֡ךְ אֶלְחָנָן֩ " />
-        <slh-word>
-          <slhw-targ>
-            <text text="בֶּן־יַעְ" />
-            <letter-small text="רֵ֨" />
-            <text text="י" />
-          </slhw-targ>
-          <slhw-desc-0 text="בֶּן־יַעְרֵ֨י" />
-          <slhw-desc-1 text="..־..ר." />
-          <slhw-desc-2 text="ק" />
-          <slhw-desc-3 text="ר/ק" />
+        <slh-word slhw-desc-0="בֶּן־יַעְרֵ֨י" slhw-desc-1="..־..ר." slhw-desc-2="ק" slhw-desc-3="ר/ק">
+          <text text="בֶּן־יַעְ" />
+          <letter-small text="רֵ֨" />
+          <text text="י" />
         </slh-word>
         <text text=" אֹרְגִ֜ים בֵּ֣ית הַלַּחְמִ֗י אֵ֚ת גׇּלְיָ֣ת הַגִּתִּ֔י וְעֵ֣ץ חֲנִית֔וֹ כִּמְנ֖וֹר אֹרְגִֽים׃" />
       </verse>

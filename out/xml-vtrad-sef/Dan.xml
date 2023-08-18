@@ -859,18 +859,12 @@
       <verse osisID="Dan.6.19" text="אֱ֠דַ֠יִן אֲזַ֨ל מַלְכָּ֤א לְהֵֽיכְלֵהּ֙ וּבָ֣ת טְוָ֔ת וְדַחֲוָ֖ן לָא־הַנְעֵ֣ל קׇֽדָמ֑וֹהִי וְשִׁנְתֵּ֖הּ נַדַּ֥ת עֲלֽוֹהִי׃" />
       <verse osisID="Dan.6.20">
         <text text="בֵּאדַ֣יִן מַלְכָּ֔א " />
-        <slh-word>
-          <slhw-targ>
-            <text text="בִּשְׁ" />
-            <letter-small text="פַּ" />
-            <text text="רְ" />
-            <letter-large text="פָּ" />
-            <text text="רָ֖א" />
-          </slhw-targ>
-          <slhw-desc-0 text="בִּשְׁפַּרְפָּרָ֖א" />
-          <slhw-desc-1 text="..פ.פ.." />
-          <slhw-desc-2 text="קג" />
-          <slhw-desc-3 text="פ/ק,פ/ג" />
+        <slh-word slhw-desc-0="בִּשְׁפַּרְפָּרָ֖א" slhw-desc-1="..פ.פ.." slhw-desc-2="קג" slhw-desc-3="פ/ק,פ/ג">
+          <text text="בִּשְׁ" />
+          <letter-small text="פַּ" />
+          <text text="רְ" />
+          <letter-large text="פָּ" />
+          <text text="רָ֖א" />
         </slh-word>
         <text text=" יְק֣וּם בְּנׇגְהָ֑א וּ֨בְהִתְבְּהָלָ֔ה לְגֻבָּ֥א דִֽי־אַרְיָוָתָ֖א אֲזַֽל׃" />
       </verse>

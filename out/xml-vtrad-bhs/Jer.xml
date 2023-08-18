@@ -823,16 +823,10 @@
       <verse osisID="Jer.14.1" starts-with-sampe="samekh2" text="אֲשֶׁ֨ר הָיָ֤ה דְבַר־יְהֹוָה֙ אֶֽל־יִרְמְיָ֔הוּ עַל־דִּבְרֵ֖י הַבַּצָּרֽוֹת׃" />
       <verse osisID="Jer.14.2">
         <text text="אָבְלָ֣ה יְהוּדָ֔ה וּשְׁעָרֶ֥יהָ אֻמְלְל֖וּ קָדְר֣וּ לָאָ֑רֶץ " />
-        <slh-word>
-          <slhw-targ>
-            <text text="וְ" />
-            <letter-small text="צִ" />
-            <text text="וְחַ֥ת" />
-          </slhw-targ>
-          <slhw-desc-0 text="וְצִוְחַ֥ת" />
-          <slhw-desc-1 text=".צ..." />
-          <slhw-desc-2 text="ק" />
-          <slhw-desc-3 text="צ/ק" />
+        <slh-word slhw-desc-0="וְצִוְחַ֥ת" slhw-desc-1=".צ..." slhw-desc-2="ק" slhw-desc-3="צ/ק">
+          <text text="וְ" />
+          <letter-small text="צִ" />
+          <text text="וְחַ֥ת" />
         </slh-word>
         <text text=" יְרֽוּשָׁלַ֖͏ִם עָלָֽתָה׃" />
       </verse>
@@ -2303,15 +2297,9 @@
       </verse>
       <verse osisID="Jer.39.13">
         <text text="וַיִּשְׁלַ֞ח נְבוּזַרְאֲדָ֣ן רַב־טַבָּחִ֗ים " />
-        <slh-word>
-          <slhw-targ>
-            <text text="וּנְבֽוּשַׁזְבָּ" />
-            <letter-small text="ן֙" />
-          </slhw-targ>
-          <slhw-desc-0 text="וּנְבֽוּשַׁזְבָּן֙" />
-          <slhw-desc-1 text=".......ן" />
-          <slhw-desc-2 text="ק" />
-          <slhw-desc-3 text="ן/ק" />
+        <slh-word slhw-desc-0="וּנְבֽוּשַׁזְבָּן֙" slhw-desc-1=".......ן" slhw-desc-2="ק" slhw-desc-3="ן/ק">
+          <text text="וּנְבֽוּשַׁזְבָּ" />
+          <letter-small text="ן֙" />
         </slh-word>
         <text text=" רַב־סָרִ֔יס וְנֵרְגַ֥ל שַׂרְאֶ֖צֶר רַב־מָ֑ג וְכֹ֖ל רַבֵּ֥י מֶלֶךְ־בָּבֶֽל׃" />
       </verse>

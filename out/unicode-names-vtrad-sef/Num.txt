@@ -12025,26 +12025,12 @@ v,·,_,m,·,i,d,:,v,·,a,𝓂,r,.
 Numbers 14:17 in vtrad vtsef
 w,:,ʕ,_,τ,·,a,Ƶ,h
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=יִגְדַּל־נָ֖א slhw-desc-1=י...־.. slhw-desc-2=ג slhw-desc-3=י/ג
 START letter-large
 y,i
 STOP letter-large
 g,:,d,·,_,l,-,n,a,(ti),α
-STOP slhw-targ
-START slhw-desc-0
-y,i,g,:,d,·,_,l,-,n,a,(ti),α
-STOP slhw-desc-0
-START slhw-desc-1
-y,FULL STOP,FULL STOP,FULL STOP,-,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-y,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=יִגְדַּל־נָ֖א slhw-desc-1=י...־.. slhw-desc-2=ג slhw-desc-3=י/ג
 SPACE
 k,·,o,⅃,x,_
 SPACE
@@ -20999,27 +20985,13 @@ n,h,w,g
 SPACE
 l,k,τ,w,v
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=פִּֽינְחָ֨ס slhw-desc-1=.י... slhw-desc-2=ק slhw-desc-3=י/ק
 f,·,i,𝓂
 START letter-small
 y
 STOP letter-small
 n,:,x,a,(qa),σ
-STOP slhw-targ
-START slhw-desc-0
-f,·,i,𝓂,y,n,:,x,a,(qa),σ
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,y,FULL STOP,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-q
-STOP slhw-desc-2
-START slhw-desc-3
-y,SOLIDUS,q
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=פִּֽינְחָ֨ס slhw-desc-1=.י... slhw-desc-2=ק slhw-desc-3=י/ק
 SPACE
 v,y,w,HPU GERSHAYIM,d
 SPACE
@@ -22669,26 +22641,12 @@ SPACE
 m,o,$,·sh,∵,⟓,h
 SPACE
 α,∵,τ,-
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=מִשְׁפָּטָ֖ן slhw-desc-1=....ן slhw-desc-2=ג slhw-desc-3=ן/ג
 m,i,$,·sh,:,f,·,a,θ,a,(ti)
 START letter-large
 n.
 STOP letter-large
-STOP slhw-targ
-START slhw-desc-0
-m,i,$,·sh,:,f,·,a,θ,a,(ti),n.
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,FULL STOP,FULL STOP,FULL STOP,n.
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-n.,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=מִשְׁפָּטָ֖ן slhw-desc-1=....ן slhw-desc-2=ג slhw-desc-3=ן/ג
 SPACE
 l,i,f,:,n,‥,(me),y
 SPACE

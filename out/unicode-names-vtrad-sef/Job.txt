@@ -2569,27 +2569,13 @@ r,i,(de),m,·,a,h
 SPACE
 START kq
 START kq-k
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=וגיש slhw-desc-1=.ג.. slhw-desc-2=ק slhw-desc-3=ג/ק
 w
 START letter-small
 g
 STOP letter-small
 y,$
-STOP slhw-targ
-START slhw-desc-0
-w,g,y,$
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,g,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-q
-STOP slhw-desc-2
-START slhw-desc-3
-g,SOLIDUS,q
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=וגיש slhw-desc-1=.ג.. slhw-desc-2=ק slhw-desc-3=ג/ק
 STOP kq-k
 START kq-q
 w,:,g,⅃,w,·,$,·sh
@@ -3567,27 +3553,13 @@ y,a,σ,‥,⅃,r
 SPACE
 m,‥,ʕ,a,l,_,⅃,y
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=שִׁבְט֑וֹ slhw-desc-1=..ט. slhw-desc-2=ג slhw-desc-3=ט/ג
 $,·sh,i,v,:
 START letter-large
 θ,⅄
 STOP letter-large
 w,o
-STOP slhw-targ
-START slhw-desc-0
-$,·sh,i,v,:,θ,⅄,w,o
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,FULL STOP,θ,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-θ,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=שִׁבְט֑וֹ slhw-desc-1=..ט. slhw-desc-2=ג slhw-desc-3=ט/ג
 SPACE
 w,:,γ,α,‥,m,a,τ,◆,w,o
 SPACE
@@ -5961,26 +5933,12 @@ m,:,r,‥,r,a,τ,i,𝓂,y,.
 Job 16:14 in vtrad vtsef
 y,i,f,:,r,:,ц,‥,⅃,n,i,y
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=פֶ֭רֶץ slhw-desc-1=..ץ slhw-desc-2=ק slhw-desc-3=ץ/ק
 f,∵,(de),r,∵
 START letter-small
 ц.
 STOP letter-small
-STOP slhw-targ
-START slhw-desc-0
-f,∵,(de),r,∵,ц.
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,FULL STOP,ц.
-STOP slhw-desc-1
-START slhw-desc-2
-q
-STOP slhw-desc-2
-START slhw-desc-3
-ц.,SOLIDUS,q
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=פֶ֭רֶץ slhw-desc-1=..ץ slhw-desc-2=ק slhw-desc-3=ץ/ק
 SPACE
 ʕ,_,l,-,f,·,:,n,‥,y,-,f,a,⅄,r,∵,ц.
 SPACE
@@ -11695,26 +11653,12 @@ v,·,:,𝓂,l,i,(ol),y
 START/STOP implicit-maqaf
 f,a,(me),$,·sh,_,ʕ
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=חַ֥ף slhw-desc-1=ח. slhw-desc-2=ק slhw-desc-3=ח/ק
 START letter-small
 x,_,(me)
 STOP letter-small
 f.
-STOP slhw-targ
-START slhw-desc-0
-x,_,(me),f.
-STOP slhw-desc-0
-START slhw-desc-1
-x,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-q
-STOP slhw-desc-2
-START slhw-desc-3
-x,SOLIDUS,q
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=חַ֥ף slhw-desc-1=ח. slhw-desc-2=ק slhw-desc-3=ח/ק
 SPACE
 α,a,n,o,k,i,⅄,y
 SPACE
@@ -13767,27 +13711,13 @@ h,a,α,a,⅄,r,∵,ц.
 SPACE
 w,:,y,i,n,·,a,ʕ,:_,r,(ti),w,·
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=רְשָׁעִ֣ים slhw-desc-1=..ע.. slhw-desc-2=ת slhw-desc-3=ע/ת
 r,:,$,·sh,a
 START letter-hung
 ʕ,i,⅃
 STOP letter-hung
 y,m.
-STOP slhw-targ
-START slhw-desc-0
-r,:,$,·sh,a,ʕ,i,⅃,y,m.
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,FULL STOP,ʕ,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-τ
-STOP slhw-desc-2
-START slhw-desc-3
-ʕ,SOLIDUS,τ
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=רְשָׁעִ֣ים slhw-desc-1=..ע.. slhw-desc-2=ת slhw-desc-3=ע/ת
 SPACE
 m,i,m,·,∵,𝓂,n,·,a,h,.
 
@@ -13807,27 +13737,13 @@ l,:,v,𝓂,w,·,$,·sh,.
 Job 38:15 in vtrad vtsef
 w,:,y,i,m,·,a,n,_,⅃,ʕ
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=מֵרְשָׁעִ֣ים slhw-desc-1=...ע.. slhw-desc-2=ת slhw-desc-3=ע/ת
 m,‥,r,:,$,·sh,a
 START letter-hung
 ʕ,i,⅃
 STOP letter-hung
 y,m.
-STOP slhw-targ
-START slhw-desc-0
-m,‥,r,:,$,·sh,a,ʕ,i,⅃,y,m.
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,FULL STOP,FULL STOP,ʕ,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-τ
-STOP slhw-desc-2
-START slhw-desc-3
-ʕ,SOLIDUS,τ
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=מֵרְשָׁעִ֣ים slhw-desc-1=...ע.. slhw-desc-2=ת slhw-desc-3=ע/ת
 SPACE
 α,w,o,r,a,⅄,m.
 SPACE

@@ -833,15 +833,9 @@
       <verse osisID="Num.14.16" text="מִבִּלְתִּ֞י יְכֹ֣לֶת יְהֹוָ֗ה לְהָבִיא֙ אֶת־הָעָ֣ם הַזֶּ֔ה אֶל־הָאָ֖רֶץ אֲשֶׁר־נִשְׁבַּ֣ע לָהֶ֑ם וַיִּשְׁחָטֵ֖ם בַּמִּדְבָּֽר׃" />
       <verse osisID="Num.14.17">
         <text text="וְעַתָּ֕ה " />
-        <slh-word>
-          <slhw-targ>
-            <letter-large text="יִ" />
-            <text text="גְדַּל־נָ֖א" />
-          </slhw-targ>
-          <slhw-desc-0 text="יִגְדַּל־נָ֖א" />
-          <slhw-desc-1 text="י...־.." />
-          <slhw-desc-2 text="ג" />
-          <slhw-desc-3 text="י/ג" />
+        <slh-word slhw-desc-0="יִגְדַּל־נָ֖א" slhw-desc-1="י...־.." slhw-desc-2="ג" slhw-desc-3="י/ג">
+          <letter-large text="יִ" />
+          <text text="גְדַּל־נָ֖א" />
         </slh-word>
         <text text=" כֹּ֣חַ אֲדֹנָ֑י כַּאֲשֶׁ֥ר דִּבַּ֖רְתָּ לֵאמֹֽר׃" />
       </verse>
@@ -1368,16 +1362,10 @@
           <sdt-target text="פִּֽינְחָ֨ס" />
           <sdt-note>
             <text text="בספרי ספרד ואשכנז נהוג לכתוב " />
-            <slh-word>
-              <slhw-targ>
-                <text text="פִּֽ" />
-                <letter-small text="י" />
-                <text text="נְחָ֨ס" />
-              </slhw-targ>
-              <slhw-desc-0 text="פִּֽינְחָ֨ס" />
-              <slhw-desc-1 text=".י..." />
-              <slhw-desc-2 text="ק" />
-              <slhw-desc-3 text="י/ק" />
+            <slh-word slhw-desc-0="פִּֽינְחָ֨ס" slhw-desc-1=".י..." slhw-desc-2="ק" slhw-desc-3="י/ק">
+              <text text="פִּֽ" />
+              <letter-small text="י" />
+              <text text="נְחָ֨ס" />
             </slh-word>
             <text text=" ביו״ד זעירא" />
           </sdt-note>
@@ -1517,15 +1505,9 @@
       <verse osisID="Num.27.4" text="לָ֣מָּה יִגָּרַ֤ע שֵׁם־אָבִ֙ינוּ֙ מִתּ֣וֹךְ מִשְׁפַּחְתּ֔וֹ כִּ֛י אֵ֥ין ל֖וֹ בֵּ֑ן תְּנָה־לָּ֣נוּ אֲחֻזָּ֔ה בְּת֖וֹךְ אֲחֵ֥י אָבִֽינוּ׃" />
       <verse osisID="Num.27.5" ends-with-sampe="pe2">
         <text text="וַיַּקְרֵ֥ב מֹשֶׁ֛ה אֶת־" />
-        <slh-word>
-          <slhw-targ>
-            <text text="מִשְׁפָּטָ֖" />
-            <letter-large text="ן" />
-          </slhw-targ>
-          <slhw-desc-0 text="מִשְׁפָּטָ֖ן" />
-          <slhw-desc-1 text="....ן" />
-          <slhw-desc-2 text="ג" />
-          <slhw-desc-3 text="ן/ג" />
+        <slh-word slhw-desc-0="מִשְׁפָּטָ֖ן" slhw-desc-1="....ן" slhw-desc-2="ג" slhw-desc-3="ן/ג">
+          <text text="מִשְׁפָּטָ֖" />
+          <letter-large text="ן" />
         </slh-word>
         <text text=" לִפְנֵ֥י יְהֹוָֽה׃" />
       </verse>

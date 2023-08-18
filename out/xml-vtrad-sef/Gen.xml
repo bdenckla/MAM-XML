@@ -2,15 +2,9 @@
   <book39 osisID="Gen">
     <chapter osisID="Gen.1">
       <verse osisID="Gen.1.1">
-        <slh-word>
-          <slhw-targ>
-            <letter-large text="בְּ" />
-            <text text="רֵאשִׁ֖ית" />
-          </slhw-targ>
-          <slhw-desc-0 text="בְּרֵאשִׁ֖ית" />
-          <slhw-desc-1 text="ב....." />
-          <slhw-desc-2 text="ג" />
-          <slhw-desc-3 text="ב/ג" />
+        <slh-word slhw-desc-0="בְּרֵאשִׁ֖ית" slhw-desc-1="ב....." slhw-desc-2="ג" slhw-desc-3="ב/ג">
+          <letter-large text="בְּ" />
+          <text text="רֵאשִׁ֖ית" />
         </slh-word>
         <text text=" בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ׃" />
       </verse>
@@ -82,16 +76,10 @@
       <spi-pe2 />
       <verse osisID="Gen.2.4" starts-with-sampe="pe2">
         <text text="אֵ֣לֶּה תוֹלְד֧וֹת הַשָּׁמַ֛יִם וְהָאָ֖רֶץ " />
-        <slh-word>
-          <slhw-targ>
-            <text text="בְּ" />
-            <letter-small text="הִ" />
-            <text text="בָּֽרְאָ֑ם" />
-          </slhw-targ>
-          <slhw-desc-0 text="בְּהִבָּֽרְאָ֑ם" />
-          <slhw-desc-1 text=".ה...." />
-          <slhw-desc-2 text="ק" />
-          <slhw-desc-3 text="ה/ק" />
+        <slh-word slhw-desc-0="בְּהִבָּֽרְאָ֑ם" slhw-desc-1=".ה...." slhw-desc-2="ק" slhw-desc-3="ה/ק">
+          <text text="בְּ" />
+          <letter-small text="הִ" />
+          <text text="בָּֽרְאָ֑ם" />
         </slh-word>
         <text text=" בְּי֗וֹם עֲשׂ֛וֹת יְהֹוָ֥ה אֱלֹהִ֖ים אֶ֥רֶץ וְשָׁמָֽיִם׃" />
       </verse>
@@ -217,15 +205,9 @@
           <sdt-target text="סֵ֔פֶר" />
           <sdt-note>
             <text text="בספרי תימן " />
-            <slh-word>
-              <slhw-targ>
-                <letter-large text="סֵ֔" />
-                <text text="פֶר" />
-              </slhw-targ>
-              <slhw-desc-0 text="סֵ֔פֶר" />
-              <slhw-desc-1 text="ס.." />
-              <slhw-desc-2 text="ג" />
-              <slhw-desc-3 text="ס/ג" />
+            <slh-word slhw-desc-0="סֵ֔פֶר" slhw-desc-1="ס.." slhw-desc-2="ג" slhw-desc-3="ס/ג">
+              <letter-large text="סֵ֔" />
+              <text text="פֶר" />
             </slh-word>
             <text text=" בסמ״ך גדולה" />
           </sdt-note>
@@ -937,16 +919,10 @@
       <verse osisID="Gen.23.1" starts-with-sampe="pe2" text="וַיִּהְיוּ֙ חַיֵּ֣י שָׂרָ֔ה מֵאָ֥ה שָׁנָ֛ה וְעֶשְׂרִ֥ים שָׁנָ֖ה וְשֶׁ֣בַע שָׁנִ֑ים שְׁנֵ֖י חַיֵּ֥י שָׂרָֽה׃" />
       <verse osisID="Gen.23.2">
         <text text="וַתָּ֣מׇת שָׂרָ֗ה בְּקִרְיַ֥ת אַרְבַּ֛ע הִ֥וא חֶבְר֖וֹן בְּאֶ֣רֶץ כְּנָ֑עַן וַיָּבֹא֙ אַבְרָהָ֔ם לִסְפֹּ֥ד לְשָׂרָ֖ה " />
-        <slh-word>
-          <slhw-targ>
-            <text text="וְלִבְ" />
-            <letter-small text="כֹּ" />
-            <text text="תָֽהּ" />
-          </slhw-targ>
-          <slhw-desc-0 text="וְלִבְכֹּתָֽהּ" />
-          <slhw-desc-1 text="...כ.." />
-          <slhw-desc-2 text="ק" />
-          <slhw-desc-3 text="כ/ק" />
+        <slh-word slhw-desc-0="וְלִבְכֹּתָֽהּ" slhw-desc-1="...כ.." slhw-desc-2="ק" slhw-desc-3="כ/ק">
+          <text text="וְלִבְ" />
+          <letter-small text="כֹּ" />
+          <text text="תָֽהּ" />
         </slh-word>
         <text text="׃" />
       </verse>
@@ -1229,15 +1205,9 @@
       <verse osisID="Gen.27.45" text="עַד־שׁ֨וּב אַף־אָחִ֜יךָ מִמְּךָ֗ וְשָׁכַח֙ אֵ֣ת אֲשֶׁר־עָשִׂ֣יתָ לּ֔וֹ וְשָׁלַחְתִּ֖י וּלְקַחְתִּ֣יךָ מִשָּׁ֑ם לָמָ֥ה אֶשְׁכַּ֛ל גַּם־שְׁנֵיכֶ֖ם י֥וֹם אֶחָֽד׃" />
       <verse osisID="Gen.27.46">
         <text text="וַתֹּ֤אמֶר רִבְקָה֙ אֶל־יִצְחָ֔ק " />
-        <slh-word>
-          <slhw-targ>
-            <letter-small text="קַ֣" />
-            <text text="צְתִּי" />
-          </slhw-targ>
-          <slhw-desc-0 text="קַ֣צְתִּי" />
-          <slhw-desc-1 text="ק..." />
-          <slhw-desc-2 text="ק" />
-          <slhw-desc-3 text="ק/ק" />
+        <slh-word slhw-desc-0="קַ֣צְתִּי" slhw-desc-1="ק..." slhw-desc-2="ק" slhw-desc-3="ק/ק">
+          <letter-small text="קַ֣" />
+          <text text="צְתִּי" />
         </slh-word>
         <text text=" בְחַיַּ֔י מִפְּנֵ֖י בְּנ֣וֹת חֵ֑ת אִם־לֹקֵ֣חַ יַ֠עֲקֹ֠ב אִשָּׁ֨ה מִבְּנֽוֹת־חֵ֤ת כָּאֵ֙לֶּה֙ מִבְּנ֣וֹת הָאָ֔רֶץ לָ֥מָּה לִּ֖י חַיִּֽים׃" />
       </verse>

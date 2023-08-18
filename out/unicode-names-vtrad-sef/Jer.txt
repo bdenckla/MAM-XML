@@ -9476,27 +9476,13 @@ q,a,d,:,r,⅃,w,·
 SPACE
 l,a,α,a,⅄,r,∵,ц.
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=וְצִוְחַ֥ת slhw-desc-1=.צ... slhw-desc-2=ק slhw-desc-3=צ/ק
 w,:
 START letter-small
 ц,i
 STOP letter-small
 w,:,x,_,(me),τ
-STOP slhw-targ
-START slhw-desc-0
-w,:,ц,i,w,:,x,_,(me),τ
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,ц,FULL STOP,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-q
-STOP slhw-desc-2
-START slhw-desc-3
-ц,SOLIDUS,q
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=וְצִוְחַ֥ת slhw-desc-1=.צ... slhw-desc-2=ק slhw-desc-3=צ/ק
 SPACE
 y,:,r,𝓂,w,·,$,·sh,a,l,_,(ti),CGJ,i,m.
 SPACE
@@ -28647,26 +28633,12 @@ n,:,v,w,·,z,_,r,:,α,:_,d,a,⅃,n.
 SPACE
 r,_,v,-,θ,_,v,·,a,x,i,◆,y,m.
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=וּנְבֽוּשַׁזְבָּן֙ slhw-desc-1=.......ן slhw-desc-2=ק slhw-desc-3=ן/ק
 w,·,n,:,v,𝓂,w,·,$,·sh,_,z,:,v,·,a
 START letter-small
 n.,(p)
 STOP letter-small
-STOP slhw-targ
-START slhw-desc-0
-w,·,n,:,v,𝓂,w,·,$,·sh,_,z,:,v,·,a,n.,(p)
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,FULL STOP,FULL STOP,FULL STOP,FULL STOP,FULL STOP,FULL STOP,n.
-STOP slhw-desc-1
-START slhw-desc-2
-q
-STOP slhw-desc-2
-START slhw-desc-3
-n.,SOLIDUS,q
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=וּנְבֽוּשַׁזְבָּן֙ slhw-desc-1=.......ן slhw-desc-2=ק slhw-desc-3=ן/ק
 SPACE
 r,_,v,-,σ,a,r,i,ƶ,y,σ
 SPACE

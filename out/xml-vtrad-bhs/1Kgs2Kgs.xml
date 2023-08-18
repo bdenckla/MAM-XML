@@ -2673,15 +2673,9 @@
       <verse osisID="2Kgs.17.30" text="וְאַנְשֵׁ֣י בָבֶ֗ל עָשׂוּ֙ אֶת־סֻכּ֣וֹת בְּנ֔וֹת וְאַ֨נְשֵׁי־כ֔וּת עָשׂ֖וּ אֶת־נֵֽרְגַ֑ל וְאַנְשֵׁ֥י חֲמָ֖ת עָשׂ֥וּ אֶת־אֲשִׁימָֽא׃" />
       <verse osisID="2Kgs.17.31">
         <text text="וְהָעַוִּ֛ים עָשׂ֥וּ " />
-        <slh-word>
-          <slhw-targ>
-            <text text="נִבְחַ֖" />
-            <letter-large text="ז" />
-          </slhw-targ>
-          <slhw-desc-0 text="נִבְחַ֖ז" />
-          <slhw-desc-1 text="...ז" />
-          <slhw-desc-2 text="ג" />
-          <slhw-desc-3 text="ז/ג" />
+        <slh-word slhw-desc-0="נִבְחַ֖ז" slhw-desc-1="...ז" slhw-desc-2="ג" slhw-desc-3="ז/ג">
+          <text text="נִבְחַ֖" />
+          <letter-large text="ז" />
         </slh-word>
         <text text=" וְאֶת־תַּרְתָּ֑ק וְהַסְפַרְוִ֗ים שֹׂרְפִ֤ים אֶת־בְּנֵיהֶם֙ בָּאֵ֔שׁ לְאַדְרַמֶּ֥לֶךְ וַֽעֲנַמֶּ֖לֶךְ " />
         <kq>

@@ -38318,26 +38318,12 @@ w,:,h,a,ʕ,_,w,·,i,⟓,y,m.
 SPACE
 ʕ,a,$,·si,(me),w,·
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=נִבְחַ֖ז slhw-desc-1=...ז slhw-desc-2=ג slhw-desc-3=ז/ג
 n,i,v,:,x,_,(ti)
 START letter-large
 z
 STOP letter-large
-STOP slhw-targ
-START slhw-desc-0
-n,i,v,:,x,_,(ti),z
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,FULL STOP,FULL STOP,z
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-z,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=נִבְחַ֖ז slhw-desc-1=...ז slhw-desc-2=ג slhw-desc-3=ז/ג
 SPACE
 w,:,α,∵,τ,-,τ,·,_,r,:,τ,·,a,⅄,q
 SPACE

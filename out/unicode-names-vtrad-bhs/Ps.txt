@@ -20926,27 +20926,13 @@ y,:,k,_,r,:,σ,:,m,∵,⅃,n,·,a,𝓂,h
 SPACE
 x,:_,z,i,⅃,y,r
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=מִיָּ֑עַר slhw-desc-1=..ע. slhw-desc-2=ת slhw-desc-3=ע/ת
 m,i,y,·,a,⅄
 START letter-hung
 ʕ,_
 STOP letter-hung
 r
-STOP slhw-targ
-START slhw-desc-0
-m,i,y,·,a,⅄,ʕ,_,r
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,FULL STOP,ʕ,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-τ
-STOP slhw-desc-2
-START slhw-desc-3
-ʕ,SOLIDUS,τ
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=מִיָּ֑עַר slhw-desc-1=..ע. slhw-desc-2=ת slhw-desc-3=ע/ת
 SPACE
 w,:,z,i,(ti),y,z
 SPACE
@@ -20976,27 +20962,13 @@ SPACE
 z,o,𝓂,α,τ,.
 
 Psalms 80:16 in vtrad vtbhs
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=וְ֭כַנָּה slhw-desc-1=.כ.. slhw-desc-2=ג slhw-desc-3=כ/ג
 w,:,(de)
 START letter-large
 k,_
 STOP letter-large
 n,·,a,h
-STOP slhw-targ
-START slhw-desc-0
-w,:,(de),k,_,n,·,a,h
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,k,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-k,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=וְ֭כַנָּה slhw-desc-1=.כ.. slhw-desc-2=ג slhw-desc-3=כ/ג
 SPACE
 α,:_,$,·sh,∵,r,-,n,a,θ,:,ʕ,a,⅃,h
 SPACE
@@ -21703,26 +21675,12 @@ SPACE
 w,·,d,:,r,<,w,o,r
 START/STOP lp-legarmeih
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=קֵ֥ן slhw-desc-1=ק. slhw-desc-2=ג slhw-desc-3=ק/ג
 START letter-large
 q,‥,(me)
 STOP letter-large
 n.
-STOP slhw-targ
-START slhw-desc-0
-q,‥,(me),n.
-STOP slhw-desc-0
-START slhw-desc-1
-q,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-q,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=קֵ֥ן slhw-desc-1=ק. slhw-desc-2=ג slhw-desc-3=ק/ג
 SPACE
 l,a,h,·,~
 SPACE

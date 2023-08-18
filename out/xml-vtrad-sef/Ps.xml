@@ -3153,16 +3153,10 @@
       <verse osisID="Ps.80.13" text="לָ֭מָּה פָּרַ֣צְתָּ גְדֵרֶ֑יהָ וְ֝אָר֗וּהָ כׇּל־עֹ֥בְרֵי דָֽרֶךְ׃" />
       <verse osisID="Ps.80.14">
         <text text="יְכַרְסְמֶ֣נָּֽה חֲזִ֣יר " />
-        <slh-word>
-          <slhw-targ>
-            <text text="מִיָּ֑" />
-            <letter-hung text="עַ" />
-            <text text="ר" />
-          </slhw-targ>
-          <slhw-desc-0 text="מִיָּ֑עַר" />
-          <slhw-desc-1 text="..ע." />
-          <slhw-desc-2 text="ת" />
-          <slhw-desc-3 text="ע/ת" />
+        <slh-word slhw-desc-0="מִיָּ֑עַר" slhw-desc-1="..ע." slhw-desc-2="ת" slhw-desc-3="ע/ת">
+          <text text="מִיָּ֑" />
+          <letter-hung text="עַ" />
+          <text text="ר" />
         </slh-word>
         <text text=" וְזִ֖יז שָׂדַ֣י יִרְעֶֽנָּה׃" />
       </verse>
@@ -3172,16 +3166,10 @@
         <text text="נָ֥א הַבֵּ֣ט מִשָּׁמַ֣יִם וּרְאֵ֑ה וּ֝פְקֹ֗ד גֶּ֣פֶן זֹֽאת׃" />
       </verse>
       <verse osisID="Ps.80.16">
-        <slh-word>
-          <slhw-targ>
-            <text text="וְ֭" />
-            <letter-large text="כַ" />
-            <text text="נָּה" />
-          </slhw-targ>
-          <slhw-desc-0 text="וְ֭כַנָּה" />
-          <slhw-desc-1 text=".כ.." />
-          <slhw-desc-2 text="ג" />
-          <slhw-desc-3 text="כ/ג" />
+        <slh-word slhw-desc-0="וְ֭כַנָּה" slhw-desc-1=".כ.." slhw-desc-2="ג" slhw-desc-3="כ/ג">
+          <text text="וְ֭" />
+          <letter-large text="כַ" />
+          <text text="נָּה" />
         </slh-word>
         <text text=" אֲשֶׁר־נָטְעָ֣ה יְמִינֶ֑ךָ וְעַל־בֵּ֝֗ן אִמַּ֥צְתָּה לָּֽךְ׃" />
       </verse>
@@ -3272,15 +3260,9 @@
         <text text="גַּם־צִפּ֨וֹר מָ֪צְאָה בַ֡יִת וּדְר֤וֹר" />
         <lp-legarmeih />
         <text text=" " />
-        <slh-word>
-          <slhw-targ>
-            <letter-large text="קֵ֥" />
-            <text text="ן" />
-          </slhw-targ>
-          <slhw-desc-0 text="קֵ֥ן" />
-          <slhw-desc-1 text="ק." />
-          <slhw-desc-2 text="ג" />
-          <slhw-desc-3 text="ק/ג" />
+        <slh-word slhw-desc-0="קֵ֥ן" slhw-desc-1="ק." slhw-desc-2="ג" slhw-desc-3="ק/ג">
+          <letter-large text="קֵ֥" />
+          <text text="ן" />
         </slh-word>
         <text text=" לָהּ֮ אֲשֶׁר־שָׁ֢תָה אֶפְרֹ֫חֶ֥יהָ אֶֽת־מִ֭זְבְּחוֹתֶיךָ יְהֹוָ֣ה צְבָא֑וֹת מַ֝לְכִּ֗י וֵאלֹהָֽי׃" />
       </verse>

@@ -5950,26 +5950,12 @@ w,·,d,:,v,a,𝓂,$,·sh,.
 START/STOP spi-pe2
 
 Deuter 6:4 in vtrad vtbhs
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=שְׁמַ֖ע slhw-desc-1=..ע slhw-desc-2=ג slhw-desc-3=ע/ג
 $,·sh,:,m,_,(ti)
 START letter-large
 ʕ
 STOP letter-large
-STOP slhw-targ
-START slhw-desc-0
-$,·sh,:,m,_,(ti),ʕ
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,FULL STOP,ʕ
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-ʕ,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=שְׁמַ֖ע slhw-desc-1=..ע slhw-desc-2=ג slhw-desc-3=ע/ג
 SPACE
 y,i,$,·si,:,r,a,α,‥,⅄,l
 SPACE
@@ -5979,26 +5965,12 @@ SPACE
 SPACE
 y,:,h,o,w,a,(me),h
 START/STOP lp-paseq
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=אֶחָֽד slhw-desc-1=..ד slhw-desc-2=ג slhw-desc-3=ד/ג
 α,∵,x,a,𝓂
 START letter-large
 d
 STOP letter-large
-STOP slhw-targ
-START slhw-desc-0
-α,∵,x,a,𝓂,d
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,FULL STOP,d
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-d,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=אֶחָֽד slhw-desc-1=..ד slhw-desc-2=ג slhw-desc-3=ד/ג
 .
 
 Deuter 6:5 in vtrad vtbhs
@@ -9827,27 +9799,13 @@ v,σ,f,r,y
 SPACE
 τ,y,m,n.
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=הָאָֽרֶץ׃ slhw-desc-1=...ץ slhw-desc-2=ג slhw-desc-3=ץ/ג
 h,a,α,a,𝓂,r,∵
 START letter-large
 ц.
 STOP letter-large
 .
-STOP slhw-targ
-START slhw-desc-0
-h,a,α,a,𝓂,r,∵,ц.,.
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,FULL STOP,FULL STOP,ц.
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-ц.,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=הָאָֽרֶץ׃ slhw-desc-1=...ץ slhw-desc-2=ג slhw-desc-3=ץ/ג
 SPACE
 v,ц,d,HPU GERSHAYIM,y
 SPACE
@@ -16738,26 +16696,12 @@ v,σ,f,r,y
 SPACE
 τ,y,m,n.
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=קַן slhw-desc-1=ק. slhw-desc-2=ג slhw-desc-3=ק/ג
 START letter-large
 q,_
 STOP letter-large
 n.
-STOP slhw-targ
-START slhw-desc-0
-q,_,n.
-STOP slhw-desc-0
-START slhw-desc-1
-q,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-q,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=קַן slhw-desc-1=ק. slhw-desc-2=ג slhw-desc-3=ק/ג
 SPACE
 v,q,w,HPU GERSHAYIM,f.
 SPACE
@@ -22942,27 +22886,13 @@ w,·,v,:,q,∵,⅃,ц,∵,f.
 SPACE
 g,·,a,d,⅄,w,o,l
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=וַיַּשְׁלִכֵ֛ם slhw-desc-1=...ל.. slhw-desc-2=ג slhw-desc-3=ל/ג
 w,_,y,·,_,$,·sh,:
 START letter-large
 l,i
 STOP letter-large
 k,‥,⟓,m.
-STOP slhw-targ
-START slhw-desc-0
-w,_,y,·,_,$,·sh,:,l,i,k,‥,⟓,m.
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,FULL STOP,FULL STOP,l,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-l,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=וַיַּשְׁלִכֵ֛ם slhw-desc-1=...ל.. slhw-desc-2=ג slhw-desc-3=ל/ג
 SPACE
 α,∵,l,-,α,∵,(me),r,∵,ц.
 SPACE
@@ -24648,25 +24578,11 @@ w,·,f,:,τ,_,l,:,τ,·,o,𝓂,l,.
 Deuter 32:6 in vtrad vtbhs
 START scrdfftar
 START sdt-target
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=הַ slhw-desc-1=ה slhw-desc-2=ג slhw-desc-3=ה/ג
 START letter-large
 h,_
 STOP letter-large
-STOP slhw-targ
-START slhw-desc-0
-h,_
-STOP slhw-desc-0
-START slhw-desc-1
-h
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-h,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=הַ slhw-desc-1=ה slhw-desc-2=ג slhw-desc-3=ה/ג
 SPACE
 l,:,y,:,h,o,w,a,h,(p)
 STOP sdt-target
@@ -24675,26 +24591,12 @@ v,σ,f,r,y
 SPACE
 τ,y,m,n.
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=הַֽלְיהֹוָה֙ slhw-desc-1=ה..... slhw-desc-2=ג slhw-desc-3=ה/ג
 START letter-large
 h,_,𝓂
 STOP letter-large
 l,:,y,h,o,w,a,h,(p)
-STOP slhw-targ
-START slhw-desc-0
-h,_,𝓂,l,:,y,h,o,w,a,h,(p)
-STOP slhw-desc-0
-START slhw-desc-1
-h,FULL STOP,FULL STOP,FULL STOP,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-h,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=הַֽלְיהֹוָה֙ slhw-desc-1=ה..... slhw-desc-2=ג slhw-desc-3=ה/ג
 SPACE
 v,τ,y,v,h
 SPACE
@@ -24981,26 +24883,12 @@ Deuter 32:18 in vtrad vtbhs
 SPACE
 y,:,l,a,d,:,k.,a,(ti)
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=תֶּ֑שִׁי slhw-desc-1=..י slhw-desc-2=ק slhw-desc-3=י/ק
 τ,·,∵,⅄,$,·sh,i
 START letter-small
 y
 STOP letter-small
-STOP slhw-targ
-START slhw-desc-0
-τ,·,∵,⅄,$,·sh,i,y
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,FULL STOP,y
-STOP slhw-desc-1
-START slhw-desc-2
-q
-STOP slhw-desc-2
-START slhw-desc-3
-y,SOLIDUS,q
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=תֶּ֑שִׁי slhw-desc-1=..י slhw-desc-2=ק slhw-desc-3=י/ק
 SPACE
 w,_,τ,·,i,$,·sh,:,k,·,_,(ti),x
 SPACE
@@ -26445,26 +26333,12 @@ v,σ,f,r,y
 SPACE
 τ,y,m,n.
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=אַשְׁרֶ֨יךָ slhw-desc-1=א.... slhw-desc-2=ג slhw-desc-3=א/ג
 START letter-large
 α,_
 STOP letter-large
 $,·sh,:,r,∵,(qa),y,k.,a
-STOP slhw-targ
-START slhw-desc-0
-α,_,$,·sh,:,r,∵,(qa),y,k.,a
-STOP slhw-desc-0
-START slhw-desc-1
-α,FULL STOP,FULL STOP,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-α,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=אַשְׁרֶ֨יךָ slhw-desc-1=א.... slhw-desc-2=ג slhw-desc-3=א/ג
 SPACE
 v,α,l,HPU GERSHAYIM,f.
 SPACE

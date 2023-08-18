@@ -24738,26 +24738,12 @@ w,∵,α,:∵,m,∵,𝓂,τ,.
 Exodus 34:7 in vtrad vtbhs
 START scrdfftar
 START sdt-target
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=נֹצֵ֥ר slhw-desc-1=נ.. slhw-desc-2=ג slhw-desc-3=נ/ג
 START letter-large
 n,o
 STOP letter-large
 ц,‥,(me),r
-STOP slhw-targ
-START slhw-desc-0
-n,o,ц,‥,(me),r
-STOP slhw-desc-0
-START slhw-desc-1
-n,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-n,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=נֹצֵ֥ר slhw-desc-1=נ.. slhw-desc-2=ג slhw-desc-3=נ/ג
 STOP sdt-target
 START sdt-note
 v,σ,f,r,y
@@ -24985,26 +24971,12 @@ SPACE
 SPACE
 l,:,α,‥,⅃,l
 SPACE
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=אַחֵ֑ר slhw-desc-1=..ר slhw-desc-2=ג slhw-desc-3=ר/ג
 α,_,x,‥,⅄
 START letter-large
 r
 STOP letter-large
-STOP slhw-targ
-START slhw-desc-0
-α,_,x,‥,⅄,r
-STOP slhw-desc-0
-START slhw-desc-1
-FULL STOP,FULL STOP,r
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-r,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=אַחֵ֑ר slhw-desc-1=..ר slhw-desc-2=ג slhw-desc-3=ר/ג
 SPACE
 k,·,i,<,y
 SPACE

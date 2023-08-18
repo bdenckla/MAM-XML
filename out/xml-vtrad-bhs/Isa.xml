@@ -1597,15 +1597,9 @@
       <verse osisID="Isa.44.13" text="חָרַ֣שׁ עֵצִים֮ נָ֣טָה קָו֒ יְתָאֲרֵ֣הוּ בַשֶּׂ֔רֶד יַעֲשֵׂ֙הוּ֙ בַּמַּקְצֻע֔וֹת וּבַמְּחוּגָ֖ה יְתׇאֳרֵ֑הוּ וַֽיַּעֲשֵׂ֙הוּ֙ כְּתַבְנִ֣ית אִ֔ישׁ כְּתִפְאֶ֥רֶת אָדָ֖ם לָשֶׁ֥בֶת בָּֽיִת׃" />
       <verse osisID="Isa.44.14">
         <text text="לִכְרׇת־ל֣וֹ אֲרָזִ֔ים וַיִּקַּ֤ח תִּרְזָה֙ וְאַלּ֔וֹן וַיְאַמֶּץ־ל֖וֹ בַּעֲצֵי־יָ֑עַר נָטַ֥ע " />
-        <slh-word>
-          <slhw-targ>
-            <text text="אֹ֖רֶ" />
-            <letter-small text="ן" />
-          </slhw-targ>
-          <slhw-desc-0 text="אֹ֖רֶן" />
-          <slhw-desc-1 text="..ן" />
-          <slhw-desc-2 text="ק" />
-          <slhw-desc-3 text="ן/ק" />
+        <slh-word slhw-desc-0="אֹ֖רֶן" slhw-desc-1="..ן" slhw-desc-2="ק" slhw-desc-3="ן/ק">
+          <text text="אֹ֖רֶ" />
+          <letter-small text="ן" />
         </slh-word>
         <text text=" וְגֶ֥שֶׁם יְגַדֵּֽל׃" />
       </verse>
@@ -2036,15 +2030,9 @@
       <verse osisID="Isa.56.9" ends-with-sampe="pe2" text="כֹּ֖ל חַיְת֣וֹ שָׂדָ֑י אֵתָ֕יוּ לֶאֱכֹ֥ל כׇּל־חַיְת֖וֹ בַּיָּֽעַר׃" />
       <spi-pe2 />
       <verse osisID="Isa.56.10" starts-with-sampe="pe2">
-        <slh-word>
-          <slhw-targ>
-            <letter-large text="צֹ" />
-            <text text="פָ֞ו" />
-          </slhw-targ>
-          <slhw-desc-0 text="צֹפָ֞ו" />
-          <slhw-desc-1 text="צ.." />
-          <slhw-desc-2 text="ג" />
-          <slhw-desc-3 text="צ/ג" />
+        <slh-word slhw-desc-0="צֹפָ֞ו" slhw-desc-1="צ.." slhw-desc-2="ג" slhw-desc-3="צ/ג">
+          <letter-large text="צֹ" />
+          <text text="פָ֞ו" />
         </slh-word>
         <text text=" עִוְרִ֤ים כֻּלָּם֙ לֹ֣א יָדָ֔עוּ כֻּלָּם֙ כְּלָבִ֣ים אִלְּמִ֔ים לֹ֥א יוּכְל֖וּ לִנְבֹּ֑חַ הֹזִים֙ שֹֽׁכְבִ֔ים אֹהֲבֵ֖י לָנֽוּם׃" />
       </verse>

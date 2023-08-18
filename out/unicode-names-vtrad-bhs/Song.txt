@@ -1,25 +1,11 @@
 unicode_names Song
 Song of Songs 1:1 in vtrad vtbhs
-START slh-word
-START slhw-targ
+START slh-word slhw-desc-0=שִׁ֥יר slhw-desc-1=ש.. slhw-desc-2=ג slhw-desc-3=ש/ג
 START letter-large
 $,·sh,i,(me)
 STOP letter-large
 y,r
-STOP slhw-targ
-START slhw-desc-0
-$,·sh,i,(me),y,r
-STOP slhw-desc-0
-START slhw-desc-1
-$,FULL STOP,FULL STOP
-STOP slhw-desc-1
-START slhw-desc-2
-g
-STOP slhw-desc-2
-START slhw-desc-3
-$,SOLIDUS,g
-STOP slhw-desc-3
-STOP slh-word
+STOP slh-word slhw-desc-0=שִׁ֥יר slhw-desc-1=ש.. slhw-desc-2=ג slhw-desc-3=ש/ג
 SPACE
 h,_,$,·sh,·,i,y,r,i,(ti),y,m.
 SPACE
