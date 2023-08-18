@@ -12205,7 +12205,7 @@ SPACE
 k,·,i,𝓂,y,-,y,a,d,(p)
 SPACE
 ʕ,_,l,-
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 k,·,‥,⅃,σ
 SPACE
@@ -12228,8 +12228,7 @@ v,τ,y,v,h
 SPACE
 α,x,τ
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 m,i,l,:,x,a,m,a,(me),h
 SPACE
@@ -17780,7 +17779,7 @@ SPACE
 SPACE
 m,i,q,:,$,·sh,a,(G),h
 SPACE
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 τ,·,‥,ʕ,a,$,·si,∵,<,h
 STOP sdt-target
@@ -17793,8 +17792,7 @@ w,α,$,k,n,z
 SPACE
 τ,·,‥,y,ʕ,a,$,·si,∵,<,h
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 h,_,m,·,:,n,w,o,r,a,h,(p)
 SPACE
@@ -20055,7 +20053,7 @@ SPACE
 SPACE
 α,∵,l,-,ʕ,‥,(me),v,∵,r
 SPACE
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 h,a,α,‥,f,o,(ti),d
 STOP sdt-target
@@ -20068,8 +20066,7 @@ w,α,$,k,n,z
 SPACE
 h,a,α,‥,f,(ti),w,o,d
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 v,·,a,𝓂,y,:,τ,a,h,.
 
@@ -24551,7 +24548,7 @@ SPACE
 l,o,(me),α
 SPACE
 y,‥,r,a,α,𝓂,w,·,.
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 START/STOP spi-pe2
 STOP sdt-target
@@ -24568,8 +24565,7 @@ SPACE
 SPACE
 ц,w,v,h
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 
 Exodus 34:1 in vtrad vtsef
 w,_,y,·,o,<,α,m,∵,r
@@ -24740,7 +24736,7 @@ SPACE
 w,∵,α,:∵,m,∵,𝓂,τ,.
 
 Exodus 34:7 in vtrad vtsef
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 START slh-word slhw-desc-0=נֹצֵ֥ר slhw-desc-1=נ.. slhw-desc-2=ג slhw-desc-3=נ/ג
 START letter-large
@@ -24760,8 +24756,7 @@ v,n,w,HPU GERSHAYIM,n.
 SPACE
 r,g,y,l,h
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 x,∵,(p),σ,∵,d,(p)
 SPACE

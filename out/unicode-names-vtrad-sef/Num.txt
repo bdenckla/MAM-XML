@@ -243,7 +243,7 @@ SPACE
 SPACE
 n,i,q,·,:,v,(ti),w,·
 SPACE
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 v,·,:,$,·sh,‥,m,o,𝓂,τ
 STOP sdt-target
@@ -256,8 +256,7 @@ w,α,$,k,n,z
 SPACE
 v,·,:,$,·sh,‥,m,𝓂,w,o,τ
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 .
 
 Numbers 1:18 in vtrad vtsef
@@ -9011,7 +9010,7 @@ w,·,𝓂,v,:,m,w,o,ʕ,:_,d,‥,y,k,∵,m.,~
 SPACE
 w,·,v,:,r,a,α,$,·sh,‥,⅃,y
 SPACE
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 x,oa,d,:,$,·sh,‥,y,k,∵,m.,∴
 STOP sdt-target
@@ -9024,8 +9023,7 @@ w,α,$,k,n,z
 SPACE
 x,oa,d,:,$,·sh,‥,k,∵,m.,∴
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 w,·,τ,:,q,_,ʕ,:,τ,·,∵,⅃,m.
 SPACE
@@ -18398,7 +18396,7 @@ SPACE
 α,∵,l,-,v,·,i,l,:,ʕ,a,⅃,m.
 SPACE
 v,·,∵,n.,-
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 v,·,:,ʕ,o,◆,r
 STOP sdt-target
@@ -18411,8 +18409,7 @@ w,α,$,k,n,z
 SPACE
 v,·,:,ʕ,◆,w,o,r
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 f,·,:,⌕,τ,⌕,w,o,r,a,h
 SPACE
@@ -20970,7 +20967,7 @@ SPACE
 l,·,‥,α,m,o,𝓂,r,.
 
 Numbers 25:11 in vtrad vtsef
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 f,·,i,𝓂,y,n,:,x,a,(qa),σ
 STOP sdt-target
@@ -20997,8 +20994,7 @@ v,y,w,HPU GERSHAYIM,d
 SPACE
 z,ʕ,y,r,α
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 v,·,∵,n.,-,α,∵,l,:,ʕ,a,z,a,(ge),r
 SPACE
@@ -21039,7 +21035,7 @@ l,⟓,w,o
 SPACE
 α,∵,τ,-,v,·,:,r,i,y,τ,i,(ti),y
 SPACE
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 $,·sh,a,l,𝓂,w,o,m.
 STOP sdt-target
@@ -21054,8 +21050,7 @@ w,y,HPU GERSHAYIM,w
 SPACE
 q,θ,y,ʕ,α
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 .
 
 Numbers 25:13 in vtrad vtsef

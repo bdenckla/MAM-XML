@@ -9790,7 +9790,7 @@ k,·,i,y,m,‥,(me),y
 SPACE
 h,_,$,·sh,·,a,m,_,(ti),y,i,m.
 SPACE
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 ʕ,_,l,-,h,a,α,a,𝓂,r,∵,ц.
 STOP sdt-target
@@ -9811,8 +9811,7 @@ v,ц,d,HPU GERSHAYIM,y
 SPACE
 g,d,w,l,h
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 .
 START/STOP spi-samekh2
 
@@ -16687,7 +16686,7 @@ k,·,i,⅃,y
 SPACE
 y,i,q,·,a,r,‥,⅃,α
 SPACE
-START scrdfftar
+START scrdfftar sdt-starpos=before-word
 START sdt-target
 q,_,n.,-,ц,i,f,·,⅃,w,o,r
 STOP sdt-target
@@ -16707,8 +16706,7 @@ v,q,w,HPU GERSHAYIM,f.
 SPACE
 g,d,w,l,h
 STOP sdt-note
-START/STOP sdt-starpos-before-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=before-word
 START/STOP lp-paseq
 l,:,f,a,n,∵,μ,y,k.,a
 SPACE
@@ -17372,7 +17370,7 @@ Deuter 23:2 in vtrad vtbhs
 l,o,𝓂,α,-,y,a,v,o,(da),α
 SPACE
 f,:,ц,𝓂,w,·,ʕ,_,-
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 d,·,_,k,·,a,⟓,α
 STOP sdt-target
@@ -17385,8 +17383,7 @@ SPACE
 SPACE
 d,·,_,k,·,a,⟓,h
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 w,·,k,:,r,(me),w,·,τ
 SPACE
@@ -20094,7 +20091,7 @@ SPACE
 k,·,oa,l,-,h,a,ʕ,a,(ti),m.
 SPACE
 α,a,m,‥,𝓂,n.,.
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START/STOP sdt-target
 START sdt-note
 σ,f,q
@@ -20109,8 +20106,7 @@ SPACE
 SPACE
 ц,w,v,h
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 
 Deuter 27:20 in vtrad vtbhs
 α,a,r,◆,w,·,r
@@ -24576,7 +24572,7 @@ SPACE
 w,·,f,:,τ,_,l,:,τ,·,o,𝓂,l,.
 
 Deuter 32:6 in vtrad vtbhs
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 START slh-word slhw-desc-0=הַ slhw-desc-1=ה slhw-desc-2=ג slhw-desc-3=ה/ג
 START letter-large
@@ -24602,8 +24598,7 @@ v,τ,y,v,h
 SPACE
 α,x,τ
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 τ,·,i,g,:,m,:,l,w,·,-,z,o,ƶ,α,τ
 START/STOP shirah-space
@@ -26324,7 +26319,7 @@ SPACE
 θ,a,𝓂,l,.
 
 Deuter 33:29 in vtrad vtbhs
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 α,_,$,·sh,:,r,∵,(qa),y,k.,a
 STOP sdt-target
@@ -26344,8 +26339,7 @@ v,α,l,HPU GERSHAYIM,f.
 SPACE
 g,d,w,l,h
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 y,i,$,·si,:,r,a,α,‥,(ge),l
 SPACE

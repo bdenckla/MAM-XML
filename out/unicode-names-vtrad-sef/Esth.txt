@@ -4186,7 +4186,7 @@ SPACE
 SPACE
 l,:,h,_,$,·sh,:,m,i,y,d,(tq)
 SPACE
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 w,:,l,_,h,:_,r,o,(qa),g
 STOP sdt-target
@@ -4197,8 +4197,7 @@ SPACE
 SPACE
 l,_,h,:_,r,o,(qa),g
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 w,·,l,:,α,_,v,·,‥,(ge),d
 SPACE
@@ -4494,7 +4493,7 @@ w,:,α,i,y,$,·sh,(p)
 SPACE
 l,o,α,-,ʕ,a,m,_,⅃,d
 SPACE
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 l,i,f,:,n,‥,y,h,∵,ƶ,m.
 STOP sdt-target
@@ -4505,8 +4504,7 @@ SPACE
 SPACE
 v,·,i,f,:,n,‥,y,h,∵,ƶ,m.
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 k,·,i,𝓂,y,-,n,a,f,_,(me),l
 SPACE
@@ -4652,7 +4650,7 @@ START/STOP lp-paseq
 START/STOP shirah-space
 w,:,α,‥,(me),τ
 START/STOP lp-paseq
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 α,:_,r,i,d,_,(ti),y
 STOP sdt-target
@@ -4671,8 +4669,7 @@ v,m,g,y,l,w,τ
 SPACE
 r,v,w,τ
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 START/STOP shirah-space
 w,:,α,‥,(me),τ
 START/STOP lp-paseq

@@ -176,10 +176,9 @@
       <verse osisID="Gen.4.12" text="כִּ֤י תַֽעֲבֹד֙ אֶת־הָ֣אֲדָמָ֔ה לֹֽא־תֹסֵ֥ף תֵּת־כֹּחָ֖הּ לָ֑ךְ נָ֥ע וָנָ֖ד תִּֽהְיֶ֥ה בָאָֽרֶץ׃" />
       <verse osisID="Gen.4.13">
         <text text="וַיֹּ֥אמֶר קַ֖יִן אֶל־יְהֹוָ֑ה גָּד֥וֹל עֲוֺנִ֖י " />
-        <scrdfftar>
+        <scrdfftar sdt-starpos="after-word">
           <sdt-target text="מִנְּשֹֽׂא" />
           <sdt-note text="בספרי ספרד ואשכנז מִנְּשֽׂוֹא" />
-          <sdt-starpos-after-word />
         </scrdfftar>
         <text text="׃" />
       </verse>
@@ -201,7 +200,7 @@
     <chapter osisID="Gen.5">
       <verse osisID="Gen.5.1" starts-with-sampe="samekh2">
         <text text="זֶ֣ה " />
-        <scrdfftar>
+        <scrdfftar sdt-starpos="after-word">
           <sdt-target text="סֵ֔פֶר" />
           <sdt-note>
             <text text="בספרי תימן " />
@@ -211,7 +210,6 @@
             </slh-word>
             <text text=" בסמ״ך גדולה" />
           </sdt-note>
-          <sdt-starpos-after-word />
         </scrdfftar>
         <text text=" תּוֹלְדֹ֖ת אָדָ֑ם בְּי֗וֹם בְּרֹ֤א אֱלֹהִים֙ אָדָ֔ם בִּדְמ֥וּת אֱלֹהִ֖ים עָשָׂ֥ה אֹתֽוֹ׃" />
       </verse>
@@ -304,10 +302,9 @@
       <verse osisID="Gen.7.10" text="וַיְהִ֖י לְשִׁבְעַ֣ת הַיָּמִ֑ים וּמֵ֣י הַמַּבּ֔וּל הָי֖וּ עַל־הָאָֽרֶץ׃" />
       <verse osisID="Gen.7.11">
         <text text="בִּשְׁנַ֨ת שֵׁשׁ־מֵא֤וֹת שָׁנָה֙ לְחַיֵּי־נֹ֔חַ בַּחֹ֙דֶשׁ֙ הַשֵּׁנִ֔י בְּשִׁבְעָֽה־עָשָׂ֥ר י֖וֹם לַחֹ֑דֶשׁ בַּיּ֣וֹם הַזֶּ֗ה נִבְקְעוּ֙ כׇּֽל־" />
-        <scrdfftar>
+        <scrdfftar sdt-starpos="after-word">
           <sdt-target text="מַעְיְנֹת֙" />
           <sdt-note text="בספרי ספרד ואשכנז מַעְיְנוֹת֙" />
-          <sdt-starpos-after-word />
         </scrdfftar>
         <text text=" תְּה֣וֹם רַבָּ֔ה וַאֲרֻבֹּ֥ת הַשָּׁמַ֖יִם נִפְתָּֽחוּ׃" />
       </verse>
@@ -403,10 +400,9 @@
       <verse osisID="Gen.9.27" text="יַ֤פְתְּ אֱלֹהִים֙ לְיֶ֔פֶת וְיִשְׁכֹּ֖ן בְּאׇֽהֳלֵי־שֵׁ֑ם וִיהִ֥י כְנַ֖עַן עֶ֥בֶד לָֽמוֹ׃" />
       <verse osisID="Gen.9.28" text="וַֽיְחִי־נֹ֖חַ אַחַ֣ר הַמַּבּ֑וּל שְׁלֹ֤שׁ מֵאוֹת֙ שָׁנָ֔ה וַֽחֲמִשִּׁ֖ים שָׁנָֽה׃" />
       <verse osisID="Gen.9.29" ends-with-sampe="pe2">
-        <scrdfftar>
+        <scrdfftar sdt-starpos="after-word">
           <sdt-target text="וַיִּֽהְיוּ֙" />
           <sdt-note text="בספרי ספרד ואשכנז וַֽיְהִי֙" />
-          <sdt-starpos-after-word />
         </scrdfftar>
         <text text=" כׇּל־יְמֵי־נֹ֔חַ תְּשַׁ֤ע מֵאוֹת֙ שָׁנָ֔ה וַחֲמִשִּׁ֖ים שָׁנָ֑ה וַיָּמֹֽת׃" />
       </verse>
@@ -1864,10 +1860,9 @@
       <verse osisID="Gen.41.44" text="וַיֹּ֧אמֶר פַּרְעֹ֛ה אֶל־יוֹסֵ֖ף אֲנִ֣י פַרְעֹ֑ה וּבִלְעָדֶ֗יךָ לֹֽא־יָרִ֨ים אִ֧ישׁ אֶת־יָד֛וֹ וְאֶת־רַגְל֖וֹ בְּכׇל־אֶ֥רֶץ מִצְרָֽיִם׃" />
       <verse osisID="Gen.41.45">
         <text text="וַיִּקְרָ֨א פַרְעֹ֣ה שֵׁם־יוֹסֵף֮ צָֽפְנַ֣ת פַּעְנֵ֒חַ֒ וַיִּתֶּן־ל֣וֹ אֶת־אָֽסְנַ֗ת בַּת־" />
-        <scrdfftar>
+        <scrdfftar sdt-starpos="after-word">
           <sdt-target text="פּ֥וֹטִי פֶ֛רַע" />
           <sdt-note text="בספרי תימן פּֽוֹטִיפֶ֛רַע בתיבה אחת" />
-          <sdt-starpos-after-word />
         </scrdfftar>
         <text text=" כֹּהֵ֥ן אֹ֖ן לְאִשָּׁ֑ה וַיֵּצֵ֥א יוֹסֵ֖ף עַל־אֶ֥רֶץ מִצְרָֽיִם׃" />
       </verse>
@@ -1881,10 +1876,9 @@
       <verse osisID="Gen.41.49" text="וַיִּצְבֹּ֨ר יוֹסֵ֥ף בָּ֛ר כְּח֥וֹל הַיָּ֖ם הַרְבֵּ֣ה מְאֹ֑ד עַ֛ד כִּי־חָדַ֥ל לִסְפֹּ֖ר כִּי־אֵ֥ין מִסְפָּֽר׃" />
       <verse osisID="Gen.41.50">
         <text text="וּלְיוֹסֵ֤ף יֻלַּד֙ שְׁנֵ֣י בָנִ֔ים בְּטֶ֥רֶם תָּב֖וֹא שְׁנַ֣ת הָרָעָ֑ב אֲשֶׁ֤ר יָֽלְדָה־לּוֹ֙ אָֽסְנַ֔ת בַּת־" />
-        <scrdfftar>
+        <scrdfftar sdt-starpos="after-word">
           <sdt-target text="פּ֥וֹטִי פֶ֖רַע" />
           <sdt-note text="בספרי תימן פּֽוֹטִיפֶ֖רַע בתיבה אחת" />
-          <sdt-starpos-after-word />
         </scrdfftar>
         <text text=" כֹּהֵ֥ן אֽוֹן׃" />
       </verse>
@@ -2099,10 +2093,9 @@
       <verse osisID="Gen.46.19" text="בְּנֵ֤י רָחֵל֙ אֵ֣שֶׁת יַֽעֲקֹ֔ב יוֹסֵ֖ף וּבִנְיָמִֽן׃" />
       <verse osisID="Gen.46.20">
         <text text="וַיִּוָּלֵ֣ד לְיוֹסֵף֮ בְּאֶ֣רֶץ מִצְרַ֒יִם֒ אֲשֶׁ֤ר יָֽלְדָה־לּוֹ֙ אָֽסְנַ֔ת בַּת־" />
-        <scrdfftar>
+        <scrdfftar sdt-starpos="after-word">
           <sdt-target text="פּ֥וֹטִי פֶ֖רַע" />
           <sdt-note text="בספרי תימן פּֽוֹטִיפֶ֖רַע בתיבה אחת" />
-          <sdt-starpos-after-word />
         </scrdfftar>
         <text text=" כֹּהֵ֣ן אֹ֑ן אֶת־מְנַשֶּׁ֖ה וְאֶת־אֶפְרָֽיִם׃" />
       </verse>

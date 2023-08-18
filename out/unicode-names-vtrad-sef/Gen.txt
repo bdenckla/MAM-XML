@@ -2280,7 +2280,7 @@ g,·,a,d,(me),w,o,l
 SPACE
 ʕ,:_,w,ḥḥfv,n,i,(ti),y
 SPACE
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 m,i,n,·,:,$,·si,o,𝓂,α
 STOP sdt-target
@@ -2293,8 +2293,7 @@ w,α,$,k,n,z
 SPACE
 m,i,n,·,:,$,·si,𝓂,w,o,α
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 .
 
 Genesis 4:14 in vtrad vtsef
@@ -2630,7 +2629,7 @@ START/STOP spi-samekh2
 Genesis 5:1 in vtrad vtsef
 z,∵,⅃,h
 SPACE
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 σ,‥,ƶ,f,∵,r
 STOP sdt-target
@@ -2650,8 +2649,7 @@ v,σ,m,HPU GERSHAYIM,k.
 SPACE
 g,d,w,l,h
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 τ,·,w,o,l,:,d,o,(ti),τ
 SPACE
@@ -4118,7 +4116,7 @@ SPACE
 n,i,v,:,q,:,ʕ,w,·,(p)
 SPACE
 k,·,oa,𝓂,l,-
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 m,_,ʕ,:,y,:,n,o,τ,(p)
 STOP sdt-target
@@ -4131,8 +4129,7 @@ w,α,$,k,n,z
 SPACE
 m,_,ʕ,:,y,:,n,w,o,τ,(p)
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 τ,·,:,h,⅃,w,o,m.
 SPACE
@@ -5594,7 +5591,7 @@ SPACE
 $,·sh,a,n,a,𝓂,h,.
 
 Genesis 9:29 in vtrad vtsef
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 w,_,y,·,i,𝓂,h,:,y,w,·,(p)
 STOP sdt-target
@@ -5607,8 +5604,7 @@ w,α,$,k,n,z
 SPACE
 w,_,𝓂,y,:,h,i,y,(p)
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 k,·,oa,l,-,y,:,m,‥,y,-,n,o,ƶ,x,_
 SPACE
@@ -29916,7 +29912,7 @@ SPACE
 α,∵,τ,-,α,a,𝓂,σ,:,n,_,◆,τ
 SPACE
 v,·,_,τ,-
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 f,·,(me),w,o,θ,i,y
 SPACE
@@ -29933,8 +29929,7 @@ v,τ,y,v,h
 SPACE
 α,x,τ
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 k,·,o,h,‥,(me),n.
 SPACE
@@ -30075,7 +30070,7 @@ SPACE
 α,a,𝓂,σ,:,n,_,ƶ,τ
 SPACE
 v,·,_,τ,-
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 f,·,(me),w,o,θ,i,y
 SPACE
@@ -30092,8 +30087,7 @@ v,τ,y,v,h
 SPACE
 α,x,τ
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 k,·,o,h,‥,(me),n.
 SPACE
@@ -34063,7 +34057,7 @@ SPACE
 α,a,𝓂,σ,:,n,_,ƶ,τ
 SPACE
 v,·,_,τ,-
-START scrdfftar
+START scrdfftar sdt-starpos=after-word
 START sdt-target
 f,·,(me),w,o,θ,i,y
 SPACE
@@ -34080,8 +34074,7 @@ v,τ,y,v,h
 SPACE
 α,x,τ
 STOP sdt-note
-START/STOP sdt-starpos-after-word
-STOP scrdfftar
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 k,·,o,h,‥,⅃,n.
 SPACE

@@ -216,9 +216,4 @@ HANDLERS = {
     ('sdt-starpos-after-word', None): _empty,
     #
     ('slh-word', None): _pass_thru,
-    ('slhw-targ', None): _pass_thru,
-    ('slhw-desc-0', None): _empty,
-    ('slhw-desc-1', None): _empty,
-    ('slhw-desc-2', None): _empty,
-    ('slhw-desc-3', None): _empty,
 }
