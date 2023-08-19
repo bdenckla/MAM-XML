@@ -41,8 +41,7 @@ def el_to_str(elem):
         })
         return html.escape(elem, quote=False).translate(sstt)
     contents_str = ''
-    contents = elem.get('contents')
-    if contents:
+    if contents := elem.get('contents'):
         assert isinstance(contents, (tuple, list))
         contents_str = ''.join(map(el_to_str, contents))
     eltag = hel_get_tag(elem)
@@ -67,8 +66,7 @@ def el_to_xml(xml_parent, elem):
         return
     attr = elem.get('attr') or {}
     tmp_attr = attr
-    contents = elem.get('contents')
-    if contents:
+    if contents := elem.get('contents'):
         assert isinstance(contents, (tuple, list))
         if _is_text_singleton(contents):
             assert 'text' not in attr

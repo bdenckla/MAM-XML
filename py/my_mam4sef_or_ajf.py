@@ -5,7 +5,8 @@ import my_utils
 import my_osis_book_abbrevs
 import my_sef_cmn
 import my_tanakh_book_names as my_tbn
-import my_sef_style_write
+import my_write_utils
+import my_write_utils_sef_or_ajf
 from my_shrink import shrink
 
 
@@ -100,7 +101,10 @@ def do_one_book_group(variant, bkg):
         _do_for_cant_dab(bkg_out, variant, root, cant_dab)
     for bkid, cant_to_verses in bkg_out.items():
         sef_eng_bkna = my_sef_cmn.SEF_ENGLISH_BOOK_NAMES[bkid]
-        my_sef_style_write.write_bkg_in_csv_and_un_fmts(
+        csv_path = my_write_utils.bkg_path(variant, sef_eng_bkna)
+        my_write_utils_sef_or_ajf.write_bkg_in_csv_fmt(
+            csv_path, variant, cant_to_verses)
+        my_write_utils.write_bkg_in_un_fmt(
             variant, sef_eng_bkna, cant_to_verses)
 
 

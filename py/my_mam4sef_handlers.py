@@ -84,11 +84,10 @@ def _kq_trivial(_etel, ofc1, _ofc2):
 
 
 def _ketiv_qere(etel, _ofc1, ofc2):
-    assert len(ofc2) == 2
     sep_dic = {'sep-maqaf': MAQ, None: ' '}
     separator = sep_dic[etel.attrib.get('class')]
-    kq_or_qk = tuple(ofc2.values())
-    inside = [*kq_or_qk[0], separator, *kq_or_qk[1]]
+    k_or_q, q_or_k = ofc2.values()
+    inside = [*k_or_q, separator, *q_or_k]
     return [my_html.span_c(inside, 'mam-kq')]
 
 
@@ -112,19 +111,13 @@ def _qere(_etel, ofc1, _ofc2):
     return _ketiv_or_qere_helper('mam-kq-q', '[]', ofc1)
 
 
-def _scrdfftar(_etel, _ofc1, ofc2):
-    target, note, starpos = [
-        {'ofc2_key': k, 'ofc2_value': v} for k, v in ofc2.items()]
-    maybe_note_0 = _star(starpos, note, 'sdt-starpos-before-word')
-    maybe_note_1 = _star(starpos, note, 'sdt-starpos-after-word')
-    return maybe_note_0 + target['ofc2_value'] + maybe_note_1
-
-
-def _star(starpos, note, pos):
-    tag = starpos['ofc2_key'].tag
-    assert tag in ('sdt-starpos-before-word', 'sdt-starpos-after-word')
-    assert pos in ('sdt-starpos-before-word', 'sdt-starpos-after-word')
-    return note['ofc2_value'] if tag == pos else []
+def _scrdfftar(etel, _ofc1, ofc2):
+    target, note = ofc2.values()
+    starpos = etel.attrib['sdt-starpos']
+    assert starpos in ('before-word', 'after-word')
+    maybe_note_0 = note if starpos == 'before-word' else []
+    maybe_note_1 = note if starpos == 'after-word' else []
+    return maybe_note_0 + target + maybe_note_1
 
 
 def _scrdfftar_target(_etel, ofc1, _ofc2):
@@ -212,8 +205,6 @@ HANDLERS = {
     ('scrdfftar', None): _scrdfftar,
     ('sdt-target', None): _scrdfftar_target,
     ('sdt-note', None): _scrdfftar_note,
-    ('sdt-starpos-before-word', None): _empty,
-    ('sdt-starpos-after-word', None): _empty,
     #
     ('slh-word', None): _pass_thru,
 }
