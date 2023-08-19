@@ -47,16 +47,14 @@ def _read_book_group(variant, bkg_name):
     return tree.getroot()
 
 
-def _get_xpath_query_string(cant_dab):
-    xpath_query_dic = {
-        # For cant_dual, we just look for all verses.
-        'cant_dual': './/verse',
-        # For cant_alef and cant_bet, we look for all verses that have a
-        # "cant-all-three" child.
-        'cant_alef': './/verse/cant-all-three/..',
-        'cant_bet': './/verse/cant-all-three/..',
-    }
-    return xpath_query_dic[cant_dab]
+XPATH_QUERY_FROM_CANT_DAB = {
+    # For cant_dual, we just look for all verses.
+    'cant_dual': './/verse',
+    # For cant_alef and cant_bet, we look for all verses that have a
+    # "cant-all-three" child.
+    'cant_alef': './/verse/cant-all-three/..',
+    'cant_bet': './/verse/cant-all-three/..',
+}
 
 
 def _process_book_group(variant, root, cant_dab):
@@ -66,7 +64,7 @@ def _process_book_group(variant, root, cant_dab):
         handlers2 = handlers[cant_dab]
     else:
         handlers2 = handlers
-    verses_in = root.findall(_get_xpath_query_string(cant_dab))
+    verses_in = root.findall(XPATH_QUERY_FROM_CANT_DAB[cant_dab])
     book39s_out = {}
     for verse in verses_in:
         osis_id = verse.attrib['osisID']

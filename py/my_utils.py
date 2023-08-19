@@ -14,6 +14,19 @@ import argparse
 import my_tanakh_book_names as my_tbn
 
 
+def first_and_only(seq):
+    """ Asserts that this is there is only 1 el of seq, and returns it. """
+    assert len(seq) == 1
+    return seq[0]
+
+
+def first_and_only_and_str(seq):
+    """ Like first_and_only, but also asserts that result is a string. """
+    fao = first_and_only(seq)
+    assert isinstance(fao, str)
+    return fao
+
+
 def szip(*seqs):
     """ strong zip (asserts equal length) """
     for seq in seqs[1:]:
