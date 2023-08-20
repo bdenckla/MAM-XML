@@ -11,29 +11,33 @@ import my_sef_cmn
 import my_tanakh_book_names as my_tbn
 
 
-def write_bkg_in_csv_fmt(path, variant, verses):
+def write_bkg_in_csv_fmt(path, variant, verses, cant_dabs):
     """ Write Sefaria-style file in CSV format """
     book_out = {}
     bkid = None
-    dic_alef = dict(verses.get('cant_alef') or [])
-    dic_bet = dict(verses.get('cant_bet') or [])
-    for bcvt, html_els in verses['cant_dual']:
+    verses_dicts = {
+        cant_dab: dict(list_of_pairs)
+        for cant_dab, list_of_pairs in verses.items()
+    }
+    for bcvt, _html_els in verses['rv-cant-dual']:
         if bkid is None:
             bkid = my_tbn.bcvt_get_bkid(bcvt)
         else:
             assert bkid == my_tbn.bcvt_get_bkid(bcvt)
-        dual = _html_str(html_els)
-        if variant.get('variant_include_abcants'):
-            alef = _html_str(dic_alef.get(bcvt))
-            bet = _html_str(dic_bet.get(bcvt))
-            book_out[bcvt] = dual, alef, bet
-        else:
-            book_out[bcvt] = (dual,)
+        book_out[bcvt] = tuple(
+            _html_str(_maybe_get(verses_dicts, cant_dab, bcvt))
+            for cant_dab in cant_dabs
+        )
 
     def _write_callback(file_handle):
         _write_bkg_in_csv_fmt2(variant, bkid, book_out, file_handle)
 
     my_open.with_tmp_openw(path, _write_callback, newline='')
+
+
+def _maybe_get(verses_dicts, cant_dab, bcvt):
+    vd_cd = verses_dicts.get(cant_dab) or {}
+    return vd_cd.get(bcvt)
 
 
 def _html_str(html_els):

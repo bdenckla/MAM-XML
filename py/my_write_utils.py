@@ -8,25 +8,23 @@ import my_uni_heb
 import my_open
 
 
-def write_bkg_in_un_fmt(variant, bkg_name, verses):
+def write_bkg_in_un_fmt(variant, bkg_name, verses, rv_cant_that_covers):
     """ Write book group in "Unicode names" format. """
     my_uni_heb.do_quick_test()
     path = bkg_path(variant, bkg_name, fmt_is_unicode_names=True)
     title = f'unicode_names {bkg_name}'
-    if variant.get('variant_include_abcants'):
-        dic_alef = dict(verses.get('cant_alef') or [])
-        dic_bet = dict(verses.get('cant_bet') or [])
-    else:
-        dic_alef = {}
-        dic_bet = {}
+    verses_dicts = {
+        roca: dict(list_of_pairs)
+        for roca, list_of_pairs in verses.items()
+    }
 
     def _write_callback(out_fp):
         out_fp.write(f'{title}\n')
-        for bcvt, html_els in verses['cant_dual']:
+        for bcvt, _verse_body in verses[rv_cant_that_covers]:
             multiverse = {
-                'cant_dual': html_els,
-                'cant_alef': dic_alef.get(bcvt),
-                'cant_bet': dic_bet.get(bcvt)
+                roca: verses_dicts[roca].get(bcvt)
+                for roca in verses.keys()
+                if verses_dicts[roca].get(bcvt) is not None
             }
             my_uni_heb.write_verse_un(out_fp, bcvt, multiverse)
 

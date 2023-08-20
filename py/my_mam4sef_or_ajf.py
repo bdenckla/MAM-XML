@@ -49,11 +49,11 @@ def _read_book_group(variant, bkg_name):
 
 XPATH_QUERY_FROM_CANT_DAB = {
     # For cant_dual, we just look for all verses.
-    'cant_dual': './/verse',
+    'rv-cant-dual': './/verse',
     # For cant_alef and cant_bet, we look for all verses that have a
     # "cant-all-three" child.
-    'cant_alef': './/verse/cant-all-three/..',
-    'cant_bet': './/verse/cant-all-three/..',
+    'rv-cant-alef': './/verse/cant-all-three/..',
+    'rv-cant-bet': './/verse/cant-all-three/..',
 }
 
 
@@ -95,15 +95,19 @@ def do_one_book_group(variant, bkg):
     bkg_name = bkg['bkg-name']
     root = _read_book_group(variant, bkg_name)
     bkg_out = {}
-    for cant_dab in _ALL_3_CANT_DAB_VALUES:
+    if variant.get('variant_include_abcants'):
+        cant_dabs = _ALL_3_CANT_DAB_VALUES
+    else:
+        cant_dabs = ('rv-cant-dual',)
+    for cant_dab in cant_dabs:
         _do_for_cant_dab(bkg_out, variant, root, cant_dab)
     for bkid, cant_to_verses in bkg_out.items():
         sef_eng_bkna = my_sef_cmn.SEF_ENGLISH_BOOK_NAMES[bkid]
         csv_path = my_write_utils.bkg_path(variant, sef_eng_bkna)
         my_write_utils_sef_or_ajf.write_bkg_in_csv_fmt(
-            csv_path, variant, cant_to_verses)
+            csv_path, variant, cant_to_verses, cant_dabs)
         my_write_utils.write_bkg_in_un_fmt(
-            variant, sef_eng_bkna, cant_to_verses)
+            variant, sef_eng_bkna, cant_to_verses, 'rv-cant-dual')
 
 
-_ALL_3_CANT_DAB_VALUES = 'cant_dual', 'cant_alef', 'cant_bet'
+_ALL_3_CANT_DAB_VALUES = 'rv-cant-dual', 'rv-cant-alef', 'rv-cant-bet'

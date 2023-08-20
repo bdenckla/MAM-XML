@@ -56,16 +56,11 @@ def write_verse_un(out_fp, bcvt, multiverse):
     bkid, chnu, vrnu = my_tbn.bcvt_get_bcv_triple(bcvt)
     vtrad = my_tbn.bcvt_get_vtrad(bcvt)
     out_fp.write(f'{bkid} {chnu}:{vrnu} in vtrad {vtrad}\n')
-    dual = multiverse['cant_dual']
-    alef = multiverse['cant_alef']
-    bet = multiverse['cant_bet']
-    if alef or bet:
-        assert alef and bet
-        _write_segments(out_fp, dual, 'cant_dual')
-        _write_segments(out_fp, alef, 'cant_alef')
-        _write_segments(out_fp, bet, 'cant_bet')
-    else:
-        _write_segments(out_fp, dual, None)
+    for rv_cant, body in multiverse.items():
+        if len(multiverse) > 1:
+            _write_segments(out_fp, body, rv_cant)
+        else:
+            _write_segments(out_fp, body, None)
     out_fp.write('\n')
 
 
