@@ -13642,6 +13642,8 @@ l,‥,α,m,o,𝓂,r,.
 START/STOP spi-samekh2
 
 Exodus 20:2 in vtrad vtsef
+START cant-all-three
+START cant-dual
 α,a,𝓂,n,o,k,i,(ti),y,(p)
 SPACE
 y,:,h,o,w,a,⅃,h
@@ -13659,8 +13661,50 @@ SPACE
 m,i,v,·,‥,⅃,(me),y,τ
 SPACE
 ʕ,:_,v,a,d,i,⅄,CGJ,𝓂,y,m.,.
+STOP cant-dual
+START cant-alef
+α,a,𝓂,n,o,k,i,y,(p)
+SPACE
+y,:,h,o,w,a,⅃,h
+SPACE
+α,:∵,l,o,h,∵,ƶ,y,k.,a
+SPACE
+α,:_,$,·sh,∵,(da),r
+SPACE
+h,w,o,ц,‥,α,τ,i,⟓,y,k.,a
+SPACE
+m,‥,α,∵,(me),r,∵,ц.
+SPACE
+m,i,ц,:,r,_,(ti),y,i,m.
+SPACE
+m,i,v,·,‥,⅃,y,τ
+SPACE
+ʕ,:_,v,a,d,i,⅄,y,m.
+STOP cant-alef
+START cant-bet
+α,a,𝓂,n,o,k,i,(ti),y
+SPACE
+y,:,h,o,w,a,⅃,h
+SPACE
+α,:∵,l,o,h,∵,⅄,y,k.,a
+SPACE
+α,:_,$,·sh,∵,(da),r
+SPACE
+h,w,o,ц,‥,α,τ,i,⟓,y,k.,a
+SPACE
+m,‥,α,∵,(me),r,∵,ц.
+SPACE
+m,i,ц,:,r,_,(ti),y,i,m.
+SPACE
+m,i,v,·,‥,(me),y,τ
+SPACE
+ʕ,:_,v,a,d,i,𝓂,y,m.,.
+STOP cant-bet
+STOP cant-all-three
 
 Exodus 20:3 in vtrad vtsef
+START cant-all-three
+START cant-dual
 l,o,𝓂,⅃,α,-,y,i,h,:,y,∵,(me),CGJ,𝓂,h,-,l,:,k.,a,⟓,(tq)
 SPACE
 α,:∵,l,o,h,i,(me),(qa),y,m.
@@ -13668,8 +13712,34 @@ SPACE
 α,:_,x,‥,r,i,(ti),(ge),y,m.
 SPACE
 ʕ,_,l,-,f,·,a,n,a,𝓂,CGJ,_,◆,y,.
+STOP cant-dual
+START cant-alef
+l,o,𝓂,α,-,y,i,h,:,y,∵,(me),h
+SPACE
+l,:,k.,a,⟓
+SPACE
+α,:∵,l,o,h,i,(me),y,m.
+SPACE
+α,:_,x,‥,r,i,(ti),y,m.
+SPACE
+ʕ,_,l,-,f,·,a,n,a,𝓂,y,.
+STOP cant-alef
+START cant-bet
+l,o,⅃,α
+SPACE
+y,i,h,:,y,∵,𝓂,h,-,l,:,k.,a,(tq)
+SPACE
+α,:∵,l,o,h,i,(qa),y,m.
+SPACE
+α,:_,x,‥,r,i,(ge),y,m.
+SPACE
+ʕ,_,l,-,f,·,a,n,_,◆,y
+STOP cant-bet
+STOP cant-all-three
 
 Exodus 20:4 in vtrad vtsef
+START cant-all-three
+START cant-dual
 l,o,𝓂,⅃,α,-,τ,_,𝓂,ʕ,:_,$,·si,∵,(qa),h,-,l,:,k.,a,(me),⅃
 SPACE
 f,∵,⅃,(p),σ,∵,l,(p)
@@ -13696,8 +13766,71 @@ SPACE
 m,i,τ,·,_,(me),⅃,x,_,τ
 SPACE
 l,a,α,a,𝓂,◆,r,∵,ц.,.
+STOP cant-dual
+START cant-alef
+l,o,𝓂,α,-,τ,_,ʕ,:_,$,·si,∵,(qa),h
+SPACE
+l,:,k.,a,(me)
+SPACE
+f,∵,(p),σ,∵,l,(p)
+SPACE
+w,:,k,oa,l,-,τ,·,:,m,w,·,n,a,ƶ,h
+SPACE
+α,:_,$,·sh,∵,<,r
+SPACE
+v,·,_,$,·sh,·,a,m,_,(p),y,i,m.,(p)
+SPACE
+m,i,m,·,_,ƶ,ʕ,_,l
+SPACE
+w,_,𝓂,α,:_,$,·sh,∵,(me),r
+SPACE
+v,·,a,α,a,(ti),r,∵,ц.
+SPACE
+m,i,τ,·,a,⅄,x,_,τ
+SPACE
+w,_,α,:_,$,·sh,∵,(me),r
+SPACE
+v,·,_,m,·,_,(ti),y,i,m.
+SPACE
+m,i,τ,·,_,(me),x,_,τ
+SPACE
+l,a,α,a,𝓂,r,∵,ц.,.
+STOP cant-alef
+START cant-bet
+l,o,⅃,α
+SPACE
+τ,_,𝓂,ʕ,:_,$,·si,∵,h,-,l,:,k.,a,⅃
+SPACE
+f,∵,⅃,σ,∵,l
+START/STOP lp-paseq
+w,:,k,oa,l,-,τ,·,:,m,w,·,n,a,μ,h
+SPACE
+α,:_,$,·sh,∵,⅃,r
+SPACE
+v,·,_,$,·sh,·,a,m,_,⅃,y,i,m.
+START/STOP lp-paseq
+m,i,m,·,_,μ,ʕ,_,l
+SPACE
+w,_,𝓂,α,:_,$,·sh,∵,r,(tq)
+SPACE
+v,·,a,α,a,(qa),r,∵,ц.
+SPACE
+m,i,τ,·,_,(ge),x,_,τ
+SPACE
+w,_,α,:_,$,·sh,∵,(me),r
+SPACE
+v,·,_,m,·,_,⅃,y,i,m.
+START/STOP lp-legarmeih
+SPACE
+m,i,τ,·,_,⅃,x,_,τ
+SPACE
+l,a,α,a,◆,r,∵,ц.
+STOP cant-bet
+STOP cant-all-three
 
 Exodus 20:5 in vtrad vtsef
+START cant-all-three
+START cant-dual
 l,o,𝓂,α,-,τ,i,$,·sh,:,τ,·,_,x,:_,w,∵,(me),⅃,h
 SPACE
 l,a,h,∵,(ti),m.,~
@@ -13705,6 +13838,26 @@ SPACE
 w,:,l,o,⅃,α
 SPACE
 τ,oa,ʕ,oa,v,:,d,‥,⅄,m.,∴
+STOP cant-dual
+START cant-alef
+l,o,𝓂,α,-,τ,i,$,·sh,:,τ,·,_,x,:_,w,∵,(me),h
+SPACE
+l,a,h,∵,(ti),m.
+SPACE
+w,:,l,o,⅃,α
+SPACE
+τ,oa,ʕ,oa,v,:,d,‥,⅄,m.
+STOP cant-alef
+START cant-bet
+l,o,𝓂,α,-,τ,i,$,·sh,:,τ,·,_,x,:_,w,∵,⅃,h
+SPACE
+l,a,h,∵,m.,~
+SPACE
+w,:,l,o,⅃,α
+SPACE
+τ,oa,ʕ,oa,v,:,d,‥,m.,∴
+STOP cant-bet
+STOP cant-all-three
 SPACE
 k,·,i,⅃,y
 SPACE
@@ -13730,9 +13883,21 @@ SPACE
 SPACE
 w,:,ʕ,_,l,-,r,i,v,·,‥,ʕ,i,(ti),y,m.
 SPACE
+START cant-all-three
+START cant-dual
 l,:,$,·si,o,n,:,α,a,𝓂,⅄,y,.
+STOP cant-dual
+START cant-alef
+l,:,$,·si,o,n,:,α,a,𝓂,y,.
+STOP cant-alef
+START cant-bet
+l,:,$,·si,o,n,:,α,a,⅄,y
+STOP cant-bet
+STOP cant-all-three
 
 Exodus 20:6 in vtrad vtsef
+START cant-all-three
+START cant-dual
 w,:,ʕ,o,(me),<,$,·si,∵,h
 SPACE
 x,∵,(ti),(p),σ,∵,d,(p)
@@ -13744,6 +13909,34 @@ SPACE
 w,·,l,:,$,·sh,o,m,:,r,‥,(me),y
 SPACE
 m,i,ц,:,w,ḥḥfv,τ,a,𝓂,y,.
+STOP cant-dual
+START cant-alef
+w,:,ʕ,o,(me),$,·si,∵,h
+SPACE
+x,∵,(ti),σ,∵,d
+SPACE
+l,_,α,:_,l,a,f,i,⅄,y,m.
+SPACE
+l,:,α,o,h,:_,v,_,(ti),y
+SPACE
+w,·,l,:,$,·sh,o,m,:,r,‥,(me),y
+SPACE
+m,i,ц,:,w,ḥḥfv,τ,a,𝓂,y,.
+STOP cant-alef
+START cant-bet
+w,:,ʕ,o,<,$,·si,∵,h
+SPACE
+x,∵,(p),σ,∵,d,(p)
+SPACE
+l,_,α,:_,l,a,f,i,ƶ,y,m.
+SPACE
+l,:,α,o,h,:_,v,_,(ti),y
+SPACE
+w,·,l,:,$,·sh,o,m,:,r,‥,(me),y
+SPACE
+m,i,ц,:,w,ḥḥfv,τ,a,𝓂,y,.
+STOP cant-bet
+STOP cant-all-three
 START/STOP spi-samekh2
 
 Exodus 20:7 in vtrad vtsef
@@ -13775,6 +13968,8 @@ l,_,$,·sh,·,a,𝓂,w,:,α,.
 START/STOP spi-pe2
 
 Exodus 20:8 in vtrad vtsef
+START cant-all-three
+START cant-dual
 z,a,k,⟓,w,o,r,(tq)
 SPACE
 α,∵,τ,-,y,(me),(qa),w,o,m.
@@ -13782,8 +13977,30 @@ SPACE
 h,_,$,·sh,·,_,v,·,a,(ti),(ge),τ
 SPACE
 l,:,q,_,d,·,:,$,·sh,𝓂,◆,w,o,.
+STOP cant-dual
+START cant-alef
+z,a,k,⟓,w,o,r
+SPACE
+α,∵,τ,-,y,(me),w,o,m.
+SPACE
+h,_,$,·sh,·,_,v,·,a,(ti),τ
+SPACE
+l,:,q,_,d,·,:,$,·sh,𝓂,w,o,.
+STOP cant-alef
+START cant-bet
+z,a,k,w,o,r,(tq)
+SPACE
+α,∵,τ,-,y,(qa),w,o,m.
+SPACE
+h,_,$,·sh,·,_,v,·,a,(ge),τ
+SPACE
+l,:,q,_,d,·,:,$,·sh,◆,w,o
+STOP cant-bet
+STOP cant-all-three
 
 Exodus 20:9 in vtrad vtsef
+START cant-all-three
+START cant-dual
 $,·sh,‥,<,⅃,$,·sh,∵,τ
 SPACE
 y,a,m,i,⅃,y,m.,(p)
@@ -13793,8 +14010,34 @@ SPACE
 w,:,ʕ,a,$,·si,i,(ti),⅃,y,τ,a
 SPACE
 k,·,‾,oa,l,-,m,:,l,_,α,k,:,τ,·,∵,𝓂,k.,a,∴,.
+STOP cant-dual
+START cant-alef
+$,·sh,‥,<,$,·sh,∵,τ
+SPACE
+y,a,m,i,y,m.,(p)
+SPACE
+τ,·,_,𝓂,ʕ,:_,v,o,ƶ,d
+SPACE
+w,:,ʕ,a,$,·si,i,(ti),y,τ,a
+SPACE
+k,·,oa,l,-,m,:,l,_,α,k,:,τ,·,∵,𝓂,k.,a,.
+STOP cant-alef
+START cant-bet
+$,·sh,‥,⅃,$,·sh,∵,τ
+SPACE
+y,a,m,i,⅃,y,m.
+SPACE
+τ,·,_,𝓂,ʕ,:_,v,o,d,~
+SPACE
+w,:,ʕ,a,$,·si,i,⅃,y,τ,a
+SPACE
+k,oa,l,-,m,:,l,_,α,k,:,τ,·,∵,∴,k.,a,∴
+STOP cant-bet
+STOP cant-all-three
 
 Exodus 20:10 in vtrad vtsef
+START cant-all-three
+START cant-dual
 w,:,y,(qa),w,o,m.,(p)
 SPACE
 h,_,$,·sh,·,:,v,i,y,ʕ,i,ƶ,(ge),y
@@ -13826,6 +14069,76 @@ SPACE
 α,:_,$,·sh,∵,(me),⅃,r
 SPACE
 v,·,i,$,·sh,:,ʕ,a,r,∵,𝓂,ƶ,y,k.,a,.
+STOP cant-dual
+START cant-alef
+w,:,y,w,o,m.,(p)
+SPACE
+h,_,$,·sh,·,:,v,i,y,ʕ,i,ƶ,y
+SPACE
+$,·sh,_,v,·,a,(ti),τ
+SPACE
+l,_,y,h,o,w,a,⅃,h
+SPACE
+α,:∵,l,o,h,∵,⅄,y,k.,a
+SPACE
+l,o,𝓂,α,-,τ,_,ʕ,:_,$,·si,∵,(qa),h
+SPACE
+k,oa,l,-,m,:,l,a,α,k,a,(ge),h
+SPACE
+α,_,τ,·,a,⅃,h
+START/STOP lp-legarmeih
+SPACE
+w,·,v,i,n,:,k.,a,⅃
+SPACE
+w,·,v,i,τ,·,∵,◆,k.,a
+SPACE
+ʕ,_,v,:,d,·,:,k.,a,<
+SPACE
+w,_,α,:_,m,a,𝓂,τ,:,k.,a,(p)
+SPACE
+w,·,v,:,h,∵,m,:,τ,·,∵,ƶ,k.,a
+SPACE
+w,:,g,‥,r,:,k.,a,(ti)
+SPACE
+α,:_,$,·sh,∵,(me),r
+SPACE
+v,·,i,$,·sh,:,ʕ,a,r,∵,𝓂,y,k.,a,.
+STOP cant-alef
+START cant-bet
+w,:,y,(qa),w,o,m.
+SPACE
+h,_,$,·sh,·,:,v,i,y,ʕ,i,(ge),y
+SPACE
+$,·sh,_,v,·,a,⅃,τ
+START/STOP lp-legarmeih
+SPACE
+l,_,y,h,o,w,a,⅃,h
+SPACE
+α,:∵,l,o,h,∵,◆,y,k.,a
+SPACE
+l,o,⅃,α
+SPACE
+τ,_,ʕ,:_,$,·si,∵,⅃,h
+SPACE
+k,oa,l,-,m,:,l,a,α,k,a,μ,h
+SPACE
+α,_,τ,·,a,⅃,h
+SPACE
+w,·,v,i,n,:,k.,a,𝓂,-,w,·,⌕,v,i,τ,·,∵,⌕,k.,a
+SPACE
+ʕ,_,v,:,d,·,:,k.,a,(qa)
+SPACE
+w,_,α,:_,m,a,𝓂,τ,:,k.,a,(ge)
+SPACE
+w,·,v,:,h,∵,m,:,τ,·,∵,◆,k.,a
+SPACE
+w,:,g,‥,r,:,k.,a,(p)
+SPACE
+α,:_,$,·sh,∵,⅃,r
+SPACE
+v,·,i,$,·sh,:,ʕ,a,r,∵,ƶ,y,k.,a
+STOP cant-bet
+STOP cant-all-three
 
 Exodus 20:11 in vtrad vtsef
 k,·,i,⅃,y
@@ -13890,17 +14203,59 @@ l,a,𝓂,k.,:,.
 START/STOP spi-samekh2
 
 Exodus 20:13 in vtrad vtsef
+START cant-all-three
+START cant-dual
 l,o,(me),(ti),α
 SPACE
 τ,·,‾,i,r,:,ц,a,(ti),CGJ,𝓂,x,.
+STOP cant-dual
+START cant-alef
+l,o,(me),α
+SPACE
+τ,i,r,:,ц,a,(ti),x
+STOP cant-alef
+START cant-bet
+l,o,(ti),α
+SPACE
+τ,·,i,r,:,ц,a,𝓂,x,.
+STOP cant-bet
+STOP cant-all-three
 START/STOP spi-samekh2
+START cant-all-three
+START cant-dual
 l,o,⅃,(ti),α
 SPACE
 τ,·,‾,i,n,:,α,a,⅄,CGJ,𝓂,f.,.
+STOP cant-dual
+START cant-alef
+l,o,⅃,α
+SPACE
+τ,i,n,:,α,a,⅄,f.
+STOP cant-alef
+START cant-bet
+l,o,(ti),α
+SPACE
+τ,·,i,n,:,α,a,𝓂,f.,.
+STOP cant-bet
+STOP cant-all-three
 START/STOP spi-samekh2
+START cant-all-three
+START cant-dual
 l,o,⅃,(ti),α
 SPACE
 τ,·,‾,i,g,:,n,o,𝓂,ƶ,v,.
+STOP cant-dual
+START cant-alef
+l,o,⅃,α
+SPACE
+τ,i,g,:,n,o,ƶ,v
+STOP cant-alef
+START cant-bet
+l,o,(ti),α
+SPACE
+τ,·,i,g,:,n,o,𝓂,v,.
+STOP cant-bet
+STOP cant-all-three
 START/STOP spi-samekh2
 l,o,𝓂,α,-,τ,_,ʕ,:_,n,∵,(me),h
 SPACE

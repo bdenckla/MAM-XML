@@ -24859,6 +24859,8 @@ v,·,a,α,a,⅃,r,∵,ц.
 SPACE
 h,_,h,i,ƶ,w,α
 SPACE
+START cant-all-three
+START cant-dual
 w,_,y,·,‥,⅃,l,∵,k.,:
 SPACE
 r,:,α,w,·,v,‥,◆,ƶ,n.
@@ -24874,6 +24876,42 @@ SPACE
 w,_,y,·,i,$,·sh,:,m,_,(ti),ʕ
 SPACE
 y,i,$,·si,:,r,a,α,‥,⅄,CGJ,𝓂,l
+STOP cant-dual
+START cant-alef
+w,_,y,·,‥,⅃,l,∵,k.,:
+SPACE
+r,:,α,w,·,v,‥,ƶ,n.
+SPACE
+w,_,y,·,i,$,·sh,:,k,·,_,Ƶ,v
+SPACE
+α,∵,τ,-,v,·,i,l,:,h,a,(ti),h
+SPACE
+f,·,i,y,l,∵,⅃,g,∵,$,·sh
+SPACE
+α,a,v,i,⅄,y,w
+SPACE
+w,_,y,·,i,$,·sh,:,m,_,(ti),ʕ
+SPACE
+y,i,$,·si,:,r,a,α,‥,𝓂,l,.
+STOP cant-alef
+START cant-bet
+w,_,y,·,‥,⅃,l,∵,k.,:
+SPACE
+r,:,α,w,·,v,‥,◆,n.
+SPACE
+w,_,y,·,i,$,·sh,:,k,·,_,v,(p)
+SPACE
+α,∵,τ,-,v,·,i,l,:,h,a,h,(p)
+SPACE
+f,·,i,y,l,∵,⅃,g,∵,$,·sh
+SPACE
+α,a,v,i,ƶ,y,w
+SPACE
+w,_,y,·,i,$,·sh,:,m,_,(ti),ʕ
+SPACE
+y,i,$,·si,:,r,a,α,‥,⅄,l
+STOP cant-bet
+STOP cant-all-three
 START/STOP spi-pe2
 w,_,y,·,i,𝓂,h,:,y,(me),w,·
 SPACE
