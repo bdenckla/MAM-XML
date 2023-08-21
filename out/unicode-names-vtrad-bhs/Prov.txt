@@ -12755,8 +12755,8 @@ START letter-small
 v
 STOP letter-small
 START/STOP lp-legarmeih
-SPACE
 STOP slh-word slhw-desc-0=הַ֤ב slhw-desc-1=.ב slhw-desc-2=ק slhw-desc-3=ב/ק
+SPACE
 h,_,(me),(ol),v
 SPACE
 $,·sh,a,l,⅃,w,o,$,·sh
