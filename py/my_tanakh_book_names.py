@@ -37,17 +37,17 @@ def section(bkid):
 
 def book_is_of_bk24(in_bk24id, bkid):
     """ Returns whether the given book belongs to the given book24. """
-    return _bkprop_bk24na(_BOOK_PROPERTIES[bkid]) == in_bk24id
+    return _bkprop_bk24id(_BOOK_PROPERTIES[bkid]) == in_bk24id
 
 
-def bkids_of_bk24(in_bk24na):
+def bkids_of_bk24(in_bk24id):
     """ Returns a tuple of all book names in the given book24. """
-    return tuple(b for b in ALL_BOOK_IDS if book_is_of_bk24(in_bk24na, b))
+    return tuple(b for b in ALL_BOOK_IDS if book_is_of_bk24(in_bk24id, b))
 
 
 def bk24id(bkid):
     """ Returns the book24 to which the given book belongs. """
-    return _bkprop_bk24na(_BOOK_PROPERTIES[bkid])
+    return _bkprop_bk24id(_BOOK_PROPERTIES[bkid])
 
 
 def ordered_short(bkid):  # E.g. 'A1' for GENESIS, 'FD' for SND_CHRONICLES
@@ -353,7 +353,7 @@ def _short_no_check(bkid):
     return _bkprop_short(_BOOK_PROPERTIES[bkid])
 
 
-def _bkprop_bk24na(bkprop):
+def _bkprop_bk24id(bkprop):
     return bkprop[0]
 
 
@@ -451,7 +451,7 @@ BK24_KINGS = 'Kings'
 BK24_ISAIAH = BK_ISAIAH
 BK24_JEREMIAH = BK_JEREMIAH
 BK24_EZEKIEL = BK_EZEKIEL
-BK24_THE_12_MINOR_PROPHETS = 'The-12-Minor-Prophets'
+BK24_THE_12 = 'The-12-Minor-Prophets'
 BK24_PSALMS = BK_PSALMS
 BK24_PROVERBS = BK_PROVERBS
 BK24_JOB = BK_JOB
@@ -496,18 +496,18 @@ _BOOK_PROPERTIES = {
     BK_ISAIAH: (BK24_ISAIAH, SEC_NEV_AX, 'I', 'C1'),
     BK_JEREMIAH: (BK24_JEREMIAH, SEC_NEV_AX, 'Je', 'C2'),
     BK_EZEKIEL: (BK24_EZEKIEL, SEC_NEV_AX, 'Ee', 'C3'),  # Ez.*: EeEr
-    BK_HOSEA: (BK24_THE_12_MINOR_PROPHETS, SEC_NEV_AX, 'Ho', 'CA'),
-    BK_JOEL: (BK24_THE_12_MINOR_PROPHETS, SEC_NEV_AX, 'Jl', 'CB'),  # Jo.*: JsJlJnJb
-    BK_AMOS: (BK24_THE_12_MINOR_PROPHETS, SEC_NEV_AX, 'A', 'CC'),
-    BK_OBADIAH: (BK24_THE_12_MINOR_PROPHETS, SEC_NEV_AX, 'O', 'CD'),
-    BK_JONAH: (BK24_THE_12_MINOR_PROPHETS, SEC_NEV_AX, 'Jn', 'CE'),  # Jo.*: JsJlJnJb
-    BK_MICAH: (BK24_THE_12_MINOR_PROPHETS, SEC_NEV_AX, 'Mi', 'CF'),
-    BK_NAXUM: (BK24_THE_12_MINOR_PROPHETS, SEC_NEV_AX, 'Na', 'CG'),
-    BK_XABAKKUK: (BK24_THE_12_MINOR_PROPHETS, SEC_NEV_AX, 'Hb', 'CH'),  # Ha.*: HbHg
-    BK_TSEFANIAH: (BK24_THE_12_MINOR_PROPHETS, SEC_NEV_AX, 'Ts', 'CI'),  # was Zp (see note below)
-    BK_XAGGAI: (BK24_THE_12_MINOR_PROPHETS, SEC_NEV_AX, 'Hg', 'CJ'),  # Ha.*: HbHg
-    BK_ZEKHARIAH: (BK24_THE_12_MINOR_PROPHETS, SEC_NEV_AX, 'Zc', 'CK'),  # Zc (see note below)
-    BK_MALAKHI: (BK24_THE_12_MINOR_PROPHETS, SEC_NEV_AX, 'Ma', 'CL'),
+    BK_HOSEA: (BK24_THE_12, SEC_NEV_AX, 'Ho', 'CA'),
+    BK_JOEL: (BK24_THE_12, SEC_NEV_AX, 'Jl', 'CB'),  # Jo.*: JsJlJnJb
+    BK_AMOS: (BK24_THE_12, SEC_NEV_AX, 'A', 'CC'),
+    BK_OBADIAH: (BK24_THE_12, SEC_NEV_AX, 'O', 'CD'),
+    BK_JONAH: (BK24_THE_12, SEC_NEV_AX, 'Jn', 'CE'),  # Jo.*: JsJlJnJb
+    BK_MICAH: (BK24_THE_12, SEC_NEV_AX, 'Mi', 'CF'),
+    BK_NAXUM: (BK24_THE_12, SEC_NEV_AX, 'Na', 'CG'),
+    BK_XABAKKUK: (BK24_THE_12, SEC_NEV_AX, 'Hb', 'CH'),  # Ha.*: HbHg
+    BK_TSEFANIAH: (BK24_THE_12, SEC_NEV_AX, 'Ts', 'CI'),  # was Zp (see note below)
+    BK_XAGGAI: (BK24_THE_12, SEC_NEV_AX, 'Hg', 'CJ'),  # Ha.*: HbHg
+    BK_ZEKHARIAH: (BK24_THE_12, SEC_NEV_AX, 'Zc', 'CK'),  # Zc (see note below)
+    BK_MALAKHI: (BK24_THE_12, SEC_NEV_AX, 'Ma', 'CL'),
     BK_PSALMS: (BK24_PSALMS, SEC_SIF_EM, 'Ps', 'D1'),
     BK_PROVERBS: (BK24_PROVERBS, SEC_SIF_EM, 'Pr', 'D2'),
     BK_JOB: (BK24_JOB, SEC_SIF_EM, 'Jb', 'D3'),  # Jo.*: JsJlJnJb
@@ -528,6 +528,8 @@ _BOOK_PROPERTIES = {
     # Tsefaniah was spelled Zephaniah.
 }
 ALL_BOOK_IDS = tuple(_BOOK_PROPERTIES.keys())
+_ALL_BK24_IDS = {bk24id(bk39id): True for bk39id in ALL_BOOK_IDS}
+ALL_BK24_IDS = tuple(_ALL_BK24_IDS.keys())
 ALL_SECTION_NAMES = (
     SEC_TORAH, SEC_NEV_RISH, SEC_NEV_AX,
     SEC_SIF_EM, SEC_XAM_MEG, SEC_KET_ACH)
