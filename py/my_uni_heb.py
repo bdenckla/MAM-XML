@@ -12,7 +12,7 @@ import my_html
 import my_tanakh_book_names as my_tbn
 import my_hebrew_letters as hl
 import my_hebrew_points as hp
-from my_str_defs import CGJ, NBSP
+import my_str_defs as sd
 
 
 def do_quick_test():
@@ -83,7 +83,7 @@ def _write_segments(out_fp, segments, cant_dab=None, indent=''):
     for segment in segments:
         if isinstance(segment, str):
             pre_lines = [segment]
-            for sep in ' ', NBSP:
+            for sep in ' ', sd.NBSP:
                 list_of_lists = [_get_pre_lines(sep, pl) for pl in pre_lines]
                 pre_lines = sum(list_of_lists, [])
             for pre_line in pre_lines:
@@ -193,7 +193,7 @@ _HE_AND_NONHE_POINT_PAIRS = (
     (hp.QUBUTS, 'u'),
 )
 _HE_AND_NONHE_ACC_PAIRS = (
-    ('\N{HEBREW POINT METEG}', '𝓂'),  # we consider it an accent not a point
+    (hp.METEG, '𝓂'),  # we consider it an accent not a point
     ('\N{HEBREW ACCENT ETNAHTA}', '⅄'),
     ('\N{HEBREW ACCENT SEGOL}', '∴'),  # ∴ aka THEREFORE
     ('\N{HEBREW ACCENT SHALSHELET}', '(sh)'),
@@ -231,7 +231,7 @@ _HE_AND_NONHE_PUNC_PAIRS = (
     ('\N{HEBREW PUNCTUATION SOF PASUQ}', '.'),  # ‡ would be another option
 )
 _MISC_UNI_NAME_SHORTENINGS = {
-    CGJ: 'CGJ',
+    sd.CGJ: 'CGJ',
 }
 _HE_AND_NONHE_PAIRS = (
     _HE_AND_NONHE_LET_PAIRS +

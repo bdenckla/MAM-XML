@@ -3,7 +3,7 @@ import html
 
 import my_open
 import my_two_col_css_styles as my_css_styles
-from my_str_defs import NBSP, THSP
+import my_str_defs as sd
 
 
 def write_html_to_file(html_el, path):
@@ -36,8 +36,8 @@ def el_to_str(elem):
     if isinstance(elem, str):
         sstt = str.maketrans({  # special space translation table
             '\N{EM SPACE}': '&emsp;',
-            THSP: '&thinsp;',
-            NBSP: '&nbsp;',
+            sd.THSP: '&thinsp;',
+            sd.NBSP: '&nbsp;',
         })
         return html.escape(elem, quote=False).translate(sstt)
     contents_str = ''
