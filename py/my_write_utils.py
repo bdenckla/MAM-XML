@@ -4,13 +4,13 @@ Exports:
     bkg_path
 """
 
-import my_uni_heb
+import my_uni_heb as uh
 import my_open
 
 
 def write_bkg_in_un_fmt(variant, bkg_name, verses, rv_cant_that_covers):
     """ Write book group in "Unicode names" format. """
-    my_uni_heb.do_quick_test()
+    uh.do_quick_test()
     path = bkg_path(variant, bkg_name, fmt_is_unicode_names=True)
     title = f'unicode_names {bkg_name}'
     verses_dicts = {
@@ -26,7 +26,7 @@ def write_bkg_in_un_fmt(variant, bkg_name, verses, rv_cant_that_covers):
                 for roca in verses.keys()
                 if verses_dicts[roca].get(bcvt) is not None
             }
-            my_uni_heb.write_verse_un(out_fp, bcvt, multiverse)
+            uh.write_verse_un(out_fp, bcvt, multiverse)
 
     my_open.with_tmp_openw(path, _write_callback)
 
