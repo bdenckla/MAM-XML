@@ -2,6 +2,7 @@
 
 import my_html
 import my_str_defs as sd
+import my_hebrew_punctuation as hpu
 from my_shrink import shrink
 
 # etel: ElementTree element
@@ -46,16 +47,16 @@ def _invnun(etel, _ofc1, _ofc2):
     """
     maybe_nbsp_dic = {'including-trailing-space': [sd.NBSP], None: []}
     maybe_nbsp = maybe_nbsp_dic[etel.attrib.get('class')]
-    span = my_html.span_c((sd.NUN_HAF,), 'mam-spi-invnun')
+    span = my_html.span_c((hpu.NUN_HAF,), 'mam-spi-invnun')
     return [span, *maybe_nbsp]
 
 
 def _legarmeih(_etel, _ofc1, _ofc2):
-    return [sd.THSP, my_html.bold((sd.PAS,))]
+    return [sd.THSP, my_html.bold((hpu.PAS,))]
 
 
 def _paseq(_etel, _ofc1, _ofc2):
-    return [sd.THSP, my_html.small((sd.PAS,)), sd.THSP]
+    return [sd.THSP, my_html.small((hpu.PAS,)), sd.THSP]
 
 
 def _empty(_etel, _ofc1, _ofc2):
@@ -84,7 +85,7 @@ def _kq_trivial(_etel, ofc1, _ofc2):
 
 
 def _ketiv_qere(etel, _ofc1, ofc2):
-    sep_dic = {'sep-maqaf': sd.MAQ, None: ' '}
+    sep_dic = {'sep-maqaf': hpu.MAQ, None: ' '}
     separator = sep_dic[etel.attrib.get('class')]
     k_or_q, q_or_k = ofc2.values()
     inside = [*k_or_q, separator, *q_or_k]
@@ -97,7 +98,7 @@ def _ketiv(etel, ofc1, _ofc2):
        * the ketiv part of a ketiv ve qere (common)
        * a ketiv velo qere (rare)
     """
-    maybe_maqaf_dic = {'append-maqaf': sd.MAQ, None: ''}
+    maybe_maqaf_dic = {'append-maqaf': hpu.MAQ, None: ''}
     maybe_maqaf = maybe_maqaf_dic[etel.attrib.get('class')]
     return _ketiv_or_qere_helper('mam-kq-k', '()', ofc1, maybe_maqaf)
 
@@ -137,7 +138,7 @@ def _shirah_space(_etel, _ofc1, _ofc2):
 
 
 def _implicit_maqaf(_etel, _ofc1, _ofc2):
-    return [my_html.span_c([sd.MAQ], 'mam-implicit-maqaf')]
+    return [my_html.span_c([hpu.MAQ], 'mam-implicit-maqaf')]
 
 
 #######################################################################

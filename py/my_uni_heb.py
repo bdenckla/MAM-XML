@@ -11,7 +11,8 @@ import unicodedata
 import my_html
 import my_tanakh_book_names as my_tbn
 import my_hebrew_letters as hl
-import my_hebrew_points as hp
+import my_hebrew_points as hpo
+import my_hebrew_accents as ha
 import my_str_defs as sd
 
 
@@ -173,54 +174,54 @@ _HE_AND_NONHE_LET_PAIRS = (
     (hl.TAV, 'τ'),  # Greek tau
 )
 _HE_AND_NONHE_POINT_PAIRS = (
-    (hp.JSVARIKA, 'varika'),
-    (hp.DAGESH_OM, '·'),
-    (hp.RAFE, '‾'),  # r̄ was another candidate
-    (hp.SHIND, '·sh'),
-    (hp.SIND, '·si'),
-    (hp.SHEVA, ':'),  # ambiguous, could be na or nach
-    (hp.XSEGOL, ':∵'),  # ∵ aka BECAUSE
-    (hp.XPATAX, ':_'),
-    (hp.XQAMATS, ':a'),
-    (hp.XIRIQ, 'i'),
-    (hp.TSERE, '‥'),
-    (hp.SEGOL, '∵'),  # ∵ aka BECAUSE
-    (hp.PATAX, '_'),
-    (hp.QAMATS, 'a'),  # ambiguous, could be gadol or qatan
-    (hp.QAMATS_Q, 'oa'),
-    (hp.XOLAM_XFV, 'ḥḥfv'),
-    (hp.XOLAM, 'o'),  # see "Note on plain holam" below
-    (hp.QUBUTS, 'u'),
+    (hpo.JSVARIKA, 'varika'),
+    (hpo.DAGESH_OM, '·'),
+    (hpo.RAFE, '‾'),  # r̄ was another candidate
+    (hpo.SHIND, '·sh'),
+    (hpo.SIND, '·si'),
+    (hpo.SHEVA, ':'),  # ambiguous, could be na or nach
+    (hpo.XSEGOL, ':∵'),  # ∵ aka BECAUSE
+    (hpo.XPATAX, ':_'),
+    (hpo.XQAMATS, ':a'),
+    (hpo.XIRIQ, 'i'),
+    (hpo.TSERE, '‥'),
+    (hpo.SEGOL, '∵'),  # ∵ aka BECAUSE
+    (hpo.PATAX, '_'),
+    (hpo.QAMATS, 'a'),  # ambiguous, could be gadol or qatan
+    (hpo.QAMATS_Q, 'oa'),
+    (hpo.XOLAM_XFV, 'ḥḥfv'),
+    (hpo.XOLAM, 'o'),  # see "Note on plain holam" below
+    (hpo.QUBUTS, 'u'),
 )
 _HE_AND_NONHE_ACC_PAIRS = (
-    (hp.METEG, '𝓂'),  # we consider it an accent not a point
-    ('\N{HEBREW ACCENT ETNAHTA}', '⅄'),
+    (hpo.METEG, '𝓂'),  # we consider it an accent not a point
+    (ha.ATN, '⅄'),
     ('\N{HEBREW ACCENT SEGOL}', '∴'),  # ∴ aka THEREFORE
     ('\N{HEBREW ACCENT SHALSHELET}', '(sh)'),
     ('\N{HEBREW ACCENT ZAQEF QATAN}', 'ƶ'),
     ('\N{HEBREW ACCENT ZAQEF GADOL}', 'Ƶ'),
-    ('\N{HEBREW ACCENT TIPEHA}', '(ti)'),
-    ('\N{HEBREW ACCENT REVIA}', '◆'),  # ◆ aka BLACK DIAMOND
+    (ha.TIP, '(ti)'),
+    (ha.REV, '◆'),  # ◆ aka BLACK DIAMOND
     ('\N{HEBREW ACCENT ZARQA}', '≁'),  # See: Note on zinor
     ('\N{HEBREW ACCENT PASHTA}', '(p)'),
     ('\N{HEBREW ACCENT YETIV}', '(ye)'),
     ('\N{HEBREW ACCENT TEVIR}', '⟓'),
-    ('\N{HEBREW ACCENT GERESH}', '(ge)'),
-    ('\N{HEBREW ACCENT GERESH MUQDAM}', 'γ'),  # Greek small gamma
-    ('\N{HEBREW ACCENT GERSHAYIM}', '(G)'),
+    (ha.GER, '(ge)'),
+    (ha.GER_M, 'γ'),  # Greek small gamma
+    (ha.GER_2, '(G)'),
     ('\N{HEBREW ACCENT QARNEY PARA}', '(qp)'),
-    ('\N{HEBREW ACCENT TELISHA GEDOLA}', '⌕'),  # aka TELEPHONE RECORDER
+    (ha.TEL_G, '⌕'),  # aka TELEPHONE RECORDER
     ('\N{HEBREW ACCENT PAZER}', 'μ'),  # Greek small mu
-    ('\N{HEBREW ACCENT ATNAH HAFUKH}', '(ah)'),
-    ('\N{HEBREW ACCENT MUNAH}', '⅃'),
+    (ha.ATN_H, '(ah)'),
+    (ha.MUN, '⅃'),
     ('\N{HEBREW ACCENT MAHAPAKH}', '<'),
-    ('\N{HEBREW ACCENT MERKHA}', '(me)'),
+    (ha.MER, '(me)'),
     ('\N{HEBREW ACCENT MERKHA KEFULA}', '(mk)'),
     ('\N{HEBREW ACCENT DARGA}', '(da)'),
     ('\N{HEBREW ACCENT QADMA}', '(qa)'),
     ('\N{HEBREW ACCENT TELISHA QETANA}', '(tq)'),
-    ('\N{HEBREW ACCENT YERAH BEN YOMO}', '(yy)'),
-    ('\N{HEBREW ACCENT OLE}', '(ol)'),
+    (ha.YBY, '(yy)'),
+    (ha.OLE, '(ol)'),
     ('\N{HEBREW ACCENT ILUY}', '(il)'),
     ('\N{HEBREW ACCENT DEHI}', '(de)'),
     ('\N{HEBREW ACCENT ZINOR}', '~'),  # See: Note on zinor
