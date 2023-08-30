@@ -8,3 +8,5 @@ PAS = '\N{HEBREW PUNCTUATION PASEQ}'
 NUN_HAF = '\N{HEBREW PUNCTUATION NUN HAFUKHA}'
 CGJ = '\N{COMBINING GRAPHEME JOINER}'
 ZWJ = '\N{ZERO WIDTH JOINER}'
+ACCENT_RANGE = '\u0591-\u05ae\u05bd'
+# Above includes meteg even though Unicode calls meteg a point not an accent.
