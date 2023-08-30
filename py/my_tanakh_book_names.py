@@ -209,10 +209,10 @@ def part2_bkid(bkid):
     Otherwise return None.
     """
     the_next_bkid = {  # next book ID
-        BK_FST_SAMUEL: BK_SND_SAMUEL,
-        BK_FST_KINGS: BK_SND_KINGS,
-        BK_FST_CHRONICLES: BK_SND_CHRONICLES,
-        BK_EZRA: BK_NEXEMIAH,
+        BK_FST_SAM: BK_SND_SAM,
+        BK_FST_KGS: BK_SND_KGS,
+        BK_FST_CHR: BK_SND_CHR,
+        BK_EZRA: BK_NEXEM,
     }
     return the_next_bkid.get(bkid)
 
@@ -401,17 +401,17 @@ def _cvt_setv(cvt, new_vrnu):
 
 BK_GENESIS = 'Genesis'
 BK_EXODUS = 'Exodus'
-BK_LEVITICUS = 'Levit'
+BK_LEVIT = 'Levit'
 BK_NUMBERS = 'Numbers'
 BK_DEUTER = 'Deuter'
 BK_JOSHUA = 'Joshua'
 BK_JUDGES = 'Judges'
-BK_FST_SAMUEL = '1Samuel'
-BK_SND_SAMUEL = '2Samuel'
-BK_FST_KINGS = '1Kings'
-BK_SND_KINGS = '2Kings'
+BK_FST_SAM = '1Samuel'
+BK_SND_SAM = '2Samuel'
+BK_FST_KGS = '1Kings'
+BK_SND_KGS = '2Kings'
 BK_ISAIAH = 'Isaiah'
-BK_JEREMIAH = 'Jeremiah'
+BK_JEREM = 'Jeremiah'
 BK_EZEKIEL = 'Ezekiel'  # guts to change it to Ezeqiel?
 BK_HOSEA = 'Hosea'
 BK_JOEL = 'Joel'
@@ -420,28 +420,28 @@ BK_OBADIAH = 'Obadiah'
 BK_JONAH = 'Jonah'
 BK_MICAH = 'Micah'  # guts to change it to Mikhah or Miḳah?
 BK_NAXUM = 'Nahum'  # guts to change it to Naḥum?
-BK_XABAKKUK = 'Habakkuk'  # guts to change it to Ḥabakkuk? Ḥabaqquq?
-BK_TSEFANIAH = 'Tsefaniah'
+BK_XABA = 'Habakkuk'  # guts to change it to Ḥabakkuk? Ḥabaqquq?
+BK_TSEF = 'Tsefaniah'
 BK_XAGGAI = 'Haggai'  # guts to change it to Ḥaggai?
-BK_ZEKHARIAH = 'Zechariah'  # guts to change it to Zekhariah or Zeḳariah?
+BK_ZEKHAR = 'Zechariah'  # guts to change it to Zekhariah or Zeḳariah?
 BK_MALAKHI = 'Malachi'  # guts to change it to Malakhi or Malaḳi?
 BK_PSALMS = 'Psalms'
-BK_PROVERBS = 'Proverbs'
+BK_PROV = 'Proverbs'
 BK_JOB = 'Job'
-BK_SONG_OF_SONGS = 'Song of Songs'
+BK_SONG = 'Song of Songs'
 BK_RUTH = 'Ruth'
-BK_LAMENTATIONS = 'Lamentations'
-BK_ECCLESIASTES = 'Ecclesiastes'
+BK_LAMENT = 'Lamentations'
+BK_QOHELET = 'Ecclesiastes'
 BK_ESTHER = 'Esther'
 BK_DANIEL = 'Daniel'
 BK_EZRA = 'Ezra'
-BK_NEXEMIAH = 'Nehemiah'  # guts to change it to Neḥemiah?
-BK_FST_CHRONICLES = '1Chronicles'
-BK_SND_CHRONICLES = '2Chronicles'
+BK_NEXEM = 'Nehemiah'  # guts to change it to Neḥemiah?
+BK_FST_CHR = '1Chronicles'
+BK_SND_CHR = '2Chronicles'
 
 BK24_GENESIS = BK_GENESIS
 BK24_EXODUS = BK_EXODUS
-BK24_LEVITICUS = BK_LEVITICUS
+BK24_LEVIT = BK_LEVIT
 BK24_NUMBERS = BK_NUMBERS
 BK24_DEUTER = BK_DEUTER
 BK24_JOSHUA = BK_JOSHUA
@@ -449,20 +449,20 @@ BK24_JUDGES = BK_JUDGES
 BK24_SAMUEL = 'Samuel'
 BK24_KINGS = 'Kings'
 BK24_ISAIAH = BK_ISAIAH
-BK24_JEREMIAH = BK_JEREMIAH
+BK24_JEREM = BK_JEREM
 BK24_EZEKIEL = BK_EZEKIEL
 BK24_THE_12 = 'The-12-Minor-Prophets'
 BK24_PSALMS = BK_PSALMS
-BK24_PROVERBS = BK_PROVERBS
+BK24_PROV = BK_PROV
 BK24_JOB = BK_JOB
-BK24_SONG_OF_SONGS = BK_SONG_OF_SONGS
+BK24_SONG = BK_SONG
 BK24_RUTH = BK_RUTH
-BK24_LAMENTATIONS = BK_LAMENTATIONS
-BK24_ECCLESIASTES = BK_ECCLESIASTES
+BK24_LAMENT = BK_LAMENT
+BK24_QOHELET = BK_QOHELET
 BK24_ESTHER = BK_ESTHER
 BK24_DANIEL = BK_DANIEL
-BK24_EZRA_NEXEMIAH = 'Ezra-Neḥemiah'
-BK24_CHRONICLES = 'Chronicles'
+BK24_EZ_NE = 'Ezra-Neḥemiah'
+BK24_CHRON = 'Chronicles'
 
 SEC_TORAH = 'Torah'
 SEC_NEV_RISH = 'NevRish'
@@ -481,51 +481,92 @@ _DEDEC_START = mk_bcvtmam(BK_DEUTER, 5, 6)
 _EXDEC_RANGE = _mk_verse_range(_EXDEC_START, 12)
 _DEDEC_RANGE = _mk_verse_range(_DEDEC_START, 12)
 
+_SH_GENESIS = 'G', 'A1'
+_SH_EXODUS = 'E', 'A2'  # E in contrast to Ee, Ec, Es, Er
+_SH_LEVIT = 'L', 'A3'  # L in contrast to La
+_SH_NUMBERS = 'N', 'A4'  # N in contrast to Ne & Na
+_SH_DEUTER = 'D', 'A5'  # D in contrast to Da
+_SH_JOSHUA = 'Js', 'B1'  # Jo.*: JsJlJnJb
+_SH_JUDGES = 'Ju', 'B2'
+_SH_FST_SAM = '1S', 'BA'
+_SH_SND_SAM = '2S', 'BB'
+_SH_FST_KGS = '1K', 'BC'
+_SH_SND_KGS = '2K', 'BD'
+_SH_ISAIAH = 'I', 'C1'
+_SH_JEREM = 'Je', 'C2'
+_SH_EZEKIEL = 'Ee', 'C3'  # Ez.*: EeEr
+_SH_HOSEA = 'Ho', 'CA'
+_SH_JOEL = 'Jl', 'CB'  # Jo.*: JsJlJnJb
+_SH_AMOS = 'A', 'CC'
+_SH_OBADIAH = 'O', 'CD'
+_SH_JONAH = 'Jn', 'CE'  # Jo.*: JsJlJnJb
+_SH_MICAH = 'Mi', 'CF'
+_SH_NAXUM = 'Na', 'CG'
+_SH_XABA = 'Hb', 'CH'  # Ha.*: HbHg
+_SH_TSEF = 'Ts', 'CI'  # was Zp (see note below)
+_SH_XAGGAI = 'Hg', 'CJ'  # Ha.*: HbHg
+_SH_ZEKHAR = 'Zc', 'CK'  # Zc (see note below)
+_SH_MALAKHI = 'Ma', 'CL'
+_SH_PSALMS = 'Ps', 'D1'
+_SH_PROV = 'Pr', 'D2'
+_SH_JOB = 'Jb', 'D3'  # Jo.*: JsJlJnJb
+_SH_SONG = 'S', 'E1'
+_SH_RUTH = 'R', 'E2'
+_SH_LAMENT = 'La', 'E3'
+_SH_QOHELET = 'Ec', 'E4'
+_SH_ESTHER = 'Es', 'E5'
+_SH_DANIEL = 'Da', 'F1'
+_SH_EZRA = 'Er', 'FA'  # Ez.*: EeEr
+_SH_NEXEM = 'Ne', 'FB'
+_SH_FST_CHR = '1C', 'FC'
+_SH_SND_CHR = '2C', 'FD'
+# Tsefaniah was formerly Zp because (a) it was formerly spelled Zephaniah
+# and (b) with this former spelling, Ze would have been ambiguous with
+# Zechariah.
+# Zechariah is Zc since Ze would have been ambiguous with Tsefaniah when
+# Tsefaniah was spelled Zephaniah.
+
+
 _BOOK_PROPERTIES = {
-    BK_GENESIS: (BK24_GENESIS, SEC_TORAH, 'G', 'A1'),
-    BK_EXODUS: (BK24_EXODUS, SEC_TORAH, 'E', 'A2'),  # E in contrast to Ee, Ec, Es, Er
-    BK_LEVITICUS: (BK24_LEVITICUS, SEC_TORAH, 'L', 'A3'),  # L in contrast to La
-    BK_NUMBERS: (BK24_NUMBERS, SEC_TORAH, 'N', 'A4'),  # N in contrast to Ne & Na
-    BK_DEUTER: (BK24_DEUTER, SEC_TORAH, 'D', 'A5'),  # D in contrast to Da
-    BK_JOSHUA: (BK24_JOSHUA, SEC_NEV_RISH, 'Js', 'B1'),  # Jo.*: JsJlJnJb
-    BK_JUDGES: (BK24_JUDGES, SEC_NEV_RISH, 'Ju', 'B2'),
-    BK_FST_SAMUEL: (BK24_SAMUEL, SEC_NEV_RISH, '1S', 'BA'),
-    BK_SND_SAMUEL: (BK24_SAMUEL, SEC_NEV_RISH, '2S', 'BB'),
-    BK_FST_KINGS: (BK24_KINGS, SEC_NEV_RISH, '1K', 'BC'),
-    BK_SND_KINGS: (BK24_KINGS, SEC_NEV_RISH, '2K', 'BD'),
-    BK_ISAIAH: (BK24_ISAIAH, SEC_NEV_AX, 'I', 'C1'),
-    BK_JEREMIAH: (BK24_JEREMIAH, SEC_NEV_AX, 'Je', 'C2'),
-    BK_EZEKIEL: (BK24_EZEKIEL, SEC_NEV_AX, 'Ee', 'C3'),  # Ez.*: EeEr
-    BK_HOSEA: (BK24_THE_12, SEC_NEV_AX, 'Ho', 'CA'),
-    BK_JOEL: (BK24_THE_12, SEC_NEV_AX, 'Jl', 'CB'),  # Jo.*: JsJlJnJb
-    BK_AMOS: (BK24_THE_12, SEC_NEV_AX, 'A', 'CC'),
-    BK_OBADIAH: (BK24_THE_12, SEC_NEV_AX, 'O', 'CD'),
-    BK_JONAH: (BK24_THE_12, SEC_NEV_AX, 'Jn', 'CE'),  # Jo.*: JsJlJnJb
-    BK_MICAH: (BK24_THE_12, SEC_NEV_AX, 'Mi', 'CF'),
-    BK_NAXUM: (BK24_THE_12, SEC_NEV_AX, 'Na', 'CG'),
-    BK_XABAKKUK: (BK24_THE_12, SEC_NEV_AX, 'Hb', 'CH'),  # Ha.*: HbHg
-    BK_TSEFANIAH: (BK24_THE_12, SEC_NEV_AX, 'Ts', 'CI'),  # was Zp (see note below)
-    BK_XAGGAI: (BK24_THE_12, SEC_NEV_AX, 'Hg', 'CJ'),  # Ha.*: HbHg
-    BK_ZEKHARIAH: (BK24_THE_12, SEC_NEV_AX, 'Zc', 'CK'),  # Zc (see note below)
-    BK_MALAKHI: (BK24_THE_12, SEC_NEV_AX, 'Ma', 'CL'),
-    BK_PSALMS: (BK24_PSALMS, SEC_SIF_EM, 'Ps', 'D1'),
-    BK_PROVERBS: (BK24_PROVERBS, SEC_SIF_EM, 'Pr', 'D2'),
-    BK_JOB: (BK24_JOB, SEC_SIF_EM, 'Jb', 'D3'),  # Jo.*: JsJlJnJb
-    BK_SONG_OF_SONGS: (BK24_SONG_OF_SONGS, SEC_XAM_MEG, 'S', 'E1'),
-    BK_RUTH: (BK24_RUTH, SEC_XAM_MEG, 'R', 'E2'),
-    BK_LAMENTATIONS: (BK24_LAMENTATIONS, SEC_XAM_MEG, 'La', 'E3'),
-    BK_ECCLESIASTES: (BK24_ECCLESIASTES, SEC_XAM_MEG, 'Ec', 'E4'),
-    BK_ESTHER: (BK24_ESTHER, SEC_XAM_MEG, 'Es', 'E5'),
-    BK_DANIEL: (BK24_DANIEL, SEC_KET_ACH, 'Da', 'F1'),
-    BK_EZRA: (BK24_EZRA_NEXEMIAH, SEC_KET_ACH, 'Er', 'FA'),  # Ez.*: EeEr
-    BK_NEXEMIAH: (BK24_EZRA_NEXEMIAH, SEC_KET_ACH, 'Ne', 'FB'),
-    BK_FST_CHRONICLES: (BK24_CHRONICLES, SEC_KET_ACH, '1C', 'FC'),
-    BK_SND_CHRONICLES: (BK24_CHRONICLES, SEC_KET_ACH, '2C', 'FD'),
-    # Tsefaniah was formerly Zp because (a) it was formerly spelled Zephaniah
-    # and (b) with this former spelling, Ze would have been ambiguous with
-    # Zechariah.
-    # Zechariah is Zc since Ze would have been ambiguous with Tsefaniah when
-    # Tsefaniah was spelled Zephaniah.
+    BK_GENESIS: (BK24_GENESIS, SEC_TORAH, *_SH_GENESIS),
+    BK_EXODUS: (BK24_EXODUS, SEC_TORAH, *_SH_EXODUS),
+    BK_LEVIT: (BK24_LEVIT, SEC_TORAH, *_SH_LEVIT),
+    BK_NUMBERS: (BK24_NUMBERS, SEC_TORAH, *_SH_NUMBERS),
+    BK_DEUTER: (BK24_DEUTER, SEC_TORAH, *_SH_DEUTER),
+    BK_JOSHUA: (BK24_JOSHUA, SEC_NEV_RISH, *_SH_JOSHUA),
+    BK_JUDGES: (BK24_JUDGES, SEC_NEV_RISH, *_SH_JUDGES),
+    BK_FST_SAM: (BK24_SAMUEL, SEC_NEV_RISH, *_SH_FST_SAM),
+    BK_SND_SAM: (BK24_SAMUEL, SEC_NEV_RISH, *_SH_SND_SAM),
+    BK_FST_KGS: (BK24_KINGS, SEC_NEV_RISH, *_SH_FST_KGS),
+    BK_SND_KGS: (BK24_KINGS, SEC_NEV_RISH, *_SH_SND_KGS),
+    BK_ISAIAH: (BK24_ISAIAH, SEC_NEV_AX, *_SH_ISAIAH),
+    BK_JEREM: (BK24_JEREM, SEC_NEV_AX, *_SH_JEREM),
+    BK_EZEKIEL: (BK24_EZEKIEL, SEC_NEV_AX, *_SH_EZEKIEL),
+    BK_HOSEA: (BK24_THE_12, SEC_NEV_AX, *_SH_HOSEA),
+    BK_JOEL: (BK24_THE_12, SEC_NEV_AX, *_SH_JOEL),
+    BK_AMOS: (BK24_THE_12, SEC_NEV_AX, *_SH_AMOS),
+    BK_OBADIAH: (BK24_THE_12, SEC_NEV_AX, *_SH_OBADIAH),
+    BK_JONAH: (BK24_THE_12, SEC_NEV_AX, *_SH_JONAH),
+    BK_MICAH: (BK24_THE_12, SEC_NEV_AX, *_SH_MICAH),
+    BK_NAXUM: (BK24_THE_12, SEC_NEV_AX, *_SH_NAXUM),
+    BK_XABA: (BK24_THE_12, SEC_NEV_AX, *_SH_XABA),
+    BK_TSEF: (BK24_THE_12, SEC_NEV_AX, *_SH_TSEF),
+    BK_XAGGAI: (BK24_THE_12, SEC_NEV_AX, *_SH_XAGGAI),
+    BK_ZEKHAR: (BK24_THE_12, SEC_NEV_AX, *_SH_ZEKHAR),
+    BK_MALAKHI: (BK24_THE_12, SEC_NEV_AX, *_SH_MALAKHI),
+    BK_PSALMS: (BK24_PSALMS, SEC_SIF_EM, *_SH_PSALMS),
+    BK_PROV: (BK24_PROV, SEC_SIF_EM, *_SH_PROV),
+    BK_JOB: (BK24_JOB, SEC_SIF_EM, *_SH_JOB),
+    BK_SONG: (BK24_SONG, SEC_XAM_MEG, *_SH_SONG),
+    BK_RUTH: (BK24_RUTH, SEC_XAM_MEG, *_SH_RUTH),
+    BK_LAMENT: (BK24_LAMENT, SEC_XAM_MEG, *_SH_LAMENT),
+    BK_QOHELET: (BK24_QOHELET, SEC_XAM_MEG, *_SH_QOHELET),
+    BK_ESTHER: (BK24_ESTHER, SEC_XAM_MEG, *_SH_ESTHER),
+    BK_DANIEL: (BK24_DANIEL, SEC_KET_ACH, *_SH_DANIEL),
+    BK_EZRA: (BK24_EZ_NE, SEC_KET_ACH, *_SH_EZRA),
+    BK_NEXEM: (BK24_EZ_NE, SEC_KET_ACH, *_SH_NEXEM),
+    BK_FST_CHR: (BK24_CHRON, SEC_KET_ACH, *_SH_FST_CHR),
+    BK_SND_CHR: (BK24_CHRON, SEC_KET_ACH, *_SH_SND_CHR),
 }
 ALL_BOOK_IDS = tuple(_BOOK_PROPERTIES.keys())
 _ALL_BK24_IDS = {bk24id(bk39id): True for bk39id in ALL_BOOK_IDS}

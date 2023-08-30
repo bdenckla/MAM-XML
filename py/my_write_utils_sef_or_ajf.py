@@ -51,7 +51,7 @@ def _write_bkg_in_csv_fmt2(variant, bkid, contents, file_handle):
         header = my_sef_header.sef_header(bkid)
         for hkey, hval in header.items():
             writer.writerow((hkey, hval))
-    sef_bkna = my_sef_cmn.SEF_ENGLISH_BOOK_NAMES[bkid]
+    sef_bkna = my_sef_cmn.SEF_BKNA[bkid]
     for bcvt, verse in contents.items():
         chnu = my_tbn.bcvt_get_chnu(bcvt)
         vrnu = my_tbn.bcvt_get_vrnu(bcvt)
