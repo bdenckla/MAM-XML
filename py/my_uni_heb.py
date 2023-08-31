@@ -32,8 +32,6 @@ def shortened_unicode_name(string):
     """
     if nonhe := _HE_TO_NONHE_DIC.get(string):
         return nonhe
-    if muns := _MISC_UNI_NAME_SHORTENINGS.get(string):
-        return muns
     fullname = unicodedata.name(string)
     fullname_words = fullname.split()
     if len(fullname_words) < 3:
@@ -144,7 +142,7 @@ _SHORTEN_DIC = {
     ('HEBREW', 'MARK'): 'HMA',
 }
 
-_HE_AND_NONHE_LET_PAIRS = (
+_HE_AND_NONHE_LETT_PAIRS = (
     (hl.ALEF, 'α'),  # Greek alpha
     (hl.BET, 'v'),  # v not b
     (hl.GIMEL, 'g'),
@@ -231,11 +229,12 @@ _HE_AND_NONHE_PUNC_PAIRS = (
     ('\N{HEBREW PUNCTUATION PASEQ}', '|'),
     ('\N{HEBREW PUNCTUATION SOF PASUQ}', '.'),  # ‡ would be another option
 )
-_MISC_UNI_NAME_SHORTENINGS = {
-    sd.CGJ: 'CGJ',
-}
+_MISC_UNI_NAME_SHORTENINGS = (
+    (sd.CGJ, 'CGJ'),
+)
 _HE_AND_NONHE_PAIRS = (
-    _HE_AND_NONHE_LET_PAIRS +
+    _MISC_UNI_NAME_SHORTENINGS +
+    _HE_AND_NONHE_LETT_PAIRS +
     _HE_AND_NONHE_POINT_PAIRS +
     _HE_AND_NONHE_PUNC_PAIRS +
     _HE_AND_NONHE_ACC_PAIRS)
