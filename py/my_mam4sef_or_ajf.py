@@ -7,7 +7,7 @@ import my_sef_cmn
 import my_tanakh_book_names as my_tbn
 import my_write_utils
 import my_write_utils_sef_or_ajf
-from my_shrink import shrink
+import my_shrink
 
 
 def main_helper(variant):
@@ -25,14 +25,14 @@ def _handle(handlers, etel):  # etel: ElementTree element
         output_for_child = _handle(handlers, child)
         ofc1_raw.extend(output_for_child)
         ofc2[child] = output_for_child
-    ofc1 = shrink(ofc1_raw)
+    ofc1 = my_shrink.shrink(ofc1_raw)
     attr_text = etel.attrib.get('text')
     if attr_text is not None:
         assert not ofc1
         ofc1 = [attr_text]
     tag_and_class = etel.tag, etel.attrib.get('class')
     handler = handlers[tag_and_class]
-    return shrink(handler(etel, ofc1, ofc2))
+    return my_shrink.shrink(handler(etel, ofc1, ofc2))
 
 
 def _read_book_group(variant, bkg_name):
