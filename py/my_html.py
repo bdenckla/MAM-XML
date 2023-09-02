@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import html
 
 import my_open
-import my_two_col_css_styles as my_css_styles
+import my_two_col_css_styles as styles
 import my_str_defs as sd
 
 
@@ -27,7 +27,7 @@ def write_html_to_file2(body_contents, write_rec):
             * an output path
     """
     title = write_rec['title']
-    other = {'head_style': my_css_styles.STYLES_STR}
+    other = {'head_style': styles.STYLES_STR}
     html_el = html_el2(title, body_contents, other=other)
     write_html_to_file(html_el, write_rec['out_path'])
 

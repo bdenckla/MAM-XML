@@ -11,7 +11,7 @@ import datetime
 import os
 import argparse
 
-import my_tanakh_book_names as my_tbn
+import my_tanakh_book_names as tbn
 
 
 def first_and_only(seq):
@@ -61,8 +61,8 @@ def get_book39_tuple_from_args():
         assert not args.section6
         return (args.book39tbn,)
     if args.section6:
-        return my_tbn.books_of_sec(args.section6)
-    return my_tbn.ALL_BOOK_IDS
+        return tbn.books_of_sec(args.section6)
+    return tbn.ALL_BOOK_IDS
 
 
 def _len_for_szip(obj):

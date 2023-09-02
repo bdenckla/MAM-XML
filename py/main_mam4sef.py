@@ -1,14 +1,14 @@
 """ Exports main """
 
 import my_utils
-import my_tanakh_book_names as my_tbn
+import my_tanakh_book_names as tbn
 import my_mam4sef_handlers
 import my_mam4sef_or_ajf
 
 
 def _timed_main():
     variant = {
-        'variant_vtrad': my_tbn.VT_SEF,
+        'variant_vtrad': tbn.VT_SEF,
         'variant_handlers': my_mam4sef_handlers.HANDLERS,
     }
     my_mam4sef_or_ajf.main_helper(variant)

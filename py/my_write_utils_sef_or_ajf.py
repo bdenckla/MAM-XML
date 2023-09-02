@@ -8,7 +8,7 @@ import my_html
 import my_sef_header
 import my_open
 import my_sef_cmn
-import my_tanakh_book_names as my_tbn
+import my_tanakh_book_names as tbn
 
 
 def write_bkg_in_csv_fmt(path, variant, verses, cant_dabs):
@@ -21,9 +21,9 @@ def write_bkg_in_csv_fmt(path, variant, verses, cant_dabs):
     }
     for bcvt, _html_els in verses['rv-cant-dual']:
         if bkid is None:
-            bkid = my_tbn.bcvt_get_bkid(bcvt)
+            bkid = tbn.bcvt_get_bkid(bcvt)
         else:
-            assert bkid == my_tbn.bcvt_get_bkid(bcvt)
+            assert bkid == tbn.bcvt_get_bkid(bcvt)
         book_out[bcvt] = tuple(
             _html_str(_maybe_get(verses_dicts, cant_dab, bcvt))
             for cant_dab in cant_dabs
@@ -53,7 +53,7 @@ def _write_bkg_in_csv_fmt2(variant, bkid, contents, file_handle):
             writer.writerow((hkey, hval))
     sef_bkna = my_sef_cmn.SEF_BKNA[bkid]
     for bcvt, verse in contents.items():
-        chnu = my_tbn.bcvt_get_chnu(bcvt)
-        vrnu = my_tbn.bcvt_get_vrnu(bcvt)
+        chnu = tbn.bcvt_get_chnu(bcvt)
+        vrnu = tbn.bcvt_get_vrnu(bcvt)
         bcv_str = f'{sef_bkna} {chnu}:{vrnu}'
         writer.writerow((bcv_str, *verse))

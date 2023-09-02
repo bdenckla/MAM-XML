@@ -9,7 +9,7 @@ This module exports:
 
 import unicodedata
 import my_html
-import my_tanakh_book_names as my_tbn
+import my_tanakh_book_names as tbn
 import my_hebrew_letters as hl
 import my_hebrew_points as hpo
 import my_hebrew_accents as ha
@@ -52,8 +52,8 @@ def hechar_names(string):
 
 def write_verse_un(out_fp, bcvt, multiverse):
     """ Write verse in "unicode names" format """
-    bkid, chnu, vrnu = my_tbn.bcvt_get_bcv_triple(bcvt)
-    vtrad = my_tbn.bcvt_get_vtrad(bcvt)
+    bkid, chnu, vrnu = tbn.bcvt_get_bcv_triple(bcvt)
+    vtrad = tbn.bcvt_get_vtrad(bcvt)
     out_fp.write(f'{bkid} {chnu}:{vrnu} in vtrad {vtrad}\n')
     for rv_cant, body in multiverse.items():
         if len(multiverse) > 1:

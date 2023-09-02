@@ -4,7 +4,7 @@ import xml.etree.ElementTree
 import my_utils
 import my_osis_book_abbrevs
 import my_sef_cmn
-import my_tanakh_book_names as my_tbn
+import my_tanakh_book_names as tbn
 import my_write_utils
 import my_write_utils_sef_or_ajf
 import my_shrink
@@ -38,8 +38,8 @@ def _handle(handlers, etel):  # etel: ElementTree element
 def _read_book_group(variant, bkg_name):
     vtrad = variant['variant_vtrad']
     xml_vtrad_xxx_dic = {
-        my_tbn.VT_BHS: 'xml-vtrad-bhs',
-        my_tbn.VT_SEF: 'xml-vtrad-sef',
+        tbn.VT_BHS: 'xml-vtrad-bhs',
+        tbn.VT_SEF: 'xml-vtrad-sef',
     }
     xml_vtrad_xxx = xml_vtrad_xxx_dic[vtrad]
     xml_path = f'../MAM-XML/out/{xml_vtrad_xxx}/{bkg_name}.xml'
@@ -69,7 +69,7 @@ def _process_book_group(variant, root, cant_dab):
     for verse in verses_in:
         osis_id = verse.attrib['osisID']
         bcvt = _get_bcvt_from_osis_id(vtrad, osis_id)
-        bkid = my_tbn.bcvt_get_bkid(bcvt)
+        bkid = tbn.bcvt_get_bkid(bcvt)
         verse_out = _handle(handlers2, verse)
         if bkid not in book39s_out:
             book39s_out[bkid] = []
@@ -79,7 +79,7 @@ def _process_book_group(variant, root, cant_dab):
 
 def _get_bcvt_from_osis_id(vtrad, osid_id):
     bkid, chnu, vrnu = my_osis_book_abbrevs.get_bcv_from_osis_id(osid_id)
-    return my_tbn.mk_bcvtxxx(bkid, chnu, vrnu, vtrad)
+    return tbn.mk_bcvtxxx(bkid, chnu, vrnu, vtrad)
 
 
 def _do_for_cant_dab(bkg_out, variant, root, cant_dab):
