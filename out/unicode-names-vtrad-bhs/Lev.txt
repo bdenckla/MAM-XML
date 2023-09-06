@@ -13890,7 +13890,24 @@ SPACE
 SPACE
 ʕ,_,l,-,d,·,_,⅃,m.
 SPACE
+START scrdfftar sdt-starpos=after-word
+START sdt-target
 r,‥,ʕ,∵,⅄,k.,a
+STOP sdt-target
+START sdt-note
+v,k,τ,r
+SPACE
+α,r,m.
+SPACE
+ц,w,v,h
+SPACE
+h,y,h
+SPACE
+k,τ,w,v
+SPACE
+r,‥,ʕ,∵,⅄,y,k.,a
+STOP sdt-note
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 α,:_,n,i,(ti),y
 SPACE

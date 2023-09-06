@@ -373,7 +373,24 @@ v,·,:,θ,∵,(qa),r,∵,m.
 SPACE
 τ,·,a,v,(da),w,o,α
 SPACE
+START scrdfftar sdt-starpos=after-word
+START sdt-target
 α,:_,l,‥,h,∵,⟓,n.
+STOP sdt-target
+START sdt-note
+v,k,τ,r
+SPACE
+α,r,m.
+SPACE
+ц,w,v,h
+SPACE
+h,y,h
+SPACE
+k,τ,w,v
+SPACE
+α,:_,l,‥,y,h,∵,⟓,n.
+STOP sdt-note
+STOP scrdfftar sdt-starpos=after-word
 SPACE
 h,_,m,:,y,_,l,·,∵,(ti),d,∵,τ
 SPACE

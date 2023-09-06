@@ -53,3 +53,17 @@ def _append_to_last(acc, part):
         return
     assert isinstance(acc[-1], str)
     acc[-1] += part
+
+
+def extend(accum, objs):
+    """ Extend accum with objs. """
+    for obj in objs:
+        append(accum, obj)
+
+
+def append(accum, obj):
+    """ Append obj to accum. """
+    if accum and _both_str(accum[-1], obj):
+        accum[-1] += obj
+    elif obj != '':
+        accum.append(obj)
