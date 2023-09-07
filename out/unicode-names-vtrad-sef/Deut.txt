@@ -9715,13 +9715,12 @@ v,σ,f,r,y
 SPACE
 τ,y,m,n.
 SPACE
-START slh-word slhw-desc-0=הָאָֽרֶץ׃ slhw-desc-1=...ץ slhw-desc-2=ג slhw-desc-3=ץ/ג
+START slh-word slhw-desc-0=הָאָֽרֶץ slhw-desc-1=...ץ slhw-desc-2=ג slhw-desc-3=ץ/ג
 h,a,α,a,𝓂,r,∵
 START letter-large
 ц.
 STOP letter-large
-.
-STOP slh-word slhw-desc-0=הָאָֽרֶץ׃ slhw-desc-1=...ץ slhw-desc-2=ג slhw-desc-3=ץ/ג
+STOP slh-word slhw-desc-0=הָאָֽרֶץ slhw-desc-1=...ץ slhw-desc-2=ג slhw-desc-3=ץ/ג
 SPACE
 v,ц,d,HPU GERSHAYIM,y
 SPACE
@@ -17291,7 +17290,11 @@ START sdt-target
 d,·,_,k,·,a,⟓,α
 STOP sdt-target
 START sdt-note
-v,r,w,v
+v,σ,f,r,y
+SPACE
+σ,f,r,d
+SPACE
+w,r,w,v
 SPACE
 σ,f,r,y
 SPACE

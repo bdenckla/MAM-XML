@@ -677,10 +677,9 @@
           <sdt-target text="עַל־הָאָֽרֶץ" />
           <sdt-note>
             <text text="בספרי תימן " />
-            <slh-word slhw-desc-0="הָאָֽרֶץ׃" slhw-desc-1="...ץ" slhw-desc-2="ג" slhw-desc-3="ץ/ג">
+            <slh-word slhw-desc-0="הָאָֽרֶץ" slhw-desc-1="...ץ" slhw-desc-2="ג" slhw-desc-3="ץ/ג">
               <text text="הָאָֽרֶ" />
               <letter-large text="ץ" />
-              <text text="׃" />
             </slh-word>
             <text text=" בצד״י גדולה" />
           </sdt-note>
@@ -1183,7 +1182,7 @@
         <text text="לֹֽא־יָבֹ֧א פְצֽוּעַ־" />
         <scrdfftar sdt-starpos="after-word">
           <sdt-target text="דַּכָּ֛א" />
-          <sdt-note text="ברוב ספרי אשכנז דַּכָּ֛ה" />
+          <sdt-note text="בספרי ספרד ורוב ספרי אשכנז דַּכָּ֛ה" />
         </scrdfftar>
         <text text=" וּכְר֥וּת שׇׁפְכָ֖ה בִּקְהַ֥ל יְהֹוָֽה׃" />
       </verse>
