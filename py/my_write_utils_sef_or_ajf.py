@@ -28,11 +28,8 @@ def write_bkg_in_csv_fmt(path, variant, verses, cant_dabs):
             _html_str(_maybe_get(verses_dicts, cant_dab, bcvt))
             for cant_dab in cant_dabs
         )
-
-    def _write_callback(file_handle):
-        _write_bkg_in_csv_fmt2(variant, bkid, book_out, file_handle)
-
-    my_open.with_tmp_openw(path, _write_callback, newline='')
+    my_open.with_tmp_openw2(
+        path, {'newline': ''}, _write_bkg_in_csv_fmt2, variant, bkid, book_out)
 
 
 def _maybe_get(verses_dicts, cant_dab, bcvt):

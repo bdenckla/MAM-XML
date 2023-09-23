@@ -19,6 +19,15 @@ def with_tmp_openw(path, callback, **kwargs):
     return retval
 
 
+def with_tmp_openw2(path, kwargs_dic, write_fun, *write_fun_args):
+    """ Open path for writing, but through a temporary file """
+    tpath = _tmp_path(path)
+    with _openw(tpath, **kwargs_dic) as outfp:
+        retval = write_fun(*write_fun_args, outfp)
+    os.replace(tpath, path)
+    return retval
+
+
 def std_json_dump_to_file_path(dumpable, path, indent=0, sort_keys=False):
     """ dump JSON to file path """
     def _write_callback(out_fp):

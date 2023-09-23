@@ -105,56 +105,6 @@ def short_bcv_of_bcvt(bcvt):
     return short_bcv(bcvt_get_bcv_triple(bcvt))
 
 
-def short_bcv2(bkid, chapnver, in_cvjumps):
-    """
-       Returns a string like short_bcv() but adds:
-          a space and a 'c' for a chapter-final (but not book-final) verse
-          a space and a 'b' for a book-final verse.
-       E.g.:
-       1:9 c means
-          1:9 is the last verse of its chapter (chapter 1)
-          but not the last verse of its book
-       8:9 b means
-          8:9 is the last verse of its book
-    """
-    next_cv = cvjumps_next(in_cvjumps, chapnver)
-    suff = ''
-    if next_cv == 'DNE':
-        suff = ' b'
-    elif next_cv[0] != chapnver[0]:
-        assert next_cv[0] == 1 + chapnver[0] and next_cv[1] == 1
-        suff = ' c'
-    return short_bcv((bkid, *chapnver)) + suff
-
-
-def cvjumps(cvs):
-    """
-        This function returns next verses and previous verses
-        for "interesting" verses, i.e. verses for whom next
-        or previous isn't simple.
-    """
-    nexts = {}
-    prev_cv = 'DNE'  # does not exist; a "truthy" version of None
-    for chapnver in cvs:
-        if prev_cv == 'DNE' or chapnver != _simple_next(prev_cv):
-            nexts[prev_cv] = chapnver
-        prev_cv = chapnver
-    if prev_cv:
-        nexts[prev_cv] = 'DNE'
-    prevs = {x: prev for prev, x in nexts.items()}
-    return nexts, prevs
-
-
-def cvjumps_next(in_cvjumps, cvt):
-    """ Return the verse locale after cvt """
-    return in_cvjumps[0].get(cvt) or _simple_next(cvt)
-
-
-def cvjumps_prev(in_cvjumps, cvt):
-    """ Return the verse locale before cvt """
-    return in_cvjumps[1].get(cvt) or _simple_prev(cvt)
-
-
 def has_dualcant(bcvtmam):  # bcv in MAM vtrad
     """ Return whether locale bcvt has dual cantillation """
     assert bcvt_is_tmam(bcvtmam)
@@ -312,6 +262,11 @@ def cvt_get_vtrad(cvt):
     return cvt[2]
 
 
+def cvt_get_chnu_vrnu(cvt):
+    """ Return the chnu and vrnu parts of cvt, as a pair """
+    return cvt_get_chnu(cvt), cvt_get_vrnu(cvt)
+
+
 def cvt_is_tmam(cvt):
     """ Return whether the vtrad is VT_MAM """
     return cvt_get_vtrad(cvt) == VT_MAM
@@ -322,14 +277,14 @@ def cvt_is_tsef(cvt):
     return cvt_get_vtrad(cvt) == VT_SEF
 
 
-def cvt_stript(cvt):
+def cvt_strip_vtrad(cvt):
     """ Strip the vtrad """
     return cvt[:-1]
 
 
 def eq_mod_vtrad(cvt_a, cvt_b):
     """ Returns whether these cvts are equal modulo their vtrad. """
-    return cvt_stript(cvt_a) == cvt_stript(cvt_b)
+    return cvt_strip_vtrad(cvt_a) == cvt_strip_vtrad(cvt_b)
 
 
 def short(bkid):
@@ -367,14 +322,6 @@ def _bkprop_short(bkprop):
 
 def _bkprop_ordered_short(bkprop):
     return bkprop[3]
-
-
-def _simple_next(cvt):
-    return cvt[0], cvt[1] + 1, cvt[2]
-
-
-def _simple_prev(cvt):
-    return cvt[0], cvt[1] - 1, cvt[2]
 
 
 def _shorts_are_unique():
