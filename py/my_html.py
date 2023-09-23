@@ -12,10 +12,7 @@ def write_html_to_file(html_el, path):
         * a top-level html element
         * an output path
     """
-    def _write_callback(out_fp):
-        out_fp.write('<!doctype html>\n')
-        out_fp.write(el_to_str(html_el))
-    my_open.with_tmp_openw(path, _write_callback)
+    my_open.with_tmp_openw(path, {}, _write_callback, html_el)
 
 
 def write_html_to_file2(body_contents, write_rec):
@@ -76,6 +73,11 @@ def el_to_xml(xml_parent, elem):
     if contents:
         for contents_el in contents:
             el_to_xml(xml_elem, contents_el)
+
+
+def _write_callback(html_el, out_fp):
+    out_fp.write('<!doctype html>\n')
+    out_fp.write(el_to_str(html_el))
 
 
 def _is_text_singleton(array):  # "array": tuple or list

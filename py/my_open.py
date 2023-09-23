@@ -10,16 +10,7 @@ import pathlib
 import json
 
 
-def with_tmp_openw(path, callback, **kwargs):
-    """ Open path for writing, but through a temporary file """
-    tpath = _tmp_path(path)
-    with _openw(tpath, **kwargs) as outfp:
-        retval = callback(outfp)
-    os.replace(tpath, path)
-    return retval
-
-
-def with_tmp_openw2(path, kwargs_dic, write_fun, *write_fun_args):
+def with_tmp_openw(path, kwargs_dic, write_fun, *write_fun_args):
     """ Open path for writing, but through a temporary file """
     tpath = _tmp_path(path)
     with _openw(tpath, **kwargs_dic) as outfp:
@@ -30,21 +21,25 @@ def with_tmp_openw2(path, kwargs_dic, write_fun, *write_fun_args):
 
 def std_json_dump_to_file_path(dumpable, path, indent=0, sort_keys=False):
     """ dump JSON to file path """
-    def _write_callback(out_fp):
-        _std_json_dump_to_file_pointer(dumpable, out_fp, indent, sort_keys)
-    with_tmp_openw(path, _write_callback)
+    with_tmp_openw(path, {}, _write_callback1, dumpable, indent, sort_keys)
 
 
 def dump_json_lines(path, outlines):
     """ dump JSON lines to path """
-    def _write_callback(out_fp):
-        out_fp.write('[\n')
-        for outline in outlines[:-1]:
-            out_fp.write(outline + ',\n')
-        if outlines:
-            out_fp.write(outlines[-1] + '\n')
-        out_fp.write(']\n')
-    with_tmp_openw(path, _write_callback)
+    with_tmp_openw(path, {}, _write_callback2, outlines)
+
+
+def _write_callback1(dumpable, indent, sort_keys, out_fp):
+    _std_json_dump_to_file_pointer(dumpable, out_fp, indent, sort_keys)
+
+
+def _write_callback2(outlines, out_fp):
+    out_fp.write('[\n')
+    for outline in outlines[:-1]:
+        out_fp.write(outline + ',\n')
+    if outlines:
+        out_fp.write(outlines[-1] + '\n')
+    out_fp.write(']\n')
 
 
 def _openw(path, **kwargs):

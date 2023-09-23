@@ -17,18 +17,9 @@ def write_bkg_in_un_fmt(variant, bkg_name, verses, rv_cant_that_covers):
         roca: dict(list_of_pairs)
         for roca, list_of_pairs in verses.items()
     }
-
-    def _write_callback(out_fp):
-        out_fp.write(f'{title}\n')
-        for bcvt, _verse_body in verses[rv_cant_that_covers]:
-            multiverse = {
-                roca: verses_dicts[roca].get(bcvt)
-                for roca in verses.keys()
-                if verses_dicts[roca].get(bcvt) is not None
-            }
-            uh.write_verse_un(out_fp, bcvt, multiverse)
-
-    my_open.with_tmp_openw(path, _write_callback)
+    my_open.with_tmp_openw(
+        path, {},
+        _write_callback, verses, rv_cant_that_covers, title, verses_dicts)
 
 
 def bkg_path(variant, bkg_name, fmt_is_unicode_names=False):
@@ -53,3 +44,14 @@ def bkg_path(variant, bkg_name, fmt_is_unicode_names=False):
     parent = f'../{mam_for_xxx}/out'
     path = f'{parent}/{folders[fmt]}/{bkg_name}{exts[fmt]}'
     return path
+
+
+def _write_callback(verses, rv_cant_that_covers, title, verses_dicts, out_fp):
+    out_fp.write(f'{title}\n')
+    for bcvt, _verse_body in verses[rv_cant_that_covers]:
+        multiverse = {
+            roca: verses_dicts[roca].get(bcvt)
+            for roca in verses.keys()
+            if verses_dicts[roca].get(bcvt) is not None
+        }
+        uh.write_verse_un(out_fp, bcvt, multiverse)
