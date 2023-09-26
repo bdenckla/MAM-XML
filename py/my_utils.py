@@ -34,6 +34,25 @@ def szip(*seqs):
     return zip(*seqs)
 
 
+def intersperse(sep, seq):
+    """ Intersperse a separator between the elements of a sequence. """
+    seps = (sep,) * len(seq)
+    tmp = sum(szip(seq, seps), tuple())
+    return tmp[:-1]  # rm final sep, e.g. final None
+
+
+def list_map(the_list, fun, *const_args):
+    """ Map the given function over the given list. """
+    assert isinstance(the_list, list)
+    return [fun(*const_args, elem) for elem in the_list]
+
+
+def tuple_map(the_tuple, fun, *const_args):
+    """ Map the given function over the given tuple. """
+    assert isinstance(the_tuple, tuple)
+    return [fun(*const_args, elem) for elem in the_tuple]
+
+
 def show_time(uufileuu, inner_function):
     print(os.path.basename(uufileuu))
     start = time.process_time()

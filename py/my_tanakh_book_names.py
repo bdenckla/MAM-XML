@@ -100,12 +100,30 @@ def short_bcv(bcv):
     return short(bcv[0]) + str(bcv[1]) + ':' + str(bcv[2])
 
 
+def ordered_short_bcv(bcv):
+    """
+    Returns, for example, A1G0203 for Genesis 2:3.
+    """
+    ord_bk = ordered_short(bcv[0])
+    sht_bk = short(bcv[0])
+    ord_chnu_str = my_zfill(bcv[1], _max_width_for_chnu(bcv[0]))
+    ord_vrnu_str = my_zfill(bcv[2], _max_width_for_vrnu(bcv[0], bcv[1]))
+    return ord_bk + sht_bk + ord_chnu_str + ord_vrnu_str
+
+
+def my_zfill(the_int, width):
+    """ str.zfill but asserting that width is adhered to. """
+    out = str(the_int).zfill(width)
+    assert len(out) == width
+    return out
+
+
 def short_bcv_of_bcvt(bcvt):
     """ Like short_bcv but on a bcvt. """
     return short_bcv(bcvt_get_bcv_triple(bcvt))
 
 
-def has_dualcant(bcvtmam):  # bcv in MAM vtrad
+def has_dualcant(bcvtmam):  # bcvt in MAM vtrad
     """ Return whether locale bcvt has dual cantillation """
     assert bcvt_is_tmam(bcvtmam)
     return (
@@ -168,22 +186,22 @@ def part2_bkid(bkid):
 
 
 def mk_bcvtmam(bkid, chnu, vrnu):
-    """ Return a bcv qualified with VT_MAM """
+    """ Return a bcvt with t=VT_MAM """
     return mk_bcvt(bkid, mk_cvtmam(chnu, vrnu))
 
 
 def mk_bcvtsef(bkid, chnu, vrnu):
-    """ Return a bcv with vtrad Sef """
+    """ Return a bct with t=vtrad Sef """
     return mk_bcvt(bkid, mk_cvtsef(chnu, vrnu))
 
 
 def mk_bcvtbhs(bkid, chnu, vrnu):
-    """ Return a bcv with vtrad BHS """
+    """ Return a bcvt with t=vtrad BHS """
     return mk_bcvt(bkid, mk_cvtbhs(chnu, vrnu))
 
 
 def mk_bcvtxxx(bkid, chnu, vrnu, vtrad):
-    """ Return a bcv with the given vtrad """
+    """ Return a bcvt with t=the given vtrad """
     return mk_bcvt(bkid, mk_cvt(chnu, vrnu, vtrad))
 
 
@@ -214,11 +232,13 @@ def mk_cvt(chnu, vrnu, vtrad):
 
 def bcvt_get_bkid(bcvt):
     """ Return the book ID part of bcvt """
+    assert _is_bcvt(bcvt)
     return bcvt[1]
 
 
 def bcvt_get_cvt(bcvt):
     """ Strip the book name """
+    assert _is_bcvt(bcvt)
     return bcvt[2:]
 
 
@@ -292,8 +312,7 @@ def short(bkid):
         Returns the (unordered) short name (1 or 2 letters) corresponding to
         the given book. E.g. G for Genesis, Er for Ezra.
     """
-    assert _shorts_are_unique()
-    return _short_no_check(bkid)
+    return _bkprop_short(_BOOK_PROPERTIES[bkid])
 
 
 def std_from_short(short_book_name):
@@ -304,8 +323,27 @@ def std_from_short(short_book_name):
     return _SHORT_TO_STD[short_book_name]
 
 
-def _short_no_check(bkid):
-    return _bkprop_short(_BOOK_PROPERTIES[bkid])
+def _is_bcvt(obj):
+    return (
+        obj[0] == '_bcvt' and
+        obj[1] in ALL_BOOK_IDS and
+        isinstance(obj[2], int) and
+        isinstance(obj[3], int) and
+        obj[4] in ALL_VTRADS)
+
+
+def _max_width_for_chnu(bkid):
+    if bkid == BK_PSALMS:
+        return 3
+    if bkid in _BOOKS_WITH_LESS_THAN_10_CHAPS:
+        return 1
+    return 2
+
+
+def _max_width_for_vrnu(bkid, chnu):
+    if (bkid, chnu) == (BK_PSALMS, 119):
+        return 3  # Psalm 119 has 176 verses!
+    return 2
 
 
 def _bkprop_bk24id(bkprop):
@@ -325,7 +363,7 @@ def _bkprop_ordered_short(bkprop):
 
 
 def _shorts_are_unique():
-    unique_shorts = set(map(_short_no_check, ALL_BOOK_IDS))
+    unique_shorts = set(map(short, ALL_BOOK_IDS))
     return len(unique_shorts) == len(ALL_BOOK_IDS)
 
 
@@ -360,12 +398,12 @@ BK_SND_KGS = '2Kings'
 BK_ISAIAH = 'Isaiah'
 BK_JEREM = 'Jeremiah'
 BK_EZEKIEL = 'Ezekiel'  # guts to change it to Ezeqiel?
-BK_HOSEA = 'Hosea'
+BK_HOSHEA = 'Hosea'  # guts to change it to Hoshea?
 BK_JOEL = 'Joel'
 BK_AMOS = 'Amos'
-BK_OBADIAH = 'Obadiah'
+BK_OVADIAH = 'Obadiah'  # guts to change it to Ovadiah?
 BK_JONAH = 'Jonah'
-BK_MICAH = 'Micah'  # guts to change it to Mikhah or Miḳah?
+BK_MIKHAH = 'Micah'  # guts to change it to Mikhah or Miḳah?
 BK_NAXUM = 'Nahum'  # guts to change it to Naḥum?
 BK_XABA = 'Habakkuk'  # guts to change it to Ḥabakkuk? Ḥabaqquq?
 BK_TSEF = 'Tsefaniah'
@@ -421,12 +459,7 @@ SEC_KET_ACH = 'KetAḥ'
 VT_MAM = 'vtmam'
 VT_SEF = 'vtsef'
 VT_BHS = 'vtbhs'
-
-_SAGA_OF_REUBEN_BCV = mk_bcvtmam(BK_GENESIS, 35, 22)
-_EXDEC_START = mk_bcvtmam(BK_EXODUS, 20, 2)
-_DEDEC_START = mk_bcvtmam(BK_DEUTER, 5, 6)
-_EXDEC_RANGE = _mk_verse_range(_EXDEC_START, 12)
-_DEDEC_RANGE = _mk_verse_range(_DEDEC_START, 12)
+ALL_VTRADS = VT_MAM, VT_SEF, VT_BHS
 
 _SH_GENESIS = 'G', 'A1'
 _SH_EXODUS = 'E', 'A2'  # E in contrast to Ee, Ec, Es, Er
@@ -489,12 +522,12 @@ _BOOK_PROPERTIES = {
     BK_ISAIAH: (BK24_ISAIAH, SEC_NEV_AX, *_SH_ISAIAH),
     BK_JEREM: (BK24_JEREM, SEC_NEV_AX, *_SH_JEREM),
     BK_EZEKIEL: (BK24_EZEKIEL, SEC_NEV_AX, *_SH_EZEKIEL),
-    BK_HOSEA: (BK24_THE_12, SEC_NEV_AX, *_SH_HOSEA),
+    BK_HOSHEA: (BK24_THE_12, SEC_NEV_AX, *_SH_HOSEA),
     BK_JOEL: (BK24_THE_12, SEC_NEV_AX, *_SH_JOEL),
     BK_AMOS: (BK24_THE_12, SEC_NEV_AX, *_SH_AMOS),
-    BK_OBADIAH: (BK24_THE_12, SEC_NEV_AX, *_SH_OBADIAH),
+    BK_OVADIAH: (BK24_THE_12, SEC_NEV_AX, *_SH_OBADIAH),
     BK_JONAH: (BK24_THE_12, SEC_NEV_AX, *_SH_JONAH),
-    BK_MICAH: (BK24_THE_12, SEC_NEV_AX, *_SH_MICAH),
+    BK_MIKHAH: (BK24_THE_12, SEC_NEV_AX, *_SH_MICAH),
     BK_NAXUM: (BK24_THE_12, SEC_NEV_AX, *_SH_NAXUM),
     BK_XABA: (BK24_THE_12, SEC_NEV_AX, *_SH_XABA),
     BK_TSEF: (BK24_THE_12, SEC_NEV_AX, *_SH_TSEF),
@@ -515,6 +548,21 @@ _BOOK_PROPERTIES = {
     BK_FST_CHR: (BK24_CHRON, SEC_KET_ACH, *_SH_FST_CHR),
     BK_SND_CHR: (BK24_CHRON, SEC_KET_ACH, *_SH_SND_CHR),
 }
+_BOOKS_WITH_LESS_THAN_10_CHAPS = (
+    BK_AMOS,
+    BK_XAGGAI,
+    BK_XABA,
+    BK_LAMENT,
+    BK_MALAKHI,
+    BK_MIKHAH,
+    BK_NAXUM,
+    BK_OVADIAH,
+    BK_RUTH,
+    BK_SONG,
+    BK_JOEL,
+    BK_JONAH,
+    BK_TSEF,
+)
 ALL_BOOK_IDS = tuple(_BOOK_PROPERTIES.keys())
 _ALL_BK24_IDS = {bk24id(bk39id): True for bk39id in ALL_BOOK_IDS}
 ALL_BK24_IDS = tuple(_ALL_BK24_IDS.keys())
@@ -524,3 +572,10 @@ ALL_SECTION_NAMES = (
 _SHORT_TO_STD = {
     _bkprop_short(prop): std
     for std, prop in _BOOK_PROPERTIES.items()}
+_SAGA_OF_REUBEN_BCV = mk_bcvtmam(BK_GENESIS, 35, 22)
+_EXDEC_START = mk_bcvtmam(BK_EXODUS, 20, 2)
+_DEDEC_START = mk_bcvtmam(BK_DEUTER, 5, 6)
+_EXDEC_RANGE = _mk_verse_range(_EXDEC_START, 12)
+_DEDEC_RANGE = _mk_verse_range(_DEDEC_START, 12)
+
+assert _shorts_are_unique()

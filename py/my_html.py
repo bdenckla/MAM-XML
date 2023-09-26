@@ -206,10 +206,11 @@ def hel_mk(
     """ Make an HTML element """
     assert isinstance(tag, str)
     assert isinstance(attr, (type(None), dict))
-    assert isinstance(contents, (type(None), tuple, list))
+    contents2 = (contents,) if isinstance(contents, str) else contents
+    assert isinstance(contents2, (type(None), tuple, list))
     opts1 = {
         'attr': attr,
-        'contents': contents,
+        'contents': contents2,
         'lb1': lb1,
         'lb2': lb2,
         'noclose': noclose
