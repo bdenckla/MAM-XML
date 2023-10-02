@@ -5,7 +5,7 @@ import my_wikisource_urls
 
 
 def sef_header(bkid):
-    """ Returns Sefaria header for book with ID bkid. """
+    """ Return Sefaria header for book with ID bkid. """
     return {
         'Index Title': my_sef_cmn.SEF_BKNA[bkid],
         'Version Title': 'Miqra according to the Masorah',

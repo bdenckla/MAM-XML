@@ -5,6 +5,8 @@ This module exports:
     accent_names
     hechar_names
     write_verse_un
+    comma_shunna
+    t_shunna
 """
 
 import unicodedata
@@ -26,8 +28,8 @@ def do_quick_test():
     assert lines3 == [' ', 'זחט', ' ']
 
 
-def shortened_unicode_name(string):
-    """ return a shortened name of the string,
+def shunna(string):
+    """ Return a shortened name of the string,
     if we "know" a shortened name for it
     """
     if nonhe := _HE_TO_NONHE_DIC.get(string):
@@ -63,6 +65,17 @@ def write_verse_un(out_fp, bcvt, multiverse):
     out_fp.write('\n')
 
 
+def comma_shunnas(string):
+    """ Comma-joined shortened unicode names """
+    return ','.join(t_shunnas(string))
+
+
+def t_shunnas(string: str):
+    """ Tuple of shortened unicode names """
+    assert isinstance(string, str)
+    return tuple(map(shunna, string))
+
+
 def _mk_he_to_nonhe_dic():
     nonhe_set = set()
     for _, nonhe in _HE_AND_NONHE_PAIRS:  # _ is he
@@ -86,7 +99,7 @@ def _write_segments(out_fp, segments, cant_dab=None, indent=''):
                 list_of_lists = [_get_pre_lines(sep, pl) for pl in pre_lines]
                 pre_lines = sum(list_of_lists, [])
             for pre_line in pre_lines:
-                line = comma_shunna(pre_line)
+                line = comma_shunnas(pre_line)
                 out_fp.write(indent + line + '\n')
             continue
         if isinstance(segment, dict):
@@ -121,17 +134,6 @@ def _get_pre_lines(sep, segment):
     if nsruns[-1]:
         pre_lines.append(nsruns[-1])
     return pre_lines
-
-
-def comma_shunna(string):
-    """ Comma-joined shortened unicode names """
-    return ','.join(shunna(string))
-
-
-def shunna(string: str):
-    """ Tuple of shortened unicode names """
-    assert isinstance(string, str)
-    return tuple(map(shortened_unicode_name, string))
 
 
 _SHORTEN_DIC = {

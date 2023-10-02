@@ -21,32 +21,32 @@ the books of the Hebrew Bible and identifying verses within those books.
 
 
 def book_is_of_sec(in_section, bkid):
-    """ Returns whether the given book belongs to the given section. """
+    """ Return whether the given book belongs to the given section. """
     return section(bkid) == in_section
 
 
 def books_of_sec(in_section):
-    """ Returns a tuple of all book names in the given section. """
+    """ Return a tuple of all book names in the given section. """
     return tuple(b for b in ALL_BOOK_IDS if book_is_of_sec(in_section, b))
 
 
 def section(bkid):
-    """ Returns the section to which the given book belongs. """
+    """ Return the section to which the given book belongs. """
     return _bkprop_section(_BOOK_PROPERTIES[bkid])
 
 
 def book_is_of_bk24(in_bk24id, bkid):
-    """ Returns whether the given book belongs to the given book24. """
+    """ Return whether the given book belongs to the given book24. """
     return _bkprop_bk24id(_BOOK_PROPERTIES[bkid]) == in_bk24id
 
 
 def bkids_of_bk24(in_bk24id):
-    """ Returns a tuple of all book names in the given book24. """
+    """ Return a tuple of all book names in the given book24. """
     return tuple(b for b in ALL_BOOK_IDS if book_is_of_bk24(in_bk24id, b))
 
 
 def bk24id(bkid):
-    """ Returns the book24 to which the given book belongs. """
+    """ Return the book24 to which the given book belongs. """
     return _bkprop_bk24id(_BOOK_PROPERTIES[bkid])
 
 
@@ -112,7 +112,7 @@ def ordered_short_bcv(bcv):
 
 
 def my_zfill(the_int, width):
-    """ str.zfill but asserting that width is adhered to. """
+    """ Call str.zfill, asserting that width is adhered to. """
     out = str(the_int).zfill(width)
     assert len(out) == width
     return out
@@ -303,7 +303,7 @@ def cvt_strip_vtrad(cvt):
 
 
 def eq_mod_vtrad(cvt_a, cvt_b):
-    """ Returns whether these cvts are equal modulo their vtrad. """
+    """ Return whether these cvts are equal modulo their vtrad. """
     return cvt_strip_vtrad(cvt_a) == cvt_strip_vtrad(cvt_b)
 
 

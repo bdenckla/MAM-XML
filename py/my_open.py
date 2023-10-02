@@ -20,12 +20,12 @@ def with_tmp_openw(path, kwargs_dic, write_fun, *write_fun_args):
 
 
 def std_json_dump_to_file_path(dumpable, path, indent=0, sort_keys=False):
-    """ dump JSON to file path """
+    """ Dump JSON to a file path """
     with_tmp_openw(path, {}, _write_callback1, dumpable, indent, sort_keys)
 
 
 def dump_json_lines(path, outlines):
-    """ dump JSON lines to path """
+    """ Dump JSON lines to a file path """
     with_tmp_openw(path, {}, _write_callback2, outlines)
 
 

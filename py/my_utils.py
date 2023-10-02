@@ -15,7 +15,7 @@ import my_tanakh_book_names as tbn
 
 
 def first_and_only(seq):
-    """ Asserts that this is there is only 1 el of seq, and returns it. """
+    """ Assert that this is there is only 1 el of seq, and returns it. """
     assert len(seq) == 1
     return seq[0]
 
@@ -28,7 +28,7 @@ def first_and_only_and_str(seq):
 
 
 def szip(*seqs):
-    """ strong zip (asserts equal length) """
+    """ Strongly zip (zip, asserting equal length) """
     for seq in seqs[1:]:
         assert _len_for_szip(seq) == _len_for_szip(seqs[0])
     return zip(*seqs)
@@ -41,16 +41,30 @@ def intersperse(sep, seq):
     return tmp[:-1]  # rm final sep, e.g. final None
 
 
-def list_map(the_list, fun, *const_args):
-    """ Map the given function over the given list. """
+def ll_map(the_list, fun, *const_args):
+    """
+    Map the given function over the given list.
+    (The "ll" means "list in, list out".)
+    """
     assert isinstance(the_list, list)
     return [fun(*const_args, elem) for elem in the_list]
 
 
-def tuple_map(the_tuple, fun, *const_args):
-    """ Map the given function over the given tuple. """
+def tt_map(the_tuple, fun, *const_args):
+    """
+    Map the given function over the given tuple.
+    (The "tt" means "tuple in, tuple out".)
+    """
     assert isinstance(the_tuple, tuple)
     return [fun(*const_args, elem) for elem in the_tuple]
+
+
+def sl_map(the_sequence, fun, *const_args):
+    """
+    Map the given function over the given sequence (e.g. list or tuple).
+    (The "sl" means "[any] sequence in, list out".)
+    """
+    return [fun(*const_args, elem) for elem in the_sequence]
 
 
 def show_time(uufileuu, inner_function):
