@@ -197,7 +197,7 @@ def line_break2(attr=None):
 
 
 def hel_mk(
-        tag,
+        tag: str,
         attr=None,
         contents=None,
         lb1=None,
