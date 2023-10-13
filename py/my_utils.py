@@ -67,6 +67,14 @@ def sl_map(the_sequence, fun, *const_args):
     return [fun(*const_args, elem) for elem in the_sequence]
 
 
+def st_map(the_sequence, fun, *const_args):
+    """
+    Map the given function over the given sequence (e.g. list or tuple).
+    (The "st" means "[any] sequence in, tuple out".)
+    """
+    return tuple(fun(*const_args, elem) for elem in the_sequence)
+
+
 def show_time(uufileuu, inner_function):
     print(os.path.basename(uufileuu))
     start = time.process_time()

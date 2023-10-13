@@ -23,10 +23,10 @@ def write_html_to_file2(body_contents, write_rec):
             * a title
             * an output path
     """
-    title = write_rec['title']
-    other = {'head_style': styles.STYLES_STR}
-    html_el = html_el2(title, body_contents, other=other)
-    write_html_to_file(html_el, write_rec['out_path'])
+    title = write_rec['wr_title']
+    style = write_rec.get('wr_style') or styles.STYLES_STR
+    html_el = html_el2(title, body_contents, other={'head_style': style})
+    write_html_to_file(html_el, write_rec['wr_out_path'])
 
 
 def el_to_str(elem):
