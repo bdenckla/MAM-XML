@@ -88,13 +88,13 @@ def _shorten_fullname_prefix(word1, word2):
     return _SHORTEN_DIC.get((word1, word2)) or word1 + ' ' + word2
 
 
-def _write_segments(out_fp, segments, cant_dab=None, indent=''):
+def _write_segments(out_fp, html_els, cant_dab=None, indent=''):
     if cant_dab:
         out_fp.write(f'{cant_dab}\n')
         indent = '    '
-    for segment in segments:
-        if isinstance(segment, str):
-            pre_lines = [segment]
+    for html_el in html_els:
+        if isinstance(html_el, str):
+            pre_lines = [html_el]
             for sep in ' ', sd.NBSP:
                 list_of_lists = [_get_pre_lines(sep, pl) for pl in pre_lines]
                 pre_lines = sum(list_of_lists, [])
@@ -102,11 +102,11 @@ def _write_segments(out_fp, segments, cant_dab=None, indent=''):
                 line = comma_shunnas(pre_line)
                 out_fp.write(indent + line + '\n')
             continue
-        if isinstance(segment, dict):
-            segtag = my_html.hel_get_tag(segment)  # e.g. 'span'
-            attr = segment.get('attr')
+        if isinstance(html_el, dict):
+            segtag = my_html.hel_get_tag(html_el)  # e.g. 'span'
+            attr = html_el.get('attr')
             kev_strs = _key_eq_val_strs(attr or {})
-            if contents := segment.get('contents'):
+            if contents := html_el.get('contents'):
                 out_fp.write(indent + _stasto('START', segtag, kev_strs))
                 _write_segments(out_fp, contents, None, indent)
                 out_fp.write(indent + _stasto('STOP', segtag, kev_strs))

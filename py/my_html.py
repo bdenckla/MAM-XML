@@ -29,26 +29,27 @@ def write_html_to_file2(body_contents, write_rec):
     write_html_to_file(html_el, write_rec['wr_out_path'])
 
 
-def el_to_str(elem):
-    if isinstance(elem, str):
+def el_to_str(html_el):
+    """ Convert an HTML element to a string. """
+    if isinstance(html_el, str):
         sstt = str.maketrans({  # special space translation table
             '\N{EM SPACE}': '&emsp;',
             sd.THSP: '&thinsp;',
             sd.NBSP: '&nbsp;',
         })
-        return html.escape(elem, quote=False).translate(sstt)
+        return html.escape(html_el, quote=False).translate(sstt)
     contents_str = ''
-    if contents := elem.get('contents'):
+    if contents := html_el.get('contents'):
         assert isinstance(contents, (tuple, list))
         contents_str = ''.join(map(el_to_str, contents))
-    eltag = hel_get_tag(elem)
+    eltag = hel_get_tag(html_el)
     fields = {
         'tag_name': eltag,
-        'attr': _attr_str(elem.get('attr')),
+        'attr': _attr_str(html_el.get('attr')),
         'contents': contents_str,
-        'close': '' if elem.get('noclose') else f'</{eltag}>',
-        'lb1': elem.get('lb1', '\n'),
-        'lb2': elem.get('lb2', '\n'),
+        'close': '' if html_el.get('noclose') else f'</{eltag}>',
+        'lb1': html_el.get('lb1', '\n'),
+        'lb2': html_el.get('lb2', '\n'),
     }
     return '<{tag_name}{attr}>{lb1}{contents}{close}{lb2}'.format(**fields)
 
@@ -219,8 +220,8 @@ def hel_mk(
     return {'_hel_tag': tag, **opts2}
 
 
-def hel_get_tag(hel):
-    return hel['_hel_tag']
+def hel_get_tag(html_el):
+    return html_el['_hel_tag']
 
 
 def _list_item(contents, attr=None):
