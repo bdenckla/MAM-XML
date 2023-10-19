@@ -29,4 +29,6 @@ th, td {
     padding-left: 0.4em;
 }
 *.bordered { border: 1px solid; }
+*.top-n-bot-bordered { border-top: 1px solid; border-bottom: 1px solid; }
+*.end-aligned { text-align: end; }
 """
