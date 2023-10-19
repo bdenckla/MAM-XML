@@ -38,7 +38,7 @@ def _maybe_get(verses_dicts, cant_dab, bcvt):
 
 
 def _html_str(html_els):
-    return ''.join(map(my_html.el_to_str, html_els)) if html_els else ''
+    return ''.join(map(my_html.el_to_str_no_wbr, html_els)) if html_els else ''
 
 
 def _write_bkg_in_csv_fmt2(variant, bkid, contents, file_handle):

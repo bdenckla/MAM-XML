@@ -5,25 +5,28 @@ from dataclasses import dataclass
 import html
 
 import my_open
+import my_utils
+import my_hebrew_punctuation as hpu
 import my_two_col_css_styles as styles
 import my_str_defs as sd
 
 
-def write_html_to_file(html_el, path):
+def write_html_to_file(html_el, path, add_wbr=False):
     """
     Write HTML to file based on two inputs:
         * a top-level html element
         * an output path
     """
-    my_open.with_tmp_openw(path, {}, _write_callback, html_el)
+    my_open.with_tmp_openw(path, {}, _write_callback, html_el, add_wbr)
 
 
 @dataclass
 class WriteRec:
     """ Holds info needed to write HTML to a file. """
     title: str
-    out_path: str
+    path: str
     style: str = None
+    add_wbr: bool = False
 
 
 
@@ -38,22 +41,34 @@ def write_html_to_file2(body_contents, write_rec: WriteRec):
     style = write_rec.style or styles.STYLES_STR
     other = {'head_style': style}
     html_el = html_el2(write_rec.title, body_contents, other=other)
-    write_html_to_file(html_el, write_rec.out_path)
+    write_html_to_file(html_el, write_rec.path, write_rec.add_wbr)
 
 
-def el_to_str(html_el):
+_SSTT = str.maketrans({  # special space translation table
+    '\N{EM SPACE}': '&emsp;',
+    sd.THSP: '&thinsp;',
+    sd.NBSP: '&nbsp;',
+})
+
+
+def el_to_str_no_wbr(html_el):
+    """ Call el_to_str with add_wbr=False. """
+    return el_to_str(add_wbr=False, html_el=html_el)
+
+
+def el_to_str(add_wbr, html_el):
     """ Convert an HTML element to a string. """
     if isinstance(html_el, str):
-        sstt = str.maketrans({  # special space translation table
-            '\N{EM SPACE}': '&emsp;',
-            sd.THSP: '&thinsp;',
-            sd.NBSP: '&nbsp;',
-        })
-        return html.escape(html_el, quote=False).translate(sstt)
+        outstr = html_el
+        outstr = html.escape(html_el, quote=False)
+        outstr = outstr.translate(_SSTT)
+        if add_wbr:
+            outstr = outstr.replace(hpu.MAQ, hpu.MAQ + '<wbr>')
+        return outstr
     contents_str = ''
     if contents := html_el.get('contents'):
         assert isinstance(contents, (tuple, list))
-        contents_str = ''.join(map(el_to_str, contents))
+        contents_str = ''.join(my_utils.sl_map(contents, el_to_str, add_wbr))
     eltag = hel_get_tag(html_el)
     fields = {
         'tag_name': eltag,
@@ -289,9 +304,9 @@ def hel_get_tag(html_el):
 ###########################################################
 
 
-def _write_callback(html_el, out_fp):
+def _write_callback(html_el, add_wbr, out_fp):
     out_fp.write('<!doctype html>\n')
-    out_fp.write(el_to_str(html_el))
+    out_fp.write(el_to_str(add_wbr, html_el))
 
 
 def _is_text_singleton(array):  # "array": tuple or list
