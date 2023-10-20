@@ -34,6 +34,11 @@ def szip(*seqs):
     return zip(*seqs)
 
 
+def l_szip(*seqs):
+    """ Force output of szip to be a list. """
+    return list(szip(*seqs))
+
+
 def intersperse(sep, seq):
     """ Intersperse a separator between the elements of a sequence. """
     seps = (sep,) * len(seq)
@@ -41,38 +46,42 @@ def intersperse(sep, seq):
     return tmp[:-1]  # rm final sep, e.g. final None
 
 
-def ll_map(the_list, fun, *const_args):
+def ll_map(fun, the_list):
     """
     Map the given function over the given list.
     (The "ll" means "list in, list out".)
     """
     assert isinstance(the_list, list)
-    return [fun(*const_args, elem) for elem in the_list]
+    return sl_map(fun, the_list)
 
 
-def tt_map(the_tuple, fun, *const_args):
+def tt_map(fun, the_tuple):
     """
     Map the given function over the given tuple.
     (The "tt" means "tuple in, tuple out".)
     """
     assert isinstance(the_tuple, tuple)
-    return [fun(*const_args, elem) for elem in the_tuple]
+    return st_map(fun, the_tuple)
 
 
-def sl_map(the_sequence, fun, *const_args):
+def sl_map(fun, the_sequence):
     """
     Map the given function over the given sequence (e.g. list or tuple).
     (The "sl" means "[any] sequence in, list out".)
     """
-    return [fun(*const_args, elem) for elem in the_sequence]
+    if isinstance(fun, tuple):
+        return [fun[0](*fun[1:], elem) for elem in the_sequence]
+    return list(map(fun, the_sequence))
 
 
-def st_map(the_sequence, fun, *const_args):
+def st_map(fun, the_sequence):
     """
     Map the given function over the given sequence (e.g. list or tuple).
     (The "st" means "[any] sequence in, tuple out".)
     """
-    return tuple(fun(*const_args, elem) for elem in the_sequence)
+    if isinstance(fun, tuple):
+        return tuple(fun[0](*fun[1:], elem) for elem in the_sequence)
+    return tuple(map(fun, the_sequence))
 
 
 def show_time(uufileuu, inner_function):

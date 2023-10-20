@@ -68,7 +68,7 @@ def el_to_str(add_wbr, html_el):
     contents_str = ''
     if contents := html_el.get('contents'):
         assert isinstance(contents, (tuple, list))
-        contents_str = ''.join(my_utils.sl_map(contents, el_to_str, add_wbr))
+        contents_str = ''.join(my_utils.sl_map((el_to_str, add_wbr), contents))
     eltag = hel_get_tag(html_el)
     fields = {
         'tag_name': eltag,

@@ -143,26 +143,6 @@ def nu10(verse_num, vtrad):
     return mk_bcvt(BK_NUMBERS, cvt)
 
 
-def is_1st_verse_of_decalogue(bcvtmam):
-    """
-    Return whether bcvtmam is the 1st verse of one of the Decalogues
-    """
-    assert bcvt_is_tmam(bcvtmam)
-    bcv_ex = mk_bcvtmam(BK_EXODUS, 20, 2)
-    bcv_de = mk_bcvtmam(BK_DEUTER, 5, 6)
-    return bcvtmam in (bcv_ex, bcv_de)
-
-
-def is_11th_verse_of_decalogue(bcvtmam):
-    """
-    Return whether bcvtmam is the 11th verse of one of the Decalogues
-    """
-    assert bcvt_is_tmam(bcvtmam)
-    bcv_ex = mk_bcvtmam(BK_EXODUS, 20, 12)
-    bcv_de = mk_bcvtmam(BK_DEUTER, 5, 16)
-    return bcvtmam in (bcv_ex, bcv_de)
-
-
 def add_part2_bkids(bkids):
     """
     For each "part 1" bkid included in bkids, add the "part 2" ("next") bkid.
