@@ -30,5 +30,6 @@ th, td {
 }
 *.bordered { border: 1px solid; }
 *.top-n-bot-bordered { border-top: 1px solid; border-bottom: 1px solid; }
+*.small { font-size: 85%; }
 *.end-aligned { text-align: end; }
 """

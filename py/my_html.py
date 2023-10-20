@@ -21,7 +21,7 @@ def write_html_to_file(html_el, path, add_wbr=False):
 
 
 @dataclass
-class WriteRec:
+class WriteCtx:
     """ Holds info needed to write HTML to a file. """
     title: str
     path: str
@@ -30,18 +30,18 @@ class WriteRec:
 
 
 
-def write_html_to_file2(body_contents, write_rec: WriteRec):
+def write_html_to_file2(body_contents, write_ctx: WriteCtx):
     """
     Write HTML to file based on the following inputs:
         * a body contents
-        * a "write record" containing:
+        * a "write context" structure containing:
             * a title
             * an output path
     """
-    style = write_rec.style or styles.STYLES_STR
+    style = write_ctx.style or styles.STYLES_STR
     other = {'head_style': style}
-    html_el = html_el2(write_rec.title, body_contents, other=other)
-    write_html_to_file(html_el, write_rec.path, write_rec.add_wbr)
+    html_el = html_el2(write_ctx.title, body_contents, other=other)
+    write_html_to_file(html_el, write_ctx.path, write_ctx.add_wbr)
 
 
 _SSTT = str.maketrans({  # special space translation table
