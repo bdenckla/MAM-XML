@@ -24875,7 +24875,7 @@ SPACE
 SPACE
 w,_,y,·,i,$,·sh,:,m,_,(ti),ʕ
 SPACE
-y,i,$,·si,:,r,a,α,‥,⅄,CGJ,𝓂,l
+y,i,$,·si,:,r,a,α,‥,⅄,CGJ,𝓂,l,.
 STOP cant-dual
 START cant-alef
 w,_,y,·,‥,⅃,l,∵,k.,:
