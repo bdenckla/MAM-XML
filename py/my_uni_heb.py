@@ -16,6 +16,7 @@ import my_hebrew_letters as hl
 import my_hebrew_points as hpo
 import my_hebrew_accents as ha
 import my_str_defs as sd
+import my_render_wikitext as rwt
 
 
 def do_quick_test():
@@ -88,7 +89,22 @@ def _shorten_fullname_prefix(word1, word2):
     return _SHORTEN_DIC.get((word1, word2)) or word1 + ' ' + word2
 
 
-def _write_segments(out_fp, html_els, cant_dab=None, indent=''):
+def _write_segments(out_fp, some_kind_of_verse, cant_dab=None, indent=''):
+    if isinstance(some_kind_of_verse, (list, tuple)):
+        html_els = some_kind_of_verse
+        _write_segments_from_html_els(
+            out_fp, html_els, cant_dab, indent)
+        return
+    if isinstance(some_kind_of_verse, rwt.VerseAndFriends):
+        veraf = some_kind_of_verse
+        for html_els in (veraf.verse, veraf.next_cp, veraf.good_ending):
+            _write_segments_from_html_els(
+                out_fp, html_els, cant_dab, indent)
+        return
+    assert False, some_kind_of_verse
+
+
+def _write_segments_from_html_els(out_fp, html_els, cant_dab=None, indent=''):
     if cant_dab:
         out_fp.write(f'{cant_dab}\n')
         indent = '    '

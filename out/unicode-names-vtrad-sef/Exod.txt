@@ -13816,7 +13816,7 @@ STOP cant-alef
 START cant-bet
 l,o,⅃,α
 SPACE
-τ,_,𝓂,ʕ,:_,$,·si,∵,h,-,l,:,k.,a,⅃
+τ,_,ʕ,:_,$,·si,∵,𝓂,h,-,l,:,k.,a,⅃
 SPACE
 f,∵,⅃,σ,∵,l
 START/STOP lp-paseq
