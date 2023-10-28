@@ -14,6 +14,12 @@ import argparse
 import my_tanakh_book_names as tbn
 
 
+def init(dic, key, val):
+    """ Write but don't overwrite the value at the key of dic. """
+    assert key not in dic
+    dic[key] = val
+
+
 def first_and_only(seq):
     """ Assert that this is there is only 1 el of seq, and returns it. """
     assert len(seq) == 1
