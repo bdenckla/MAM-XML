@@ -5351,7 +5351,8 @@ v,·,:,y,_,d,-,m,o,$,·sh,∵,𝓂,h,.
 START/STOP spi-samekh2
 
 Levit 9:1 in vtrad vtbhs
-w,_,y,:,h,i,y,(p)
+w,_,𝓂,y,:,h,i,y,(p)
+SPACE
 SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE

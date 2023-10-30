@@ -19,9 +19,9 @@ def with_tmp_openw(path, kwargs_dic, write_fun, *write_fun_args):
     return retval
 
 
-def std_json_dump_to_file_path(dumpable, path, indent=0, sort_keys=False):
+def std_json_dump_to_file_path(dumpable, path, indent=0):
     """ Dump JSON to a file path """
-    with_tmp_openw(path, {}, _write_callback1, dumpable, indent, sort_keys)
+    with_tmp_openw(path, {}, _write_callback1, dumpable, indent)
 
 
 def dump_json_lines(path, outlines):
@@ -29,8 +29,8 @@ def dump_json_lines(path, outlines):
     with_tmp_openw(path, {}, _write_callback2, outlines)
 
 
-def _write_callback1(dumpable, indent, sort_keys, out_fp):
-    _std_json_dump_to_file_pointer(dumpable, out_fp, indent, sort_keys)
+def _write_callback1(dumpable, indent, out_fp):
+    _std_json_dump_to_file_pointer(dumpable, out_fp, indent)
 
 
 def _write_callback2(outlines, out_fp):
@@ -57,13 +57,11 @@ def _tmp_path(path):
 def _std_json_dump_to_file_pointer(
     dumpable,
     out_fp,
-    indent=0,
-    sort_keys=False
+    indent=0
 ):
     json.dump(
         dumpable,
         out_fp,
         ensure_ascii=False,
-        indent=indent,
-        sort_keys=sort_keys)
+        indent=indent)
     out_fp.write('\n')
