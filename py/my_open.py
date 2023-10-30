@@ -19,21 +19,17 @@ def with_tmp_openw(path, kwargs_dic, write_fun, *write_fun_args):
     return retval
 
 
-def std_json_dump_to_file_path(dumpable, path, indent=0):
+def json_dump_to_file_path(dumpable, path):
     """ Dump JSON to a file path """
-    with_tmp_openw(path, {}, _write_callback1, dumpable, indent)
+    with_tmp_openw(path, {}, _json_dump_to_file_pointer, dumpable)
 
 
-def dump_json_lines(path, outlines):
+def json_lines_dump_to_file_path(path, outlines):
     """ Dump JSON lines to a file path """
-    with_tmp_openw(path, {}, _write_callback2, outlines)
+    with_tmp_openw(path, {}, _json_lines_dump_to_file_pointer, outlines)
 
 
-def _write_callback1(dumpable, indent, out_fp):
-    _std_json_dump_to_file_pointer(dumpable, out_fp, indent)
-
-
-def _write_callback2(outlines, out_fp):
+def _json_lines_dump_to_file_pointer(outlines, out_fp):
     out_fp.write('[\n')
     for outline in outlines[:-1]:
         out_fp.write(outline + ',\n')
@@ -54,14 +50,10 @@ def _tmp_path(path):
     return pathobj.parent / (str(pathobj.stem) + '.tmp' + pathobj.suffix)
 
 
-def _std_json_dump_to_file_pointer(
-    dumpable,
-    out_fp,
-    indent=0
-):
+def _json_dump_to_file_pointer(dumpable, out_fp):
     json.dump(
         dumpable,
         out_fp,
         ensure_ascii=False,
-        indent=indent)
+        indent=2)
     out_fp.write('\n')

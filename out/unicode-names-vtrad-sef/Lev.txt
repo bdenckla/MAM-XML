@@ -5353,7 +5353,6 @@ START/STOP spi-samekh2
 Levit 9:1 in vtrad vtsef
 w,_,𝓂,y,:,h,i,y,(p)
 SPACE
-SPACE
 v,·,_,y,·,⅃,w,o,m.
 SPACE
 h,_,$,·sh,·,:,m,i,y,n,i,ƶ,y

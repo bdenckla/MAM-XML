@@ -39707,7 +39707,7 @@ w,:,ʕ,i,w,·,a,⅄,h
 SPACE
 k,·,i,y,-,h,i,ц,·,i,(me),y,l,w,·
 SPACE
-α,∵,τ,-,$,·sh,o,𝓂,m,:,r,(ti),w,o,n.
+α,∵,τ,-,$,·sh,o,m,:,r,(ti),w,o,n.
 SPACE
 m,i,y,·,a,d,i,𝓂,y,.
 
