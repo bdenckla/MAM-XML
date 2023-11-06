@@ -1,8 +1,7 @@
 """
 Exports:
     with_tmp_openw
-    std_json_dump_to_file_path
-    dump_json_lines
+    json_dump_to_file_path
 """
 
 import os
@@ -22,11 +21,6 @@ def with_tmp_openw(path, kwargs_dic, write_fun, *write_fun_args):
 def json_dump_to_file_path(dumpable, path):
     """ Dump JSON to a file path """
     with_tmp_openw(path, {}, _json_dump_to_file_pointer, dumpable)
-
-
-def json_lines_dump_to_file_path(path, outlines):
-    """ Dump JSON lines to a file path """
-    with_tmp_openw(path, {}, _json_lines_dump_to_file_pointer, outlines)
 
 
 def _json_lines_dump_to_file_pointer(outlines, out_fp):
