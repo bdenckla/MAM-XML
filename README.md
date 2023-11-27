@@ -12,5 +12,5 @@ The source of this data is the
 
 Other versions/formats of MAM (each with their tradeoffs) include:
 
-* [MAM-XML](https://github.com/bdenckla/MAM-XML)
+* [MAM-parsed](https://github.com/bdenckla/MAM-parsed)
 * [MAM for Sefaria](https://github.com/bdenckla/MAM-for-Sefaria)
