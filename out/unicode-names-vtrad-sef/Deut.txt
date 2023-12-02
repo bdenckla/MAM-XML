@@ -21356,7 +21356,7 @@ SPACE
 SPACE
 g,·,<,w,o,y
 SPACE
-m,‥,r,a,x,o,q,(p)
+m,‥,𝓂,r,a,x,o,q,(p)
 SPACE
 m,i,q,:,ц,‥,⅃,h
 SPACE
@@ -25414,7 +25414,7 @@ h,_,z,·,o,𝓂,α,τ,.
 Deuter 32:47 in vtrad vtsef
 k,·,i,⌕,y
 SPACE
-l,o,𝓂,α,-,d,a,v,a,(qa),r
+l,o,α,-,d,a,v,a,(qa),r
 SPACE
 r,‥,(me),q
 SPACE

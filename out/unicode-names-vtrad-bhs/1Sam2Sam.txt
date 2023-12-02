@@ -41493,7 +41493,7 @@ w,:,y,i,$,·sh,:,v,·,i,(qa),y
 STOP kq-q
 STOP kq
 SPACE
-v,·,:,n,o,(ge),v
+v,:,n,o,(ge),v
 SPACE
 α,:_,$,·sh,∵,⅃,r
 START/STOP lp-legarmeih

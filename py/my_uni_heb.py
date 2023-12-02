@@ -1,7 +1,7 @@
 """
 This module exports:
     do_quick_test
-    shortened_unicode_name
+    shunna
     accent_names
     hechar_names
     write_verse_un
@@ -201,7 +201,7 @@ _HE_AND_NONHE_POINT_PAIRS = (
     (hpo.XQAMATS, ':a'),
     (hpo.XIRIQ, 'i'),
     (hpo.TSERE, '‥'),
-    (hpo.SEGOL, '∵'),  # ∵ aka BECAUSE
+    (hpo.SEGOL_V, '∵'),  # ∵ aka BECAUSE
     (hpo.PATAX, '_'),
     (hpo.QAMATS, 'a'),  # ambiguous, could be gadol or qatan
     (hpo.QAMATS_Q, 'oa'),
@@ -212,14 +212,14 @@ _HE_AND_NONHE_POINT_PAIRS = (
 _HE_AND_NONHE_ACC_PAIRS = (
     (hpo.METEG, '𝓂'),  # we consider it an accent not a point
     (ha.ATN, '⅄'),
-    ('\N{HEBREW ACCENT SEGOL}', '∴'),  # ∴ aka THEREFORE
+    (ha.SEG_A, '∴'),  # ∴ aka THEREFORE
     ('\N{HEBREW ACCENT SHALSHELET}', '(sh)'),
     ('\N{HEBREW ACCENT ZAQEF QATAN}', 'ƶ'),
     ('\N{HEBREW ACCENT ZAQEF GADOL}', 'Ƶ'),
     (ha.TIP, '(ti)'),
     (ha.REV, '◆'),  # ◆ aka BLACK DIAMOND
-    ('\N{HEBREW ACCENT ZARQA}', '≁'),  # See: Note on zinor
-    ('\N{HEBREW ACCENT PASHTA}', '(p)'),
+    (ha.ZARQA_SH, '≁'),  # See: Note on zinor
+    (ha.PASH, '(p)'),
     ('\N{HEBREW ACCENT YETIV}', '(ye)'),
     ('\N{HEBREW ACCENT TEVIR}', '⟓'),
     (ha.GER, '(ge)'),
@@ -235,12 +235,12 @@ _HE_AND_NONHE_ACC_PAIRS = (
     ('\N{HEBREW ACCENT MERKHA KEFULA}', '(mk)'),
     ('\N{HEBREW ACCENT DARGA}', '(da)'),
     ('\N{HEBREW ACCENT QADMA}', '(qa)'),
-    ('\N{HEBREW ACCENT TELISHA QETANA}', '(tq)'),
+    (ha.TEL_Q, '(tq)'),
     (ha.YBY, '(yy)'),
     (ha.OLE, '(ol)'),
     ('\N{HEBREW ACCENT ILUY}', '(il)'),
     ('\N{HEBREW ACCENT DEHI}', '(de)'),
-    ('\N{HEBREW ACCENT ZINOR}', '~'),  # See: Note on zinor
+    (ha.ZARQA, '~'),  # See: Note on zinor
 )
 _HE_AND_NONHE_PUNC_PAIRS = (
     ('\N{HEBREW PUNCTUATION MAQAF}', '-'),
