@@ -291,7 +291,7 @@ SPACE
 SPACE
 w,·,z,:,k,_,r,:,τ,·,_,(p),n,i,y,(p)
 SPACE
-w,:,l,o,𝓂,α,-,τ,i,$,·sh,:,k,·,_,⅃,x
+w,:,l,o,α,-,τ,i,$,·sh,:,k,·,_,⅃,x
 SPACE
 α,∵,τ,-,α,:_,m,a,τ,∵,ƶ,k.,a
 SPACE
@@ -378,7 +378,7 @@ h,a,σ,i,(me),y,r,i,y
 SPACE
 α,∵,τ,-,y,‥,y,n,‥,(ti),k.,:
 SPACE
-m,‥,𝓂,ʕ,a,l,a,𝓂,y,i,k.,:,.
+m,‥,ʕ,a,l,a,𝓂,y,i,k.,:,.
 
 1Samuel 1:15 in vtrad vtbhs
 w,_,τ,·,_,(qa),ʕ,_,n.
@@ -470,7 +470,7 @@ v,·,:,ʕ,‥,y,n,∵,⅄,y,k.,a
 SPACE
 w,_,τ,·,‥,(qa),l,∵,k.,:
 SPACE
-h,a,𝓂,α,i,$,·sh,·,a,<,h
+h,a,α,i,$,·sh,·,a,<,h
 SPACE
 l,:,d,_,r,:,k,·,a,h,·,(p)
 SPACE
@@ -632,7 +632,7 @@ SPACE
 α,o,τ,𝓂,w,o,.
 
 1Samuel 1:24 in vtrad vtbhs
-w,_,τ,·,_,𝓂,ʕ,:_,l,‥,(qa),h,w,·
+w,_,τ,·,_,ʕ,:_,l,‥,(qa),h,w,·
 SPACE
 ʕ,i,m,·,a,(ge),h,·
 SPACE
@@ -721,7 +721,7 @@ SPACE
 SPACE
 $,·sh,a,α,_,(ti),l,:,τ,·,i,y
 SPACE
-m,‥,𝓂,ʕ,i,m,·,𝓂,w,o,.
+m,‥,ʕ,i,m,·,𝓂,w,o,.
 
 1Samuel 1:28 in vtrad vtbhs
 w,:,g,_,⅃,m.
@@ -2242,7 +2242,7 @@ START kq-trivial
 v,·,:,ʕ,‥,y,n,a,(ti),w
 STOP kq-trivial
 SPACE
-y,_,𝓂,ʕ,:_,$,·si,∵,𝓂,h,.
+y,_,ʕ,:_,$,·si,∵,𝓂,h,.
 START/STOP spi-pe2
 
 1Samuel 3:19 in vtrad vtbhs
@@ -4359,7 +4359,7 @@ SPACE
 f,:,l,i,$,·sh,:,τ,·,i,𝓂,y,m.,.
 
 1Samuel 7:8 in vtrad vtbhs
-w,_,y,·,o,𝓂,α,m,:,r,<,w,·
+w,_,y,·,o,α,m,:,r,<,w,·
 SPACE
 v,:,n,‥,𝓂,y,-,y,i,$,·si,:,r,a,α,‥,l,(p)
 SPACE
@@ -6184,7 +6184,7 @@ w,:,α,∵,x,a,(ti),d
 SPACE
 n,o,$,·si,‥,(me),α
 SPACE
-n,‥,𝓂,v,∵,l,-,y,a,𝓂,y,i,n.,.
+n,‥,v,∵,l,-,y,a,𝓂,y,i,n.,.
 
 1Samuel 10:4 in vtrad vtbhs
 w,:,$,·sh,a,α,:_,l,(me),w,·
@@ -6879,7 +6879,7 @@ k,·,:,r,oa,τ,-,l,a,(me),n,w,·
 SPACE
 v,:,r,i,(ti),y,τ
 SPACE
-w,:,n,_,𝓂,ʕ,_,v,:,d,∵,𝓂,k.,·,a,.
+w,:,n,_,ʕ,_,v,:,d,∵,𝓂,k.,·,a,.
 
 1Samuel 11:2 in vtrad vtbhs
 w,_,y,·,o,⅃,α,m,∵,r
@@ -7676,7 +7676,7 @@ k,·,i,𝓂,y,-,n,a,x,a,(G),$,·sh
 SPACE
 m,∵,⅃,l,∵,k.,:
 SPACE
-v,·,:,n,‥,𝓂,y,-,ʕ,_,m,·,w,o,n.,~
+v,·,:,n,‥,y,-,ʕ,_,m,·,w,o,n.,~
 SPACE
 v,·,a,⅃,α
 SPACE
@@ -7762,7 +7762,7 @@ SPACE
 SPACE
 y,:,h,o,w,a,(me),h
 SPACE
-α,:∵,l,o,𝓂,h,‥,y,k,∵,𝓂,m.,.
+α,:∵,l,o,h,‥,y,k,∵,𝓂,m.,.
 
 1Samuel 12:15 in vtrad vtbhs
 w,:,α,i,m.,-,l,o,<,α
@@ -8323,7 +8323,7 @@ h,_,g,·,i,⅃,$,·sh,w,·
 SPACE
 α,‥,l,_,ƶ,y
 SPACE
-h,a,𝓂,ʕ,o,l,a,(ti),h
+h,a,ʕ,o,l,a,(ti),h
 SPACE
 w,:,h,_,$,·sh,·,:,l,a,m,i,⅄,y,m.
 SPACE
@@ -11191,7 +11191,7 @@ SPACE
 $,·sh,a,α,𝓂,w,·,l,.
 
 1Samuel 15:35 in vtrad vtbhs
-w,:,l,o,𝓂,α,-,y,a,σ,_,(qa),f.
+w,:,l,o,α,-,y,a,σ,_,(qa),f.
 SPACE
 $,·sh,:,m,w,·,α,‥,(ge),l
 SPACE
@@ -13454,7 +13454,7 @@ h,_,f,·,:,l,i,$,·sh,:,τ,·,i,ƶ,y
 SPACE
 w,_,y,:,v,i,α,‥,(ti),h,w,·
 SPACE
-y,:,r,𝓂,w,·,$,·sh,a,l,a,⅄,CGJ,i,m.
+y,:,r,w,·,$,·sh,a,l,a,⅄,CGJ,i,m.
 SPACE
 w,:,α,∵,τ,-,k,·,‥,l,a,(ti),y,w
 SPACE
@@ -14904,7 +14904,7 @@ h,w,·,α,(p)
 SPACE
 w,·,$,·sh,:,m,w,·,α,‥,ƶ,l
 SPACE
-w,_,y,·,‥,𝓂,$,·sh,:,v,(ti),w,·
+w,_,y,·,‥,$,·sh,:,v,(ti),w,·
 SPACE
 START kq
 START kq-k
@@ -15435,7 +15435,7 @@ SPACE
 SPACE
 k,·,i,𝓂,y,-,k,a,l,:,τ,a,(qa),h
 SPACE
-h,a,𝓂,r,a,ʕ,a,(ge),h
+h,a,r,a,ʕ,a,(ge),h
 SPACE
 m,‥,ʕ,i,<,m.
 SPACE
@@ -16123,7 +16123,7 @@ START/STOP spi-samekh2
 1Samuel 20:34 in vtrad vtbhs
 w,_,y,·,a,(da),q,oa,m.
 SPACE
-y,:,h,𝓂,w,o,n,a,τ,a,⟓,n.
+y,:,h,w,o,n,a,τ,a,⟓,n.
 SPACE
 m,‥,ʕ,i,(me),m.
 SPACE
@@ -17682,7 +17682,7 @@ v,·,_,𝓂,y,h,o,w,a,h,(p)
 SPACE
 l,‥,α,m,o,ƶ,r
 SPACE
-h,_,𝓂,α,‥,l,‥,⅃,k.,:
+h,_,α,‥,l,‥,⅃,k.,:
 SPACE
 w,:,h,i,k,·,‥,ƶ,y,τ,i,y
 SPACE
@@ -17773,7 +17773,7 @@ SPACE
 d,·,a,w,i,d,(tq)
 SPACE
 START kq-trivial
-w,_,𝓂,α,:_,n,a,$,·sh,a,(qa),w
+w,_,α,:_,n,a,$,·sh,a,(qa),w
 STOP kq-trivial
 SPACE
 q,:,ʕ,i,y,l,a,(ge),h
@@ -19206,7 +19206,7 @@ w,:,α,i,(qa),y,$,·sh
 SPACE
 v,·,:,m,a,ʕ,(ge),w,o,n.
 SPACE
-w,·,m,_,𝓂,ʕ,:_,$,·si,‥,⅃,h,w,·
+w,·,m,_,ʕ,:_,$,·si,‥,⅃,h,w,·
 SPACE
 v,_,k,·,_,r,:,m,∵,◆,l
 SPACE
@@ -20773,7 +20773,7 @@ w,:,α,_,v,:,n,‥,⅃,r
 SPACE
 w,:,h,a,ʕ,a,ƶ,m.
 SPACE
-$,·sh,o,𝓂,k,:,v,i,(ti),y,m.
+$,·sh,o,k,:,v,i,(ti),y,m.
 SPACE
 START kq-trivial
 σ,:,v,i,y,v,o,τ,a,𝓂,w
@@ -21530,7 +21530,7 @@ d,·,a,w,i,(ti),d
 SPACE
 g,·,_,⅄,τ
 SPACE
-w,:,l,o,𝓂,α,-
+w,:,l,o,α,-
 START kq
 START kq-q
 y,a,σ,_,(me),f.
@@ -23020,7 +23020,7 @@ w,_,y,·,a,v,o,(qa),α
 SPACE
 d,a,w,i,<,d
 SPACE
-w,_,𝓂,α,:_,n,a,$,·sh,a,y,w,(p)
+w,_,α,:_,n,a,$,·sh,a,y,w,(p)
 SPACE
 α,∵,l,-,h,a,ʕ,i,ƶ,y,r
 SPACE
@@ -23072,7 +23072,7 @@ SPACE
 SPACE
 h,_,y,·,i,z,:,r,:,ʕ,‥,l,i,ƶ,y,τ
 SPACE
-w,_,𝓂,α,:_,v,i,y,g,_,Ƶ,y,i,l
+w,_,α,:_,v,i,y,g,_,Ƶ,y,i,l
 SPACE
 α,‥,(ti),$,·sh,∵,τ
 SPACE
@@ -23455,7 +23455,7 @@ SPACE
 SPACE
 k,·,oa,l,-,α,:_,$,·sh,∵,(me),r
 SPACE
-l,a,𝓂,q,:,x,(ti),w,·
+l,a,q,:,x,(ti),w,·
 SPACE
 ʕ,:_,m,a,l,‥,⅄,q
 SPACE
@@ -23754,7 +23754,7 @@ START/STOP spi-samekh3
 1Samuel 30:28 in vtrad vtbhs
 w,:,l,_,α,:_,$,·sh,∵,(da),r
 SPACE
-v,·,_,𝓂,ʕ,:_,r,o,ʕ,‥,⟓,r
+v,·,_,ʕ,:_,r,o,ʕ,‥,⟓,r
 START/STOP spi-samekh3
 w,:,l,_,α,:_,$,·sh,∵,(me),r
 SPACE
@@ -25628,7 +25628,7 @@ k,·,i,⅃,y
 SPACE
 α,a,<,z
 SPACE
-m,‥,𝓂,h,_,v,·,o,(p),q,∵,r,(p)
+m,‥,h,_,v,·,o,(p),q,∵,r,(p)
 SPACE
 n,_,ʕ,:_,l,a,⅃,h
 SPACE
@@ -25668,7 +25668,7 @@ l,:,h,i,l,·,a,x,‥,𝓂,m.,.
 2Samuel 2:29 in vtrad vtbhs
 w,:,α,_,v,:,n,‥,⅃,r
 SPACE
-w,_,𝓂,α,:_,n,a,$,·sh,a,◆,y,w
+w,_,α,:_,n,a,$,·sh,a,◆,y,w
 SPACE
 h,a,𝓂,l,:,k,w,·,(p)
 SPACE
@@ -26989,7 +26989,7 @@ v,·,:,n,‥,⟓,y
 SPACE
 r,i,m,·,(me),w,o,n.
 SPACE
-h,_,v,·,:,α,‥,𝓂,r,o,τ,i,(ti),y
+h,_,v,·,:,α,‥,r,o,τ,i,(ti),y
 SPACE
 m,i,v,·,:,n,‥,⅃,y
 SPACE
@@ -28861,7 +28861,7 @@ SPACE
 2Samuel 7:8 in vtrad vtbhs
 w,:,⌕,ʕ,_,τ,·,a,⌕,h
 SPACE
-k,·,o,𝓂,h,-,τ,o,α,m,_,(G),r
+k,·,o,h,-,τ,o,α,m,_,(G),r
 SPACE
 l,:,ʕ,_,v,:,d,·,i,⅃,y
 SPACE
@@ -29300,7 +29300,7 @@ m,i,m,·,i,ц,:,r,_,ƶ,y,i,m.
 SPACE
 g,·,w,o,y,i,(ti),m.
 SPACE
-w,‥,𝓂,α,l,o,h,a,𝓂,y,w,.
+w,‥,α,l,o,h,a,𝓂,y,w,.
 
 2Samuel 7:24 in vtrad vtbhs
 w,_,τ,·,:,k,⅃,w,o,n,‥,𝓂,n.
@@ -29696,12 +29696,12 @@ h,:_,d,_,d,:,ʕ,a,⅄,z,∵,r
 SPACE
 w,_,y,:,v,i,y,α,‥,(ti),m.
 SPACE
-y,:,r,𝓂,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
+y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
 2Samuel 8:8 in vtrad vtbhs
 w,·,m,i,v,·,∵,(me),θ,_,x
 SPACE
-w,·,m,i,v,·,‥,𝓂,r,o,τ,_,(ti),y
+w,·,m,i,v,·,‥,r,o,τ,_,(ti),y
 SPACE
 ʕ,a,r,‥,⅃,y
 SPACE
@@ -31407,7 +31407,7 @@ SPACE
 SPACE
 h,a,ʕ,i,y,r,(p)
 SPACE
-w,_,y,·,i,l,·,a,𝓂,x,:_,m,⅃,w,·
+w,_,y,·,i,l,·,a,x,:_,m,⅃,w,·
 SPACE
 α,∵,τ,-,y,w,o,α,a,ƶ,v
 SPACE
@@ -32668,7 +32668,7 @@ STOP kq
 SPACE
 w,:,k,‥,⅃,n.
 SPACE
-y,_,𝓂,ʕ,:_,$,·si,∵,ƶ,h
+y,_,ʕ,:_,$,·si,∵,ƶ,h
 SPACE
 l,:,k,o,(ti),l
 SPACE
@@ -33332,7 +33332,7 @@ SPACE
 m,:,α,o,𝓂,d,.
 
 2Samuel 13:22 in vtrad vtbhs
-w,:,l,o,𝓂,α,-,d,i,v,·,∵,(da),r
+w,:,l,o,α,-,d,i,v,·,∵,(da),r
 SPACE
 α,_,v,:,$,·sh,a,l,⟓,w,o,m.
 SPACE
@@ -33368,7 +33368,7 @@ l,i,$,·sh,:,n,a,τ,_,⅃,y,i,m.
 SPACE
 y,a,m,i,ƶ,y,m.
 SPACE
-w,_,y,·,i,𝓂,h,:,y,<,w,·
+w,_,y,·,i,h,:,y,<,w,·
 SPACE
 g,o,𝓂,z,:,z,i,y,m.,(p)
 SPACE
@@ -34543,7 +34543,7 @@ y,a,d,_,(qa),ʕ
 SPACE
 ʕ,_,v,:,d,·,:,k.,a,(ge)
 SPACE
-k,·,i,𝓂,y,-,m,a,ц,a,(qa),α,τ,i,y
+k,·,i,y,-,m,a,ц,a,(qa),α,τ,i,y
 SPACE
 x,‥,<,n.
 SPACE
@@ -34582,7 +34582,7 @@ w,_,y,·,a,v,‥,(me),α
 SPACE
 α,∵,τ,-,α,_,v,:,$,·sh,a,l,(ti),w,o,m.
 SPACE
-y,:,r,𝓂,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
+y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 START/STOP spi-samekh2
 
 2Samuel 14:24 in vtrad vtbhs
@@ -35315,7 +35315,7 @@ SPACE
 l,:,f,i,y,-,x,a,𝓂,r,∵,v,.
 
 2Samuel 15:15 in vtrad vtbhs
-w,_,y,·,o,𝓂,α,m,:,r,(me),w,·
+w,_,y,·,o,α,m,:,r,(me),w,·
 SPACE
 ʕ,_,v,:,d,‥,𝓂,y,-,h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
@@ -36092,7 +36092,7 @@ h,i,n,·,‥,h,(p)
 SPACE
 y,w,o,$,·sh,‥,⅃,v
 SPACE
-v,·,i,y,r,𝓂,w,·,$,·sh,a,l,_,ƶ,CGJ,i,m.
+v,·,i,y,r,w,·,$,·sh,a,l,_,ƶ,CGJ,i,m.
 SPACE
 k,·,i,⅃,y
 SPACE
@@ -37357,7 +37357,7 @@ m,a,ц,a,ƶ,α,w,·
 SPACE
 w,_,y,·,a,$,·sh,u,(ti),v,w,·
 SPACE
-y,:,r,𝓂,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
+y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 START/STOP spi-samekh2
 
 2Samuel 17:21 in vtrad vtbhs
@@ -37556,7 +37556,7 @@ v,∵,n.,-,n,a,x,a,(ge),$,·sh
 SPACE
 m,‥,r,_,v,·,_,⅃,τ
 SPACE
-v,·,:,n,‥,𝓂,y,-,ʕ,_,m,·,◆,w,o,n.
+v,·,:,n,‥,y,-,ʕ,_,m,·,◆,w,o,n.
 SPACE
 w,·,m,a,k,i,<,y,r
 SPACE
@@ -37724,7 +37724,7 @@ w,:,α,i,m.,-,y,a,m,u,<,τ,w,·
 SPACE
 x,∵,ц,:,y,‥,(p),n,w,·,(p)
 SPACE
-l,o,𝓂,α,-,y,a,$,·si,i,<,y,m,w,·
+l,o,α,-,y,a,$,·si,i,<,y,m,w,·
 SPACE
 α,‥,l,‥,(p),y,n,w,·,(p)
 SPACE
@@ -39355,7 +39355,7 @@ SPACE
 SPACE
 α,:_,d,o,n,i,𝓂,y,-,h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
-m,i,y,r,𝓂,w,·,$,·sh,a,l,a,⅄,CGJ,i,m.
+m,i,y,r,w,·,$,·sh,a,l,a,⅄,CGJ,i,m.
 SPACE
 l,a,$,·si,(me),w,·,m.
 SPACE
@@ -39700,7 +39700,7 @@ y,a,r,_,(ti),d
 SPACE
 m,‥,r,o,𝓂,g,:,l,i,⅄,y,m.
 SPACE
-w,_,y,·,_,𝓂,ʕ,:_,v,o,<,r
+w,_,y,·,_,ʕ,:_,v,o,<,r
 SPACE
 α,∵,τ,-,h,_,m,·,∵,(p),l,∵,k.,:,(p)
 SPACE
@@ -39786,7 +39786,7 @@ k,·,i,y,-,α,∵,ʕ,:∵,l,∵,(me),h
 SPACE
 α,∵,τ,-,h,_,m,·,∵,(ti),l,∵,k.,:
 SPACE
-y,:,r,𝓂,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
+y,:,r,w,·,$,·sh,a,l,a,𝓂,CGJ,i,m.,.
 
 2Samuel 19:36 in vtrad vtbhs
 v,·,∵,n.,-,$,·sh,:,m,o,n,i,⅃,y,m.
@@ -41593,7 +41593,7 @@ SPACE
 SPACE
 v,·,i,y,l,i,d,‥,(me),y
 SPACE
-h,a,𝓂,r,a,f,a,𝓂,h,.
+h,a,r,a,f,a,𝓂,h,.
 START/STOP spi-samekh2
 
 2Samuel 21:19 in vtrad vtbhs
@@ -42208,7 +42208,7 @@ h,ƶ,w,·,α
 SPACE
 l,:,k,o,(ti),l
 SPACE
-h,_,𝓂,x,o,σ,i,(me),y,m.
+h,_,x,o,σ,i,(me),y,m.
 SPACE
 v,·,𝓂,w,o,.
 
@@ -42232,7 +42232,7 @@ SPACE
 2Samuel 22:33 in vtrad vtbhs
 h,a,α,‥,(me),l
 SPACE
-m,a,𝓂,ʕ,w,·,z,·,i,(ti),y
+m,a,ʕ,w,·,z,·,i,(ti),y
 SPACE
 x,a,⅄,y,i,l
 START/STOP shirah-space
@@ -42481,7 +42481,7 @@ SPACE
 2Samuel 22:50 in vtrad vtbhs
 ʕ,_,l,-,k,·,‥,⟓,n.
 SPACE
-α,𝓂,w,o,d,:,k.,a,(me)
+α,w,o,d,:,k.,a,(me)
 SPACE
 y,:,h,o,w,a,(ti),h
 SPACE
@@ -42633,7 +42633,7 @@ v,_,k,·,o,l,(p)
 SPACE
 w,·,$,·sh,:,m,u,r,a,ƶ,h
 SPACE
-k,·,i,𝓂,y,-,k,oa,l,-,y,i,$,·sh,:,ʕ,i,(me),y
+k,·,i,y,-,k,oa,l,-,y,i,$,·sh,:,ʕ,i,(me),y
 SPACE
 w,:,k,oa,l,-,x,‥,(ti),f,∵,ц.
 SPACE
@@ -42675,7 +42675,7 @@ w,·,v,a,α,‥,Ƶ,$,·sh
 SPACE
 $,·si,a,r,(me),w,o,f.
 SPACE
-y,i,$,·si,·,a,𝓂,r,:,f,(ti),w,·
+y,i,$,·si,·,a,r,:,f,(ti),w,·
 SPACE
 v,·,_,$,·sh,·,a,𝓂,v,∵,τ,.
 START/STOP spi-pe2
@@ -42877,7 +42877,7 @@ g,:,d,w,o,l,a,𝓂,h,.
 START/STOP spi-samekh2
 
 2Samuel 23:13 in vtrad vtbhs
-w,_,y,·,‥,𝓂,r,:,d,(qa),w,·
+w,_,y,·,‥,r,:,d,(qa),w,·
 SPACE
 START kq
 START kq-k
@@ -43027,7 +43027,7 @@ h,_,g,·,i,v,·,o,r,i,𝓂,y,m.,.
 START/STOP spi-samekh2
 
 2Samuel 23:18 in vtrad vtbhs
-w,_,𝓂,α,:_,v,i,y,$,·sh,_,(G),y
+w,_,α,:_,v,i,y,$,·sh,_,(G),y
 SPACE
 α,:_,x,i,⅃,y
 START/STOP lp-legarmeih
@@ -43428,7 +43428,7 @@ w,_,y,·,o,(p),σ,∵,f.,(p)
 SPACE
 α,_,f.,-,y,:,h,o,w,a,ƶ,h
 SPACE
-l,_,𝓂,x,:_,r,(ti),w,o,τ
+l,_,x,:_,r,(ti),w,o,τ
 SPACE
 v,·,:,y,i,$,·si,:,r,a,α,‥,⅄,l
 SPACE
@@ -43562,7 +43562,7 @@ w,_,y,·,_,ʕ,_,v,:,r,(ti),w,·
 SPACE
 α,∵,τ,-,h,_,y,·,_,r,:,d,·,‥,⅄,n.
 SPACE
-w,_,y,·,_,𝓂,x,:_,n,⅃,w,·
+w,_,y,·,_,x,:_,n,⅃,w,·
 SPACE
 v,_,ʕ,:_,r,w,o,ʕ,‥,◆,r
 SPACE
