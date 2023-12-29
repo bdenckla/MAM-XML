@@ -2,6 +2,7 @@
 
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass
+from typing import Union
 import html
 
 import my_open
@@ -11,26 +12,17 @@ import my_two_col_css_styles as styles
 import my_str_defs as sd
 
 
-def write_html_to_file(html_el, path, add_wbr=False):
-    """
-    Write HTML to file based on two inputs:
-        * a top-level html element
-        * an output path
-    """
-    my_open.with_tmp_openw(path, {}, _write_callback, html_el, add_wbr)
-
-
 @dataclass
 class WriteCtx:
     """ Holds info needed to write HTML to a file. """
     title: str
     path: str
-    style: str = None
+    style: Union[str, None] = None
     add_wbr: bool = False
 
 
 
-def write_html_to_file2(body_contents, write_ctx: WriteCtx):
+def write_html_to_file(body_contents, write_ctx: WriteCtx):
     """
     Write HTML to file based on the following inputs:
         * a body contents
@@ -39,9 +31,10 @@ def write_html_to_file2(body_contents, write_ctx: WriteCtx):
             * an output path
     """
     style = write_ctx.style or styles.STYLES_STR
-    other = {'head_style': style}
-    html_el = html_el2(write_ctx.title, body_contents, other=other)
-    write_html_to_file(html_el, write_ctx.path, write_ctx.add_wbr)
+    html_el = html_el2(
+        write_ctx.title, body_contents, other={'head_style': style})
+    my_open.with_tmp_openw(
+        write_ctx.path, {}, _write_callback, html_el, write_ctx.add_wbr)
 
 
 _SSTT = str.maketrans({  # special space translation table
@@ -110,16 +103,16 @@ def html_el2(title_text, body_contents, css_hrefs=(), other=None):
         other = {}
     other = {**other_defaults, **other}
     meta = hel_mk_nlb2_nc('meta', attr={'charset': 'utf-8'})
-    title = hel_mk('title', contents=(title_text,))
+    title = hel_mk('title', flex_contents=(title_text,))
     links_to_css = tuple(map(_link_to_css, css_hrefs))
     if other['head_style'] is None:
         style_els = ()
     else:
-        style_el = hel_mk('style', contents=(other['head_style'],))
+        style_el = hel_mk('style', flex_contents=(other['head_style'],))
         style_els = (style_el,)
     head_cont = (meta, title) + style_els + links_to_css
-    _head = hel_mk('head', contents=head_cont)
-    _body = hel_mk('body', contents=body_contents)
+    _head = hel_mk('head', flex_contents=head_cont)
+    _body = hel_mk('body', flex_contents=body_contents)
     return _html_el1({'lang': other['lang']}, (_head, _body))
 
 
@@ -145,7 +138,7 @@ def table_data(contents, attr=None):
 
 def div(contents, attr=None):
     """ Make a <div> element. """
-    return hel_mk('div', attr=attr, contents=contents)
+    return hel_mk('div', attr=attr, flex_contents=contents)
 
 
 def table(contents, attr=None):
@@ -225,6 +218,13 @@ def sup(contents, attr=None):
     return hel_mk_inline('sup', attr=attr, contents=contents)
 
 
+def horizontal_rule(attr=None):
+    """
+    Make a <hr> element
+    """
+    return hel_mk_inline_nc('hr', attr=attr)
+
+
 def line_break(attr=None):
     """
     Make a <br> element
@@ -244,20 +244,24 @@ def line_break2(attr=None):
 @dataclass
 class HelDetails:
     """ Details about how to make an HTML element. """
-    lb1: str = None
-    lb2: str = None
-    noclose: bool = None
+    lb1: Union[str, None] = None
+    lb2:  Union[str, None] = None
+    noclose:  Union[bool, None] = None
 
 
-def hel_mk(tag: str, attr=None, contents=None, details=None):
+def hel_mk(tag: str, attr=None, flex_contents=None, details=None):
     """ Make an HTML element """
     assert isinstance(tag, str)
     assert isinstance(attr, (type(None), dict))
-    contents2 = (contents,) if isinstance(contents, str) else contents
-    assert isinstance(contents2, (type(None), tuple, list))
+    strict_contents = (flex_contents,) if _is_str_or_hel(flex_contents) else flex_contents
+    if isinstance(strict_contents, (tuple, list)):
+        for seq_el in strict_contents:
+            assert _is_str_or_hel(seq_el)
+    else:
+        assert strict_contents is None
     opts1 = {
         'attr': attr,
-        'contents': contents2,
+        'contents': strict_contents,
         'lb1': details.lb1 if details else None,
         'lb2': details.lb2 if details else None,
         'noclose': details.noclose if details else None,
@@ -302,6 +306,15 @@ def hel_get_tag(html_el):
 
 
 ###########################################################
+
+
+def _is_str_or_hel(obj):
+    if isinstance(obj, str):
+        return True
+    if isinstance(obj, dict) and '_hel_tag' in obj:
+        return True
+    return False
+
 
 
 def _write_callback(html_el, add_wbr, out_fp):
