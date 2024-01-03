@@ -90,6 +90,14 @@ def st_map(fun, the_sequence):
     return tuple(map(fun, the_sequence))
 
 
+def sum_of_lists(lists):
+    """ Return the sum of lists. """
+    accum = []
+    for the_list in lists:
+        accum.extend(the_list)
+    return accum
+
+
 def show_time(uufileuu, inner_function):
     print(os.path.basename(uufileuu))
     start = time.process_time()
