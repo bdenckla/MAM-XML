@@ -15,9 +15,15 @@ import my_tanakh_book_names as tbn
 
 
 def init(dic, key, val):
-    """ Write but don't overwrite the value at the key of dic. """
+    """ If key is fresh in dic, set its value to val. Other assert. """
     assert key not in dic
     dic[key] = val
+
+
+def maybe_init(dic, key, val):
+    """ If key is fresh in dic, set its value to val. Otherwise whiff. """
+    if key not in dic:
+        dic[key] = val
 
 
 def first_and_only(seq):
