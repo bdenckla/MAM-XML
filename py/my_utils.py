@@ -96,6 +96,17 @@ def st_map(fun, the_sequence):
     return tuple(map(fun, the_sequence))
 
 
+def ss_map(fun, the_sequence):
+    """
+    Map the given function over the given sequence (e.g. list or tuple).
+    (The "ss" means "[any] sequence in, [any] sequence out".)
+    """
+    type_of_seq = type(the_sequence)  # presumably list or tuple
+    if isinstance(fun, tuple):
+        return type_of_seq(fun[0](*fun[1:], elem) for elem in the_sequence)
+    return type_of_seq(map(fun, the_sequence))
+
+
 def sum_of_lists(lists):
     """ Return the sum of lists. """
     accum = []

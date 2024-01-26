@@ -104,7 +104,7 @@ def _write_segments_from_html_els(out_fp, html_els, cant_dab=None, indent=''):
                 out_fp.write(indent + line + '\n')
             continue
         if isinstance(html_el, dict):
-            segtag = my_html.hel_get_tag(html_el)  # e.g. 'span'
+            segtag = my_html.htel_get_tag(html_el)  # e.g. 'span'
             attr = html_el.get('attr')
             kev_strs = _key_eq_val_strs(attr or {})
             if contents := html_el.get('contents'):

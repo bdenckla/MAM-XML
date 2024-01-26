@@ -62,7 +62,7 @@ def el_to_str(add_wbr, html_el):
     if contents := html_el.get('contents'):
         assert isinstance(contents, (tuple, list))
         contents_str = ''.join(my_utils.sl_map((el_to_str, add_wbr), contents))
-    eltag = hel_get_tag(html_el)
+    eltag = htel_get_tag(html_el)
     fields = {
         'tag_name': eltag,
         'attr': _attr_str(html_el.get('attr')),
@@ -74,26 +74,26 @@ def el_to_str(add_wbr, html_el):
     return '<{tag_name}{attr}>{lb1}{contents}{close}{lb2}'.format(**fields)
 
 
-def el_to_xml(xml_parent, elem):
+def add_htel_to_etxml(etxml_parent, htel):
     """
-        Add our proprietary-format element "elem"
+        Add our proprietary-format HTML/XML element "htel"
         to the ElementTree-format element xml_parent.
     """
-    if isinstance(elem, str):
-        ET.SubElement(xml_parent, 'text', {'text': elem})
+    if isinstance(htel, str):
+        ET.SubElement(etxml_parent, 'text', {'text': htel})
         return
-    attr = elem.get('attr') or {}
+    attr = htel.get('attr') or {}
     tmp_attr = attr
-    if contents := elem.get('contents'):
+    if contents := htel.get('contents'):
         assert isinstance(contents, (tuple, list))
         if _is_text_singleton(contents):
             assert 'text' not in attr
             tmp_attr = dict(attr, text=contents[0])
             contents = None
-    xml_elem = ET.SubElement(xml_parent, hel_get_tag(elem), tmp_attr)
+    xml_elem = ET.SubElement(etxml_parent, htel_get_tag(htel), tmp_attr)
     if contents:
         for contents_el in contents:
-            el_to_xml(xml_elem, contents_el)
+            add_htel_to_etxml(xml_elem, contents_el)
 
 
 def html_el2(title_text, body_contents, css_hrefs=(), other=None):
@@ -102,90 +102,90 @@ def html_el2(title_text, body_contents, css_hrefs=(), other=None):
     if other is None:
         other = {}
     other = {**other_defaults, **other}
-    meta = hel_mk_nlb2_nc('meta', attr={'charset': 'utf-8'})
-    title = hel_mk('title', flex_contents=(title_text,))
+    meta = htel_mk_nlb2_nc('meta', attr={'charset': 'utf-8'})
+    title = htel_mk('title', flex_contents=(title_text,))
     links_to_css = tuple(map(_link_to_css, css_hrefs))
     if other['head_style'] is None:
         style_els = ()
     else:
-        style_el = hel_mk('style', flex_contents=(other['head_style'],))
+        style_el = htel_mk('style', flex_contents=(other['head_style'],))
         style_els = (style_el,)
     head_cont = (meta, title) + style_els + links_to_css
-    _head = hel_mk('head', flex_contents=head_cont)
-    _body = hel_mk('body', flex_contents=body_contents)
+    _head = htel_mk('head', flex_contents=head_cont)
+    _body = htel_mk('body', flex_contents=body_contents)
     return _html_el1({'lang': other['lang']}, (_head, _body))
 
 
 def para(contents, attr=None):
     """ Make a <p> element. """
-    return hel_mk_nlb1('p', attr=attr, contents=contents)
+    return htel_mk_nlb1('p', attr=attr, contents=contents)
 
 
 def img(contents, attr=None):
     """ Make an <img> element. """
-    return hel_mk_nlb1('img', attr=attr, contents=contents)
+    return htel_mk_nlb1('img', attr=attr, contents=contents)
 
 
 def table_row(contents):
     """ Make a <tr> element. """
-    return hel_mk_nlb1('tr', contents=contents)
+    return htel_mk_nlb1('tr', contents=contents)
 
 
 def table_data(contents, attr=None):
     """ Make a <td> element. """
-    return hel_mk_inline('td', attr=attr, contents=contents)
+    return htel_mk_inline('td', attr=attr, contents=contents)
 
 
 def div(contents, attr=None):
     """ Make a <div> element. """
-    return hel_mk('div', attr=attr, flex_contents=contents)
+    return htel_mk('div', attr=attr, flex_contents=contents)
 
 
 def table(contents, attr=None):
     """ Make a <table> element. """
-    return hel_mk('table', attr, contents)
+    return htel_mk('table', attr, contents)
 
 
 def unordered_list(liconts, attr=None):
     """ Make a <ul> element. """
     # licont: list item contents
     # liconts: a tuple where each element is a licont
-    return hel_mk('ul', attr, tuple(map(_list_item, liconts)))
+    return htel_mk('ul', attr, tuple(map(_list_item, liconts)))
 
 
 def heading_level_1(contents, attr=None):
     """ Make an <h1> element. """
-    return hel_mk('h1', attr, contents)
+    return htel_mk('h1', attr, contents)
 
 
 def heading_level_2(contents, attr=None):
     """ Make an <h2> element. """
-    return hel_mk('h2', attr, contents)
+    return htel_mk('h2', attr, contents)
 
 
 def heading_level_3(contents, attr=None):
     """ Make an <h3> element. """
-    return hel_mk('h3', attr, contents)
+    return htel_mk('h3', attr, contents)
 
 
 def anchor(contents, attr=None):
     """ Make an <a> element. """
-    return hel_mk_inline('a', attr, contents)
+    return htel_mk_inline('a', attr, contents)
 
 
 def colgroup(contents, attr=None):
     """ Make a <colgroup> element. """
-    return hel_mk('colgroup', attr, contents)
+    return htel_mk('colgroup', attr, contents)
 
 
 def col(attr=None):
     """ Make a <col> element. """
-    return hel_mk_nlb2_nc('col', attr=attr)
+    return htel_mk_nlb2_nc('col', attr=attr)
 
 
 def span(contents, attr=None):
     """ Make a <span> element. """
-    return hel_mk_inline('span', attr=attr, contents=contents)
+    return htel_mk_inline('span', attr=attr, contents=contents)
 
 
 def span_c(contents, the_class=None):
@@ -195,34 +195,34 @@ def span_c(contents, the_class=None):
 
 def bold(contents, attr=None):
     """ Make a <bold> element. """
-    return hel_mk_inline('b', attr=attr, contents=contents)
+    return htel_mk_inline('b', attr=attr, contents=contents)
 
 
 def italic(contents, attr=None):
     """ Make a <italic> element. """
-    return hel_mk_inline('i', attr=attr, contents=contents)
+    return htel_mk_inline('i', attr=attr, contents=contents)
 
 
 def small(contents, attr=None):
     """ Make a <small> element. """
-    return hel_mk_inline('small', attr=attr, contents=contents)
+    return htel_mk_inline('small', attr=attr, contents=contents)
 
 
 def big(contents, attr=None):
     """ Make a <big> element. """
-    return hel_mk_inline('big', attr=attr, contents=contents)
+    return htel_mk_inline('big', attr=attr, contents=contents)
 
 
 def sup(contents, attr=None):
     """ Make a <sup> (superscript) element. """
-    return hel_mk_inline('sup', attr=attr, contents=contents)
+    return htel_mk_inline('sup', attr=attr, contents=contents)
 
 
 def horizontal_rule(attr=None):
     """
     Make a <hr> element
     """
-    return hel_mk_inline_nc('hr', attr=attr)
+    return htel_mk_inline_nc('hr', attr=attr)
 
 
 def line_break(attr=None):
@@ -230,7 +230,7 @@ def line_break(attr=None):
     Make a <br> element
     that is NOT followed by a newline in the source code.
     """
-    return hel_mk_inline_nc('br', attr=attr)
+    return htel_mk_inline_nc('br', attr=attr)
 
 
 def line_break2(attr=None):
@@ -238,7 +238,7 @@ def line_break2(attr=None):
     Make <br> element
     that is followed by a newline in the source code.
     """
-    return hel_mk_nlb1_nc('br', attr=attr)
+    return htel_mk_nlb1_nc('br', attr=attr)
 
 
 @dataclass
@@ -249,14 +249,14 @@ class HelDetails:
     noclose:  Union[bool, None] = None
 
 
-def hel_mk(tag: str, attr=None, flex_contents=None, details=None):
+def htel_mk(tag: str, attr=None, flex_contents=None, details=None):
     """ Make an HTML element """
     assert isinstance(tag, str)
     assert isinstance(attr, (type(None), dict))
-    strict_contents = (flex_contents,) if _is_str_or_hel(flex_contents) else flex_contents
+    strict_contents = (flex_contents,) if _is_str_or_htel(flex_contents) else flex_contents
     if isinstance(strict_contents, (tuple, list)):
         for seq_el in strict_contents:
-            assert _is_str_or_hel(seq_el)
+            assert _is_str_or_htel(seq_el)
     else:
         assert strict_contents is None
     opts1 = {
@@ -267,51 +267,51 @@ def hel_mk(tag: str, attr=None, flex_contents=None, details=None):
         'noclose': details.noclose if details else None,
     }
     opts2 = {k: v for k, v in opts1.items() if v is not None}
-    return {'_hel_tag': tag, **opts2}
+    return {'_htel_tag': tag, **opts2}
 
 
-def hel_mk_inline(tag: str, attr=None, contents=None):
-    """ hel_mk with lb1='', lb2='' """
+def htel_mk_inline(tag: str, attr=None, contents=None):
+    """ htel_mk with lb1='', lb2='' """
     details = HelDetails(lb1='', lb2='')
-    return hel_mk(tag, attr, contents, details)
+    return htel_mk(tag, attr, contents, details)
 
 
-def hel_mk_inline_nc(tag: str, attr=None, contents=None):
-    """ hel_mk with lb1='', lb2='', noclose=True """
+def htel_mk_inline_nc(tag: str, attr=None, contents=None):
+    """ htel_mk with lb1='', lb2='', noclose=True """
     details = HelDetails(lb1='', lb2='', noclose=True)
-    return hel_mk(tag, attr, contents, details)
+    return htel_mk(tag, attr, contents, details)
 
 
-def hel_mk_nlb1_nc(tag: str, attr=None, contents=None):
-    """ hel_mk with lb1='', noclose=True """
+def htel_mk_nlb1_nc(tag: str, attr=None, contents=None):
+    """ htel_mk with lb1='', noclose=True """
     details = HelDetails(lb1='', noclose=True)
-    return hel_mk(tag, attr, contents, details)
+    return htel_mk(tag, attr, contents, details)
 
 
-def hel_mk_nlb1(tag: str, attr=None, contents=None):
-    """ hel_mk with lb1='' """
+def htel_mk_nlb1(tag: str, attr=None, contents=None):
+    """ htel_mk with lb1='' """
     details = HelDetails(lb1='')
-    return hel_mk(tag, attr, contents, details)
+    return htel_mk(tag, attr, contents, details)
 
 
-def hel_mk_nlb2_nc(tag: str, attr=None, contents=None):
-    """ hel_mk with lb2='', noclose=True """
+def htel_mk_nlb2_nc(tag: str, attr=None, contents=None):
+    """ htel_mk with lb2='', noclose=True """
     details = HelDetails(lb2='', noclose=True)
-    return hel_mk(tag, attr, contents, details)
+    return htel_mk(tag, attr, contents, details)
 
 
-def hel_get_tag(html_el):
+def htel_get_tag(html_el):
     """ Get the tag of an HTML element. """
-    return html_el['_hel_tag']
+    return html_el['_htel_tag']
 
 
 ###########################################################
 
 
-def _is_str_or_hel(obj):
+def _is_str_or_htel(obj):
     if isinstance(obj, str):
         return True
-    if isinstance(obj, dict) and '_hel_tag' in obj:
+    if isinstance(obj, dict) and '_htel_tag' in obj:
         return True
     return False
 
@@ -327,16 +327,16 @@ def _is_text_singleton(array):  # "array": tuple or list
 
 
 def _list_item(contents, attr=None):
-    return hel_mk('li', attr, contents)
+    return htel_mk('li', attr, contents)
 
 
 def _link_to_css(css_href):
     link_to_css_attr = {'rel': 'stylesheet', 'href': css_href}
-    return hel_mk_nlb2_nc('link', attr=link_to_css_attr)
+    return htel_mk_nlb2_nc('link', attr=link_to_css_attr)
 
 
 def _html_el1(attr, contents):
-    return hel_mk('html', attr, contents)
+    return htel_mk('html', attr, contents)
 
 
 def _attr_str(attr_dict):
