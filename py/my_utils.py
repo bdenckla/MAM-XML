@@ -1,13 +1,10 @@
 """
     Exports
         szip
-        show_time
         show_progress_g
         show_progress_cv
         get_book39_tuple_from_args
 """
-import time
-import datetime
 import os
 import argparse
 
@@ -107,20 +104,19 @@ def ss_map(fun, the_sequence):
     return type_of_seq(map(fun, the_sequence))
 
 
+def massage_dic_vals(fn_table, dic):
+    """
+    Transform the value at each key using a table of functions.
+    """
+    return {key: fn_table[key](val) for key, val in dic.items()}
+
+
 def sum_of_lists(lists):
     """ Return the sum of lists. """
     accum = []
     for the_list in lists:
         accum.extend(the_list)
     return accum
-
-
-def show_time(uufileuu, inner_function):
-    print(os.path.basename(uufileuu))
-    start = time.process_time()
-    inner_function()
-    end = time.process_time()
-    print(datetime.timedelta(seconds=end-start))
 
 
 def show_progress_g(uufileuu, *rest):
