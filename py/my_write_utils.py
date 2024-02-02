@@ -82,7 +82,7 @@ def _write_segments(out_fp, some_kind_of_verse, cant_dab=None, indent=''):
         return
     if isinstance(some_kind_of_verse, vaf.VerseAndFriends):
         veraf = some_kind_of_verse
-        for html_els in (veraf.verse, veraf.next_cp, veraf.good_ending):
+        for html_els in (veraf.verse, veraf.vaf_next_cp, veraf.good_ending):
             _write_segments_from_html_els(
                 out_fp, html_els, cant_dab, indent)
         return
