@@ -1,6 +1,6 @@
 """ Exports main_helper """
 
-import xml.etree.ElementTree
+import xml.etree.ElementTree as ET
 import my_utils
 import my_osis_book_abbrevs
 import my_sef_cmn
@@ -43,7 +43,7 @@ def _read_book_group(variant, bkg_name):
     }
     xml_vtrad_xxx = xml_vtrad_xxx_dic[vtrad]
     xml_path = f'../MAM-XML/out/{xml_vtrad_xxx}/{bkg_name}.xml'
-    tree = xml.etree.ElementTree.parse(xml_path)
+    tree = ET.parse(xml_path)
     return tree.getroot()
 
 
