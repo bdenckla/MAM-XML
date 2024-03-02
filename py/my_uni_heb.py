@@ -15,9 +15,7 @@ import my_str_defs as sd
 
 
 def shunna(string):
-    """ Return a shortened name of the string,
-    if we "know" a shortened name for it
-    """
+    """ Return a shortened name of the string, if we "know" a shortened name for it. """
     if nonhe := _HE_TO_NONHE_DIC.get(string):
         return nonhe
     fullname = unicodedata.name(string)
@@ -78,7 +76,7 @@ _HE_AND_NONHE_LETT_PAIRS = (
     (hl.VAV, 'w'),
     (hl.ZAYIN, 'z'),
     (hl.XET, 'x'),
-    (hl.TET, 'θ'),  # See note on θ
+    (hl.TET, 'θ'),  # See note on θ (theta)
     (hl.YOD, 'y'),
     (hl.FKAF, 'k.'),
     (hl.KAF, 'k'),
@@ -168,7 +166,7 @@ _HE_AND_NONHE_PAIRS = (
 _HE_TO_NONHE_DIC = _mk_he_to_nonhe_dic()
 _HE_TO_NONHE_ACC_DIC = dict(_HE_AND_NONHE_ACC_PAIRS)
 
-# Note on θ
+# Note on θ (theta)
 # Note on plain holam
 # Note on zinor
 #
