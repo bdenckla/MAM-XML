@@ -126,14 +126,40 @@ def img(contents, attr=None):
     return htel_mk_nlb1('img', attr=attr, contents=contents)
 
 
+def caption(contents):
+    """ Make a <caption> element. """
+    return htel_mk_nlb1('caption', contents=contents)
+
+
 def table_row(contents):
     """ Make a <tr> element. """
     return htel_mk_nlb1('tr', contents=contents)
 
 
-def table_data(contents, attr=None):
-    """ Make a <td> element. """
-    return htel_mk_inline('td', attr=attr, contents=contents)
+def table_row_of_data(tdconts, tdattrs=None):
+    """ Make a <tr> element containing <td> elements. """
+    # tdcont: table datum contents
+    # tdconts: a sequence where each element is a tdcont
+    if tdattrs is None:
+        tdattrs = (None,) * len(tdconts)
+    return table_row(tuple(map(table_datum, tdconts, tdattrs)))
+
+
+def table_row_of_headers(thconts):
+    """ Make a <tr> element containing <th> elements. """
+    # thcont: table header contents
+    # thconts: a sequence where each element is a thcont
+    return table_row(tuple(map(table_header, thconts)))
+
+
+def table_datum(contents, attr=None):
+    """ Make a <td> (table datum cell) element. """
+    return htel_mk_inline('td', attr, contents)
+
+
+def table_header(contents, attr=None):
+    """ Make a <th> (table header cell) element. """
+    return htel_mk_inline('th', attr, contents)
 
 
 def div(contents, attr=None):
@@ -222,7 +248,7 @@ def horizontal_rule(attr=None):
     """
     Make a <hr> element
     """
-    return htel_mk_inline_nc('hr', attr=attr)
+    return htel_mk_nlb1_nc('hr', attr=attr)
 
 
 def line_break(attr=None):

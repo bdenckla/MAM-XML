@@ -1,4 +1,4 @@
-""" Exports STYLES_STR """
+""" Exports the string STYLES_STR. """
 STYLES_STR = """
 body { font-size: 14pt; }
 *[lang="hbo"] {

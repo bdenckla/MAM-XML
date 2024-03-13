@@ -23,15 +23,6 @@ def json_dump_to_file_path(dumpable, path):
     with_tmp_openw(path, {}, _json_dump_to_file_pointer, dumpable)
 
 
-def _json_lines_dump_to_file_pointer(outlines, out_fp):
-    out_fp.write('[\n')
-    for outline in outlines[:-1]:
-        out_fp.write(outline + ',\n')
-    if outlines:
-        out_fp.write(outlines[-1] + '\n')
-    out_fp.write(']\n')
-
-
 def _openw(path, **kwargs):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     return open(path, 'w', encoding='utf-8', **kwargs)

@@ -41372,19 +41372,14 @@ SPACE
 START kq
 START kq-k
 τ,l,w,m.
-STOP kq-k
-START kq-q
-τ,·,:,l,a,α,(me),w,·,m.
-STOP kq-q
-STOP kq
 SPACE
-START kq
-START kq-k
 $,m.
 SPACE
 h,f,l,$,τ,y,m.
 STOP kq-k
 START kq-q
+τ,·,:,l,a,α,(me),w,·,m.
+SPACE
 $,·sh,a,(p),m,·,a,h,(p)
 SPACE
 f,·,:,l,i,$,·sh,:,τ,·,i,ƶ,y,m.

@@ -1,5 +1,7 @@
 """ Exports names for Unicode Hebrew letters """
 
+# אבגדהוזחטיכךלמםנןסעפףצץקרשת
+
 ALEF = '\N{HEBREW LETTER ALEF}'
 BET = '\N{HEBREW LETTER BET}'
 GIMEL = '\N{HEBREW LETTER GIMEL}'
