@@ -111,11 +111,19 @@ def massage_dic_vals(fn_table, dic):
     return {key: fn_table[key](val) for key, val in dic.items()}
 
 
-def sum_of_lists(lists):
-    """ Return the sum of lists. """
+def sum_of_lists(seq_of_lists):
+    """ Return the sum of a sequence of lists. """
     accum = []
-    for the_list in lists:
+    for the_list in seq_of_lists:
         accum.extend(the_list)
+    return accum
+
+
+def sum_of_tuples(seq_of_tuples):
+    """ Return the sum of a sequence of tuples. """
+    accum = tuple()
+    for the_tuple in seq_of_tuples:
+        accum += the_tuple
     return accum
 
 
