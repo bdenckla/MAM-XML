@@ -132,11 +132,6 @@ def has_dualcant(bcvtmam):  # bcvt in MAM vtrad
         bcvtmam in _DEDEC_RANGE)
 
 
-def bkids_of_books_with_dualcant():
-    """ Return the names of the 3 books having dual cantillation """
-    return BK_GENESIS, BK_EXODUS, BK_DEUTER
-
-
 def nu10(verse_num, vtrad):
     """ Return a bcvt in Numbers chapter 10 """
     cvt = mk_cvt(10, verse_num, vtrad)
@@ -180,6 +175,11 @@ def mk_bcvtbhs(bkid, chnu, vrnu):
     return mk_bcvt(bkid, mk_cvtbhs(chnu, vrnu))
 
 
+def mk_bcvtjps(bkid, chnu, vrnu):
+    """ Return a bcvt with t=vtrad JPS """
+    return mk_bcvt(bkid, mk_cvtjps(chnu, vrnu))
+
+
 def mk_bcvtxxx(bkid, chnu, vrnu, vtrad):
     """ Return a bcvt with t=the given vtrad """
     return mk_bcvt(bkid, mk_cvt(chnu, vrnu, vtrad))
@@ -203,6 +203,11 @@ def mk_cvtsef(chnu, vrnu):
 def mk_cvtbhs(chnu, vrnu):
     """ Return a cv with vtrad BHS """
     return chnu, vrnu, VT_BHS
+
+
+def mk_cvtjps(chnu, vrnu):
+    """ Return a cv with vtrad JPS """
+    return chnu, vrnu, VT_JPS
 
 
 def mk_cvt(chnu, vrnu, vtrad):
@@ -439,7 +444,10 @@ SEC_KET_ACH = 'KetAḥ'
 VT_MAM = 'vtmam'
 VT_SEF = 'vtsef'
 VT_BHS = 'vtbhs'
-ALL_VTRADS = VT_MAM, VT_SEF, VT_BHS
+VT_JPS = 'vtjps'
+ALL_VTRADS = VT_MAM, VT_SEF, VT_BHS, VT_JPS
+
+BKIDS_OF_BOOKS_WITH_DUALCANT = BK_GENESIS, BK_EXODUS, BK_DEUTER
 
 _SH_GENESIS = 'G', 'A1'
 _SH_EXODUS = 'E', 'A2'  # E in contrast to Ee, Ec, Es, Er

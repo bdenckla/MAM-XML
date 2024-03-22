@@ -331,6 +331,11 @@ def htel_get_tag(html_el):
     return html_el['_htel_tag']
 
 
+def htel_get_class_attr(html_el):
+    """ Get the class attribute of an HTML element. """
+    return html_el['attr']['class']
+
+
 ###########################################################
 
 
