@@ -175,11 +175,6 @@ def mk_bcvtbhs(bkid, chnu, vrnu):
     return mk_bcvt(bkid, mk_cvtbhs(chnu, vrnu))
 
 
-def mk_bcvtjps(bkid, chnu, vrnu):
-    """ Return a bcvt with t=vtrad JPS """
-    return mk_bcvt(bkid, mk_cvtjps(chnu, vrnu))
-
-
 def mk_bcvtxxx(bkid, chnu, vrnu, vtrad):
     """ Return a bcvt with t=the given vtrad """
     return mk_bcvt(bkid, mk_cvt(chnu, vrnu, vtrad))
@@ -203,11 +198,6 @@ def mk_cvtsef(chnu, vrnu):
 def mk_cvtbhs(chnu, vrnu):
     """ Return a cv with vtrad BHS """
     return chnu, vrnu, VT_BHS
-
-
-def mk_cvtjps(chnu, vrnu):
-    """ Return a cv with vtrad JPS """
-    return chnu, vrnu, VT_JPS
 
 
 def mk_cvt(chnu, vrnu, vtrad):
@@ -444,8 +434,7 @@ SEC_KET_ACH = 'KetAḥ'
 VT_MAM = 'vtmam'
 VT_SEF = 'vtsef'
 VT_BHS = 'vtbhs'
-VT_JPS = 'vtjps'
-ALL_VTRADS = VT_MAM, VT_SEF, VT_BHS, VT_JPS
+ALL_VTRADS = VT_MAM, VT_SEF, VT_BHS
 
 BKIDS_OF_BOOKS_WITH_DUALCANT = BK_GENESIS, BK_EXODUS, BK_DEUTER
 
