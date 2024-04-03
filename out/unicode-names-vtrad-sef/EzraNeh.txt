@@ -2278,7 +2278,14 @@ SPACE
 SPACE
 m,_,l,:,k,·,a,⅄,α
 SPACE
-ʕ,_,v,:,d,a,⟓,y,k.,:
+START kq
+START kq-k
+ʕ,v,d,y,k.
+STOP kq-k
+START kq-q
+ʕ,_,v,:,d,a,⟓,k.,:
+STOP kq-q
+STOP kq
 SPACE
 α,:∵,n,a,(me),$,·sh
 SPACE

@@ -5236,7 +5236,7 @@ START kq-k
 w,z,y,w,y,k.
 STOP kq-k
 START kq-q
-w,:,z,i,w,a,(ti),y,k.,:
+w,:,z,i,y,w,a,(ti),k.,:
 STOP kq-q
 STOP kq
 SPACE
