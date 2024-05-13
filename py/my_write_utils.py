@@ -6,6 +6,7 @@ Exports:
 
 import my_html
 import my_open
+import my_utils
 import my_uni_heb as uh
 import my_verse_and_friends as vaf
 import my_tanakh_book_names as tbn
@@ -17,10 +18,7 @@ def write_bkg_in_un_fmt(variant, bkg_name, verses, rv_cant_that_covers):
     do_quick_test_of_get_pre_lines()
     path = bkg_path(variant, bkg_name, fmt_is_unicode_names=True)
     title = f'unicode_names {bkg_name}'
-    verses_dicts = {
-        roca: dict(list_of_pairs)
-        for roca, list_of_pairs in verses.items()
-    }
+    verses_dicts = my_utils.dv_map(dict, verses)
     my_open.with_tmp_openw(
         path, {},
         _write_callback, verses, rv_cant_that_covers, title, verses_dicts)

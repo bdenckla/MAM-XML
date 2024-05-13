@@ -132,6 +132,12 @@ def has_dualcant(bcvtmam):  # bcvt in MAM vtrad
         bcvtmam in _DEDEC_RANGE)
 
 
+def is_poetcant(bcvt):
+    """ Return whether locale uses poetic (as opposed to prose) cantillation. """
+    bkid = bcvt_get_bkid(bcvt)
+    return section(bkid) == SEC_SIF_EM and not _is_prose_section_of_job(bcvt)
+
+
 def nu10(verse_num, vtrad):
     """ Return a bcvt in Numbers chapter 10 """
     cvt = mk_cvt(10, verse_num, vtrad)
@@ -296,6 +302,16 @@ def std_from_short(short_book_name):
         (1 or 2 letters). E.g. Genesis G, Ezra for Er.
     """
     return _SHORT_TO_STD[short_book_name]
+
+
+def _is_prose_section_of_job(bcvt):
+    if bcvt_get_bkid(bcvt) != BK_JOB:
+        return False
+    chnu = bcvt_get_chnu(bcvt)
+    if chnu in (1, 2):
+        return True
+    vrnu = bcvt_get_vrnu(bcvt)
+    return chnu == 42 and vrnu > 6
 
 
 def _is_bcvt(obj):
@@ -548,7 +564,8 @@ ALL_SECTION_NAMES = (
     SEC_SIF_EM, SEC_XAM_MEG, SEC_KET_ACH)
 _SHORT_TO_STD = {
     _bkprop_short(prop): std
-    for std, prop in _BOOK_PROPERTIES.items()}
+    for std, prop in _BOOK_PROPERTIES.items()
+}
 _SAGA_OF_REUBEN_BCV = mk_bcvtmam(BK_GENESIS, 35, 22)
 _EXDEC_START = mk_bcvtmam(BK_EXODUS, 20, 2)
 _DEDEC_START = mk_bcvtmam(BK_DEUTER, 5, 6)

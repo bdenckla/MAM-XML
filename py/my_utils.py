@@ -55,13 +55,30 @@ def intersperse(sep, seq):
     return tmp[:-1]  # rm final sep, e.g. final None
 
 
+def dv_map(fun, the_dic):
+    """
+    "Dictionary value map"
+    Return a dict with the same keys but with values mapped.
+    """
+    assert isinstance(the_dic, dict)
+    if isinstance(fun, tuple):
+        return {k: fun[0](*fun[1:], v) for k, v in the_dic.items()}
+    return {k: fun(v) for k, v in the_dic.items()}
+
+
 def ll_map(fun, the_list):
     """
     Map the given function over the given list.
     (The "ll" means "list in, list out".)
     """
     assert isinstance(the_list, list)
-    return sl_map(fun, the_list)
+    # Sure, we could just implement ll_map using sl_map.
+    # But that increases the stack depth, making debugging
+    # a little more awkward.
+    # So we just repeat ourselves.
+    if isinstance(fun, tuple):
+        return [fun[0](*fun[1:], elem) for elem in the_list]
+    return list(map(fun, the_list))
 
 
 def tt_map(fun, the_tuple):
@@ -104,7 +121,7 @@ def ss_map(fun, the_sequence):
     return type_of_seq(map(fun, the_sequence))
 
 
-def massage_dic_vals(fn_table, dic):
+def dv_map_with_dispatch_on_key(fn_table, dic):
     """
     Transform the value at each key using a table of functions.
     """

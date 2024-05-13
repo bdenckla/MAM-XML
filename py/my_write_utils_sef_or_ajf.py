@@ -5,8 +5,9 @@ Exports:
 
 import csv
 import my_html
-import my_sef_header
 import my_open
+import my_utils
+import my_sef_header
 import my_sef_cmn
 import my_tanakh_book_names as tbn
 
@@ -15,10 +16,7 @@ def write_bkg_in_csv_fmt(path, variant, verses, cant_dabs):
     """ Write Sefaria-style file in CSV format """
     book_out = {}
     bkid = None
-    verses_dicts = {
-        cant_dab: dict(list_of_pairs)
-        for cant_dab, list_of_pairs in verses.items()
-    }
+    verses_dicts = my_utils.dv_map(dict, verses)
     for bcvt, _html_els in verses['rv-cant-dual']:
         if bkid is None:
             bkid = tbn.bcvt_get_bkid(bcvt)
