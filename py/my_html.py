@@ -21,7 +21,6 @@ class WriteCtx:
     add_wbr: bool = False
 
 
-
 def write_html_to_file(body_contents, write_ctx: WriteCtx):
     """
     Write HTML to file based on the following inputs:
@@ -345,7 +344,6 @@ def _is_str_or_htel(obj):
     if isinstance(obj, dict) and '_htel_tag' in obj:
         return True
     return False
-
 
 
 def _write_callback(html_el, add_wbr, out_fp):
