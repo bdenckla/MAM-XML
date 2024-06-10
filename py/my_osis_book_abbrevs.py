@@ -44,10 +44,10 @@ def get_bc_from_osis_id(osid_id):
 
 
 def _osis_id_of_bkid(bkid):
-    return OSIS_BOOK_ABBREVS[bkid]
+    return BOOK_ABBREVS[bkid]
 
 
-OSIS_BOOK_ABBREVS = {
+BOOK_ABBREVS = {
     tbn.BK_GENESIS: 'Gen',
     tbn.BK_EXODUS: 'Exod',
     tbn.BK_LEVIT: 'Lev',
@@ -88,4 +88,4 @@ OSIS_BOOK_ABBREVS = {
     tbn.BK_ZEKHAR: 'Zech',
     tbn.BK_MALAKHI: 'Mal',
 }
-BKID_FROM_OBA = {oba: bkid for bkid, oba in OSIS_BOOK_ABBREVS.items()}
+BKID_FROM_OBA = {oba: bkid for bkid, oba in BOOK_ABBREVS.items()}

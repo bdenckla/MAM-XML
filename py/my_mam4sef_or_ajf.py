@@ -36,7 +36,7 @@ def _handle(handlers, etel):  # etel: ElementTree element
 
 
 def _read_book_group(variant, bkg_name):
-    vtrad = variant['variant_vtrad']
+    vtrad = variant['variant-vtrad']
     xml_vtrad_xxx_dic = {
         tbn.VT_BHS: 'xml-vtrad-bhs',
         tbn.VT_SEF: 'xml-vtrad-sef',
@@ -58,8 +58,8 @@ XPATH_QUERY_FROM_CANT_DAB = {
 
 
 def _process_book_group(variant, root, cant_dab):
-    handlers = variant['variant_handlers']
-    vtrad = variant['variant_vtrad']
+    handlers = variant['variant-handlers']
+    vtrad = variant['variant-vtrad']
     if tuple(handlers.keys()) == _ALL_3_CANT_DAB_VALUES:
         handlers2 = handlers[cant_dab]
     else:
@@ -95,7 +95,7 @@ def do_one_book_group(variant, bkg):
     bkg_name = bkg['bkg-name']
     root = _read_book_group(variant, bkg_name)
     bkg_out = {}
-    if variant.get('variant_include_abcants'):
+    if variant.get('variant-include-abcants'):
         cant_dabs = _ALL_3_CANT_DAB_VALUES
     else:
         cant_dabs = ('rv-cant-dual',)

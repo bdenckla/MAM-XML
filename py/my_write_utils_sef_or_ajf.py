@@ -41,7 +41,7 @@ def _html_str(html_els):
 
 def _write_bkg_in_csv_fmt2(variant, bkid, contents, file_handle):
     writer = csv.writer(file_handle)
-    exclude_header = variant.get('variant_exclude_header_from_csv')
+    exclude_header = variant.get('variant-exclude-header-from-csv')
     if not exclude_header:
         header = my_sef_header.sef_header(bkid)
         for hkey, hval in header.items():
