@@ -29,7 +29,7 @@ def bkg_path(variant, bkg_name, fmt_is_unicode_names=False):
     if fmt_is_unicode_names:
         fmt = 'unicode_names'
     else:
-        fmt = variant.get('variant_file_format') or 'csv'
+        fmt = variant.get('variant_file_format') or 'vff-csv'
     path_qual = variant.get('variant_path_qual') or ''
     # vpq examples include '' (the empty string) and '-ajf'
     folders = {
