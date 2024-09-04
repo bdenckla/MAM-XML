@@ -151,7 +151,7 @@ def show_progress_g(uufileuu, *rest):
     print(bn_and_rest)
 
 
-def get_book39_tuple_from_args():
+def get_book39_tuple_from_argparse():
     parser = argparse.ArgumentParser()
     parser.add_argument('--book39tbn')  # e.g. 1Samuel not I Samuel
     parser.add_argument('--section6')  # e.g. SifEm

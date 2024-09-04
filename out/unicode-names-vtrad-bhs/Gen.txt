@@ -10221,7 +10221,7 @@ k,·,i,⅃,y
 START/STOP lp-paseq
 y,a,r,‥,⅄,α,a,h
 SPACE
-w,_,y,·,o,(me),α,m,∵,r
+w,_,y,·,o,(me),α,m,∵,𝓂,r
 START/STOP lp-paseq
 l,o,(ti),α
 SPACE

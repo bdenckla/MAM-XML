@@ -18183,7 +18183,7 @@ $,·sh,‥,n.,(p)
 SPACE
 START kq
 START kq-k
-w,h,w,v,n,m.
+w,h,w,v,n,y,m.
 STOP kq-k
 START kq-q
 w,:,h,oa,v,:,n,i,ƶ,y,m.

@@ -35464,7 +35464,14 @@ y,i,$,·si,:,r,a,α,‥,(ti),l
 SPACE
 l,‥,α,m,o,⅄,r
 SPACE
-l,:,k.,a,(ti)
+START kq
+START kq-k
+l,k.
+STOP kq-k
+START kq-q
+l,:,k,a,(ti),h
+STOP kq-q
+STOP kq
 SPACE
 n,i,τ,:,r,a,α,∵,(me),h
 SPACE
