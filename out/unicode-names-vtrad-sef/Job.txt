@@ -4968,7 +4968,7 @@ SPACE
 
 Job 14:5 in vtrad vtsef
 α,i,(me),m.
-SPACE
+START/STOP implicit-maqaf
 x,:_,r,w,·,ц,i,(qa),y,m.
 START/STOP lp-legarmeih
 SPACE
@@ -10672,7 +10672,7 @@ SPACE
 
 Job 31:7 in vtrad vtsef
 α,i,(me),m.
-SPACE
+START/STOP implicit-maqaf
 τ,·,i,θ,·,∵,⅃,h
 SPACE
 α,_,$,·sh,·,u,r,i,y,~
