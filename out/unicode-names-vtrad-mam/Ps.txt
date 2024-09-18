@@ -3463,7 +3463,7 @@ SPACE
 k,·,i,≁,y
 START/STOP implicit-maqaf
 x,a,(me),f,‥,𝓂,ц.
-SPACE
+START/STOP implicit-maqaf
 v,·,i,𝓂,y,.
 
 Psalms 18:21 in vtrad vtmam
@@ -4609,7 +4609,7 @@ SPACE
 k,·,i,≁,y
 START/STOP implicit-maqaf
 x,a,(me),f,‥,𝓂,ц.
-SPACE
+START/STOP implicit-maqaf
 v,·,𝓂,w,o,.
 
 Psalms 22:10 in vtrad vtmam
@@ -6990,7 +6990,7 @@ x,:_,θ,a,α,a,𝓂,h,.
 
 Psalms 32:2 in vtrad vtmam
 α,_,(me),$,·sh,:,𝓂,r,‥,y
-SPACE
+START/STOP implicit-maqaf
 α,a,d,a,◆,m.
 SPACE
 l,o,<,α
@@ -9503,7 +9503,7 @@ SPACE
 
 Psalms 39:13 in vtrad vtmam
 $,·sh,i,(me),m,:,ʕ,a,𝓂,h
-SPACE
+START/STOP implicit-maqaf
 τ,:,f,i,l,·,a,τ,i,(qa),y
 START/STOP lp-legarmeih
 SPACE
@@ -9614,7 +9614,7 @@ v,·,_,y,h,o,w,a,𝓂,h,.
 
 Psalms 40:5 in vtrad vtmam
 α,_,(me),$,·sh,:,𝓂,r,‥,y
-SPACE
+START/STOP implicit-maqaf
 h,_,g,·,∵,◆,v,∵,r
 SPACE
 α,:_,$,·sh,∵,r,-,$,·si,a,⅃,m.
@@ -10411,7 +10411,7 @@ SPACE
 l,o,𝓂,α,-,x,a,σ,i,⅄,y,d
 SPACE
 m,‥,<,α,i,y,$,·sh
-SPACE
+START/STOP implicit-maqaf
 m,i,r,:,m,a,(ti),h
 SPACE
 w,:,ʕ,_,w,:,l,a,⅃,h
@@ -13120,7 +13120,7 @@ SPACE
 α,∵,z,:,v,·,:,x,a,h,-,l,·,a,⅄,k.,:
 SPACE
 α,<,w,o,d,∵,h
-SPACE
+START/STOP implicit-maqaf
 $,·sh,·,i,m,:,k.,a,(ti)
 SPACE
 y,:,h,o,w,a,⅃,h
@@ -15301,7 +15301,7 @@ y,i,r,:,α,∵,h,-,l,·,a,𝓂,m,w,o,.
 
 Psalms 64:7 in vtrad vtmam
 y,_,(me),x,:,f,·,:,𝓂,$,·si,w,·
-SPACE
+START/STOP implicit-maqaf
 ʕ,w,o,l,o,◆,τ
 SPACE
 τ,·,_,(de),m,:,n,w,·
@@ -15505,7 +15505,7 @@ SPACE
 m,‥,α,w,o,τ,o,τ,∵,⅄,y,k.,a
 SPACE
 m,<,w,o,ц,a,𝓂,α,‥,y
-SPACE
+START/STOP implicit-maqaf
 v,o,(ti),q,∵,r
 SPACE
 w,a,ʕ,∵,⅃,r,∵,v
@@ -15514,7 +15514,7 @@ SPACE
 
 Psalms 65:10 in vtrad vtmam
 f,·,a,<,q,_,𝓂,d,:,τ,·,a
-SPACE
+START/STOP implicit-maqaf
 h,a,α,a,(qa),r,∵,ц.
 SPACE
 w,_,τ,·,:,$,·sh,o,(yy),q,:,q,∵,μ,h,a
@@ -15911,7 +15911,7 @@ SPACE
 w,i,y,v,a,r,:,k,‥,⅄,n,w,·
 SPACE
 y,a,<,α,‥,𝓂,r
-SPACE
+START/STOP implicit-maqaf
 f,·,a,n,a,(ti),y,w
 SPACE
 α,i,τ,·,a,⅃,n,w,·
@@ -16190,7 +16190,7 @@ SPACE
 y,a,$,·sh,:,v,w,·,-,v,a,⅄,h,·
 SPACE
 τ,·,a,<,k,i,𝓂,y,n.
-SPACE
+START/STOP implicit-maqaf
 v,·,:,θ,w,o,v,a,τ,:,k.,a,(ti)
 SPACE
 l,∵,𝓂,ʕ,a,n,i,⅃,y
@@ -21491,7 +21491,7 @@ SPACE
 ʕ,i,m,·,a,⅄,m.
 SPACE
 h,a,<,y,𝓂,w,·
-SPACE
+START/STOP implicit-maqaf
 z,:,r,(ti),w,o,ʕ,_
 SPACE
 l,i,v,:,n,‥,y,-,l,⅃,w,o,θ
@@ -25275,7 +25275,7 @@ y,:,r,_,n,·,‥,𝓂,n,w,·,.
 
 Psalms 98:9 in vtrad vtmam
 l,i,(me),f,:,𝓂,n,‥,y
-SPACE
+START/STOP implicit-maqaf
 y,:,h,o,w,a,◆,h
 SPACE
 k,·,i,(me),y
