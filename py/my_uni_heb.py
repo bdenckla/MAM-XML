@@ -113,7 +113,7 @@ _HE_AND_NONHE_POINT_PAIRS = (
     (hpo.QAMATS, 'a'),  # ambiguous, could be gadol or qatan
     (hpo.QAMATS_Q, 'oa'),
     (hpo.XOLAM_XFV, 'ḥḥfv'),
-    (hpo.XOLAM, 'o'),  # see "Note on plain holam" below
+    (hpo.XOLAM, 'o'),
     (hpo.QUBUTS, 'u'),
 )
 _HE_AND_NONHE_ACC_PAIRS = (
@@ -167,7 +167,6 @@ _HE_TO_NONHE_DIC = _mk_he_to_nonhe_dic()
 _HE_TO_NONHE_ACC_DIC = dict(_HE_AND_NONHE_ACC_PAIRS)
 
 # Note on θ (theta)
-# Note on plain holam
 # Note on zinor
 #
-# See my_split_hebrew_mappings.py for all 3 of these notes.
+# See my_split_hebrew_mappings.py for both of these notes.
