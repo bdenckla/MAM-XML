@@ -55,15 +55,28 @@ def intersperse(sep, seq):
     return tmp[:-1]  # rm final sep, e.g. final None
 
 
-def dv_map(fun, the_dic):
+def dv_map(foc, the_dic):
     """
     "Dictionary value map"
     Return a dict with the same keys but with values mapped.
+    {k: v} becomes {k: f(v)}
     """
     assert isinstance(the_dic, dict)
-    if isinstance(fun, tuple):
-        return {k: fun[0](*fun[1:], v) for k, v in the_dic.items()}
-    return {k: fun(v) for k, v in the_dic.items()}
+    if isinstance(foc, tuple):
+        return {k: foc[0](*foc[1:], v) for k, v in the_dic.items()}
+    return {k: foc(v) for k, v in the_dic.items()}
+
+
+def dkv_map(foc, the_dic):
+    """
+    "Dictionary key and value map"
+    Return a dict with the same keys but with values mapped.
+    {k: v} becomes {k: f(k, v)}
+    """
+    assert isinstance(the_dic, dict)
+    if isinstance(foc, tuple):
+        return {k: foc[0](*foc[1:], k, v) for k, v in the_dic.items()}
+    return {k: foc(k, v) for k, v in the_dic.items()}
 
 
 def ll_map(fun, the_list):
@@ -121,11 +134,12 @@ def ss_map(fun, the_sequence):
     return type_of_seq(map(fun, the_sequence))
 
 
-def dv_map_with_dispatch_on_key(fn_table, dic):
+def dv_dispatch(fn_table, dic, *extra_args):
     """
     Transform the value at each key using a table of functions.
+    {k: v} becomes {k: f[k](v)}
     """
-    return {key: fn_table[key](val) for key, val in dic.items()}
+    return {key: fn_table[key](*extra_args, val) for key, val in dic.items()}
 
 
 def sum_of_lists(seq_of_lists):

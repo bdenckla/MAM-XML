@@ -20,19 +20,19 @@ the books of the Hebrew Bible and identifying verses within those books.
 #         convention: since those would be I Samuel and Samuel_1 respectively.
 
 
-def book_is_of_sec(in_section, bkid):
+def book_is_of_sec(secid, bkid):
     """ Return whether the given book belongs to the given section. """
-    return section(bkid) == in_section
+    return get_secid(bkid) == secid
 
 
-def books_of_sec(in_section):
+def books_of_sec(secid):
     """ Return a tuple of all book names in the given section. """
-    return tuple(b for b in ALL_BOOK_IDS if book_is_of_sec(in_section, b))
+    return tuple(b for b in ALL_BOOK_IDS if book_is_of_sec(secid, b))
 
 
-def section(bkid):
-    """ Return the section to which the given book belongs. """
-    return _bkprop_section(_BOOK_PROPERTIES[bkid])
+def get_secid(bkid):
+    """ Return the section ID to which the given book belongs. """
+    return _bkprop_secid(_BOOK_PROPERTIES[bkid])
 
 
 def book_is_of_bk24(in_bk24id, bkid):
@@ -66,29 +66,9 @@ def ordered_short(bkid):  # E.g. 'A1' for GENESIS, 'FD' for SND_CHRONICLES
     return _bkprop_ordered_short(_BOOK_PROPERTIES[bkid])
 
 
-def ordered_short_sena(sena):  # E.g. 'A' for SEC_TORAH, 'B' for SEC_NEV_RISH
-    """
-        Returns section code A thru F for section with name sena.
-    """
-    dic = {
-        SEC_TORAH: 'A',
-        SEC_NEV_RISH: 'B',
-        SEC_NEV_AX: 'C',
-        SEC_SIF_EM: 'D',
-        SEC_XAM_MEG: 'E',
-        SEC_KET_ACH: 'F'
-    }
-    return dic[sena]
-
-
 def ordered_short_dash_full(bkid):
     """ Return, for example, A1-Genesis given Genesis """
     return f'{ordered_short(bkid)}-{bkid}'
-
-
-def ordered_short_dash_full_sena(sena):
-    """ Return, for example, A-Torah given Torah """
-    return f'{ordered_short_sena(sena)}-{sena}'
 
 
 def short_bcv(bcv):
@@ -135,7 +115,7 @@ def has_dualcant(bcvtmam):  # bcvt in MAM vtrad
 def is_poetcant(bcvt):
     """ Return whether locale uses poetic (as opposed to prose) cantillation. """
     bkid = bcvt_get_bkid(bcvt)
-    return section(bkid) == SEC_SIF_EM and not _is_prose_section_of_job(bcvt)
+    return get_secid(bkid) == SEC_SIF_EM and not _is_prose_section_of_job(bcvt)
 
 
 def nu10(verse_num, vtrad):
@@ -341,7 +321,7 @@ def _bkprop_bk24id(bkprop):
     return bkprop[0]
 
 
-def _bkprop_section(bkprop):
+def _bkprop_secid(bkprop):
     return bkprop[1]
 
 
@@ -559,7 +539,7 @@ _BOOKS_WITH_LESS_THAN_10_CHAPS = (
 ALL_BOOK_IDS = tuple(_BOOK_PROPERTIES.keys())
 _ALL_BK24_IDS = {bk24id(bk39id): True for bk39id in ALL_BOOK_IDS}
 ALL_BK24_IDS = tuple(_ALL_BK24_IDS.keys())
-ALL_SECTION_NAMES = (
+ALL_SECIDS = (
     SEC_TORAH, SEC_NEV_RISH, SEC_NEV_AX,
     SEC_SIF_EM, SEC_XAM_MEG, SEC_KET_ACH)
 _SHORT_TO_STD = {
@@ -571,5 +551,18 @@ _EXDEC_START = mk_bcvtmam(BK_EXODUS, 20, 2)
 _DEDEC_START = mk_bcvtmam(BK_DEUTER, 5, 6)
 _EXDEC_RANGE = _mk_verse_range(_EXDEC_START, 12)
 _DEDEC_RANGE = _mk_verse_range(_DEDEC_START, 12)
+_ORDERED_SHORT_SECTION_CODE = {
+    SEC_TORAH: 'A',
+    SEC_NEV_RISH: 'B',
+    SEC_NEV_AX: 'C',
+    SEC_SIF_EM: 'D',
+    SEC_XAM_MEG: 'E',
+    SEC_KET_ACH: 'F'
+}
+ORDERED_SHORT_SECTION_CODE_DASH_SECID = {
+    secid: f'{_ORDERED_SHORT_SECTION_CODE[secid]}-{secid}'
+    for secid in ALL_SECIDS
+}
+
 
 assert _shorts_are_unique()

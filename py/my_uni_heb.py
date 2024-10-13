@@ -2,7 +2,7 @@
 This module exports:
     shunna
     accent_names
-    hechar_names
+    he_char_names
     comma_shunnas
     t_shunna
 """
@@ -31,7 +31,7 @@ def accent_names(string):
     return filter(None, (_HE_TO_NONHE_ACC_DIC.get(c) for c in string))
 
 
-def hechar_names(string):
+def he_char_names(string):
     """ Return Hebrew character names. """
     return (_HE_TO_NONHE_DIC[c] for c in string)
 
@@ -146,8 +146,8 @@ _HE_AND_NONHE_ACC_PAIRS = (
     (ha.YBY, '(yy)'),
     (ha.OLE, '(ol)'),
     ('\N{HEBREW ACCENT ILUY}', '(il)'),
-    ('\N{HEBREW ACCENT DEHI}', '(de)'),
-    (ha.ZARQA, '~'),  # See: Note on zinor
+    (ha.DEX, '(de)'),
+    (ha.Z_OR_TSOR, '~'),  # See: Note on zinor
 )
 _HE_AND_NONHE_PUNC_PAIRS = (
     ('\N{HEBREW PUNCTUATION MAQAF}', '-'),

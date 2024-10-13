@@ -16,7 +16,8 @@ TIP = '\N{HEBREW ACCENT TIPEHA}'
 PASH = '\N{HEBREW ACCENT PASHTA}'
 SEG_A = '\N{HEBREW ACCENT SEGOL}'  # A for accent (not vowel)
 ZARQA_SH = '\N{HEBREW ACCENT ZARQA}'  # SH: stress helper (!); tsinorit in Sifrei Emet
-ZARQA = '\N{HEBREW ACCENT ZINOR}'  # tsinor in Sifrei Emet
+DEX = '\N{HEBREW ACCENT DEHI}'
+Z_OR_TSOR = '\N{HEBREW ACCENT ZINOR}'  # tsinor in Sifrei Emet
 
 
 G1_TG = GER + TEL_G
