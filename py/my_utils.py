@@ -1,14 +1,10 @@
 """
-    Exports
-        szip
-        show_progress_g
-        show_progress_cv
-        get_book39_tuple_from_args
+    Exports various functions of general utility.
 """
 import os
 import argparse
 
-import my_tanakh_book_names as tbn
+import my_locales as tbn
 
 
 def init(dic, key, val):
@@ -48,11 +44,78 @@ def l_szip(*seqs):
     return list(szip(*seqs))
 
 
-def intersperse(sep, seq):
-    """ Intersperse a separator between the elements of a sequence. """
-    seps = (sep,) * len(seq)
-    tmp = sum(szip(seq, seps), tuple())
+def intersperse(sep, the_sequence):
+    """
+    Intersperse a separator between the elements of a sequence.
+    intersperse(7,[0, 1, 2]) == [0, 7, 1, 7, 2]
+    intersperse(7,(0, 1, 2)) == (0, 7, 1, 7, 2)
+    """
+    assert isinstance(the_sequence, (tuple, list))
+    type_of_seq = type(the_sequence)  # presumably list or tuple
+    seps = type_of_seq([sep]) * len(the_sequence)
+    tmp_list = sum_of_seqs(szip(the_sequence, seps))
+    tmp = type_of_seq(tmp_list)
     return tmp[:-1]  # rm final sep, e.g. final None
+
+
+def ll_map(foc, the_list):
+    """
+    Map the given foc (function or closure) over the given list.
+    (The "ll" means "list in, list out".)
+    """
+    assert isinstance(the_list, list)
+    if isinstance(foc, tuple):
+        return [foc[0](*foc[1:], elem) for elem in the_list]
+    return list(map(foc, the_list))
+
+
+def tt_map(foc, the_tuple):
+    """
+    Map the given foc (function or closure) over the given tuple.
+    (The "tt" means "tuple in, tuple out".)
+    """
+    assert isinstance(the_tuple, tuple)
+    return st_map(foc, the_tuple)
+
+
+def sl_map(foc, the_sequence):
+    """
+    Map the given foc (function or closure) over the given sequence (e.g. list or tuple).
+    (The "sl" means "[any] sequence in, list out".)
+    """
+    if isinstance(foc, tuple):
+        return [foc[0](*foc[1:], elem) for elem in the_sequence]
+    return list(map(foc, the_sequence))
+
+
+def st_map(foc, the_sequence):
+    """
+    Map the given foc (function or closure) over the given sequence (e.g. list or tuple).
+    (The "st" means "[any] sequence in, tuple out".)
+    """
+    if isinstance(foc, tuple):
+        return tuple(foc[0](*foc[1:], elem) for elem in the_sequence)
+    return tuple(map(foc, the_sequence))
+
+
+def ss_map(foc, the_sequence):
+    """
+    Map the given foc (function or closure) over the given sequence (e.g. list or tuple).
+    (The "ss" means "[any] sequence in, [same type of] sequence out [as in]".)
+    (I.e. tuple in, tuple out or list in, list out.)
+    """
+    type_of_seq = type(the_sequence)  # presumably list or tuple
+    if isinstance(foc, tuple):
+        return type_of_seq(foc[0](*foc[1:], elem) for elem in the_sequence)
+    return type_of_seq(map(foc, the_sequence))
+
+
+def dv_dispatch(fn_table, dic, *extra_args):
+    """
+    Transform the value at each key using a table of functions.
+    {k: v} becomes {k: f[k](v)}
+    """
+    return {key: fn_table[key](*extra_args, val) for key, val in dic.items()}
 
 
 def dv_map(foc, the_dic):
@@ -79,79 +142,54 @@ def dkv_map(foc, the_dic):
     return {k: foc(k, v) for k, v in the_dic.items()}
 
 
-def ll_map(fun, the_list):
+def snd_map(foc, the_seq):
     """
-    Map the given function over the given list.
-    (The "ll" means "list in, list out".)
+    "Second value map"
+    [(x, y)] becomes [(x, f(y))].
     """
-    assert isinstance(the_list, list)
-    # Sure, we could just implement ll_map using sl_map.
-    # But that increases the stack depth, making debugging
-    # a little more awkward.
-    # So we just repeat ourselves.
-    if isinstance(fun, tuple):
-        return [fun[0](*fun[1:], elem) for elem in the_list]
-    return list(map(fun, the_list))
+    if isinstance(foc, tuple):
+        return [(x, foc[0](*foc[1:], y)) for x, y in the_seq]
+    return [(x, foc(y)) for x, y in the_seq]
 
 
-def tt_map(fun, the_tuple):
-    """
-    Map the given function over the given tuple.
-    (The "tt" means "tuple in, tuple out".)
-    """
-    assert isinstance(the_tuple, tuple)
-    return st_map(fun, the_tuple)
+def sl_map_even_odd(foc_pair, the_sequence):
+    # Like sl_map, but with a different foc for even- & odd-indexed elements.
+    return sl_map((_even_odd_foc, foc_pair), enumerate(the_sequence))
 
 
-def sl_map(fun, the_sequence):
-    """
-    Map the given function over the given sequence (e.g. list or tuple).
-    (The "sl" means "[any] sequence in, list out".)
-    """
-    if isinstance(fun, tuple):
-        return [fun[0](*fun[1:], elem) for elem in the_sequence]
-    return list(map(fun, the_sequence))
+def _even_odd_foc(foc_pair, idx_and_elem):
+    idx, elem = idx_and_elem
+    foc = foc_pair[idx % 2]
+    if isinstance(foc, tuple):
+        return foc[0](*foc[1:], elem)
+    return foc(elem)
 
 
-def st_map(fun, the_sequence):
+def sum_of_seqs(seq_of_seqs):
     """
-    Map the given function over the given sequence (e.g. list or tuple).
-    (The "st" means "[any] sequence in, tuple out".)
+    Return a list that is the sum of a sequence of sequences.
+    Aka "flatten".
+    The seq_of_seqs arg can be a tuple or a list.
+    The seqs inside it can be tuples, lists, or any mix of the two.
+    E.g. all of the following yield [1, 2, 3, 4]:
+        sum_of_seqs([[1, 2], [3, 4]]) (list of lists)
+        sum_of_seqs([(1, 2), (3, 4)]) (list of tuples)
+        sum_of_seqs([(1, 2), [3, 4]]) (list of mix)
+        sum_of_seqs(((1, 2), [3, 4])) (tuple of mix)
     """
-    if isinstance(fun, tuple):
-        return tuple(fun[0](*fun[1:], elem) for elem in the_sequence)
-    return tuple(map(fun, the_sequence))
-
-
-def ss_map(fun, the_sequence):
-    """
-    Map the given function over the given sequence (e.g. list or tuple).
-    (The "ss" means "[any] sequence in, [any] sequence out".)
-    """
-    type_of_seq = type(the_sequence)  # presumably list or tuple
-    if isinstance(fun, tuple):
-        return type_of_seq(fun[0](*fun[1:], elem) for elem in the_sequence)
-    return type_of_seq(map(fun, the_sequence))
-
-
-def dv_dispatch(fn_table, dic, *extra_args):
-    """
-    Transform the value at each key using a table of functions.
-    {k: v} becomes {k: f[k](v)}
-    """
-    return {key: fn_table[key](*extra_args, val) for key, val in dic.items()}
-
-
-def sum_of_lists(seq_of_lists):
-    """ Return the sum of a sequence of lists. """
     accum = []
-    for the_list in seq_of_lists:
-        accum.extend(the_list)
+    for seq in seq_of_seqs:
+        accum.extend(seq)
     return accum
 
 
 def sum_of_tuples(seq_of_tuples):
-    """ Return the sum of a sequence of tuples. """
+    """
+    Return a tuple that is the sum of a sequence of tuples.
+    Aka "flatten".
+    The seq_of_seqs arg can be a tuple or a list.
+    The elements inside it must all be tuples though.
+    """
     accum = tuple()
     for the_tuple in seq_of_tuples:
         accum += the_tuple

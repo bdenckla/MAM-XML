@@ -10,7 +10,7 @@ the books of the Hebrew Bible and identifying verses within those books.
 #    * It names a book in the "1 out of 39 books" sense of the word "book".
 #         (This is as opposed to the "1 out of 24 books" sense.)
 #    * It names these books using our "tbn" convention. The "tbn" convention
-#         is encoded here in the my_tanakh_book_names Python module, in
+#         is encoded here in the my_locales Python module, in
 #         constants like FST_SAMUEL.
 # A pithy example of a valid value for book39tbn is 1Samuel.
 # The example is pithy since:

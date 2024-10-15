@@ -1,6 +1,6 @@
 """ Exports main """
 
-import my_tanakh_book_names as tbn
+import my_locales as tbn
 import my_mam4sef_handlers
 import my_mam4sef_or_ajf
 

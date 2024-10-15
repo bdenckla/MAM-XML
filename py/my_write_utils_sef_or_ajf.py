@@ -9,7 +9,7 @@ import my_open
 import my_utils
 import my_sef_header
 import my_sef_cmn
-import my_tanakh_book_names as tbn
+import my_locales as tbn
 
 
 def write_bkg_in_csv_fmt(path, variant, verses, cant_dabs):

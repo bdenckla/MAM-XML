@@ -9,7 +9,7 @@ import my_open
 import my_utils
 import my_uni_heb as uh
 import my_verse_and_friends as vaf
-import my_tanakh_book_names as tbn
+import my_locales as tbn
 import my_str_defs as sd
 
 
@@ -100,7 +100,7 @@ def _write_verse_un(out_fp, bcvt, multiverse):
 
 
 def _write_segments(out_fp, some_kind_of_verse, cant_dab=None, indent=''):
-    if isinstance(some_kind_of_verse, (list, tuple)):
+    if isinstance(some_kind_of_verse, (tuple, list)):
         html_els = some_kind_of_verse
         _write_segments_from_html_els(
             out_fp, html_els, cant_dab, indent)

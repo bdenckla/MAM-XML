@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 import my_utils
 import my_osis_book_abbrevs
 import my_sef_cmn
-import my_tanakh_book_names as tbn
+import my_locales as tbn
 import my_write_utils
 import my_write_utils_sef_or_ajf
 import my_shrink
