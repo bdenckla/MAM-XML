@@ -14,7 +14,7 @@ def bk24_bkgs(bk39ids):
     bkg_dic = {}
     for bk39id in bk39ids:
         bk24id = tbn.bk24id(bk39id)
-        bkids_of_bk24 = tbn.bkids_of_bk24(bk24id)
+        bkids_of_bk24 = tbn.bk39ids_of_bk24(bk24id)
         osis_ids_of_bk24 = map(_osis_id_of_bkid, bkids_of_bk24)
         osis_bk24na = ''.join(osis_ids_of_bk24)
         bkg_dic[osis_bk24na] = bkids_of_bk24

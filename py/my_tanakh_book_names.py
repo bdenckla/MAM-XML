@@ -40,7 +40,7 @@ def book_is_of_bk24(in_bk24id, bkid):
     return _bkprop_bk24id(_BOOK_PROPERTIES[bkid]) == in_bk24id
 
 
-def bkids_of_bk24(in_bk24id):
+def bk39ids_of_bk24(in_bk24id):
     """ Return a tuple of all book names in the given book24. """
     return tuple(b for b in ALL_BOOK_IDS if book_is_of_bk24(in_bk24id, b))
 
@@ -69,6 +69,22 @@ def ordered_short(bkid):  # E.g. 'A1' for GENESIS, 'FD' for SND_CHRONICLES
 def ordered_short_dash_full(bkid):
     """ Return, for example, A1-Genesis given Genesis """
     return f'{ordered_short(bkid)}-{bkid}'
+
+
+def ordered_short_24(bk24id):
+    """ Return, for example, e.g. 'BC' given 'Kings'. """
+    bk39ids = bk39ids_of_bk24(bk24id)
+    return ordered_short(bk39ids[0])
+
+
+def ordered_short_dash_full_24(bk24id):
+    """ Return, for example, e.g. 'BC-Kings.json' given 'Kings'. """
+    return f'{ordered_short_24(bk24id)}-{bk24id}'
+
+
+def osdf24(bk24id):
+    """ Return, for example, e.g. 'BC-Kings.json' given 'Kings'. """
+    return ordered_short_dash_full_24(bk24id)
 
 
 def short_bcv(bcv):
@@ -291,7 +307,11 @@ def _is_prose_section_of_job(bcvt):
     if chnu in (1, 2):
         return True
     vrnu = bcvt_get_vrnu(bcvt)
-    return chnu == 42 and vrnu > 6
+    if chnu == 3 and vrnu == 1:
+        return True
+    if chnu == 42 and vrnu > 6:
+        return True
+    return False
 
 
 def _is_bcvt(obj):
