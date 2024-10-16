@@ -2,6 +2,7 @@
 This module exports various constants and functions related to identifying
 the books of the Hebrew Bible and identifying verses within those books.
 """
+import re
 
 # Various programs take a --book39tbn argument.
 # This comment explains here, centrally, what values are expected for such an
@@ -35,6 +36,12 @@ def get_secid(bkid):
     return _bkprop_secid(_BOOK_PROPERTIES[bkid])
 
 
+def section_for_bk24(bk24id):
+    """ Return the section to which the given book24 belongs. """
+    bkids = bk39ids_of_bk24(bk24id)
+    return get_secid(bkids[0])  # a book24 never spans a section
+
+
 def book_is_of_bk24(in_bk24id, bkid):
     """ Return whether the given book belongs to the given book24. """
     return _bkprop_bk24id(_BOOK_PROPERTIES[bkid]) == in_bk24id
@@ -45,9 +52,9 @@ def bk39ids_of_bk24(in_bk24id):
     return tuple(b for b in ALL_BK39_IDS if book_is_of_bk24(in_bk24id, b))
 
 
-def bk24id(bkid):
-    """ Return the book24 to which the given book belongs. """
-    return _bkprop_bk24id(_BOOK_PROPERTIES[bkid])
+def bk24id(bk39id):
+    """ Return the book24 to which the given bk39 belongs. """
+    return _bkprop_bk24id(_BOOK_PROPERTIES[bk39id])
 
 
 def ordered_short(bkid):  # E.g. 'A1' for GENESIS, 'FD' for SND_CHRONICLES
@@ -72,18 +79,18 @@ def ordered_short_dash_full(bkid):
 
 
 def ordered_short_24(bk24id):
-    """ Return, for example, e.g. 'BC' given 'Kings'. """
+    """ Return, for example, 'BC' given 'Kings'. """
     bk39ids = bk39ids_of_bk24(bk24id)
     return ordered_short(bk39ids[0])
 
 
 def ordered_short_dash_full_24(bk24id):
-    """ Return, for example, e.g. 'BC-Kings.json' given 'Kings'. """
+    """ Return, for example, 'BC-Kings.json' given 'Kings'. """
     return f'{ordered_short_24(bk24id)}-{bk24id}'
 
 
 def osdf24(bk24id):
-    """ Return, for example, e.g. 'BC-Kings.json' given 'Kings'. """
+    """ Return, for example, 'BC-Kings.json' given 'Kings'. """
     return ordered_short_dash_full_24(bk24id)
 
 
@@ -94,6 +101,17 @@ def short_bcv(bcv):
        (short) book name and the chapter.
     """
     return short(bcv[0]) + str(bcv[1]) + ':' + str(bcv[2])
+
+
+def parse_short_bcv(short_bcv):
+    bcv_patt = r'([A-z0-9][A-z]?)' + r'(\d+)' + ':' + r'(\d+)'
+    match = re.fullmatch(bcv_patt, short_bcv)
+    assert match is not None
+    book_name_short, bcv_chnu_str, bcv_vrnu_str = match.groups()
+    chnu_int = int(bcv_chnu_str)
+    vrnu_int = int(bcv_vrnu_str)
+    book_name_std = std_from_short(book_name_short)
+    return book_name_std, chnu_int, vrnu_int
 
 
 def ordered_short_bcv(bcv):
@@ -295,7 +313,7 @@ def short(bkid):
 def std_from_short(short_book_name):
     """
         Returns the standard book name given the (unordered) short name
-        (1 or 2 letters). E.g. Genesis G, Ezra for Er.
+        (1 or 2 letters). E.g. Genesis for G, Ezra for Er, etc.
     """
     return _SHORT_TO_STD[short_book_name]
 
@@ -395,10 +413,10 @@ BK_AMOS = 'Amos'
 BK_OVADIAH = 'Obadiah'  # guts to change it to Ovadiah?
 BK_JONAH = 'Jonah'
 BK_MIKHAH = 'Micah'  # guts to change it to Mikhah or Miḳah?
-BK_NAXUM = 'Nahum'  # guts to change it to Naḥum?
-BK_XABA = 'Habakkuk'  # guts to change it to Ḥabakkuk? Ḥabaqquq?
+BK_NAXUM = 'Nahum'  # guts to change it to Naḥum?
+BK_XABA = 'Habakkuk'  # guts to change it to Ḥabakkuk? Ḥabaqquq?
 BK_TSEF = 'Tsefaniah'
-BK_XAGGAI = 'Haggai'  # guts to change it to Ḥaggai?
+BK_XAGGAI = 'Haggai'  # guts to change it to Ḥaggai?
 BK_ZEKHAR = 'Zechariah'  # guts to change it to Zekhariah or Zeḳariah?
 BK_MALAKHI = 'Malachi'  # guts to change it to Malakhi or Malaḳi?
 BK_PSALMS = 'Psalms'
@@ -411,7 +429,7 @@ BK_QOHELET = 'Ecclesiastes'
 BK_ESTHER = 'Esther'
 BK_DANIEL = 'Daniel'
 BK_EZRA = 'Ezra'
-BK_NEXEM = 'Nehemiah'  # guts to change it to Neḥemiah?
+BK_NEXEM = 'Nehemiah'  # guts to change it to Neḥemiah?
 BK_FST_CHR = '1Chronicles'
 BK_SND_CHR = '2Chronicles'
 
@@ -437,15 +455,15 @@ BK24_LAMENT = BK_LAMENT
 BK24_QOHELET = BK_QOHELET
 BK24_ESTHER = BK_ESTHER
 BK24_DANIEL = BK_DANIEL
-BK24_EZ_NE = 'Ezra-Neḥemiah'
+BK24_EZ_NE = 'Ezra-Neḥemiah'  # leave h-dot composed because maybe this string is used in filenames
 BK24_CHRON = 'Chronicles'
 
 SEC_TORAH = 'Torah'
 SEC_NEV_RISH = 'NevRish'
-SEC_NEV_AX = 'NevAḥ'
+SEC_NEV_AX = 'NevAḥ'  # leave h-dot composed because this string is used in filenames
 SEC_SIF_EM = 'SifEm'
-SEC_XAM_MEG = 'ḤamMeg'
-SEC_KET_ACH = 'KetAḥ'
+SEC_XAM_MEG = 'ḤamMeg'  # leave H-dot (capital h-dot) composed because this string is used in filenames
+SEC_KET_ACH = 'KetAḥ'  # leave h-dot composed because this string is used in filenames
 
 VT_MAM = 'vtmam'
 VT_SEF = 'vtsef'
@@ -561,11 +579,11 @@ _ALL_BK24_IDS = {bk24id(bk39id): True for bk39id in ALL_BK39_IDS}
 ALL_BK24_IDS = tuple(_ALL_BK24_IDS.keys())
 ALL_SECIDS = (
     SEC_TORAH, SEC_NEV_RISH, SEC_NEV_AX,
-    SEC_SIF_EM, SEC_XAM_MEG, SEC_KET_ACH)
+    SEC_SIF_EM, SEC_XAM_MEG, SEC_KET_ACH
+)
 _SHORT_TO_STD = {
     _bkprop_short(prop): std
-    for std, prop in _BOOK_PROPERTIES.items()
-}
+    for std, prop in _BOOK_PROPERTIES.items()}
 _SAGA_OF_REUBEN_BCV = mk_bcvtmam(BK_GENESIS, 35, 22)
 _EXDEC_START = mk_bcvtmam(BK_EXODUS, 20, 2)
 _DEDEC_START = mk_bcvtmam(BK_DEUTER, 5, 6)
