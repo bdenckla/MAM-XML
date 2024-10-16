@@ -1,5 +1,7 @@
 """ Exports names for Unicode Hebrew letters """
 
+import re
+
 # אבגדהוזחטיכךלמםנןסעפףצץקרשת
 
 ALEF = '\N{HEBREW LETTER ALEF}'
@@ -29,3 +31,10 @@ QOF = '\N{HEBREW LETTER QOF}'
 RESH = '\N{HEBREW LETTER RESH}'
 SHIN = '\N{HEBREW LETTER SHIN}'
 TAV = '\N{HEBREW LETTER TAV}'
+
+
+def letters(string: str):
+    """ Return only the letters in the given string """
+    # I.e. strip out any vowel points, accents, maqaf marks, etc.
+    pattern = r'[^א-ת]*'
+    return re.sub(pattern, '', string)

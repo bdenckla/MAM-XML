@@ -98,7 +98,7 @@ _HE_AND_NONHE_LETT_PAIRS = (
 )
 _HE_AND_NONHE_POINT_PAIRS = (
     (hpo.JSVARIKA, 'varika'),
-    (hpo.DAGESH_OM, '·'),
+    (hpo.DAGOMOSD, '·'),
     (hpo.RAFE, '‾'),  # r̄ was another candidate
     (hpo.SHIND, '·sh'),
     (hpo.SIND, '·si'),
@@ -117,7 +117,7 @@ _HE_AND_NONHE_POINT_PAIRS = (
     (hpo.QUBUTS, 'u'),
 )
 _HE_AND_NONHE_ACC_PAIRS = (
-    (hpo.METEG, '𝓂'),  # we consider it an accent not a point
+    (hpo.MTGOSLQ, '𝓂'),  # we consider it an accent not a point
     (ha.ATN, '⅄'),
     (ha.SEG_A, '∴'),  # ∴ aka THEREFORE
     ('\N{HEBREW ACCENT SHALSHELET}', '(sh)'),

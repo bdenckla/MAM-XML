@@ -27,7 +27,7 @@ def book_is_of_sec(secid, bkid):
 
 def books_of_sec(secid):
     """ Return a tuple of all book names in the given section. """
-    return tuple(b for b in ALL_BOOK_IDS if book_is_of_sec(secid, b))
+    return tuple(b for b in ALL_BK39_IDS if book_is_of_sec(secid, b))
 
 
 def get_secid(bkid):
@@ -42,7 +42,7 @@ def book_is_of_bk24(in_bk24id, bkid):
 
 def bk39ids_of_bk24(in_bk24id):
     """ Return a tuple of all book names in the given book24. """
-    return tuple(b for b in ALL_BOOK_IDS if book_is_of_bk24(in_bk24id, b))
+    return tuple(b for b in ALL_BK39_IDS if book_is_of_bk24(in_bk24id, b))
 
 
 def bk24id(bkid):
@@ -109,9 +109,9 @@ def ordered_short_bcv(bcv):
 
 def my_zfill(the_int, width):
     """ Call str.zfill, asserting that width is adhered to. """
-    out = str(the_int).zfill(width)
-    assert len(out) == width
-    return out
+    zfilled_str = str(the_int).zfill(width)
+    assert len(zfilled_str) == width
+    return zfilled_str
 
 
 def short_bcv_of_bcvt(bcvt):
@@ -317,7 +317,7 @@ def _is_prose_section_of_job(bcvt):
 def _is_bcvt(obj):
     return (
         obj[0] == '_bcvt' and
-        obj[1] in ALL_BOOK_IDS and
+        obj[1] in ALL_BK39_IDS and
         isinstance(obj[2], int) and
         isinstance(obj[3], int) and
         obj[4] in ALL_VTRADS)
@@ -354,8 +354,8 @@ def _bkprop_ordered_short(bkprop):
 
 
 def _shorts_are_unique():
-    unique_shorts = set(map(short, ALL_BOOK_IDS))
-    return len(unique_shorts) == len(ALL_BOOK_IDS)
+    unique_shorts = set(map(short, ALL_BK39_IDS))
+    return len(unique_shorts) == len(ALL_BK39_IDS)
 
 
 def _mk_verse_range(bcvt, length):
@@ -556,8 +556,8 @@ _BOOKS_WITH_LESS_THAN_10_CHAPS = (
     BK_JONAH,
     BK_TSEF,
 )
-ALL_BOOK_IDS = tuple(_BOOK_PROPERTIES.keys())
-_ALL_BK24_IDS = {bk24id(bk39id): True for bk39id in ALL_BOOK_IDS}
+ALL_BK39_IDS = tuple(_BOOK_PROPERTIES.keys())
+_ALL_BK24_IDS = {bk24id(bk39id): True for bk39id in ALL_BK39_IDS}
 ALL_BK24_IDS = tuple(_ALL_BK24_IDS.keys())
 ALL_SECIDS = (
     SEC_TORAH, SEC_NEV_RISH, SEC_NEV_AX,

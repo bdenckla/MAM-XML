@@ -52,11 +52,11 @@ def _invnun(etel, _ofc1, _ofc2):
 
 
 def _legarmeih(_etel, _ofc1, _ofc2):
-    return [sd.THSP, my_html.bold((hpu.PAS,))]
+    return [sd.THSP, my_html.bold((hpu.PASOLEG,))]
 
 
 def _paseq(_etel, _ofc1, _ofc2):
-    return [sd.THSP, my_html.small((hpu.PAS,)), sd.THSP]
+    return [sd.THSP, my_html.small((hpu.PASOLEG,)), sd.THSP]
 
 
 def _empty(_etel, _ofc1, _ofc2):

@@ -130,6 +130,18 @@ def dv_map(foc, the_dic):
     return {k: foc(v) for k, v in the_dic.items()}
 
 
+def dk_map(foc, the_dic):
+    """
+    "Dictionary key map"
+    Return a dict with the same values but with the keys mapped.
+    {k: v} becomes {f(k): v}
+    """
+    assert isinstance(the_dic, dict)
+    if isinstance(foc, tuple):
+        return {foc[0](*foc[1:], k): v for k, v in the_dic.items()}
+    return {foc(k): v for k, v in the_dic.items()}
+
+
 def dkv_map(foc, the_dic):
     """
     "Dictionary key and value map"
@@ -216,7 +228,7 @@ def get_book39_tuple_from_argparse():
         return (args.book39tbn,)
     if args.section6:
         return tbn.books_of_sec(args.section6)
-    return tbn.ALL_BOOK_IDS
+    return tbn.ALL_BK39_IDS
 
 
 def _len_for_szip(obj):
