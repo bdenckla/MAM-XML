@@ -125,42 +125,43 @@ _HE_AND_NONHE_POINT_PAIRS = (
     (hpo.QUBUTS, 'u'),
 )
 _HE_AND_NONHE_ACC_PAIRS = (
-    (hpo.MTGOSLQ, '𝓂'),  # we consider it an accent not a point
-    (ha.ATN, '⅄'),
-    (ha.SEG_A, '∴'),  # ∴ aka THEREFORE
-    ('\N{HEBREW ACCENT SHALSHELET}', '(sh)'),
-    ('\N{HEBREW ACCENT ZAQEF QATAN}', 'ƶ'),
-    ('\N{HEBREW ACCENT ZAQEF GADOL}', 'Ƶ'),
-    (ha.TIP, '(ti)'),
-    (ha.REV, '◆'),  # ◆ aka BLACK DIAMOND
-    (ha.ZARQA_SH, '≁'),  # See: Note on zinor
-    (ha.PASH, '(p)'),
-    ('\N{HEBREW ACCENT YETIV}', '(ye)'),
-    ('\N{HEBREW ACCENT TEVIR}', '⟓'),
-    (ha.GER, '(ge)'),
-    (ha.GER_M, 'γ'),  # Greek small gamma
-    (ha.GER_2, '(G)'),
-    ('\N{HEBREW ACCENT QARNEY PARA}', '(qp)'),
-    (ha.TEL_G, '⌕'),  # aka TELEPHONE RECORDER
-    ('\N{HEBREW ACCENT PAZER}', 'μ'),  # Greek small mu
-    (ha.ATN_H, '(ah)'),
-    (ha.MUN, '⅃'),
-    ('\N{HEBREW ACCENT MAHAPAKH}', '<'),
-    (ha.MER, '(me)'),
-    ('\N{HEBREW ACCENT MERKHA KEFULA}', '(mk)'),
-    ('\N{HEBREW ACCENT DARGA}', '(da)'),
-    ('\N{HEBREW ACCENT QADMA}', '(qa)'),
-    (ha.TEL_Q, '(tq)'),
-    (ha.YBY, '(yy)'),
-    (ha.OLE, '(ol)'),
-    ('\N{HEBREW ACCENT ILUY}', '(il)'),
-    (ha.DEX, '(de)'),
-    (ha.Z_OR_TSOR, '~'),  # See: Note on zinor
+    (ha.Z_OR_TSOR, '~'),  # zarqa or tsinnor; see: Note on zinor
+    (ha.ZSH_OR_TSIT, '≁'),  # zarqa stress helper or tsinnorit; see: Note on zinor
+    (hpo.MTGOSLQ, '(mos)'),  # meteg or silluq; we consider it an accent not a point
+    (ha.ATN, '(atn)'),
+    (ha.SEG_A, '(seg_a)'),
+    (ha.SHA, '(sha)'),
+    (ha.ZAQ_Q, '(zaq_q)'),
+    (ha.ZAQ_G, '(zaq_g)'),
+    (ha.TIP, '(tip)'),
+    (ha.REV, '(rev)'),
+    (ha.PASH, '(pash)'),
+    (ha.YET, '(yet)'),
+    (ha.TEV, '(tev)'),
+    (ha.GER, '(ger)'),
+    (ha.GER_M, '(ger_m)'),
+    (ha.GER_2, '(ger_2)'),
+    (ha.QAR, '(qar)'),
+    (ha.TEL_G, '(tel_g)'),
+    (ha.PAZ, '(paz)'),
+    (ha.ATN_H, '(atn_h)'),
+    (ha.MUN, '(mun)'),
+    (ha.MAH, '(mah)'),
+    (ha.MER, '(mer)'),
+    (ha.MER_2, '(mer_2)'),
+    (ha.DAR, '(dar)'),
+    (ha.QOM, '(qom)'),  # qadma or metigah
+    (ha.TEL_Q, '(tel_q)'),
+    (ha.YBY, '(yby)'),
+    (ha.OLE, '(ole)'),
+    (ha.ILU, '(ilu)'),
+    (ha.DEX, '(dex)'),
 )
 _HE_AND_NONHE_PUNC_PAIRS = (
-    ('\N{HEBREW PUNCTUATION MAQAF}', '-'),
-    ('\N{HEBREW PUNCTUATION PASEQ}', '|'),
-    ('\N{HEBREW PUNCTUATION SOF PASUQ}', '.'),  # ‡ would be another option
+    (hpu.MAQ, '-'),
+    (hpu.PASOLEG, '|'),
+    (hpu.SOPA, '(sopa)'),  # sof pasuq
+    (hpu.MCIRC, 'ḿ')  # U+1E3F: LATIN SMALL LETTER M WITH ACUTE
 )
 _MISC_UNI_NAME_SHORTENINGS = (
     (sd.CGJ, 'CGJ'),
