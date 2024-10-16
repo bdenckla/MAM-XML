@@ -125,7 +125,7 @@ def _write_segments_from_html_els(out_fp, html_els, cant_dab=None, indent=''):
                 list_of_lists = [_get_pre_lines(sep, pl) for pl in pre_lines]
                 pre_lines = sum(list_of_lists, [])
             for pre_line in pre_lines:
-                line = uh.comma_shunnas(pre_line)
+                line = uh.join_shunnas(pre_line)
                 out_fp.write(indent + line + '\n')
             continue
         if isinstance(html_el, dict):

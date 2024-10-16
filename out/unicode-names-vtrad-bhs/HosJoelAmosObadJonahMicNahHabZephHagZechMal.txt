@@ -1178,7 +1178,7 @@ SPACE
 SPACE
 y,o,α,k,‥,⅄,l,w,·
 SPACE
-w,:,α,∵,l,-,ʕ,:_,w,ḥḥfv,n,a,(ti),m.
+w,:,α,∵,l,-,ʕ,:_,w,ḥḥfv,n,a,(ti),m.
 SPACE
 y,i,$,·si,:,α,(me),w,·
 SPACE
@@ -1522,7 +1522,7 @@ w,:,α,∵,f,:,r,_,◆,y,i,m.
 SPACE
 y,i,k,·,a,𝓂,$,·sh,:,l,w,·,(p)
 SPACE
-v,·,_,ʕ,:_,w,ḥḥfv,n,a,ƶ,m.
+v,·,_,ʕ,:_,w,ḥḥfv,n,a,ƶ,m.
 SPACE
 k,·,a,$,·sh,_,(me),l
 SPACE
@@ -1961,7 +1961,7 @@ l,:,y,i,$,·si,:,r,a,α,‥,◆,l
 SPACE
 w,:,n,i,g,:,l,a,(G),h
 SPACE
-ʕ,:_,w,ḥḥfv,<,n.
+ʕ,:_,w,ḥḥfv,<,n.
 SPACE
 α,∵,f,:,r,_,(p),y,i,m.,(p)
 SPACE
@@ -2574,7 +2574,7 @@ SPACE
 SPACE
 y,i,z,:,k,·,o,<,r
 SPACE
-ʕ,:_,w,ḥḥfv,n,a,m.,(p)
+ʕ,:_,w,ḥḥfv,n,a,m.,(p)
 SPACE
 w,:,y,i,f,:,q,o,⅃,d
 SPACE
@@ -2782,7 +2782,7 @@ SPACE
 SPACE
 r,o,⅃,v
 SPACE
-ʕ,:_,w,ḥḥfv,n,:,k.,a,ƶ
+ʕ,:_,w,ḥḥfv,n,:,k.,a,ƶ
 SPACE
 w,:,r,_,v,·,a,(ti),h
 SPACE
@@ -2820,7 +2820,7 @@ h,_,g,·,i,v,:,ʕ,a,⅄,h
 SPACE
 y,i,z,:,k,·,⅃,w,o,r
 SPACE
-ʕ,:_,w,ḥḥfv,n,a,ƶ,m.
+ʕ,:_,w,ḥḥfv,n,a,ƶ,m.
 SPACE
 y,i,f,:,q,(ti),w,o,d
 SPACE
@@ -3809,7 +3809,7 @@ l,o,(me),α
 SPACE
 y,i,m,:,ц,:,α,w,·,-,l,i,(ti),y
 SPACE
-ʕ,a,w,ḥḥfv,(me),n.
+ʕ,a,w,ḥḥfv,(me),n.
 SPACE
 α,:_,$,·sh,∵,r,-,x,‥,𝓂,θ,:,α,.
 
@@ -4151,7 +4151,7 @@ START/STOP spi-pe2
 Hosea 13:12 in vtrad vtbhs
 ц,a,r,w,·,r,(p)
 SPACE
-ʕ,:_,w,ḥḥfv,⅃,n.
+ʕ,:_,w,ḥḥfv,⅃,n.
 SPACE
 α,∵,f,:,r,a,ƶ,y,i,m.
 SPACE
@@ -4291,7 +4291,7 @@ k,·,i,(me),y
 SPACE
 k,a,$,·sh,_,(ti),l,:,τ,·,a
 SPACE
-v,·,_,ʕ,:_,w,ḥḥfv,n,∵,𝓂,k.,a,.
+v,·,_,ʕ,:_,w,ḥḥfv,n,∵,𝓂,k.,a,.
 
 Hosea 14:3 in vtrad vtbhs
 q,:,x,<,w,·
@@ -4310,7 +4310,7 @@ SPACE
 SPACE
 k,·,oa,l,-,τ,·,i,$,·si,·,a,<,α
 SPACE
-ʕ,a,w,ḥḥfv,n.,(p)
+ʕ,a,w,ḥḥfv,n.,(p)
 SPACE
 w,:,q,_,x,-,θ,ƶ,w,o,v
 SPACE
@@ -7106,7 +7106,7 @@ SPACE
 SPACE
 α,‥,(ti),τ
 SPACE
-k,·,oa,l,-,ʕ,:_,w,ḥḥfv,n,o,τ,‥,y,k,∵,𝓂,m.,.
+k,·,oa,l,-,ʕ,:_,w,ḥḥfv,n,o,τ,‥,y,k,∵,𝓂,m.,.
 
 Amos 3:3 in vtrad vtbhs
 h,:_,y,‥,l,:,k,(me),w,·
@@ -14332,7 +14332,7 @@ k,·,a,m,◆,w,o,k.,a
 SPACE
 n,o,$,·si,‥,<,α
 SPACE
-ʕ,a,w,ḥḥfv,n.,(p)
+ʕ,a,w,ḥḥfv,n.,(p)
 SPACE
 w,:,ʕ,o,v,‥,⅃,r
 SPACE
@@ -14361,7 +14361,7 @@ y,:,r,_,x,:_,m,‥,ƶ,n,w,·
 SPACE
 y,i,k,:,v,·,o,(ti),$,·sh
 SPACE
-ʕ,:_,w,ḥḥfv,n,o,τ,‥,⅄,y,n,w,·
+ʕ,:_,w,ḥḥfv,n,o,τ,‥,⅄,y,n,w,·
 SPACE
 w,:,τ,_,$,·sh,:,l,i,⟓,y,k.,:
 SPACE
@@ -17389,7 +17389,7 @@ x,∵,⅃,v,∵,l
 SPACE
 h,_,y,·,a,◆,m.
 SPACE
-n,:,w,ḥḥfv,⟓,τ
+n,:,w,ḥḥfv,⟓,τ
 SPACE
 k,·,:,r,o,(me),τ
 SPACE
@@ -20248,7 +20248,7 @@ h,∵,ʕ,:∵,v,_,<,r,:,τ,·,i,y
 SPACE
 m,‥,ʕ,a,l,∵,(p),y,k.,a,(p)
 SPACE
-ʕ,:_,w,ḥḥfv,n,∵,ƶ,k.,a
+ʕ,:_,w,ḥḥfv,n,∵,ƶ,k.,a
 SPACE
 w,:,h,_,l,:,v,·,‥,(me),$,·sh
 SPACE
@@ -20407,7 +20407,7 @@ SPACE
 SPACE
 w,·,m,_,$,·sh,:,τ,·,i,⟓,y
 SPACE
-α,∵,τ,-,ʕ,:_,w,ḥḥfv,(me),n.
+α,∵,τ,-,ʕ,:_,w,ḥḥfv,(me),n.
 SPACE
 h,a,α,a,𝓂,r,∵,ц.,-,h,_,h,i,(ti),y,α
 SPACE
@@ -24804,7 +24804,7 @@ $,·sh,a,n,a,⅃,h
 SPACE
 v,:,$,·sh,a,n,a,◆,h
 SPACE
-l,:,h,i,𝓂,$,·sh,:,τ,·,_,x,:_,w,ḥḥfv,τ,(p)
+l,:,h,i,𝓂,$,·sh,:,τ,·,_,x,:_,w,ḥḥfv,τ,(p)
 SPACE
 l,:,m,∵,(p),l,∵,k.,:,(p)
 SPACE
@@ -24833,7 +24833,7 @@ h,a,α,a,(p),r,∵,ц.,(p)
 SPACE
 α,∵,l,-,y,:,r,⅃,w,·,$,·sh,a,l,_,ƶ,CGJ,i,m.
 SPACE
-l,:,h,i,𝓂,$,·sh,:,τ,·,_,x,:_,w,ḥḥfv,ƶ,τ
+l,:,h,i,𝓂,$,·sh,:,τ,·,_,x,:_,w,ḥḥfv,ƶ,τ
 SPACE
 l,:,m,∵,(ti),l,∵,k.,:
 SPACE
@@ -25580,7 +25580,7 @@ w,:,r,_,v,·,i,(ti),y,m.
 SPACE
 h,‥,$,·sh,i,(me),y,v
 SPACE
-m,‥,ʕ,a,w,ḥḥfv,𝓂,n.,.
+m,‥,ʕ,a,w,ḥḥfv,𝓂,n.,.
 
 Malachi 2:7 in vtrad vtbhs
 k,·,i,𝓂,y,-,$,·si,i,f,:,τ,‥,<,y

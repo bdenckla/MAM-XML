@@ -3,19 +3,24 @@ This module exports:
     shunna
     accent_names
     he_char_names
-    comma_shunnas
-    t_shunna
+    join_shunnas
+    t_shunnas
 """
 
 import unicodedata
 import my_hebrew_letters as hl
 import my_hebrew_points as hpo
+import my_hebrew_punctuation as hpu
 import my_hebrew_accents as ha
 import my_str_defs as sd
 
 
 def shunna(string):
-    """ Return a shortened name of the string, if we "know" a shortened name for it. """
+    """
+    Return the short name for the Unicode code point in the given (length-1) string,
+    if we "know" a short name for it.
+    Otherwise give the standard Unicode name.
+    """
     if nonhe := _HE_TO_NONHE_DIC.get(string):
         return nonhe
     fullname = unicodedata.name(string)
@@ -36,20 +41,23 @@ def he_char_names(string):
     return (_HE_TO_NONHE_DIC[c] for c in string)
 
 
-def comma_shunnas(string):
-    """ Comma-joined shortened unicode names """
-    return ','.join(t_shunnas(string))
+def join_shunnas(string, sep=','):
+    """
+    Join the short unicode names of the chars of a string.
+    Join with the given separator, or comma by default.
+    """
+    return sep.join(t_shunnas(string))
 
 
 def t_shunnas(string: str):
-    """ Tuple of shortened unicode names """
+    """ Tuple of short unicode names """
     assert isinstance(string, str)
     return tuple(map(shunna, string))
 
 
 def _mk_he_to_nonhe_dic():
     nonhe_set = set()
-    for _, nonhe in _HE_AND_NONHE_PAIRS:  # _ is he
+    for _he, nonhe in _HE_AND_NONHE_PAIRS:
         assert nonhe not in nonhe_set
         nonhe_set.add(nonhe)
     return dict(_HE_AND_NONHE_PAIRS)
@@ -112,7 +120,7 @@ _HE_AND_NONHE_POINT_PAIRS = (
     (hpo.PATAX, '_'),
     (hpo.QAMATS, 'a'),  # ambiguous, could be gadol or qatan
     (hpo.QAMATS_Q, 'oa'),
-    (hpo.XOLAM_XFV, 'ḥḥfv'),
+    (hpo.XOLAM_XFV, 'ḥḥfv'),
     (hpo.XOLAM, 'o'),
     (hpo.QUBUTS, 'u'),
 )
@@ -166,7 +174,21 @@ _HE_AND_NONHE_PAIRS = (
 _HE_TO_NONHE_DIC = _mk_he_to_nonhe_dic()
 _HE_TO_NONHE_ACC_DIC = dict(_HE_AND_NONHE_ACC_PAIRS)
 
+#######################################
 # Note on θ (theta)
+#
+# Is θ (theta) a bad choice for tet since θ is IPA for tav?
+# Relatedly, there is a (mostly historic) transliteration of tav
+# as "th". A notable example is the English word "Sabbath"!
+# We chose theta for tet because its name reminded us of tet.
+# Similarly we chose tau for tav because of its name reminded us of tav.
+#######################################
 # Note on zinor
 #
-# See my_split_hebrew_mappings.py for both of these notes.
+# Really the accent called ZINOR in Unicode
+# should be called TSINOR or TSINOR/ZARQA.
+# So its name is not great, but not terrible.
+#
+# More messed up is this related situation:
+# Really the accent called ZARQA in Unicode
+# should be called TSINORIT or TSINORIT/ZARQA STRESS HELPER.
