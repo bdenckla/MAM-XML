@@ -73,6 +73,13 @@ def ordered_short(bkid):  # E.g. 'A1' for GENESIS, 'FD' for SND_CHRONICLES
     return _bkprop_ordered_short(_BOOK_PROPERTIES[bkid])
 
 
+def get_bknu(bkid):  # E.g. 1 for GENESIS, 39 for SND_CHRONICLES.
+    """
+        E.g. 1 for GENESIS, 39 for SND_CHRONICLES.
+    """
+    return _bkprop_number(_BOOK_PROPERTIES[bkid])
+
+
 def ordered_short_dash_full(bkid):
     """ Return, for example, A1-Genesis given Genesis """
     return f'{ordered_short(bkid)}-{bkid}'
@@ -371,6 +378,10 @@ def _bkprop_ordered_short(bkprop):
     return bkprop[3]
 
 
+def _bkprop_number(bkprop):
+    return bkprop[4]
+
+
 def _shorts_are_unique():
     unique_shorts = set(map(short, ALL_BK39_IDS))
     return len(unique_shorts) == len(ALL_BK39_IDS)
@@ -472,45 +483,45 @@ ALL_VTRADS = VT_MAM, VT_SEF, VT_BHS
 
 BKIDS_OF_BOOKS_WITH_DUALCANT = BK_GENESIS, BK_EXODUS, BK_DEUTER
 
-_SH_GENESIS = 'G', 'A1'
-_SH_EXODUS = 'E', 'A2'  # E in contrast to Ee, Ec, Es, Er
-_SH_LEVIT = 'L', 'A3'  # L in contrast to La
-_SH_NUMBERS = 'N', 'A4'  # N in contrast to Ne & Na
-_SH_DEUTER = 'D', 'A5'  # D in contrast to Da
-_SH_JOSHUA = 'Js', 'B1'  # Jo.*: JsJlJnJb
-_SH_JUDGES = 'Ju', 'B2'
-_SH_FST_SAM = '1S', 'BA'
-_SH_SND_SAM = '2S', 'BB'
-_SH_FST_KGS = '1K', 'BC'
-_SH_SND_KGS = '2K', 'BD'
-_SH_ISAIAH = 'I', 'C1'
-_SH_JEREM = 'Je', 'C2'
-_SH_EZEKIEL = 'Ee', 'C3'  # Ez.*: EeEr
-_SH_HOSEA = 'Ho', 'CA'
-_SH_JOEL = 'Jl', 'CB'  # Jo.*: JsJlJnJb
-_SH_AMOS = 'A', 'CC'
-_SH_OBADIAH = 'O', 'CD'
-_SH_JONAH = 'Jn', 'CE'  # Jo.*: JsJlJnJb
-_SH_MICAH = 'Mi', 'CF'
-_SH_NAXUM = 'Na', 'CG'
-_SH_XABA = 'Hb', 'CH'  # Ha.*: HbHg
-_SH_TSEF = 'Ts', 'CI'  # was Zp (see note below)
-_SH_XAGGAI = 'Hg', 'CJ'  # Ha.*: HbHg
-_SH_ZEKHAR = 'Zc', 'CK'  # Zc (see note below)
-_SH_MALAKHI = 'Ma', 'CL'
-_SH_PSALMS = 'Ps', 'D1'
-_SH_PROV = 'Pr', 'D2'
-_SH_JOB = 'Jb', 'D3'  # Jo.*: JsJlJnJb
-_SH_SONG = 'S', 'E1'
-_SH_RUTH = 'R', 'E2'
-_SH_LAMENT = 'La', 'E3'
-_SH_QOHELET = 'Ec', 'E4'
-_SH_ESTHER = 'Es', 'E5'
-_SH_DANIEL = 'Da', 'F1'
-_SH_EZRA = 'Er', 'FA'  # Ez.*: EeEr
-_SH_NEXEM = 'Ne', 'FB'
-_SH_FST_CHR = '1C', 'FC'
-_SH_SND_CHR = '2C', 'FD'
+_SH_GENESIS = 'G', 'A1', 1
+_SH_EXODUS = 'E', 'A2', 2  # E in contrast to Ee, Ec, Es, Er
+_SH_LEVIT = 'L', 'A3', 3  # L in contrast to La
+_SH_NUMBERS = 'N', 'A4', 4  # N in contrast to Ne & Na
+_SH_DEUTER = 'D', 'A5', 5  # D in contrast to Da
+_SH_JOSHUA = 'Js', 'B1', 6  # Jo.*: JsJlJnJb
+_SH_JUDGES = 'Ju', 'B2', 7
+_SH_FST_SAM = '1S', 'BA', 8
+_SH_SND_SAM = '2S', 'BB', 9
+_SH_FST_KGS = '1K', 'BC', 10
+_SH_SND_KGS = '2K', 'BD', 11
+_SH_ISAIAH = 'I', 'C1', 12
+_SH_JEREM = 'Je', 'C2', 13
+_SH_EZEKIEL = 'Ee', 'C3', 14  # Ez.*: EeEr
+_SH_HOSEA = 'Ho', 'CA', 15
+_SH_JOEL = 'Jl', 'CB', 16  # Jo.*: JsJlJnJb
+_SH_AMOS = 'A', 'CC', 17
+_SH_OBADIAH = 'O', 'CD', 18
+_SH_JONAH = 'Jn', 'CE', 19  # Jo.*: JsJlJnJb
+_SH_MICAH = 'Mi', 'CF', 20
+_SH_NAXUM = 'Na', 'CG', 21
+_SH_XABA = 'Hb', 'CH', 22  # Ha.*: HbHg
+_SH_TSEF = 'Ts', 'CI', 23  # was Zp (see note below)
+_SH_XAGGAI = 'Hg', 'CJ', 24  # Ha.*: HbHg
+_SH_ZEKHAR = 'Zc', 'CK', 25  # Zc (see note below)
+_SH_MALAKHI = 'Ma', 'CL', 26
+_SH_PSALMS = 'Ps', 'D1', 27
+_SH_PROV = 'Pr', 'D2', 28
+_SH_JOB = 'Jb', 'D3', 29  # Jo.*: JsJlJnJb
+_SH_SONG = 'S', 'E1', 30
+_SH_RUTH = 'R', 'E2', 31
+_SH_LAMENT = 'La', 'E3', 32
+_SH_QOHELET = 'Ec', 'E4', 33
+_SH_ESTHER = 'Es', 'E5', 34
+_SH_DANIEL = 'Da', 'F1', 35
+_SH_EZRA = 'Er', 'FA', 36  # Ez.*: EeEr
+_SH_NEXEM = 'Ne', 'FB', 37
+_SH_FST_CHR = '1C', 'FC', 38
+_SH_SND_CHR = '2C', 'FD', 39
 # Tsefaniah was formerly Zp because (a) it was formerly spelled Zephaniah
 # and (b) with this former spelling, Ze would have been ambiguous with
 # Zechariah.
