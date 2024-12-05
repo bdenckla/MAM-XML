@@ -65,16 +65,16 @@ def _process_book_group(variant, root, cant_dab):
     else:
         handlers2 = handlers
     verses_in = root.findall(XPATH_QUERY_FROM_CANT_DAB[cant_dab])
-    book39s_out = {}
+    bk39s_out = {}
     for verse in verses_in:
         osis_id = verse.attrib['osisID']
         bcvt = _get_bcvt_from_osis_id(vtrad, osis_id)
         bkid = tbn.bcvt_get_bk39id(bcvt)
         verse_out = _handle(handlers2, verse)
-        if bkid not in book39s_out:
-            book39s_out[bkid] = []
-        book39s_out[bkid].append((bcvt, verse_out))
-    return book39s_out
+        if bkid not in bk39s_out:
+            bk39s_out[bkid] = []
+        bk39s_out[bkid].append((bcvt, verse_out))
+    return bk39s_out
 
 
 def _get_bcvt_from_osis_id(vtrad, osid_id):
@@ -83,8 +83,8 @@ def _get_bcvt_from_osis_id(vtrad, osid_id):
 
 
 def _do_for_cant_dab(bkg_out, variant, root, cant_dab):
-    book39s = _process_book_group(variant, root, cant_dab)
-    for bkid, verses in book39s.items():
+    bk39s = _process_book_group(variant, root, cant_dab)
+    for bkid, verses in bk39s.items():
         if bkid not in bkg_out:
             bkg_out[bkid] = {}
         bkg_out[bkid][cant_dab] = verses
