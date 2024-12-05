@@ -3,20 +3,31 @@
 """
 import os
 import argparse
-
+from functools import reduce
+from itertools import groupby
 import my_locales as tbn
 
 
-def init(dic, key, val):
-    """ If key is fresh in dic, set its value to val. Other assert. """
+def init_at_key(dic, key, val):
+    """ If key is fresh in dic, set its value to val. Otherwise assert. """
     assert key not in dic
     dic[key] = val
 
 
-def maybe_init(dic, key, val):
+def maybe_init_at_key(dic, key, val):
     """ If key is fresh in dic, set its value to val. Otherwise whiff. """
     if key not in dic:
         dic[key] = val
+
+
+def increment_at_key(dic, key, val=1):
+    maybe_init_at_key(dic, key, 0)
+    dic[key] += val
+
+
+def append_at_key(dic, key, val):
+    maybe_init_at_key(dic, key, [])
+    dic[key].append(val)
 
 
 def first_and_only(seq):
@@ -30,6 +41,12 @@ def first_and_only_and_str(seq):
     fao = first_and_only(seq)
     assert isinstance(fao, str)
     return fao
+
+
+def tuplify(obj):
+    if isinstance(obj, (tuple, list)):
+        return tuple(map(tuplify, obj))
+    return obj
 
 
 def szip(*seqs):
@@ -86,6 +103,10 @@ def sl_map(foc, the_sequence):
     if isinstance(foc, tuple):
         return [foc[0](*foc[1:], elem) for elem in the_sequence]
     return list(map(foc, the_sequence))
+
+
+def sum_of_map(foc, the_sequence):
+    return sum_of_seqs(sl_map(foc, the_sequence))
 
 
 def st_map(foc, the_sequence):
@@ -177,6 +198,11 @@ def _even_odd_foc(foc_pair, idx_and_elem):
     return foc(elem)
 
 
+def my_groupby(iterable, key):
+    groups = groupby(iterable, key)
+    return {k: list(v) for k, v in groups}
+
+
 def sum_of_seqs(seq_of_seqs):
     """
     Return a list that is the sum of a sequence of sequences.
@@ -208,6 +234,10 @@ def sum_of_tuples(seq_of_tuples):
     return accum
 
 
+def sum_of_dics(seq_of_dics):
+    return reduce(_accum_dic, seq_of_dics)
+
+
 def show_progress_g(uufileuu, *rest):
     # label is usually some sort of book name
     bn_uufileuu = os.path.basename(uufileuu)
@@ -215,7 +245,7 @@ def show_progress_g(uufileuu, *rest):
     print(bn_and_rest)
 
 
-def get_book39_tuple_from_argparse():
+def get_bk39_tuple_from_argparse():
     parser = argparse.ArgumentParser()
     parser.add_argument('--book39tbn')  # e.g. 1Samuel not I Samuel
     parser.add_argument('--section6')  # e.g. SifEm
@@ -227,8 +257,12 @@ def get_book39_tuple_from_argparse():
         assert not args.section6
         return (args.book39tbn,)
     if args.section6:
-        return tbn.books_of_sec(args.section6)
+        return tbn.bk39s_of_sec(args.section6)
     return tbn.ALL_BK39_IDS
+
+
+def _accum_dic(accum, dic):
+    return {**accum, **dic}
 
 
 def _len_for_szip(obj):

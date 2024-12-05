@@ -7,6 +7,7 @@ Exports:
 import os
 import pathlib
 import json
+import time
 
 
 def with_tmp_openw(path, kwargs_dic, write_fun, *write_fun_args):
@@ -14,8 +15,32 @@ def with_tmp_openw(path, kwargs_dic, write_fun, *write_fun_args):
     tpath = _tmp_path(path)
     with _openw(tpath, **kwargs_dic) as outfp:
         retval = write_fun(*write_fun_args, outfp)
-    os.replace(tpath, path)
+    _replace_file(tpath, path)
     return retval
+
+
+def _replace_file(tmp_path, path):
+    fail_count = 0
+    succeeded = False
+    while not succeeded:
+        try:
+            os.replace(tmp_path, path)
+            succeeded = True
+        except PermissionError:
+            if _too_many_fails(fail_count):
+                raise
+            fail_count += 1
+            _sleep(fail_count)
+
+
+def _too_many_fails(fail_count):
+    return fail_count > 5
+
+
+def _sleep(fail_count):
+    sleep_time = 2 ** fail_count
+    print(f'Sleeping {sleep_time} seconds before trying again ...')
+    time.sleep(sleep_time)
 
 
 def json_dump_to_file_path(dumpable, path):

@@ -105,7 +105,7 @@ _HE_AND_NONHE_LETT_PAIRS = (
     (hl.TAV, 'τ'),  # Greek tau
 )
 _HE_AND_NONHE_POINT_PAIRS = (
-    (hpo.JSVARIKA, 'varika'),
+    (hpo.VARIKA, 'varika'),
     (hpo.DAGOMOSD, '·'),
     (hpo.RAFE, '‾'),  # r̄ was another candidate
     (hpo.SHIND, '·sh'),

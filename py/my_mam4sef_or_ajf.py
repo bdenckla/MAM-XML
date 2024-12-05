@@ -12,7 +12,7 @@ import my_shrink
 
 def main_helper(variant):
     """ Create the Sefaria MAM or AJF MAM from the XML MAM. """
-    bkids = my_utils.get_book39_tuple_from_argparse()
+    bkids = my_utils.get_bk39_tuple_from_argparse()
     bkgs = my_osis_book_abbrevs.bk24_bkgs(bkids)
     for bkg in bkgs:
         do_one_book_group(variant, bkg)
@@ -69,7 +69,7 @@ def _process_book_group(variant, root, cant_dab):
     for verse in verses_in:
         osis_id = verse.attrib['osisID']
         bcvt = _get_bcvt_from_osis_id(vtrad, osis_id)
-        bkid = tbn.bcvt_get_bkid(bcvt)
+        bkid = tbn.bcvt_get_bk39id(bcvt)
         verse_out = _handle(handlers2, verse)
         if bkid not in book39s_out:
             book39s_out[bkid] = []

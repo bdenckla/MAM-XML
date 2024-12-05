@@ -21,30 +21,32 @@ import re
 #         convention: since those would be I Samuel and Samuel_1 respectively.
 
 
-def book_is_of_sec(secid, bkid):
+def bk39_is_of_sec(secid, bk39id):
     """ Return whether the given book belongs to the given section. """
-    return get_secid(bkid) == secid
+    return get_secid(bk39id) == secid
 
 
-def books_of_sec(secid):
+def bk39s_of_sec(secid):
     """ Return a tuple of all book names in the given section. """
-    return tuple(b for b in ALL_BK39_IDS if book_is_of_sec(secid, b))
+    return tuple(b for b in ALL_BK39_IDS if bk39_is_of_sec(secid, b))
 
 
-def get_secid(bkid):
+def get_secid(bk39id):
     """ Return the section ID to which the given book belongs. """
-    return _bkprop_secid(_BOOK_PROPERTIES[bkid])
+    assert bk39id in ALL_BK39_IDS
+    return _bkprop_secid(_BK39_PROPERTIES[bk39id])
 
 
 def section_for_bk24(bk24id):
     """ Return the section to which the given book24 belongs. """
-    bkids = bk39ids_of_bk24(bk24id)
-    return get_secid(bkids[0])  # a book24 never spans a section
+    bk39ids = bk39ids_of_bk24(bk24id)
+    return get_secid(bk39ids[0])  # a book24 never spans a section
 
 
-def book_is_of_bk24(in_bk24id, bkid):
+def book_is_of_bk24(in_bk24id, bk39id):
     """ Return whether the given book belongs to the given book24. """
-    return _bkprop_bk24id(_BOOK_PROPERTIES[bkid]) == in_bk24id
+    assert bk39id in ALL_BK39_IDS
+    return _bkprop_bk24id(_BK39_PROPERTIES[bk39id]) == in_bk24id
 
 
 def bk39ids_of_bk24(in_bk24id):
@@ -54,10 +56,10 @@ def bk39ids_of_bk24(in_bk24id):
 
 def bk24id(bk39id):
     """ Return the book24 to which the given bk39 belongs. """
-    return _bkprop_bk24id(_BOOK_PROPERTIES[bk39id])
+    return _bkprop_bk24id(_BK39_PROPERTIES[bk39id])
 
 
-def ordered_short(bkid):  # E.g. 'A1' for GENESIS, 'FD' for SND_CHRONICLES
+def ordered_short(bk39id):  # E.g. 'A1' for GENESIS, 'FD' for SND_CHRONICLES
     """
         Returns the ordered short name (2 alphanumerics) corresponding to the
         given book.
@@ -70,29 +72,32 @@ def ordered_short(bkid):  # E.g. 'A1' for GENESIS, 'FD' for SND_CHRONICLES
         ASCII ordering, in particular digits-before-letters ordering,
         is assumed. E.g. B1 (Joshua) comes before BA (1Samuel).
     """
-    return _bkprop_ordered_short(_BOOK_PROPERTIES[bkid])
+    return _bkprop_ordered_short(_BK39_PROPERTIES[bk39id])
 
 
-def get_bknu(bkid):  # E.g. 1 for GENESIS, 39 for SND_CHRONICLES.
+def get_bknu(bk39id):  # E.g. 1 for GENESIS, 39 for SND_CHRONICLES.
     """
         E.g. 1 for GENESIS, 39 for SND_CHRONICLES.
     """
-    return _bkprop_number(_BOOK_PROPERTIES[bkid])
+    return _bkprop_number(_BK39_PROPERTIES[bk39id])
 
 
-def ordered_short_dash_full(bkid):
+def ordered_short_dash_full_39(bk39id):
     """ Return, for example, A1-Genesis given Genesis """
-    return f'{ordered_short(bkid)}-{bkid}'
+    assert bk39id in ALL_BK39_IDS
+    return f'{ordered_short(bk39id)}-{bk39id}'
 
 
 def ordered_short_24(bk24id):
     """ Return, for example, 'BC' given 'Kings'. """
+    assert bk24id in _ALL_BK24_IDS
     bk39ids = bk39ids_of_bk24(bk24id)
     return ordered_short(bk39ids[0])
 
 
 def ordered_short_dash_full_24(bk24id):
     """ Return, for example, 'BC-Kings.json' given 'Kings'. """
+    assert bk24id in _ALL_BK24_IDS
     return f'{ordered_short_24(bk24id)}-{bk24id}'
 
 
@@ -155,8 +160,8 @@ def has_dualcant(bcvtmam):  # bcvt in MAM vtrad
 
 def is_poetcant(bcvt):
     """ Return whether locale uses poetic (as opposed to prose) cantillation. """
-    bkid = bcvt_get_bkid(bcvt)
-    return get_secid(bkid) == SEC_SIF_EM and not _is_prose_section_of_job(bcvt)
+    bk39id = bcvt_get_bk39id(bcvt)
+    return get_secid(bk39id) == SEC_SIF_EM and not _is_prose_section_of_job(bcvt)
 
 
 def nu10(verse_num, vtrad):
@@ -165,51 +170,51 @@ def nu10(verse_num, vtrad):
     return mk_bcvt(BK_NUMBERS, cvt)
 
 
-def add_part2_bkids(bkids):
+def add_part2_bk39ids(bk39ids):
     """
-    For each "part 1" bkid included in bkids, add the "part 2" ("next") bkid.
+    For each "part 1" bk39id included in bk39ids, add the "part 2" ("next") bk39id.
     """
-    nexts = tuple(filter(None, map(part2_bkid, bkids)))
-    return tuple(set(bkids + tuple(nexts)))
+    nexts = tuple(filter(None, map(part2_bk39id, bk39ids)))
+    return tuple(set(bk39ids + tuple(nexts)))
 
 
-def part2_bkid(bkid):
+def part2_bk39id(bk39id):
     """
-    If bkid is part 1 of a 2-part book, return the bkid of part 2.
+    If bk39id is part 1 of a 2-part book, return the bk39id of part 2.
     Otherwise return None.
     """
-    the_next_bkid = {  # next book ID
+    the_next_bk39id = {  # next book ID
         BK_FST_SAM: BK_SND_SAM,
         BK_FST_KGS: BK_SND_KGS,
         BK_FST_CHR: BK_SND_CHR,
         BK_EZRA: BK_NEXEM,
     }
-    return the_next_bkid.get(bkid)
+    return the_next_bk39id.get(bk39id)
 
 
-def mk_bcvtmam(bkid, chnu, vrnu):
+def mk_bcvtmam(bk39id, chnu, vrnu):
     """ Return a bcvt with t=VT_MAM """
-    return mk_bcvt(bkid, mk_cvtmam(chnu, vrnu))
+    return mk_bcvt(bk39id, mk_cvtmam(chnu, vrnu))
 
 
-def mk_bcvtsef(bkid, chnu, vrnu):
+def mk_bcvtsef(bk39id, chnu, vrnu):
     """ Return a bct with t=vtrad Sef """
-    return mk_bcvt(bkid, mk_cvtsef(chnu, vrnu))
+    return mk_bcvt(bk39id, mk_cvtsef(chnu, vrnu))
 
 
-def mk_bcvtbhs(bkid, chnu, vrnu):
+def mk_bcvtbhs(bk39id, chnu, vrnu):
     """ Return a bcvt with t=vtrad BHS """
-    return mk_bcvt(bkid, mk_cvtbhs(chnu, vrnu))
+    return mk_bcvt(bk39id, mk_cvtbhs(chnu, vrnu))
 
 
-def mk_bcvtxxx(bkid, chnu, vrnu, vtrad):
+def mk_bcvtxxx(bk39id, chnu, vrnu, vtrad):
     """ Return a bcvt with t=the given vtrad """
-    return mk_bcvt(bkid, mk_cvt(chnu, vrnu, vtrad))
+    return mk_bcvt(bk39id, mk_cvt(chnu, vrnu, vtrad))
 
 
-def mk_bcvt(bkid, cvt):
+def mk_bcvt(bk39id, cvt):
     """ Make a bcvt from a cvt """
-    return '_bcvt', bkid, *cvt
+    return '_bcvt', bk39id, *cvt
 
 
 def mk_cvtmam(chnu, vrnu):
@@ -232,15 +237,15 @@ def mk_cvt(chnu, vrnu, vtrad):
     return chnu, vrnu, vtrad
 
 
-def bcvt_get_bkid(bcvt):
+def bcvt_get_bk39id(bcvt):
     """ Return the book ID part of bcvt """
-    assert _is_bcvt(bcvt)
+    assert is_bcvt(bcvt)
     return bcvt[1]
 
 
 def bcvt_get_cvt(bcvt):
     """ Strip the book name """
-    assert _is_bcvt(bcvt)
+    assert is_bcvt(bcvt)
     return bcvt[2:]
 
 
@@ -261,7 +266,7 @@ def bcvt_get_vtrad(bcvt):
 
 def bcvt_get_bcv_triple(bcvt):
     """ Return the book ID, chapter number, and verse number parts of bcvt """
-    return bcvt_get_bkid(bcvt), bcvt_get_chnu(bcvt), bcvt_get_vrnu(bcvt)
+    return bcvt_get_bk39id(bcvt), bcvt_get_chnu(bcvt), bcvt_get_vrnu(bcvt)
 
 
 def bcvt_is_tmam(bcvt):
@@ -271,16 +276,19 @@ def bcvt_is_tmam(bcvt):
 
 def cvt_get_chnu(cvt):
     """ Return the chnu part of cvt """
+    assert is_cvt(cvt)
     return cvt[0]
 
 
 def cvt_get_vrnu(cvt):
     """ Return the vrnu part of cvt """
+    assert is_cvt(cvt)
     return cvt[1]
 
 
 def cvt_get_vtrad(cvt):
     """ Return the vtrad part of cvt """
+    assert is_cvt(cvt)
     return cvt[2]
 
 
@@ -301,6 +309,7 @@ def cvt_is_tsef(cvt):
 
 def cvt_strip_vtrad(cvt):
     """ Strip the vtrad """
+    assert is_cvt(cvt)
     return cvt[:-1]
 
 
@@ -309,12 +318,12 @@ def eq_mod_vtrad(cvt_a, cvt_b):
     return cvt_strip_vtrad(cvt_a) == cvt_strip_vtrad(cvt_b)
 
 
-def short(bkid):
+def short(bk39id):
     """
         Returns the (unordered) short name (1 or 2 letters) corresponding to
         the given book. E.g. G for Genesis, Er for Ezra.
     """
-    return _bkprop_short(_BOOK_PROPERTIES[bkid])
+    return _bkprop_short(_BK39_PROPERTIES[bk39id])
 
 
 def std_from_short(short_book_name):
@@ -326,7 +335,7 @@ def std_from_short(short_book_name):
 
 
 def _is_prose_section_of_job(bcvt):
-    if bcvt_get_bkid(bcvt) != BK_JOB:
+    if bcvt_get_bk39id(bcvt) != BK_JOB:
         return False
     chnu = bcvt_get_chnu(bcvt)
     if chnu in (1, 2):
@@ -339,8 +348,10 @@ def _is_prose_section_of_job(bcvt):
     return False
 
 
-def _is_bcvt(obj):
+def is_bcvt(obj):
     return (
+        isinstance(obj, tuple) and
+        len(obj) == 5 and
         obj[0] == '_bcvt' and
         obj[1] in ALL_BK39_IDS and
         isinstance(obj[2], int) and
@@ -348,16 +359,25 @@ def _is_bcvt(obj):
         obj[4] in ALL_VTRADS)
 
 
-def _max_width_for_chnu(bkid):
-    if bkid == BK_PSALMS:
+def is_cvt(obj):
+    return (
+        isinstance(obj, tuple) and
+        len(obj) == 3 and
+        isinstance(obj[0], int) and
+        isinstance(obj[1], int) and
+        obj[2] in ALL_VTRADS)
+
+
+def _max_width_for_chnu(bk39id):
+    if bk39id == BK_PSALMS:
         return 3
-    if bkid in _BOOKS_WITH_LESS_THAN_10_CHAPS:
+    if bk39id in _BOOKS_WITH_LESS_THAN_10_CHAPS:
         return 1
     return 2
 
 
-def _max_width_for_vrnu(bkid, chnu):
-    if (bkid, chnu) == (BK_PSALMS, 119):
+def _max_width_for_vrnu(bk39id, chnu):
+    if (bk39id, chnu) == (BK_PSALMS, 119):
         return 3  # Psalm 119 has 176 verses!
     return 2
 
@@ -394,9 +414,9 @@ def _mk_verse_range(bcvt, length):
 
 
 def _bcvt_setv(bcvt, new_vrnu):
-    bkid, cvt = bcvt_get_bkid(bcvt), bcvt_get_cvt(bcvt)
+    bk39id, cvt = bcvt_get_bk39id(bcvt), bcvt_get_cvt(bcvt)
     new_cvt = _cvt_setv(cvt, new_vrnu)
-    return mk_bcvt(bkid, new_cvt)
+    return mk_bcvt(bk39id, new_cvt)
 
 
 def _cvt_setv(cvt, new_vrnu):
@@ -474,7 +494,7 @@ SEC_NEV_RISH = 'NevRish'
 SEC_NEV_AX = 'NevAḥ'  # leave h-dot composed because this string is used in filenames
 SEC_SIF_EM = 'SifEm'
 SEC_XAM_MEG = 'ḤamMeg'  # leave H-dot (capital h-dot) composed because this string is used in filenames
-SEC_KET_ACH = 'KetAḥ'  # leave h-dot composed because this string is used in filenames
+SEC_KET_AX = 'KetAḥ'  # leave h-dot composed because this string is used in filenames
 
 VT_MAM = 'vtmam'
 VT_SEF = 'vtsef'
@@ -529,7 +549,7 @@ _SH_SND_CHR = '2C', 'FD', 39
 # Tsefaniah was spelled Zephaniah.
 
 
-_BOOK_PROPERTIES = {
+_BK39_PROPERTIES = {
     BK_GENESIS: (BK24_GENESIS, SEC_TORAH, *_SH_GENESIS),
     BK_EXODUS: (BK24_EXODUS, SEC_TORAH, *_SH_EXODUS),
     BK_LEVIT: (BK24_LEVIT, SEC_TORAH, *_SH_LEVIT),
@@ -564,11 +584,11 @@ _BOOK_PROPERTIES = {
     BK_LAMENT: (BK24_LAMENT, SEC_XAM_MEG, *_SH_LAMENT),
     BK_QOHELET: (BK24_QOHELET, SEC_XAM_MEG, *_SH_QOHELET),
     BK_ESTHER: (BK24_ESTHER, SEC_XAM_MEG, *_SH_ESTHER),
-    BK_DANIEL: (BK24_DANIEL, SEC_KET_ACH, *_SH_DANIEL),
-    BK_EZRA: (BK24_EZ_NE, SEC_KET_ACH, *_SH_EZRA),
-    BK_NEXEM: (BK24_EZ_NE, SEC_KET_ACH, *_SH_NEXEM),
-    BK_FST_CHR: (BK24_CHRON, SEC_KET_ACH, *_SH_FST_CHR),
-    BK_SND_CHR: (BK24_CHRON, SEC_KET_ACH, *_SH_SND_CHR),
+    BK_DANIEL: (BK24_DANIEL, SEC_KET_AX, *_SH_DANIEL),
+    BK_EZRA: (BK24_EZ_NE, SEC_KET_AX, *_SH_EZRA),
+    BK_NEXEM: (BK24_EZ_NE, SEC_KET_AX, *_SH_NEXEM),
+    BK_FST_CHR: (BK24_CHRON, SEC_KET_AX, *_SH_FST_CHR),
+    BK_SND_CHR: (BK24_CHRON, SEC_KET_AX, *_SH_SND_CHR),
 }
 _BOOKS_WITH_LESS_THAN_10_CHAPS = (
     BK_AMOS,
@@ -585,16 +605,16 @@ _BOOKS_WITH_LESS_THAN_10_CHAPS = (
     BK_JONAH,
     BK_TSEF,
 )
-ALL_BK39_IDS = tuple(_BOOK_PROPERTIES.keys())
+ALL_BK39_IDS = tuple(_BK39_PROPERTIES.keys())
 _ALL_BK24_IDS = {bk24id(bk39id): True for bk39id in ALL_BK39_IDS}
 ALL_BK24_IDS = tuple(_ALL_BK24_IDS.keys())
 ALL_SECIDS = (
     SEC_TORAH, SEC_NEV_RISH, SEC_NEV_AX,
-    SEC_SIF_EM, SEC_XAM_MEG, SEC_KET_ACH
+    SEC_SIF_EM, SEC_XAM_MEG, SEC_KET_AX
 )
 _SHORT_TO_STD = {
     _bkprop_short(prop): std
-    for std, prop in _BOOK_PROPERTIES.items()}
+    for std, prop in _BK39_PROPERTIES.items()}
 _SAGA_OF_REUBEN_BCV = mk_bcvtmam(BK_GENESIS, 35, 22)
 _EXDEC_START = mk_bcvtmam(BK_EXODUS, 20, 2)
 _DEDEC_START = mk_bcvtmam(BK_DEUTER, 5, 6)
@@ -606,7 +626,7 @@ _ORDERED_SHORT_SECTION_CODE = {
     SEC_NEV_AX: 'C',
     SEC_SIF_EM: 'D',
     SEC_XAM_MEG: 'E',
-    SEC_KET_ACH: 'F'
+    SEC_KET_AX: 'F'
 }
 ORDERED_SHORT_SECTION_CODE_DASH_SECID = {
     secid: f'{_ORDERED_SHORT_SECTION_CODE[secid]}-{secid}'

@@ -19,9 +19,9 @@ def write_bkg_in_csv_fmt(path, variant, verses, cant_dabs):
     verses_dicts = my_utils.dv_map(dict, verses)
     for bcvt, _html_els in verses['rv-cant-dual']:
         if bkid is None:
-            bkid = tbn.bcvt_get_bkid(bcvt)
+            bkid = tbn.bcvt_get_bk39id(bcvt)
         else:
-            assert bkid == tbn.bcvt_get_bkid(bcvt)
+            assert bkid == tbn.bcvt_get_bk39id(bcvt)
         book_out[bcvt] = tuple(
             _html_str(_maybe_get(verses_dicts, cant_dab, bcvt))
             for cant_dab in cant_dabs
