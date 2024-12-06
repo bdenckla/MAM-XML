@@ -132,9 +132,13 @@ def ordered_short_bcv(bcv):
     """
     ord_bk = ordered_short(bcv[0])
     sht_bk = short(bcv[0])
+    return ord_bk + sht_bk + zfilled_cv(bcv)
+
+
+def zfilled_cv(bcv):
     ord_chnu_str = my_zfill(bcv[1], _max_width_for_chnu(bcv[0]))
     ord_vrnu_str = my_zfill(bcv[2], _max_width_for_vrnu(bcv[0], bcv[1]))
-    return ord_bk + sht_bk + ord_chnu_str + ord_vrnu_str
+    return ord_chnu_str + ord_vrnu_str
 
 
 def my_zfill(the_int, width):
@@ -175,7 +179,7 @@ def add_part2_bk39ids(bk39ids):
     For each "part 1" bk39id included in bk39ids, add the "part 2" ("next") bk39id.
     """
     nexts = tuple(filter(None, map(part2_bk39id, bk39ids)))
-    return tuple(set(bk39ids + tuple(nexts)))
+    return tuple(set(tuple(bk39ids) + tuple(nexts)))
 
 
 def part2_bk39id(bk39id):
