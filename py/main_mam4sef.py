@@ -1,8 +1,8 @@
 """ Exports main """
 
-import my_locales as tbn
-import my_mam4sef_handlers
-import my_mam4sef_or_ajf
+import py.my_locales as tbn
+import py.my_mam4sef_handlers as my_mam4sef_handlers
+import py.my_mam4sef_or_ajf as my_mam4sef_or_ajf
 
 
 def main():

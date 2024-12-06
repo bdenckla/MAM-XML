@@ -1,13 +1,13 @@
 """ Exports main_helper """
 
 import xml.etree.ElementTree as ET
-import my_utils
-import my_osis_book_abbrevs
-import my_sef_cmn
-import my_locales as tbn
-import my_write_utils
-import my_write_utils_sef_or_ajf
-import my_shrink
+import py.my_utils as my_utils
+import py.my_osis_book_abbrevs as my_osis_book_abbrevs
+import py.my_sef_cmn as my_sef_cmn
+import py.my_locales as tbn
+import py.my_write_utils as my_write_utils
+import py.my_write_utils_sef_or_ajf as my_write_utils_sef_or_ajf
+import py.my_shrink as my_shrink
 
 
 def main_helper(variant):

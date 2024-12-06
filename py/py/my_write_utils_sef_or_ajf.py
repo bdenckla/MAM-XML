@@ -4,12 +4,12 @@ Exports:
 """
 
 import csv
-import my_html
-import my_open
-import my_utils
-import my_sef_header
-import my_sef_cmn
-import my_locales as tbn
+import py.my_html as my_html
+import py.my_open as my_open
+import py.my_utils as my_utils
+import py.my_sef_header as my_sef_header
+import py.my_sef_cmn as my_sef_cmn
+import py.my_locales as tbn
 
 
 def write_bkg_in_csv_fmt(path, variant, verses, cant_dabs):

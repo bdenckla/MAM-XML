@@ -1,6 +1,6 @@
 """ Exports names for Unicode Hebrew accents """
 
-import my_cantsys
+import py.my_cantsys as my_cantsys
 
 ATN = '\N{HEBREW ACCENT ETNAHTA}'
 SEG_A = '\N{HEBREW ACCENT SEGOL}'  # A for accent (not vowel)

@@ -4,13 +4,13 @@ Exports:
     bkg_path
 """
 
-import my_html
-import my_open
-import my_utils
-import my_uni_heb as uh
-import my_verse_and_friends as vaf
-import my_locales as tbn
-import my_str_defs as sd
+import py.my_html as my_html
+import py.my_open as my_open
+import py.my_utils as my_utils
+import py.my_uni_heb as uh
+import py.my_verse_and_friends as vaf
+import py.my_locales as tbn
+import py.my_str_defs as sd
 
 
 def write_bkg_in_un_fmt(variant, bkg_name, verses, rv_cant_that_covers):

@@ -1,6 +1,6 @@
 """ Exports some constants commonly needed for Sefaria-related work. """
 
-import my_locales as tbn
+import py.my_locales as tbn
 
 
 _SEF_BOOK_PROPERTIES = {

@@ -5,7 +5,7 @@ import os
 import argparse
 from functools import reduce
 from itertools import groupby
-import my_locales as tbn
+import py.my_locales as tbn
 
 
 def init_at_key(dic, key, val):

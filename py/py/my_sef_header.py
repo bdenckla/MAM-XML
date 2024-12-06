@@ -1,7 +1,7 @@
 """ Exports sef_header """
 
-import my_sef_cmn
-import my_wikisource_urls
+import py.my_sef_cmn as my_sef_cmn
+import py.my_wikisource_urls as my_wikisource_urls
 
 
 def sef_header(bkid):

@@ -5,11 +5,11 @@ from dataclasses import dataclass
 from typing import Union
 import html
 
-import my_open
-import my_utils
-import my_hebrew_punctuation as hpu
-import my_two_col_css_styles as styles
-import my_str_defs as sd
+import py.my_open as my_open
+import py.my_utils as my_utils
+import py.my_hebrew_punctuation as hpu
+import py.my_two_col_css_styles as styles
+import py.my_str_defs as sd
 
 
 @dataclass
