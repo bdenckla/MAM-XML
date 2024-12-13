@@ -27,7 +27,7 @@ def get_bcv_from_osis_id(osid_id):
     patt = r'([A-z0-9]*)\.(\d+)\.(\d+)'
     match = re.match(patt, osid_id)
     oba, chnu_str, vrnu_str = match.groups()
-    bkid = BKID_FROM_OBA[oba]
+    bkid = BK39ID_FROM_OBA[oba]
     chnu = int(chnu_str)
     vrnu = int(vrnu_str)
     return bkid, chnu, vrnu
@@ -38,7 +38,7 @@ def get_bc_from_osis_id(osid_id):
     patt = r'([A-z0-9]*)\.(\d+)'
     match = re.match(patt, osid_id)
     oba, chnu_str = match.groups()
-    bkid = BKID_FROM_OBA[oba]
+    bkid = BK39ID_FROM_OBA[oba]
     chnu = int(chnu_str)
     return bkid, chnu
 
@@ -88,4 +88,4 @@ BOOK_ABBREVS = {
     tbn.BK_ZEKHAR: 'Zech',
     tbn.BK_MALAKHI: 'Mal',
 }
-BKID_FROM_OBA = {oba: bkid for bkid, oba in BOOK_ABBREVS.items()}
+BK39ID_FROM_OBA = {oba: bk39id for bk39id, oba in BOOK_ABBREVS.items()}

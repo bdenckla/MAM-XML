@@ -1,15 +1,16 @@
 """ Exports various HTMl utilities. """
 
 import xml.etree.ElementTree as ET
+import html
 from dataclasses import dataclass
 from typing import Union
-import html
 
 import py.my_open as my_open
-import py.my_utils as my_utils
 import py.my_hebrew_punctuation as hpu
 import py.my_two_col_css_styles as styles
 import py.my_str_defs as sd
+from py.my_utils import st_map
+from py.my_utils import sl_map
 
 
 @dataclass
@@ -60,7 +61,7 @@ def el_to_str(add_wbr, html_el):
     contents_str = ''
     if contents := html_el.get('contents'):
         assert isinstance(contents, (tuple, list))
-        contents_str = ''.join(my_utils.sl_map((el_to_str, add_wbr), contents))
+        contents_str = ''.join(sl_map((el_to_str, add_wbr), contents))
     eltag = htel_get_tag(html_el)
     fields = {
         'tag_name': eltag,
@@ -71,6 +72,33 @@ def el_to_str(add_wbr, html_el):
         'lb2': html_el.get('lb2', '\n'),
     }
     return '<{tag_name}{attr}>{lb1}{contents}{close}{lb2}'.format(**fields)
+
+
+def simplify_if_htel_span(obj):
+    # This is for dumping to JSON
+    if not _is_htel(obj):
+        return obj
+    if not obj['_htel_tag'] == 'span':
+        return obj
+    if list(obj['attr'].keys()) != ['class']:
+        return obj
+    assert obj['lb1'] == obj['lb2'] == ''
+    rest = dict(obj)
+    del rest['_htel_tag']
+    del rest['attr']
+    del rest['lb1']
+    del rest['lb2']
+    del rest['contents']
+    attr_class = obj['attr']['class']
+    contents = _simplify_if_singleton(obj['contents'])
+    return {attr_class: contents, **rest}
+
+
+def _simplify_if_singleton(lis_obj):
+    if len(lis_obj) == 1 and isinstance(lis_obj[0], str):
+        return lis_obj[0]
+    return lis_obj
+
 
 
 def add_htel_to_etxml(etxml_parent, htel):
@@ -103,7 +131,7 @@ def html_el2(title_text, body_contents, css_hrefs=(), other=None):
     other = {**other_defaults, **other}
     meta = htel_mk_nlb2_nc('meta', attr={'charset': 'utf-8'})
     title = htel_mk('title', flex_contents=(title_text,))
-    links_to_css = tuple(map(_link_to_css, css_hrefs))
+    links_to_css = st_map(_link_to_css, css_hrefs)
     if other['head_style'] is None:
         style_els = ()
     else:
@@ -141,14 +169,18 @@ def table_row_of_data(tdconts, tdattrs=None):
     # tdconts: a sequence where each element is a tdcont
     if tdattrs is None:
         tdattrs = (None,) * len(tdconts)
-    return table_row(tuple(map(table_datum, tdconts, tdattrs)))
+    return table_row(st_map(table_datum2, zip(tdconts, tdattrs)))
 
 
 def table_row_of_headers(thconts):
     """ Make a <tr> element containing <th> elements. """
     # thcont: table header contents
     # thconts: a sequence where each element is a thcont
-    return table_row(tuple(map(table_header, thconts)))
+    return table_row(st_map(table_header, thconts))
+
+
+def table_datum2(contents_and_attr):
+    return table_datum(*contents_and_attr)
 
 
 def table_datum(contents, attr=None):
@@ -175,7 +207,7 @@ def unordered_list(liconts, attr=None):
     """ Make a <ul> element. """
     # licont: list item contents
     # liconts: a tuple where each element is a licont
-    return htel_mk('ul', attr, tuple(map(_list_item, liconts)))
+    return htel_mk('ul', attr, st_map(_list_item, liconts))
 
 
 def heading_level_1(contents, attr=None):
@@ -339,11 +371,11 @@ def htel_get_class_attr(html_el):
 
 
 def _is_str_or_htel(obj):
-    if isinstance(obj, str):
-        return True
-    if isinstance(obj, dict) and '_htel_tag' in obj:
-        return True
-    return False
+    return isinstance(obj, str) or _is_htel(obj)
+
+
+def _is_htel(obj):
+    return isinstance(obj, dict) and '_htel_tag' in obj
 
 
 def _write_callback(html_el, add_wbr, out_fp):

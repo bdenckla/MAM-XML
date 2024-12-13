@@ -5,6 +5,7 @@ import os
 import argparse
 from functools import reduce
 from itertools import groupby
+
 import py.my_locales as tbn
 
 
@@ -45,7 +46,7 @@ def first_and_only_and_str(seq):
 
 def tuplify(obj):
     if isinstance(obj, (tuple, list)):
-        return tuple(map(tuplify, obj))
+        return st_map(tuplify, obj)
     return obj
 
 
@@ -198,8 +199,8 @@ def _even_odd_foc(foc_pair, idx_and_elem):
     return foc(elem)
 
 
-def my_groupby(iterable, key):
-    groups = groupby(iterable, key)
+def my_groupby(iterable, keyfunc):
+    groups = groupby(iterable, keyfunc)
     return {k: list(v) for k, v in groups}
 
 

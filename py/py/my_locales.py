@@ -218,6 +218,7 @@ def mk_bcvtxxx(bk39id, chnu, vrnu, vtrad):
 
 def mk_bcvt(bk39id, cvt):
     """ Make a bcvt from a cvt """
+    assert is_cvt(cvt)
     return '_bcvt', bk39id, *cvt
 
 
@@ -266,6 +267,11 @@ def bcvt_get_vrnu(bcvt):
 def bcvt_get_vtrad(bcvt):
     """ Return the vtrad part of bcvt """
     return cvt_get_vtrad(bcvt_get_cvt(bcvt))
+
+
+def bcvt_get_chnu_vrnu(bcvt):
+    """ Return the chnu and vrnu parts of cvt, as a pair """
+    return bcvt_get_chnu(bcvt), bcvt_get_vrnu(bcvt)
 
 
 def bcvt_get_bcv_triple(bcvt):
@@ -505,7 +511,7 @@ VT_SEF = 'vtsef'
 VT_BHS = 'vtbhs'
 ALL_VTRADS = VT_MAM, VT_SEF, VT_BHS
 
-BKIDS_OF_BOOKS_WITH_DUALCANT = BK_GENESIS, BK_EXODUS, BK_DEUTER
+BK39IDS_OF_BOOKS_WITH_DUALCANT = BK_GENESIS, BK_EXODUS, BK_DEUTER
 
 _SH_GENESIS = 'G', 'A1', 1
 _SH_EXODUS = 'E', 'A2', 2  # E in contrast to Ee, Ec, Es, Er

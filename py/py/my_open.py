@@ -10,7 +10,7 @@ import json
 import time
 
 
-def with_tmp_openw(path, kwargs_dic, write_fun, *write_fun_args):
+def with_tmp_openw(path: str, kwargs_dic, write_fun, *write_fun_args):
     """ Open path for writing, but through a temporary file """
     tpath = _tmp_path(path)
     with _openw(tpath, **kwargs_dic) as outfp:
@@ -19,7 +19,7 @@ def with_tmp_openw(path, kwargs_dic, write_fun, *write_fun_args):
     return retval
 
 
-def _replace_file(tmp_path, path):
+def _replace_file(tmp_path: str, path: str):
     fail_count = 0
     succeeded = False
     while not succeeded:
@@ -43,17 +43,17 @@ def _sleep(fail_count):
     time.sleep(sleep_time)
 
 
-def json_dump_to_file_path(dumpable, path):
+def json_dump_to_file_path(dumpable, path: str):
     """ Dump JSON to a file path """
     with_tmp_openw(path, {}, _json_dump_to_file_pointer, dumpable)
 
 
-def _openw(path, **kwargs):
+def _openw(path: str, **kwargs):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     return open(path, 'w', encoding='utf-8', **kwargs)
 
 
-def _tmp_path(path):
+def _tmp_path(path: str):
     pathobj = pathlib.Path(path)
     # e.g. from /dfoo/dbar/stem.ext return /dfoo/dbar/stem.tmp.ext
     # where suffix = .ext
