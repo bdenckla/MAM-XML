@@ -11,7 +11,7 @@ def shrink(parts):
     """
     acc = []
     for part in parts:
-        if part == '':
+        if part == "":
             continue
         if acc and _both_str(acc[-1], part):
             acc[-1] += part
@@ -28,7 +28,7 @@ def shrink_xml(parts):
     """
     acc = []
     for part in parts:
-        if part == '':
+        if part == "":
             continue
         if acc and isinstance(part, str):
             _append_to_last(acc, part)
@@ -56,14 +56,14 @@ def _append_to_last(acc, part):
 
 
 def extend(accum, objs):
-    """ Extend accum with objs. """
+    """Extend accum with objs."""
     for obj in objs:
         append(accum, obj)
 
 
 def append(accum, obj):
-    """ Append obj to accum. """
+    """Append obj to accum."""
     if accum and _both_str(accum[-1], obj):
         accum[-1] += obj
-    elif obj != '':
+    elif obj != "":
         accum.append(obj)

@@ -1,6 +1,7 @@
 """
     Exports various functions of general utility.
 """
+
 import os
 import argparse
 from functools import reduce
@@ -10,13 +11,13 @@ import py.my_locales as tbn
 
 
 def init_at_key(dic, key, val):
-    """ If key is fresh in dic, set its value to val. Otherwise assert. """
+    """If key is fresh in dic, set its value to val. Otherwise assert."""
     assert key not in dic
     dic[key] = val
 
 
 def maybe_init_at_key(dic, key, val):
-    """ If key is fresh in dic, set its value to val. Otherwise whiff. """
+    """If key is fresh in dic, set its value to val. Otherwise whiff."""
     if key not in dic:
         dic[key] = val
 
@@ -32,13 +33,13 @@ def append_at_key(dic, key, val):
 
 
 def first_and_only(seq):
-    """ Assert that this is there is only 1 el of seq, and returns it. """
+    """Assert that this is there is only 1 el of seq, and returns it."""
     assert len(seq) == 1
     return seq[0]
 
 
 def first_and_only_and_str(seq):
-    """ Like first_and_only, but also asserts that result is a string. """
+    """Like first_and_only, but also asserts that result is a string."""
     fao = first_and_only(seq)
     assert isinstance(fao, str)
     return fao
@@ -51,14 +52,14 @@ def tuplify(obj):
 
 
 def szip(*seqs):
-    """ Strongly zip (zip, asserting equal length) """
+    """Strongly zip (zip, asserting equal length)"""
     for seq in seqs[1:]:
         assert _len_for_szip(seq) == _len_for_szip(seqs[0])
     return zip(*seqs)
 
 
 def l_szip(*seqs):
-    """ Force output of szip to be a list. """
+    """Force output of szip to be a list."""
     return list(szip(*seqs))
 
 
@@ -242,14 +243,14 @@ def sum_of_dics(seq_of_dics):
 def show_progress_g(uufileuu, *rest):
     # label is usually some sort of book name
     bn_uufileuu = os.path.basename(uufileuu)
-    bn_and_rest = ' '.join((bn_uufileuu, *rest))
+    bn_and_rest = " ".join((bn_uufileuu, *rest))
     print(bn_and_rest)
 
 
 def get_bk39_tuple_from_argparse():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--book39tbn')  # e.g. 1Samuel not I Samuel
-    parser.add_argument('--section6')  # e.g. SifEm
+    parser.add_argument("--book39tbn")  # e.g. 1Samuel not I Samuel
+    parser.add_argument("--section6")  # e.g. SifEm
     args = parser.parse_args()
     if args.book39tbn:
         # I think there's a way to tell the argument parser that two arguments

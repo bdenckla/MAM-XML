@@ -11,7 +11,7 @@ import time
 
 
 def with_tmp_openw(path: str, kwargs_dic, write_fun, *write_fun_args):
-    """ Open path for writing, but through a temporary file """
+    """Open path for writing, but through a temporary file"""
     tpath = _tmp_path(path)
     with _openw(tpath, **kwargs_dic) as outfp:
         retval = write_fun(*write_fun_args, outfp)
@@ -38,32 +38,28 @@ def _too_many_fails(fail_count):
 
 
 def _sleep(fail_count):
-    sleep_time = 2 ** fail_count
-    print(f'Sleeping {sleep_time} seconds before trying again ...')
+    sleep_time = 2**fail_count
+    print(f"Sleeping {sleep_time} seconds before trying again ...")
     time.sleep(sleep_time)
 
 
 def json_dump_to_file_path(dumpable, path: str):
-    """ Dump JSON to a file path """
+    """Dump JSON to a file path"""
     with_tmp_openw(path, {}, _json_dump_to_file_pointer, dumpable)
 
 
 def _openw(path: str, **kwargs):
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    return open(path, 'w', encoding='utf-8', **kwargs)
+    return open(path, "w", encoding="utf-8", **kwargs)
 
 
 def _tmp_path(path: str):
     pathobj = pathlib.Path(path)
     # e.g. from /dfoo/dbar/stem.ext return /dfoo/dbar/stem.tmp.ext
     # where suffix = .ext
-    return pathobj.parent / (str(pathobj.stem) + '.tmp' + pathobj.suffix)
+    return pathobj.parent / (str(pathobj.stem) + ".tmp" + pathobj.suffix)
 
 
 def _json_dump_to_file_pointer(dumpable, out_fp):
-    json.dump(
-        dumpable,
-        out_fp,
-        ensure_ascii=False,
-        indent=2)
-    out_fp.write('\n')
+    json.dump(dumpable, out_fp, ensure_ascii=False, indent=2)
+    out_fp.write("\n")

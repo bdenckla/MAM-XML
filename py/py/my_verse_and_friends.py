@@ -2,12 +2,15 @@
 
 from dataclasses import dataclass
 
+
 @dataclass
 class VerseAndFriends:
-    """ Holds verse, maybe a next CP, & maybe a good ending. """
+    """Holds verse, maybe a next CP, & maybe a good ending."""
+
     verse: tuple
     vaf_next_cp: tuple
     good_ending: tuple
+
     def map_over(self, fun):
         """
         Make a new veraf by mapping fun over the fields of this veraf.
