@@ -26084,12 +26084,12 @@ SPACE
 w,:,α,_,(mun),τ,·,:
 SPACE
 START kq
-START kq-q
-w,·,v,a,n,_,(zaq_q),y,i,k.,:
-STOP kq-q
 START kq-k
 v,n,y,k,y
 STOP kq-k
+START kq-q
+w,·,v,a,n,_,(zaq_q),y,i,k.,:
+STOP kq-q
 STOP kq
 SPACE
 τ,·,i,(mos),x,:,y,i,(tip),y
