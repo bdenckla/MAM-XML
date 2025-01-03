@@ -2,7 +2,7 @@
 
 import py.my_html as my_html
 import py.my_str_defs as sd
-import py.my_hebrew_punctuation as hpu
+import py.hebrew_punctuation as hpu
 import py.my_shrink as my_shrink
 
 # etel: ElementTree element

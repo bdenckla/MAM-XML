@@ -1,7 +1,7 @@
 """ Exports sef_header """
 
 import py.my_sef_cmn as my_sef_cmn
-import py.my_wikisource_urls as my_wikisource_urls
+import py.ws_urls as ws_urls
 
 
 def sef_header(bkid):
@@ -10,13 +10,13 @@ def sef_header(bkid):
         "Index Title": my_sef_cmn.SEF_BKNA[bkid],
         "Version Title": "Miqra according to the Masorah",
         "Language": "he",
-        "Version Source": my_wikisource_urls.HEBREW,
+        "Version Source": ws_urls.HEBREW,
         "Version Notes": _VERSION_NOTES,
     }
 
 
 _INTRODUCTION_URL = (
-    my_wikisource_urls.HEBREW + "/"
+    ws_urls.HEBREW + "/"
     r"%D7%9E%D7%99%D7%93%D7%A2_"
     r"%D7%A2%D7%9C_"
     r"%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%94_"
