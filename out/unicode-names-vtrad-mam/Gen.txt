@@ -24860,7 +24860,7 @@ SPACE
 h,_,h,i,(zaq_q),w,α
 SPACE
 START cant-all-three
-START cant-dual
+START cant-combined
 w,_,y,·,‥,(mun),l,∵,k.,:
 SPACE
 r,:,α,w,·,v,‥,(rev),(zaq_q),n.
@@ -24876,7 +24876,7 @@ SPACE
 w,_,y,·,i,$,·sh,:,m,_,(tip),ʕ
 SPACE
 y,i,$,·si,:,r,a,α,‥,(atn),CGJ,(mos),l,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 w,_,y,·,‥,(mun),l,∵,k.,:
 SPACE

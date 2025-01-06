@@ -250,20 +250,20 @@
       <spi-samekh2 />
       <verse osisID="Deut.5.6" yeivinID="Dt 5:6" starts-with-sampe="samekh2">
         <cant-all-three>
-          <cant-dual text="אָֽנֹכִ֖י֙ יְהֹוָ֣ה אֱלֹהֶ֑֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣֥ית עֲבָדִ֑͏ֽים׃" />
+          <cant-combined text="אָֽנֹכִ֖י֙ יְהֹוָ֣ה אֱלֹהֶ֑֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣֥ית עֲבָדִ֑͏ֽים׃" />
           <cant-alef text="אָֽנֹכִי֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣ית עֲבָדִ֑ים" />
           <cant-bet text="אָֽנֹכִ֖י יְהֹוָ֣ה אֱלֹהֶ֑יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים׃" />
         </cant-all-three>
         <text text=" " />
         <cant-all-three>
-          <cant-dual text="לֹ֣א־יִהְיֶ֥͏ֽה־לְךָ֛֩ אֱלֹהִ֥֨ים אֲחֵרִ֖֜ים עַל־פָּנָֽ͏ַ֗י׃" />
+          <cant-combined text="לֹ֣א־יִהְיֶ֥͏ֽה־לְךָ֛֩ אֱלֹהִ֥֨ים אֲחֵרִ֖֜ים עַל־פָּנָֽ͏ַ֗י׃" />
           <cant-alef text="לֹא־יִהְיֶ֥ה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל־פָּנָֽי׃" />
           <cant-bet text="לֹ֣א יִהְיֶֽה־לְךָ֩ אֱלֹהִ֨ים אֲחֵרִ֜ים עַל־פָּנַ֗י" />
         </cant-all-three>
       </verse>
       <verse osisID="Deut.5.7" yeivinID="Dt 5:7">
         <cant-all-three>
-          <cant-dual>
+          <cant-combined>
             <text text="לֹֽ֣א־תַעֲשֶֽׂ֨ה־לְךָ֥֣ פֶ֣֙סֶל֙" />
             <lp-paseq />
             <text text="כׇּל־תְּמוּנָ֔֡ה אֲשֶׁ֤֣ר בַּשָּׁמַ֣֙יִם֙" />
@@ -271,7 +271,7 @@
             <text text="מִמַּ֔֡עַל וַאֲשֶׁ֥ר֩ בָּאָ֖֨רֶץ מִתָּ֑͏ַ֜חַת וַאֲשֶׁ֥ר בַּמַּ֖֣יִם" />
             <lp-legarmeih />
             <text text=" מִתַּ֥֣חַת לָאָֽ֗רֶץ׃" />
-          </cant-dual>
+          </cant-combined>
           <cant-alef text="לֹֽא־תַעֲשֶׂ֨ה לְךָ֥ פֶ֙סֶל֙ כׇּל־תְּמוּנָ֔ה אֲשֶׁ֤ר בַּשָּׁמַ֙יִם֙ מִמַּ֔עַל וַאֲשֶׁ֥ר בָּאָ֖רֶץ מִתָּ֑חַת וַאֲשֶׁ֥ר בַּמַּ֖יִם מִתַּ֥חַת לָאָֽרֶץ׃" />
           <cant-bet>
             <text text="לֹ֣א תַעֲשֶֽׂה־לְךָ֣ פֶ֣סֶל" />
@@ -286,20 +286,20 @@
       </verse>
       <verse osisID="Deut.5.8" yeivinID="Dt 5:8">
         <cant-all-three>
-          <cant-dual text="לֹא־תִשְׁתַּחֲוֶ֥֣ה לָהֶ֖ם֮ וְלֹ֣א תׇעׇבְדֵ֑ם֒" />
+          <cant-combined text="לֹא־תִשְׁתַּחֲוֶ֥֣ה לָהֶ֖ם֮ וְלֹ֣א תׇעׇבְדֵ֑ם֒" />
           <cant-alef text="לֹא־תִשְׁתַּחֲוֶ֥ה לָהֶ֖ם וְלֹ֣א תׇעׇבְדֵ֑ם" />
           <cant-bet text="לֹא־תִשְׁתַּחֲוֶ֣ה לָהֶם֮ וְלֹ֣א תׇעׇבְדֵם֒" />
         </cant-all-three>
         <text text=" כִּ֣י אָנֹכִ֞י יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ אֵ֣ל קַנָּ֔א פֹּ֠קֵ֠ד עֲוֺ֨ן אָב֧וֹת עַל־בָּנִ֛ים וְעַל־שִׁלֵּשִׁ֥ים וְעַל־רִבֵּעִ֖ים " />
         <cant-all-three>
-          <cant-dual text="לְשֹׂנְאָֽ֑י׃" />
+          <cant-combined text="לְשֹׂנְאָֽ֑י׃" />
           <cant-alef text="לְשֹׂנְאָֽי׃" />
           <cant-bet text="לְשֹׂנְאָ֑י" />
         </cant-all-three>
       </verse>
       <verse osisID="Deut.5.9" yeivinID="Dt 5:9" ends-with-sampe="samekh2">
         <cant-all-three>
-          <cant-dual text="וְעֹ֥֤שֶׂה חֶ֖֙סֶד֙ לַֽאֲלָפִ֑֔ים" />
+          <cant-combined text="וְעֹ֥֤שֶׂה חֶ֖֙סֶד֙ לַֽאֲלָפִ֑֔ים" />
           <cant-alef text="וְעֹ֥שֶׂה חֶ֖סֶד לַֽאֲלָפִ֑ים" />
           <cant-bet text="וְעֹ֤שֶׂה חֶ֙סֶד֙ לַֽאֲלָפִ֔ים" />
         </cant-all-three>
@@ -315,11 +315,11 @@
       <spi-samekh2 />
       <verse osisID="Deut.5.11" yeivinID="Dt 5:11" starts-with-sampe="samekh2">
         <cant-all-three>
-          <cant-dual>
+          <cant-combined>
             <text text="שָׁמ֛֣וֹר אֶת־י֥וֹם֩ הַשַּׁבָּ֖֨ת לְקַדְּשׁ֑֜וֹ כַּאֲשֶׁ֥ר צִוְּךָ֖֣" />
             <lp-legarmeih />
             <text text=" יְהֹוָ֥֣ה אֱלֹהֶֽ֗יךָ׃" />
-          </cant-dual>
+          </cant-combined>
           <cant-alef text="שָׁמ֛וֹר אֶת־י֥וֹם הַשַּׁבָּ֖ת לְקַדְּשׁ֑וֹ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהֹוָ֥ה אֱלֹהֶֽיךָ׃" />
           <cant-bet>
             <text text="שָׁמ֣וֹר אֶת־יוֹם֩ הַשַּׁבָּ֨ת לְקַדְּשׁ֜וֹ כַּאֲשֶׁ֥ר צִוְּךָ֣" />
@@ -330,18 +330,18 @@
       </verse>
       <verse osisID="Deut.5.12" yeivinID="Dt 5:12">
         <cant-all-three>
-          <cant-dual text="שֵׁ֤֣שֶׁת יָמִ֣ים֙ תַּֽעֲבֹ֔ד֮ וְעָשִׂ֖֣יתָ כׇּֿל־מְלַאכְתֶּֽךָ֒׃" />
+          <cant-combined text="שֵׁ֤֣שֶׁת יָמִ֣ים֙ תַּֽעֲבֹ֔ד֮ וְעָשִׂ֖֣יתָ כׇּֿל־מְלַאכְתֶּֽךָ֒׃" />
           <cant-alef text="שֵׁ֤שֶׁת יָמִים֙ תַּֽעֲבֹ֔ד וְעָשִׂ֖יתָ כׇּל־מְלַאכְתֶּֽךָ׃" />
           <cant-bet text="שֵׁ֣שֶׁת יָמִ֣ים תַּֽעֲבֹד֮ וְעָשִׂ֣יתָ כׇל־מְלַאכְתֶּ֒ךָ֒" />
         </cant-all-three>
       </verse>
       <verse osisID="Deut.5.13" yeivinID="Dt 5:13">
         <cant-all-three>
-          <cant-dual>
+          <cant-combined>
             <text text="וְי֨וֹם֙ הַשְּׁבִיעִ֔֜י שַׁבָּ֖֣ת" />
             <lp-legarmeih />
             <text text=" לַיהֹוָ֣ה אֱלֹהֶ֑֗יךָ" />
-          </cant-dual>
+          </cant-combined>
           <cant-alef text="וְיוֹם֙ הַשְּׁבִיעִ֔י שַׁבָּ֖ת לַיהֹוָ֣ה אֱלֹהֶ֑יךָ" />
           <cant-bet>
             <text text="וְי֨וֹם הַשְּׁבִיעִ֜י שַׁבָּ֣ת" />
@@ -351,18 +351,18 @@
         </cant-all-three>
         <text text=" לֹ֣א תַעֲשֶׂ֣ה כׇל־מְלָאכָ֡ה אַתָּ֣ה וּבִנְךָֽ־וּבִתֶּ֣ךָ וְעַבְדְּךָֽ־וַ֠אֲמָתֶ֠ךָ וְשׁוֹרְךָ֨ וַחֲמֹֽרְךָ֜ וְכׇל־בְּהֶמְתֶּ֗ךָ וְגֵֽרְךָ֙ אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ לְמַ֗עַן יָנ֛וּחַ עַבְדְּךָ֥ וַאֲמָתְךָ֖ " />
         <cant-all-three>
-          <cant-dual text="כָּמֽ֑וֹךָ׃" />
+          <cant-combined text="כָּמֽ֑וֹךָ׃" />
           <cant-alef text="כָּמֽוֹךָ׃" />
           <cant-bet text="כָּמ֑וֹךָ" />
         </cant-all-three>
       </verse>
       <verse osisID="Deut.5.14" yeivinID="Dt 5:14" ends-with-sampe="samekh2">
         <cant-all-three>
-          <cant-dual>
+          <cant-combined>
             <text text="וְזָכַרְתָּ֗֞ כִּ֣י־עֶ֤֥בֶד הָיִ֣֙יתָ֙" />
             <lp-legarmeih />
             <text text=" בְּאֶ֣רֶץ מִצְרַ֔֗יִם וַיֹּצִ֨אֲךָ֜֩ יְהֹוָ֤֨ה אֱלֹהֶ֤֙יךָ֙ מִשָּׁ֔ם֙ בְּיָ֥֤ד חֲזָקָ֖ה֙ וּבִזְרֹ֣עַ נְטוּיָ֑֔ה עַל־כֵּ֗ן צִוְּךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לַעֲשׂ֖וֹת אֶת־י֥וֹם הַשַּׁבָּֽת׃" />
-          </cant-dual>
+          </cant-combined>
           <cant-alef text="וְזָכַרְתָּ֗ כִּ֣י עֶ֤בֶד הָיִ֙יתָ֙ בְּאֶ֣רֶץ מִצְרַ֔יִם וַיֹּצִ֨אֲךָ֜ יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ מִשָּׁ֔ם בְּיָ֥ד חֲזָקָ֖ה וּבִזְרֹ֣עַ נְטוּיָ֑ה עַל־כֵּ֗ן צִוְּךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לַעֲשׂ֖וֹת אֶת־י֥וֹם הַשַּׁבָּֽת׃" />
           <cant-bet>
             <text text="וְזָכַרְתָּ֞ כִּי־עֶ֥בֶד הָיִ֣יתָ" />
@@ -380,19 +380,19 @@
       <spi-samekh2 />
       <verse osisID="Deut.5.16" yeivinID="Dt 5:16" starts-with-sampe="samekh2" ends-with-sampe="samekh2">
         <cant-all-three>
-          <cant-dual text="לֹ֥֖א תִּֿרְצָ֖͏ֽח׃" />
+          <cant-combined text="לֹ֥֖א תִּֿרְצָ֖͏ֽח׃" />
           <cant-alef text="לֹ֥א תִרְצָ֖ח" />
           <cant-bet text="לֹ֖א תִּרְצָֽח׃" />
         </cant-all-three>
         <spi-samekh2 />
         <cant-all-three>
-          <cant-dual text="וְלֹ֣֖א תִּֿנְאָ֑͏ֽף׃" />
+          <cant-combined text="וְלֹ֣֖א תִּֿנְאָ֑͏ֽף׃" />
           <cant-alef text="וְלֹ֣א תִנְאָ֑ף" />
           <cant-bet text="וְלֹ֖א תִּנְאָֽף׃" />
         </cant-all-three>
         <spi-samekh2 />
         <cant-all-three>
-          <cant-dual text="וְלֹ֣֖א תִּֿגְנֹֽ֔ב׃" />
+          <cant-combined text="וְלֹ֣֖א תִּֿגְנֹֽ֔ב׃" />
           <cant-alef text="וְלֹ֣א תִגְנֹ֔ב" />
           <cant-bet text="וְלֹ֖א תִּגְנֹֽב׃" />
         </cant-all-three>

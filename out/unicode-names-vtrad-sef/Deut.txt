@@ -4597,7 +4597,7 @@ START/STOP spi-samekh2
 
 Deuter 5:6 in vtrad vtsef
 START cant-all-three
-START cant-dual
+START cant-combined
 α,a,(mos),n,o,k,i,(tip),y,(pash)
 SPACE
 y,:,h,o,w,a,(mun),h
@@ -4615,7 +4615,7 @@ SPACE
 m,i,v,·,‥,(mun),(mer),y,τ
 SPACE
 ʕ,:_,v,a,d,i,(atn),CGJ,(mos),y,m.,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 α,a,(mos),n,o,k,i,y,(pash)
 SPACE
@@ -4658,7 +4658,7 @@ STOP cant-all-three
 
 Deuter 5:7 in vtrad vtsef
 START cant-all-three
-START cant-dual
+START cant-combined
 l,o,(mun),α,-,y,i,h,:,y,∵,(mer),CGJ,(mos),h,-,l,:,k.,a,(tev),(tel_q)
 SPACE
 α,:∵,l,o,h,i,(mer),(qom),y,m.
@@ -4666,7 +4666,7 @@ SPACE
 α,:_,x,‥,r,i,(tip),(ger),y,m.
 SPACE
 ʕ,_,l,-,f,·,a,n,a,(mos),CGJ,_,(rev),y,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 l,o,α,-,y,i,h,:,y,∵,(mer),h
 SPACE
@@ -4693,7 +4693,7 @@ STOP cant-all-three
 
 Deuter 5:8 in vtrad vtsef
 START cant-all-three
-START cant-dual
+START cant-combined
 l,o,(mos),(mun),α,-,τ,_,ʕ,:_,$,·si,∵,(mos),(qom),h,-,l,:,k.,a,(mer),(mun)
 SPACE
 f,∵,(mun),(pash),σ,∵,l,(pash)
@@ -4720,7 +4720,7 @@ SPACE
 m,i,τ,·,_,(mer),(mun),x,_,τ
 SPACE
 l,a,α,a,(mos),(rev),r,∵,ц.,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 l,o,(mos),α,-,τ,_,ʕ,:_,$,·si,∵,(qom),h
 SPACE
@@ -4784,7 +4784,7 @@ STOP cant-all-three
 
 Deuter 5:9 in vtrad vtsef
 START cant-all-three
-START cant-dual
+START cant-combined
 l,o,α,-,τ,i,$,·sh,:,τ,·,_,x,:_,w,∵,(mer),(mun),h
 SPACE
 l,a,h,∵,(tip),m.,~
@@ -4792,7 +4792,7 @@ SPACE
 w,:,l,o,(mun),α
 SPACE
 τ,oa,ʕ,oa,v,:,d,‥,(atn),m.,(seg_a)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 l,o,α,-,τ,i,$,·sh,:,τ,·,_,x,:_,w,∵,(mer),h
 SPACE
@@ -4838,9 +4838,9 @@ SPACE
 w,:,ʕ,_,l,-,r,i,v,·,‥,ʕ,i,(tip),y,m.
 SPACE
 START cant-all-three
-START cant-dual
+START cant-combined
 l,:,$,·si,o,n,:,α,a,(mos),(atn),y,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 l,:,$,·si,o,n,:,α,a,(mos),y,(sopa)
 STOP cant-alef
@@ -4851,13 +4851,13 @@ STOP cant-all-three
 
 Deuter 5:10 in vtrad vtsef
 START cant-all-three
-START cant-dual
+START cant-combined
 w,:,ʕ,o,(mer),(mah),$,·si,∵,h
 SPACE
 x,∵,(tip),(pash),σ,∵,d,(pash)
 SPACE
 l,_,(mos),α,:_,l,a,f,i,(atn),(zaq_q),y,m.
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 w,:,ʕ,o,(mer),$,·si,∵,h
 SPACE
@@ -4919,7 +4919,7 @@ START/STOP spi-samekh2
 
 Deuter 5:12 in vtrad vtsef
 START cant-all-three
-START cant-dual
+START cant-combined
 $,·sh,a,m,(tev),(mun),w,o,r
 SPACE
 α,∵,τ,-,y,(mer),w,o,m.,(tel_q)
@@ -4936,7 +4936,7 @@ SPACE
 y,:,h,o,w,a,(mer),(mun),h
 SPACE
 α,:∵,l,o,h,∵,(mos),(rev),y,k.,a,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 $,·sh,a,m,(tev),w,o,r
 SPACE
@@ -4976,7 +4976,7 @@ STOP cant-all-three
 
 Deuter 5:13 in vtrad vtsef
 START cant-all-three
-START cant-dual
+START cant-combined
 $,·sh,‥,(mah),(mun),$,·sh,∵,τ
 SPACE
 y,a,m,i,(mun),y,m.,(pash)
@@ -4986,7 +4986,7 @@ SPACE
 w,:,ʕ,a,$,·si,i,(tip),(mun),y,τ,a
 SPACE
 k,·,‾,oa,l,-,m,:,l,_,α,k,:,τ,·,∵,(mos),k.,a,(seg_a),(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 $,·sh,‥,(mah),$,·sh,∵,τ
 SPACE
@@ -5013,7 +5013,7 @@ STOP cant-all-three
 
 Deuter 5:14 in vtrad vtsef
 START cant-all-three
-START cant-dual
+START cant-combined
 w,:,y,(qom),w,o,m.,(pash)
 SPACE
 h,_,$,·sh,·,:,v,i,y,ʕ,i,(zaq_q),(ger),y
@@ -5024,7 +5024,7 @@ SPACE
 l,_,y,h,o,w,a,(mun),h
 SPACE
 α,:∵,l,o,h,∵,(atn),(rev),y,k.,a
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 w,:,y,w,o,m.,(pash)
 SPACE
@@ -5083,9 +5083,9 @@ SPACE
 w,_,α,:_,m,a,τ,:,k.,a,(tip)
 SPACE
 START cant-all-three
-START cant-dual
+START cant-combined
 k,·,a,m,(mos),(atn),w,o,k.,a,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 k,·,a,m,(mos),w,o,k.,a,(sopa)
 STOP cant-alef
@@ -5096,7 +5096,7 @@ STOP cant-all-three
 
 Deuter 5:15 in vtrad vtsef
 START cant-all-three
-START cant-dual
+START cant-combined
 w,:,z,a,k,_,r,:,τ,·,a,(rev),(ger_2)
 SPACE
 k,·,i,(mun),y,-,ʕ,∵,(mah),(mer),v,∵,d
@@ -5137,7 +5137,7 @@ SPACE
 α,∵,τ,-,y,(mer),w,o,m.
 SPACE
 h,_,$,·sh,·,_,v,·,a,(mos),τ,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 w,:,z,a,k,_,r,:,τ,·,a,(rev)
 SPACE
@@ -5269,11 +5269,11 @@ START/STOP spi-samekh2
 
 Deuter 5:17 in vtrad vtsef
 START cant-all-three
-START cant-dual
+START cant-combined
 l,o,(mer),(tip),α
 SPACE
 τ,·,‾,i,r,:,ц,a,(tip),CGJ,(mos),x,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 l,o,(mer),α
 SPACE
@@ -5287,11 +5287,11 @@ STOP cant-bet
 STOP cant-all-three
 START/STOP spi-samekh2
 START cant-all-three
-START cant-dual
+START cant-combined
 w,:,l,o,(mun),(tip),α
 SPACE
 τ,·,‾,i,n,:,α,a,(atn),CGJ,(mos),f.,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 w,:,l,o,(mun),α
 SPACE
@@ -5305,11 +5305,11 @@ STOP cant-bet
 STOP cant-all-three
 START/STOP spi-samekh2
 START cant-all-three
-START cant-dual
+START cant-combined
 w,:,l,o,(mun),(tip),α
 SPACE
 τ,·,‾,i,g,:,n,o,(mos),(zaq_q),v,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 w,:,l,o,(mun),α
 SPACE

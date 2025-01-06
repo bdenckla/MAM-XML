@@ -49,7 +49,7 @@ def _read_book_group(variant, bkg_name):
 
 XPATH_QUERY_FROM_CANT_DAB = {
     # For cant_dual, we just look for all verses.
-    "rv-cant-dual": ".//verse",
+    "rv-cant-combined": ".//verse",
     # For cant_alef and cant_bet, we look for all verses that have a
     # "cant-all-three" child.
     "rv-cant-alef": ".//verse/cant-all-three/..",
@@ -98,7 +98,7 @@ def do_one_book_group(variant, bkg):
     if variant.get("variant-include-abcants"):
         cant_dabs = _ALL_3_CANT_DAB_VALUES
     else:
-        cant_dabs = ("rv-cant-dual",)
+        cant_dabs = ("rv-cant-combined",)
     for cant_dab in cant_dabs:
         _do_for_cant_dab(bkg_out, variant, root, cant_dab)
     for bkid, cant_to_verses in bkg_out.items():
@@ -108,8 +108,8 @@ def do_one_book_group(variant, bkg):
             csv_path, variant, cant_to_verses, cant_dabs
         )
         my_write_utils.write_bkg_in_un_fmt(
-            variant, sef_bkna, cant_to_verses, "rv-cant-dual"
+            variant, sef_bkna, cant_to_verses, "rv-cant-combined"
         )
 
 
-_ALL_3_CANT_DAB_VALUES = "rv-cant-dual", "rv-cant-alef", "rv-cant-bet"
+_ALL_3_CANT_DAB_VALUES = "rv-cant-combined", "rv-cant-alef", "rv-cant-bet"

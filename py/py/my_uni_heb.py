@@ -38,7 +38,7 @@ def accent_names(string):
 
 def he_char_names(string):
     """Return Hebrew character names."""
-    return (_HE_TO_NONHE_DIC[c] for c in string)
+    return list(_HE_TO_NONHE_DIC[c] for c in string)
 
 
 def join_shunnas(string, sep=","):
@@ -120,7 +120,7 @@ _HE_AND_NONHE_POINT_PAIRS = (
     (hpo.PATAX, "_"),
     (hpo.QAMATS, "a"),  # ambiguous, could be gadol or qatan
     (hpo.QAMATS_Q, "oa"),
-    (hpo.XOLAM_XFV, "ḥḥfv"),
+    (hpo.XOLAM_XFV, "xxfv"),
     (hpo.XOLAM, "o"),
     (hpo.QUBUTS, "u"),
 )

@@ -13660,7 +13660,7 @@ START/STOP spi-samekh2
 
 Exodus 20:2 in vtrad vtmam
 START cant-all-three
-START cant-dual
+START cant-combined
 α,a,(mos),n,o,k,i,(tip),y,(pash)
 SPACE
 y,:,h,o,w,a,(mun),h
@@ -13678,7 +13678,7 @@ SPACE
 m,i,v,·,‥,(mun),(mer),y,τ
 SPACE
 ʕ,:_,v,a,d,i,(atn),CGJ,(mos),y,m.,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 α,a,(mos),n,o,k,i,y,(pash)
 SPACE
@@ -13720,7 +13720,7 @@ STOP cant-bet
 STOP cant-all-three
 SPACE
 START cant-all-three
-START cant-dual
+START cant-combined
 l,o,(mos),(mun),α,-,y,i,h,:,y,∵,(mer),CGJ,(mos),h,-,l,:,k.,a,(tev),(tel_q)
 SPACE
 α,:∵,l,o,h,i,(mer),(qom),y,m.
@@ -13728,7 +13728,7 @@ SPACE
 α,:_,x,‥,r,i,(tip),(ger),y,m.
 SPACE
 ʕ,_,l,-,f,·,a,n,a,(mos),CGJ,_,(rev),y,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 l,o,(mos),α,-,y,i,h,:,y,∵,(mer),h
 SPACE
@@ -13755,7 +13755,7 @@ STOP cant-all-three
 
 Exodus 20:3 in vtrad vtmam
 START cant-all-three
-START cant-dual
+START cant-combined
 l,o,(mos),(mun),α,-,τ,_,ʕ,:_,$,·si,∵,(mos),(qom),h,-,l,:,k.,a,(mer),(mun)
 SPACE
 f,∵,(mun),(pash),σ,∵,l,(pash)
@@ -13782,7 +13782,7 @@ SPACE
 m,i,τ,·,_,(mer),(mun),x,_,τ
 SPACE
 l,a,α,a,(mos),(rev),r,∵,ц.,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 l,o,(mos),α,-,τ,_,ʕ,:_,$,·si,∵,(qom),h
 SPACE
@@ -13846,7 +13846,7 @@ STOP cant-all-three
 
 Exodus 20:4 in vtrad vtmam
 START cant-all-three
-START cant-dual
+START cant-combined
 l,o,(mos),α,-,τ,i,$,·sh,:,τ,·,_,x,:_,w,∵,(mer),(mun),h
 SPACE
 l,a,h,∵,(tip),m.,~
@@ -13854,7 +13854,7 @@ SPACE
 w,:,l,o,(mun),α
 SPACE
 τ,oa,ʕ,oa,v,:,d,‥,(atn),m.,(seg_a)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 l,o,(mos),α,-,τ,i,$,·sh,:,τ,·,_,x,:_,w,∵,(mer),h
 SPACE
@@ -13900,9 +13900,9 @@ SPACE
 w,:,ʕ,_,l,-,r,i,v,·,‥,ʕ,i,(tip),y,m.
 SPACE
 START cant-all-three
-START cant-dual
+START cant-combined
 l,:,$,·si,o,n,:,α,a,(mos),(atn),y,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 l,:,$,·si,o,n,:,α,a,(mos),y,(sopa)
 STOP cant-alef
@@ -13913,7 +13913,7 @@ STOP cant-all-three
 
 Exodus 20:5 in vtrad vtmam
 START cant-all-three
-START cant-dual
+START cant-combined
 w,:,ʕ,o,(mer),(mah),$,·si,∵,h
 SPACE
 x,∵,(tip),(pash),σ,∵,d,(pash)
@@ -13925,7 +13925,7 @@ SPACE
 w,·,l,:,$,·sh,o,m,:,r,‥,(mer),y
 SPACE
 m,i,ц,:,w,xxfv,τ,a,(mos),y,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 w,:,ʕ,o,(mer),$,·si,∵,h
 SPACE
@@ -13985,7 +13985,7 @@ START/STOP spi-pe2
 
 Exodus 20:7 in vtrad vtmam
 START cant-all-three
-START cant-dual
+START cant-combined
 z,a,k,(tev),w,o,r,(tel_q)
 SPACE
 α,∵,τ,-,y,(mer),(qom),w,o,m.
@@ -13993,7 +13993,7 @@ SPACE
 h,_,$,·sh,·,_,v,·,a,(tip),(ger),τ
 SPACE
 l,:,q,_,d,·,:,$,·sh,(mos),(rev),w,o,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 z,a,k,(tev),w,o,r
 SPACE
@@ -14016,7 +14016,7 @@ STOP cant-all-three
 
 Exodus 20:8 in vtrad vtmam
 START cant-all-three
-START cant-dual
+START cant-combined
 $,·sh,‥,(mah),(mun),$,·sh,∵,τ
 SPACE
 y,a,m,i,(mun),y,m.,(pash)
@@ -14026,7 +14026,7 @@ SPACE
 w,:,ʕ,a,$,·si,i,(tip),(mun),y,τ,a
 SPACE
 k,·,‾,oa,l,-,m,:,l,_,α,k,:,τ,·,∵,(mos),k.,a,(seg_a),(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 $,·sh,‥,(mah),$,·sh,∵,τ
 SPACE
@@ -14053,7 +14053,7 @@ STOP cant-all-three
 
 Exodus 20:9 in vtrad vtmam
 START cant-all-three
-START cant-dual
+START cant-combined
 w,:,y,(qom),w,o,m.,(pash)
 SPACE
 h,_,$,·sh,·,:,v,i,y,ʕ,i,(zaq_q),(ger),y
@@ -14085,7 +14085,7 @@ SPACE
 α,:_,$,·sh,∵,(mer),(mun),r
 SPACE
 v,·,i,$,·sh,:,ʕ,a,r,∵,(mos),(zaq_q),y,k.,a,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 w,:,y,w,o,m.,(pash)
 SPACE
@@ -14220,11 +14220,11 @@ START/STOP spi-samekh2
 
 Exodus 20:12 in vtrad vtmam
 START cant-all-three
-START cant-dual
+START cant-combined
 l,o,(mer),(tip),α
 SPACE
 τ,·,‾,i,r,:,ц,a,(tip),CGJ,(mos),x,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 l,o,(mer),α
 SPACE
@@ -14238,11 +14238,11 @@ STOP cant-bet
 STOP cant-all-three
 START/STOP spi-samekh2
 START cant-all-three
-START cant-dual
+START cant-combined
 l,o,(mun),(tip),α
 SPACE
 τ,·,‾,i,n,:,α,a,(atn),CGJ,(mos),f.,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 l,o,(mun),α
 SPACE
@@ -14256,11 +14256,11 @@ STOP cant-bet
 STOP cant-all-three
 START/STOP spi-samekh2
 START cant-all-three
-START cant-dual
+START cant-combined
 l,o,(mun),(tip),α
 SPACE
 τ,·,‾,i,g,:,n,o,(mos),(zaq_q),v,(sopa)
-STOP cant-dual
+STOP cant-combined
 START cant-alef
 l,o,(mun),α
 SPACE

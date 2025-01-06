@@ -186,7 +186,7 @@ HANDLERS = {
     ("kq-q", None): _qere,
     ("kq-trivial", None): _kq_trivial,
     #
-    ("cant-dual", None): _pass_thru,
+    ("cant-combined", None): _pass_thru,
     ("cant-alef", None): _empty,
     ("cant-bet", None): _empty,
     ("cant-all-three", None): _pass_thru,
