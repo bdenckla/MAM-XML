@@ -458,7 +458,7 @@ BK_AMOS = "Amos"
 BK_OVADIAH = "Obadiah"  # guts to change it to Ovadiah?
 BK_JONAH = "Jonah"
 BK_MIKHAH = "Micah"  # guts to change it to Mikhah or Miḳah?
-BK_NAXUM = "Nahum"  # guts to change it to Naḥum?
+BK_NAXUM = "Nahum"  # guts to change it to Naxum?
 BK_XABA = "Habakkuk"  # guts to change it to Ḥabakkuk? Ḥabaqquq?
 BK_TSEF = "Tsefaniah"
 BK_XAGGAI = "Haggai"  # guts to change it to Ḥaggai?
@@ -474,7 +474,7 @@ BK_QOHELET = "Ecclesiastes"
 BK_ESTHER = "Esther"
 BK_DANIEL = "Daniel"
 BK_EZRA = "Ezra"
-BK_NEXEM = "Nehemiah"  # guts to change it to Neḥemiah?
+BK_NEXEM = "Nehemiah"  # guts to change it to Nexemiah?
 BK_FST_CHR = "1Chronicles"
 BK_SND_CHR = "2Chronicles"
 

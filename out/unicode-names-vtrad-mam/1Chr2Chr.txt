@@ -1242,7 +1242,7 @@ w,_,y,·,i,q,·,_,(mun),x
 SPACE
 g,·,:,$,·sh,(mos),w,·,r,-,w,_,(tel_g),α,:_,r,a,(tel_g),m.
 SPACE
-α,∵,τ,-,x,_,w,·,ḥḥfv,(qom),τ
+α,∵,τ,-,x,_,w,·,xxfv,(qom),τ
 SPACE
 y,a,α,i,(dar),y,r
 SPACE
@@ -18777,7 +18777,7 @@ SPACE
 SPACE
 l,_,ʕ,:_,$,·si,(tev),w,o,τ
 SPACE
-m,i,ц,:,w,ḥḥfv,τ,_,(mer),y
+m,i,ц,:,w,xxfv,τ,_,(mer),y
 SPACE
 w,·,m,i,$,·sh,:,f,·,a,θ,_,(tip),y
 SPACE
@@ -18802,7 +18802,7 @@ $,·sh,i,m,:,r,(mun),w,·
 SPACE
 w,:,d,i,r,:,$,·sh,(zaq_q),w,·
 SPACE
-k,·,oa,l,-,m,i,ц,:,w,ḥḥfv,(tip),τ
+k,·,oa,l,-,m,i,ц,:,w,xxfv,(tip),τ
 SPACE
 y,:,h,o,w,a,(mun),h
 SPACE
@@ -19053,7 +19053,7 @@ w,:,h,_,m,·,i,z,:,l,a,g,(dar),w,o,τ
 SPACE
 w,:,h,_,m,·,i,z,:,r,a,q,(tev),w,o,τ
 SPACE
-w,:,h,_,q,·,:,$,·si,a,w,ḥḥfv,(tip),τ
+w,:,h,_,q,·,:,$,·si,a,w,xxfv,(tip),τ
 SPACE
 z,a,h,a,(mun),v
 SPACE
@@ -19767,9 +19767,9 @@ $,·sh,a,l,‥,(zaq_q),m.
 SPACE
 l,i,$,·sh,:,m,w,o,r,(pash)
 SPACE
-m,i,ц,:,w,ḥḥfv,τ,∵,(zaq_q),y,k.,a
+m,i,ц,:,w,xxfv,τ,∵,(zaq_q),y,k.,a
 SPACE
-ʕ,‥,d,:,w,ḥḥfv,τ,∵,(tip),y,k.,a
+ʕ,‥,d,:,w,xxfv,τ,∵,(tip),y,k.,a
 SPACE
 w,:,x,u,q,·,∵,(atn),y,k.,a
 SPACE
@@ -24587,7 +24587,7 @@ w,_,(mos),ʕ,:_,z,_,v,:,τ,·,∵,m.,(pash)
 SPACE
 x,u,q,·,w,o,τ,_,(mun),y
 SPACE
-w,·,m,i,ц,:,w,ḥḥfv,τ,_,(zaq_q),y
+w,·,m,i,ц,:,w,xxfv,τ,_,(zaq_q),y
 SPACE
 α,:_,$,·sh,∵,(mer),r
 SPACE
@@ -29689,7 +29689,7 @@ SPACE
 SPACE
 d,·,a,r,a,(zaq_q),$,·sh
 SPACE
-w,·,v,:,m,i,ц,:,w,ḥḥfv,τ,a,(tip),y,w
+w,·,v,:,m,i,ц,:,w,xxfv,τ,a,(tip),y,w
 SPACE
 h,a,l,a,(atn),k.,:
 SPACE
@@ -31905,7 +31905,7 @@ l,i,f,:,n,‥,(mun),y
 SPACE
 y,:,h,o,w,a,(zaq_q),h
 SPACE
-l,:,h,i,(mos),$,·sh,:,τ,·,_,x,:_,w,ḥḥfv,(tip),τ
+l,:,h,i,(mos),$,·sh,:,τ,·,_,x,:_,w,xxfv,(tip),τ
 SPACE
 l,_,y,h,o,w,a,(mos),h,(sopa)
 
@@ -34657,7 +34657,7 @@ SPACE
 SPACE
 ʕ,o,v,:,r,i,(ger),y,m.
 SPACE
-α,∵,τ,-,m,i,ц,:,w,ḥḥfv,(mah),τ
+α,∵,τ,-,m,i,ц,:,w,xxfv,(mah),τ
 SPACE
 y,:,h,o,w,a,h,(pash)
 SPACE
@@ -40741,7 +40741,7 @@ w,:,τ,i,y,r,(mun),w,o,$,·sh
 SPACE
 w,:,y,i,ц,:,h,a,(atn),r
 SPACE
-w,:,α,u,(mos),r,a,w,ḥḥfv,τ,(pash)
+w,:,α,u,(mos),r,a,w,xxfv,τ,(pash)
 SPACE
 l,:,k,oa,l,-,v,·,:,h,‥,m,a,(mun),h
 SPACE
@@ -42605,9 +42605,9 @@ y,:,h,o,w,a,(rev),h
 SPACE
 w,:,l,i,$,·sh,:,m,(mah),w,o,r
 SPACE
-α,∵,τ,-,m,i,ц,:,w,ḥḥfv,τ,a,y,w,(pash)
+α,∵,τ,-,m,i,ц,:,w,xxfv,τ,a,y,w,(pash)
 SPACE
-w,:,ʕ,‥,d,:,w,ḥḥfv,τ,a,(mun),y,w
+w,:,ʕ,‥,d,:,w,xxfv,τ,a,(mun),y,w
 SPACE
 w,:,x,u,q,·,a,(zaq_q),y,w
 SPACE

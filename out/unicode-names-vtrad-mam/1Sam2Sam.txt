@@ -72,7 +72,7 @@ m,i,y,·,a,m,i,(mun),y,m.
 START/STOP lp-paseq
 y,a,m,i,(zaq_q),y,m,a,h
 SPACE
-l,:,h,i,(mos),$,·sh,:,τ,·,_,x,:_,w,ḥḥfv,(dar),τ
+l,:,h,i,(mos),$,·sh,:,τ,·,_,x,:_,w,xxfv,(dar),τ
 SPACE
 w,:,l,i,z,:,v,·,o,(tev),x,_
 SPACE
@@ -1737,7 +1737,7 @@ v,·,:,v,‥,(mun),y,τ,:,k.,a,(zaq_q)
 SPACE
 y,a,v,w,o,α,(pash)
 SPACE
-l,:,h,i,$,·sh,:,τ,·,_,x,:_,w,ḥḥfv,(mun),τ
+l,:,h,i,$,·sh,:,τ,·,_,x,:_,w,xxfv,(mun),τ
 SPACE
 l,(zaq_q),w,o
 SPACE
@@ -2099,7 +2099,7 @@ SPACE
 SPACE
 ʕ,_,d,-,ʕ,w,o,l,a,(atn),m.
 SPACE
-v,·,_,ʕ,:_,w,ḥḥfv,(mun),n.
+v,·,_,ʕ,:_,w,xxfv,(mun),n.
 SPACE
 α,:_,$,·sh,∵,r,-,y,a,d,_,(rev),ʕ
 SPACE
@@ -2126,7 +2126,7 @@ SPACE
 SPACE
 α,i,(mos),m.,-,y,i,τ,:,k,·,_,f,·,‥,(ger_2),r
 SPACE
-ʕ,:_,w,ḥḥfv,(dar),n.
+ʕ,:_,w,xxfv,(dar),n.
 SPACE
 v,·,‥,y,τ,-,ʕ,‥,l,i,(tev),y
 SPACE
@@ -15161,7 +15161,7 @@ m,∵,(mah),h
 SPACE
 ʕ,a,$,·si,i,(pash),y,τ,i,y,(pash)
 SPACE
-m,∵,(mos),h,-,ʕ,:_,w,ḥḥfv,n,i,(mah),y
+m,∵,(mos),h,-,ʕ,:_,w,xxfv,n,i,(mah),y
 SPACE
 w,·,m,∵,(mos),h,-,x,_,θ,·,a,α,τ,i,y,(pash)
 SPACE
@@ -15404,7 +15404,7 @@ SPACE
 SPACE
 w,:,α,i,m.,-,y,∵,$,·sh,-,v,·,i,(mah),y
 SPACE
-ʕ,a,w,ḥḥfv,n.,(pash)
+ʕ,a,w,xxfv,n.,(pash)
 SPACE
 h,:_,m,i,y,τ,‥,(mun),n,i,y
 SPACE
@@ -19873,7 +19873,7 @@ v,·,i,(mos),y,-,α,:_,n,i,(mer),y
 SPACE
 α,:_,d,o,n,i,(tip),y
 SPACE
-h,∵,ʕ,a,w,ḥḥfv,(atn),n.
+h,∵,ʕ,a,w,xxfv,(atn),n.
 SPACE
 w,·,(mos),τ,:,d,_,v,·,∵,r,-,n,a,(mah),α
 SPACE
@@ -22107,7 +22107,7 @@ x,_,y,-,y,:,h,o,w,a,(zaq_g),h
 SPACE
 α,i,(mos),m.,-,y,i,q,·,:,r,‥,(mer),k.,:
 SPACE
-ʕ,a,w,ḥḥfv,(tip),n.
+ʕ,a,w,xxfv,(tip),n.
 SPACE
 v,·,_,d,·,a,v,a,(mer),r
 SPACE
@@ -25994,7 +25994,7 @@ w,_,τ,·,i,f,:,q,o,(mer),d
 SPACE
 ʕ,a,l,_,(tev),y
 SPACE
-ʕ,:_,w,ḥḥfv,(mer),n.
+ʕ,:_,w,xxfv,(mer),n.
 SPACE
 h,a,α,i,$,·sh,·,a,(tip),h
 SPACE
@@ -28616,7 +28616,7 @@ m,‥,(mos),α,a,v,i,y,k.,:,(pash)
 SPACE
 w,·,m,i,k,·,oa,l,-,v,·,‥,y,τ,(zaq_q),w,o
 SPACE
-l,:,ц,_,w,·,ḥḥfv,(qom),τ
+l,:,ц,_,w,·,xxfv,(qom),τ
 SPACE
 α,o,τ,i,(mer),y
 SPACE
@@ -29044,7 +29044,7 @@ l,:,v,‥,(atn),n.
 SPACE
 α,:_,$,·sh,∵,r,(pash)
 SPACE
-v,·,:,h,_,(mun),ʕ,:_,w,ḥḥfv,τ,(zaq_q),w,o
+v,·,:,h,_,(mun),ʕ,:_,w,xxfv,τ,(zaq_q),w,o
 SPACE
 w,:,h,o,(mos),k,_,x,:,τ,·,i,y,w,(pash)
 SPACE
@@ -34089,7 +34089,7 @@ SPACE
 SPACE
 h,_,m,·,∵,(tev),l,∵,k.,:
 SPACE
-h,∵,ʕ,a,w,ḥḥfv,(tip),n.
+h,∵,ʕ,a,w,xxfv,(tip),n.
 SPACE
 w,:,ʕ,_,l,-,v,·,‥,(mun),y,τ
 SPACE
@@ -34878,7 +34878,7 @@ h,_,m,·,∵,(zaq_q),l,∵,k.,:
 SPACE
 w,:,α,i,m.,-,y,∵,$,·sh,-,v,·,i,(mer),y
 SPACE
-ʕ,a,w,ḥḥfv,(tip),n.
+ʕ,a,w,xxfv,(tip),n.
 SPACE
 w,∵,h,:∵,m,i,τ,a,(mos),n,i,y,(sopa)
 
@@ -35041,7 +35041,7 @@ w,:,h,a,y,a,h,(pash)
 SPACE
 v,·,i,q,:,r,oa,v,-,α,i,(zaq_q),y,$,·sh
 SPACE
-l,:,h,i,(mos),$,·sh,:,τ,·,_,x,:_,w,ḥḥfv,(tip),τ
+l,:,h,i,(mos),$,·sh,:,τ,·,_,x,:_,w,xxfv,(tip),τ
 SPACE
 l,(atn),w,o
 SPACE
@@ -37809,7 +37809,7 @@ w,:,k,oa,l,-,h,a,ʕ,a,(mun),m.
 SPACE
 $,·sh,a,m,:,ʕ,(rev),w,·
 SPACE
-v,·,:,ц,_,w,·,ḥḥfv,(mer),τ
+v,·,:,ц,_,w,·,xxfv,(mer),τ
 SPACE
 h,_,m,·,∵,(tev),l,∵,k.,:
 SPACE
@@ -39337,7 +39337,7 @@ SPACE
 SPACE
 α,:_,d,o,n,i,y,~
 SPACE
-ʕ,a,w,ḥḥfv,n.,(seg_a)
+ʕ,a,w,xxfv,n.,(seg_a)
 SPACE
 w,:,α,_,l,-,τ,·,i,z,:,k,·,o,(rev),r
 SPACE
@@ -42108,7 +42108,7 @@ l,(atn),w,o
 START/STOP shirah-space
 w,a,α,∵,$,·sh,:,τ,·,_,m,·,:,r,a,(tip),h
 SPACE
-m,‥,ʕ,:_,w,ḥḥfv,n,i,(mos),y,(sopa)
+m,‥,ʕ,:_,w,xxfv,n,i,(mos),y,(sopa)
 
 2Samuel 22:25 in vtrad vtmam
 w,_,y,·,a,(dar),$,·sh,∵,v
@@ -43704,7 +43704,7 @@ y,:,h,o,w,a,(rev),h
 SPACE
 h,_,(mos),ʕ,:_,v,∵,r,-,n,a,α,(pash)
 SPACE
-α,∵,τ,-,ʕ,:_,w,ḥḥfv,(mun),n.
+α,∵,τ,-,ʕ,:_,w,xxfv,(mun),n.
 SPACE
 ʕ,_,v,:,d,·,:,k.,a,(zaq_q)
 SPACE

@@ -110,7 +110,7 @@ _HE_AND_NONHE_POINT_PAIRS = (
     (hpo.RAFE, "‾"),  # r̄ was another candidate
     (hpo.SHIND, "·sh"),
     (hpo.SIND, "·si"),
-    (hpo.SHEVA, ":"),  # ambiguous, could be na or nach
+    (hpo.SHEVA, ":"),  # ambiguous, could be na or nax
     (hpo.XSEGOL, ":∵"),  # ∵ aka BECAUSE
     (hpo.XPATAX, ":_"),
     (hpo.XQAMATS, ":a"),

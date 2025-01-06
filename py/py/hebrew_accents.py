@@ -65,7 +65,7 @@ G2_TG = GER_2 + TEL_G
 ACCENTS_AND_MTG = "\u0591-\u05ae\u05bd"
 
 _CONJUNCTIVES_BCC_PROSE = [  # See Yeivin ITM #194 (page 167)
-    MUN,  # (but munaḥ legarmeh is disjunctive)
+    MUN,  # (but munax legarmeh is disjunctive)
     MAH,
     MER,
     DAR,
@@ -73,20 +73,20 @@ _CONJUNCTIVES_BCC_PROSE = [  # See Yeivin ITM #194 (page 167)
     TEL_Q,
     YBY,
     MER_2,
-    # MAYELA (coded as tipeḥa; need to distinguish)
+    # MAYELA (coded as tipexa; need to distinguish)
 ]
 _CONJUNCTIVES_BCC_POETIC = [  # See Yeivin ITM #358 (page 264) and, for ATN_H only, #361 (page 266)
     MUN,
     MER,  # but as yored (always in oleh-we-yored) is disjunctive
     ILU,
-    TIP,  # tarḥa
+    TIP,  # tarxa
     YBY,
     MAH,  # (but mehuppak legarmeh is disjunctive)
     QOM,  # aka azla (but azla legarmeh is disjunctive)
     SHA,  # shalshelet qeṭannah (but shalshelet gedolah (shalshelet legarmeh) is disjunctive)
     NU_TSIT,  # tsinnorit
     ATN_H,
-    # In Yeivin ITM (#361 (page 266)), atnaḥ hafukh is called only "a 'v' shaped sign"
+    # In Yeivin ITM (#361 (page 266)), atnax hafukh is called only "a 'v' shaped sign"
     # and is not listed with the other poetic conjunctives,
     # i.e. is not listed in #358 (page 264).
 ]

@@ -10757,7 +10757,7 @@ SPACE
 SPACE
 w,:,h,_,(mos),α,:_,z,_,n,:,τ,·,a,(pash)
 SPACE
-l,:,m,i,ц,:,w,ḥḥfv,τ,a,(zaq_q),y,w
+l,:,m,i,ц,:,w,xxfv,τ,a,(zaq_q),y,w
 SPACE
 w,:,$,·sh,a,m,_,r,:,τ,·,a,(tip)
 SPACE
@@ -11573,7 +11573,7 @@ m,‥,(mos),α,_,n,:,τ,·,∵,(zaq_q),m.
 SPACE
 l,i,$,·sh,:,m,o,(mer),r
 SPACE
-m,i,ц,:,w,ḥḥfv,τ,_,(tip),y
+m,i,ц,:,w,xxfv,τ,_,(tip),y
 SPACE
 w,:,τ,w,o,r,o,τ,a,(mos),y,(sopa)
 
@@ -13889,7 +13889,7 @@ q,_,n,·,a,(zaq_q),α
 SPACE
 f,·,o,(tel_g),q,‥,(tel_g),d
 SPACE
-ʕ,:_,w,ḥḥfv,(qom),n.
+ʕ,:_,w,xxfv,(qom),n.
 SPACE
 α,a,v,o,(dar),τ
 SPACE
@@ -13924,7 +13924,7 @@ l,:,α,o,h,:_,v,_,(tip),y
 SPACE
 w,·,l,:,$,·sh,o,m,:,r,‥,(mer),y
 SPACE
-m,i,ц,:,w,ḥḥfv,τ,a,(mos),y,(sopa)
+m,i,ц,:,w,xxfv,τ,a,(mos),y,(sopa)
 STOP cant-dual
 START cant-alef
 w,:,ʕ,o,(mer),$,·si,∵,h
@@ -13937,7 +13937,7 @@ l,:,α,o,h,:_,v,_,(tip),y
 SPACE
 w,·,l,:,$,·sh,o,m,:,r,‥,(mer),y
 SPACE
-m,i,ц,:,w,ḥḥfv,τ,a,(mos),y,(sopa)
+m,i,ц,:,w,xxfv,τ,a,(mos),y,(sopa)
 STOP cant-alef
 START cant-bet
 w,:,ʕ,o,(mah),$,·si,∵,h
@@ -13950,7 +13950,7 @@ l,:,α,o,h,:_,v,_,(tip),y
 SPACE
 w,·,l,:,$,·sh,o,m,:,r,‥,(mer),y
 SPACE
-m,i,ц,:,w,ḥḥfv,τ,a,(mos),y,(sopa)
+m,i,ц,:,w,xxfv,τ,a,(mos),y,(sopa)
 STOP cant-bet
 STOP cant-all-three
 START/STOP spi-samekh2
@@ -20375,7 +20375,7 @@ w,:,n,a,$,·si,a,(qom),α
 SPACE
 α,_,h,:_,r,o,(ger),n.
 SPACE
-α,∵,τ,-,ʕ,:_,w,ḥḥfv,(mun),n.
+α,∵,τ,-,ʕ,:_,w,xxfv,(mun),n.
 SPACE
 h,_,q,·,:a,d,a,$,·sh,i,(rev),y,m.
 SPACE
@@ -20525,7 +20525,7 @@ v,·,_,q,·,o,(zaq_q),d,∵,$,·sh
 SPACE
 w,:,l,o,α,-,y,i,$,·si,:,α,(mer),w,·
 SPACE
-ʕ,a,w,ḥḥfv,(tip),n.
+ʕ,a,w,xxfv,(tip),n.
 SPACE
 w,a,m,‥,(atn),τ,w,·
 SPACE
@@ -24775,7 +24775,7 @@ l,a,α,:_,l,a,f,i,(zaq_q),y,m.
 SPACE
 n,o,$,·si,‥,(mer),α
 SPACE
-ʕ,a,w,ḥḥfv,(tev),n.
+ʕ,a,w,xxfv,(tev),n.
 SPACE
 w,a,f,∵,(tip),$,·sh,_,ʕ
 SPACE
@@ -24790,7 +24790,7 @@ SPACE
 f,·,o,q,‥,(mun),d
 START/STOP lp-legarmeih
 SPACE
-ʕ,:_,w,ḥḥfv,(mun),n.
+ʕ,:_,w,xxfv,(mun),n.
 SPACE
 α,a,v,(rev),w,o,τ
 SPACE
@@ -24842,7 +24842,7 @@ h,(zaq_q),w,·,α
 SPACE
 w,:,σ,a,l,_,x,:,τ,·,a,(tev)
 SPACE
-l,_,ʕ,:_,w,ḥḥfv,n,‥,(mer),n,w,·
+l,_,ʕ,:_,w,xxfv,n,‥,(mer),n,w,·
 SPACE
 w,·,l,:,x,_,θ,·,a,α,τ,‥,(tip),n,w,·
 SPACE
@@ -27613,7 +27613,7 @@ w,:,α,‥,τ,(pash)
 SPACE
 m,:,n,_,q,·,i,y,·,o,τ,a,(zaq_q),y,w
 SPACE
-w,:,α,∵,(qom),τ,-,h,_,q,·,:,$,·si,a,w,ḥḥfv,(zaq_q),τ
+w,:,α,∵,(qom),τ,-,h,_,q,·,:,$,·si,a,w,xxfv,(zaq_q),τ
 SPACE
 α,:_,$,·sh,∵,(mer),r
 SPACE
@@ -28058,7 +28058,7 @@ SPACE
 SPACE
 v,·,:,α,_,r,:,v,·,_,(mer),ʕ
 SPACE
-h,_,q,·,:,ц,a,w,ḥḥfv,(tip),τ
+h,_,q,·,:,ц,a,w,xxfv,(tip),τ
 SPACE
 l,:,m,i,k,:,v,·,_,(mun),r
 SPACE
