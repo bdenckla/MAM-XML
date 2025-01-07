@@ -1,6 +1,6 @@
 """ Exports names for Unicode Hebrew accents """
 
-import py.my_cantsys as my_cantsys
+import py.cantsys as cantsys
 
 ATN = "\N{HEBREW ACCENT ETNAHTA}"
 SEG_A = "\N{HEBREW ACCENT SEGOL}"  # A for accent (not vowel)
@@ -90,6 +90,6 @@ _CONJUNCTIVES_BCC_POETIC = [  # See Yeivin ITM #358 (page 264) and, for ATN_H on
     # and is not listed with the other poetic conjunctives,
     # i.e. is not listed in #358 (page 264).
 ]
-CONJUNCTIVES_BCC = my_cantsys.mk_cantsys_struct(
+CONJUNCTIVES_BCC = cantsys.mk_cantsys_struct(
     _CONJUNCTIVES_BCC_PROSE, _CONJUNCTIVES_BCC_POETIC
 )

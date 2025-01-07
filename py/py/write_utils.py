@@ -8,7 +8,7 @@ import py.my_html as my_html
 import py.my_open as my_open
 import py.my_utils as my_utils
 import py.my_uni_heb as uh
-import py.my_verse_and_friends as vaf
+import py.verse_and_friends as vaf
 import py.my_locales as tbn
 import py.my_str_defs as sd
 

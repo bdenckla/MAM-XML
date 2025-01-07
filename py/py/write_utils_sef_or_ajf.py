@@ -7,8 +7,8 @@ import csv
 import py.my_html as my_html
 import py.my_open as my_open
 import py.my_utils as my_utils
-import py.my_sef_header as my_sef_header
-import py.my_sef_cmn as my_sef_cmn
+import py.sef_header as sef_header
+import py.sef_cmn as sef_cmn
 import py.my_locales as tbn
 
 
@@ -44,10 +44,10 @@ def _write_bkg_in_csv_fmt2(variant, bkid, contents, file_handle):
     writer = csv.writer(file_handle)
     exclude_header = variant.get("variant-exclude-header-from-csv")
     if not exclude_header:
-        header = my_sef_header.sef_header(bkid)
+        header = sef_header.sef_header(bkid)
         for hkey, hval in header.items():
             writer.writerow((hkey, hval))
-    sef_bkna = my_sef_cmn.SEF_BKNA[bkid]
+    sef_bkna = sef_cmn.SEF_BKNA[bkid]
     for bcvt, verse in contents.items():
         chnu = tbn.bcvt_get_chnu(bcvt)
         vrnu = tbn.bcvt_get_vrnu(bcvt)

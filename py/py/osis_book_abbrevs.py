@@ -2,7 +2,7 @@
 
 import re
 import py.my_locales as tbn
-import py.my_book_group as my_book_group
+import py.book_group as book_group
 
 # From https://wiki.crosswire.org/OSIS_Book_Abbreviations.
 
@@ -18,7 +18,7 @@ def bk24_bkgs(bk39ids):
         osis_ids_of_bk24 = map(_osis_id_of_bkid, bkids_of_bk24)
         osis_bk24na = "".join(osis_ids_of_bk24)
         bkg_dic[osis_bk24na] = bkids_of_bk24
-    bkgs = tuple(my_book_group.bkg_make(*item) for item in bkg_dic.items())
+    bkgs = tuple(book_group.bkg_make(*item) for item in bkg_dic.items())
     return bkgs
 
 

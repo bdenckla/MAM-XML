@@ -7,7 +7,7 @@ from typing import Union
 
 import py.my_open as my_open
 import py.hebrew_punctuation as hpu
-import py.my_two_col_css_styles as styles
+import py.two_col_css_styles as styles
 import py.my_str_defs as sd
 from py.my_utils import st_map
 from py.my_utils import sl_map

@@ -2,18 +2,18 @@
 
 import xml.etree.ElementTree as ET
 import py.my_utils as my_utils
-import py.my_osis_book_abbrevs as my_osis_book_abbrevs
-import py.my_sef_cmn as my_sef_cmn
+import py.osis_book_abbrevs as osis_book_abbrevs
+import py.sef_cmn as sef_cmn
 import py.my_locales as tbn
-import py.my_write_utils as my_write_utils
-import py.my_write_utils_sef_or_ajf as my_write_utils_sef_or_ajf
+import py.write_utils as write_utils
+import py.write_utils_sef_or_ajf as write_utils_sef_or_ajf
 import py.my_shrink as my_shrink
 
 
 def main_helper(variant):
     """Create the Sefaria MAM or AJF MAM from the XML MAM."""
     bkids = my_utils.get_bk39_tuple_from_argparse()
-    bkgs = my_osis_book_abbrevs.bk24_bkgs(bkids)
+    bkgs = osis_book_abbrevs.bk24_bkgs(bkids)
     for bkg in bkgs:
         do_one_book_group(variant, bkg)
 
@@ -78,7 +78,7 @@ def _process_book_group(variant, root, cant_dab):
 
 
 def _get_bcvt_from_osis_id(vtrad, osid_id):
-    bkid, chnu, vrnu = my_osis_book_abbrevs.get_bcv_from_osis_id(osid_id)
+    bkid, chnu, vrnu = osis_book_abbrevs.get_bcv_from_osis_id(osid_id)
     return tbn.mk_bcvtxxx(bkid, chnu, vrnu, vtrad)
 
 
@@ -102,12 +102,12 @@ def do_one_book_group(variant, bkg):
     for cant_dab in cant_dabs:
         _do_for_cant_dab(bkg_out, variant, root, cant_dab)
     for bkid, cant_to_verses in bkg_out.items():
-        sef_bkna = my_sef_cmn.SEF_BKNA[bkid]
-        csv_path = my_write_utils.bkg_path(variant, sef_bkna)
-        my_write_utils_sef_or_ajf.write_bkg_in_csv_fmt(
+        sef_bkna = sef_cmn.SEF_BKNA[bkid]
+        csv_path = write_utils.bkg_path(variant, sef_bkna)
+        write_utils_sef_or_ajf.write_bkg_in_csv_fmt(
             csv_path, variant, cant_to_verses, cant_dabs
         )
-        my_write_utils.write_bkg_in_un_fmt(
+        write_utils.write_bkg_in_un_fmt(
             variant, sef_bkna, cant_to_verses, "rv-cant-combined"
         )
 

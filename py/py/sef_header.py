@@ -1,13 +1,13 @@
 """ Exports sef_header """
 
-import py.my_sef_cmn as my_sef_cmn
+import py.sef_cmn as sef_cmn
 import py.ws_urls as ws_urls
 
 
 def sef_header(bkid):
     """Return Sefaria header for book with ID bkid."""
     return {
-        "Index Title": my_sef_cmn.SEF_BKNA[bkid],
+        "Index Title": sef_cmn.SEF_BKNA[bkid],
         "Version Title": "Miqra according to the Masorah",
         "Language": "he",
         "Version Source": ws_urls.HEBREW,
