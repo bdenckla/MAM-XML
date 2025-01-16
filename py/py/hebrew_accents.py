@@ -65,7 +65,7 @@ G2_TG = GER_2 + TEL_G
 ACCENTS_AND_MTG = "\u0591-\u05ae\u05bd"
 
 _CONJUNCTIVES_BCC_PROSE = [  # See Yeivin ITM #194 (page 167)
-    MUN,  # (but munax legarmeh is disjunctive)
+    MUN,  # (but munax legarmeih is disjunctive)
     MAH,
     MER,
     DAR,
@@ -81,9 +81,9 @@ _CONJUNCTIVES_BCC_POETIC = [  # See Yeivin ITM #358 (page 264) and, for ATN_H on
     ILU,
     TIP,  # tarxa
     YBY,
-    MAH,  # (but mehuppak legarmeh is disjunctive)
-    QOM,  # aka azla (but azla legarmeh is disjunctive)
-    SHA,  # shalshelet qeṭannah (but shalshelet gedolah (shalshelet legarmeh) is disjunctive)
+    MAH,  # (but mehuppak legarmeih is disjunctive)
+    QOM,  # aka azla (but azla legarmeih is disjunctive)
+    SHA,  # shalshelet qeṭannah (but shalshelet gedolah (shalshelet legarmeih) is disjunctive)
     NU_TSIT,  # tsinnorit
     ATN_H,
     # In Yeivin ITM (#361 (page 266)), atnax hafukh is called only "a 'v' shaped sign"

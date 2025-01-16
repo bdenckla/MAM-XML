@@ -1,4 +1,4 @@
-""" Exports various HTMl utilities. """
+""" Exports various HTML utilities. """
 
 import xml.etree.ElementTree as ET
 import html

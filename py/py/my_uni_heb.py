@@ -33,7 +33,11 @@ def shunna(string):
 
 def accent_names(string):
     """Return accent names."""
-    return filter(None, (_HE_TO_NONHE_ACC_DIC.get(c) for c in string))
+    return list(filter(None, (_HE_TO_NONHE_ACC_DIC.get(c) for c in string)))
+
+
+def rm_mtgoslq(string):
+    return string.replace(hpo.MTGOSLQ, "")
 
 
 def he_char_names(string):

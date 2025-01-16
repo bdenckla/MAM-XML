@@ -1,4 +1,4 @@
-""" Exports names for Unicode Hebrew points """
+""" Exports names for Unicode Hebrew points (niqqud) """
 
 import py.my_str_defs as sd
 

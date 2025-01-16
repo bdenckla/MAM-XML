@@ -1,4 +1,4 @@
-""" Exports HEBREW. """
+""" Exports HEBREW """
 
 HEBREW = (
     "https://he.wikisource.org/wiki/"

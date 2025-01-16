@@ -1,7 +1,7 @@
 """ Exports main_helper """
 
 import xml.etree.ElementTree as ET
-import py.my_utils as my_utils
+import py.my_utils_for_mainish as my_utils_fm
 import py.osis_book_abbrevs as osis_book_abbrevs
 import py.sef_cmn as sef_cmn
 import py.my_locales as tbn
@@ -12,7 +12,7 @@ import py.my_shrink as my_shrink
 
 def main_helper(variant):
     """Create the Sefaria MAM or AJF MAM from the XML MAM."""
-    bkids = my_utils.get_bk39_tuple_from_argparse()
+    bkids = my_utils_fm.get_bk39_tuple_from_argparse()
     bkgs = osis_book_abbrevs.bk24_bkgs(bkids)
     for bkg in bkgs:
         do_one_book_group(variant, bkg)

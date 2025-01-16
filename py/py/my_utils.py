@@ -2,12 +2,8 @@
     Exports various functions of general utility.
 """
 
-import os
-import argparse
 from functools import reduce
 from itertools import groupby
-
-import py.my_locales as tbn
 
 
 def init_at_key(dic, key, val):
@@ -238,29 +234,6 @@ def sum_of_tuples(seq_of_tuples):
 
 def sum_of_dics(seq_of_dics):
     return reduce(_accum_dic, seq_of_dics)
-
-
-def show_progress_g(uufileuu, *rest):
-    # label is usually some sort of book name
-    bn_uufileuu = os.path.basename(uufileuu)
-    bn_and_rest = " ".join((bn_uufileuu, *rest))
-    print(bn_and_rest)
-
-
-def get_bk39_tuple_from_argparse():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--book39tbn")  # e.g. 1Samuel not I Samuel
-    parser.add_argument("--section6")  # e.g. SifEm
-    args = parser.parse_args()
-    if args.book39tbn:
-        # I think there's a way to tell the argument parser that two arguments
-        # are exclusive; if so perhaps I should use that instead of the assert
-        # below.
-        assert not args.section6
-        return (args.book39tbn,)
-    if args.section6:
-        return tbn.bk39s_of_sec(args.section6)
-    return tbn.ALL_BK39_IDS
 
 
 def _accum_dic(accum, dic):
