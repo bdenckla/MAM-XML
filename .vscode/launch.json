@@ -6,9 +6,9 @@
     "configurations": [
         {
             "name": "MAM for Sef: all",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
-            "program": "py/main_mam4sef.py",
+            "program": "py-example/main_mam4sef.py",
             "console": "integratedTerminal"
         }
     ]
