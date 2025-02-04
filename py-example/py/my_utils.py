@@ -73,26 +73,6 @@ def intersperse(sep, the_sequence):
     return tmp[:-1]  # rm final sep, e.g. final None
 
 
-def ll_map(foc, the_list):
-    """
-    Map the given foc (function or closure) over the given list.
-    (The "ll" means "list in, list out".)
-    """
-    assert isinstance(the_list, list)
-    if isinstance(foc, tuple):
-        return [foc[0](*foc[1:], elem) for elem in the_list]
-    return list(map(foc, the_list))
-
-
-def tt_map(foc, the_tuple):
-    """
-    Map the given foc (function or closure) over the given tuple.
-    (The "tt" means "tuple in, tuple out".)
-    """
-    assert isinstance(the_tuple, tuple)
-    return st_map(foc, the_tuple)
-
-
 def sl_map(foc, the_sequence):
     """
     Map the given foc (function or closure) over the given sequence (e.g. list or tuple).
