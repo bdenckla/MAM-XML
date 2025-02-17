@@ -147,8 +147,8 @@ START letter-large
 x,(mun)
 STOP letter-large
 w,·,r
-STOP slh-word slhw-desc-0=ח֣וּר slhw-desc-1=ח.. slhw-desc-2=ג slhw-desc-3=ח/ג
 START/STOP lp-legarmeih
+STOP slh-word slhw-desc-0=ח֣וּר slhw-desc-1=ח.. slhw-desc-2=ג slhw-desc-3=ח/ג
 SPACE
 k,·,_,r,:,f,·,_,(mun),σ
 SPACE

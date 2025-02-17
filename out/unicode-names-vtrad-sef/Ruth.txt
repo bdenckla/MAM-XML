@@ -1632,8 +1632,8 @@ START letter-large
 n,i
 STOP letter-large
 y
-STOP slh-word slhw-desc-0=לִ֣ינִי slhw-desc-1=..נ. slhw-desc-2=ג slhw-desc-3=נ/ג
 START/STOP lp-legarmeih
+STOP slh-word slhw-desc-0=לִ֣ינִי slhw-desc-1=..נ. slhw-desc-2=ג slhw-desc-3=נ/ג
 SPACE
 h,_,l,·,_,(rev),y,:,l,a,h
 SPACE

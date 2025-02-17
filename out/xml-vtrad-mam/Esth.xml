@@ -22,8 +22,8 @@
         <slh-word slhw-desc-0="ח֣וּר" slhw-desc-1="ח.." slhw-desc-2="ג" slhw-desc-3="ח/ג">
           <letter-large text="ח֣" />
           <text text="וּר" />
+          <lp-legarmeih />
         </slh-word>
-        <lp-legarmeih />
         <text text=" כַּרְפַּ֣ס וּתְכֵ֗לֶת אָחוּז֙ בְּחַבְלֵי־ב֣וּץ וְאַרְגָּמָ֔ן עַל־גְּלִ֥ילֵי כֶ֖סֶף וְעַמּ֣וּדֵי שֵׁ֑שׁ מִטּ֣וֹת" />
         <lp-legarmeih />
         <text text=" זָהָ֣ב וָכֶ֗סֶף עַ֛ל רִֽצְפַ֥ת בַּהַט־וָשֵׁ֖שׁ וְדַ֥ר וְסֹחָֽרֶת׃" />
