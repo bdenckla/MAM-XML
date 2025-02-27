@@ -16,11 +16,11 @@ import py.my_str_defs as sd
 def write_bkg_in_un_fmt(variant, bkg_name, verses, rv_cant_that_covers):
     """Write book group in "Unicode names" format."""
     do_quick_test_of_get_pre_lines()
-    path = bkg_path(variant, bkg_name, fmt_is_unicode_names=True)
+    out_path = bkg_path(variant, bkg_name, fmt_is_unicode_names=True)
     title = f"unicode_names {bkg_name}"
     verses_dicts = my_utils.dv_map(dict, verses)
     my_open.with_tmp_openw(
-        path, {}, _write_callback, verses, rv_cant_that_covers, title, verses_dicts
+        out_path, {}, _write_callback, verses, rv_cant_that_covers, title, verses_dicts
     )
 
 
@@ -71,8 +71,7 @@ def bkg_path(variant, bkg_name, fmt_is_unicode_names=False):
     folders = _FOLDERS[path_qual]
     mam_for_xxx = variant.get("variant-mam-for-xxx") or "MAM-for-Sefaria"
     parent = f"../{mam_for_xxx}/out"
-    path = f"{parent}/{folders[fmt]}/{bkg_name}{_EXTENSIONS[fmt]}"
-    return path
+    return f"{parent}/{folders[fmt]}/{bkg_name}{_EXTENSIONS[fmt]}"
 
 
 def _write_callback(verses, rv_cant_that_covers, title, verses_dicts, out_fp):

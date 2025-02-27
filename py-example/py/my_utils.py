@@ -109,12 +109,12 @@ def ss_map(foc, the_sequence):
     return type_of_seq(map(foc, the_sequence))
 
 
-def dv_dispatch(fn_table, dic, *extra_args):
+def dv_dispatch(fn_table, dic):
     """
-    Transform the value at each key using a table of functions.
+    Return a dict with the same keys but with values mapped according to a dict of functions.
     {k: v} becomes {k: f[k](v)}
     """
-    return {key: fn_table[key](*extra_args, val) for key, val in dic.items()}
+    return {k: fn_table[k](v) for k, v in dic.items()}
 
 
 def dv_map(foc, the_dic):

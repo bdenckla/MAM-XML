@@ -12,7 +12,7 @@ import py.sef_cmn as sef_cmn
 import py.my_locales as tbn
 
 
-def write_bkg_in_csv_fmt(path, variant, verses, cant_dabs):
+def write_bkg_in_csv_fmt(out_path, variant, verses, cant_dabs):
     """Write Sefaria-style file in CSV format"""
     book_out = {}
     bkid = None
@@ -27,7 +27,7 @@ def write_bkg_in_csv_fmt(path, variant, verses, cant_dabs):
             for cant_dab in cant_dabs
         )
     my_open.with_tmp_openw(
-        path, {"newline": ""}, _write_bkg_in_csv_fmt2, variant, bkid, book_out
+        out_path, {"newline": ""}, _write_callback, variant, bkid, book_out
     )
 
 
@@ -40,7 +40,7 @@ def _html_str(html_els):
     return "".join(map(my_html.el_to_str_no_wbr, html_els)) if html_els else ""
 
 
-def _write_bkg_in_csv_fmt2(variant, bkid, contents, file_handle):
+def _write_callback(variant, bkid, contents, file_handle):
     writer = csv.writer(file_handle)
     exclude_header = variant.get("variant-exclude-header-from-csv")
     if not exclude_header:

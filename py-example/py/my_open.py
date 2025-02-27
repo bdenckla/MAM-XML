@@ -10,12 +10,12 @@ import json
 import time
 
 
-def with_tmp_openw(path: str, kwargs_dic, write_fun, *write_fun_args):
+def with_tmp_openw(out_path: str, kwargs_dic, write_fun, *write_fun_args):
     """Open path for writing, but through a temporary file"""
-    tpath = _tmp_path(path)
+    tpath = _tmp_path(out_path)
     with _openw(tpath, **kwargs_dic) as outfp:
         retval = write_fun(*write_fun_args, outfp)
-    _replace_file(tpath, path)
+    _replace_file(tpath, out_path)
     return retval
 
 
@@ -43,14 +43,14 @@ def _sleep(fail_count):
     time.sleep(sleep_time)
 
 
-def json_dump_to_file_path(dumpable, path: str):
+def json_dump_to_file_path(dumpable, out_path: str):
     """Dump JSON to a file path"""
-    with_tmp_openw(path, {}, _json_dump_to_file_pointer, dumpable)
+    with_tmp_openw(out_path, {}, _json_dump_to_file_pointer, dumpable)
 
 
-def _openw(path: str, **kwargs):
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    return open(path, "w", encoding="utf-8", **kwargs)
+def _openw(out_path: str, **kwargs):
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    return open(out_path, "w", encoding="utf-8", **kwargs)
 
 
 def _tmp_path(path: str):
