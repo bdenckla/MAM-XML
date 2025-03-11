@@ -25,6 +25,7 @@ def get_bcv_from_osis_id(osid_id):
     # Get bkid, chnu, & vrnu triple from an osisID.
     patt = r"([A-z0-9]*)\.(\d+)\.(\d+)"
     match = re.match(patt, osid_id)
+    assert match
     oba, chnu_str, vrnu_str = match.groups()
     bkid = BK39ID_FROM_OBA[oba]
     chnu = int(chnu_str)
@@ -36,6 +37,7 @@ def get_bc_from_osis_id(osid_id):
     # Get bkid & chnu pair from an osisID.
     patt = r"([A-z0-9]*)\.(\d+)"
     match = re.match(patt, osid_id)
+    assert match
     oba, chnu_str = match.groups()
     bkid = BK39ID_FROM_OBA[oba]
     chnu = int(chnu_str)
