@@ -2,7 +2,7 @@
 This module exports:
     shunna
     accent_names
-    he_char_names
+    he_char_name
     join_shunnas
     t_shunnas
 """
@@ -40,9 +40,9 @@ def rm_mtgoslq(string):
     return string.replace(hpo.MTGOSLQ, "")
 
 
-def he_char_names(string):
-    """Return Hebrew character names."""
-    return list(_HE_TO_NONHE_DIC[c] for c in string)
+def he_char_name(unicode_str_of_len_1):
+    """Return Hebrew character name."""
+    return _HE_TO_NONHE_DIC[unicode_str_of_len_1]
 
 
 def join_shunnas(string, sep=","):
