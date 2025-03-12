@@ -12,7 +12,7 @@ import py.hebrew_letters as hl
 import py.hebrew_points as hpo
 import py.hebrew_punctuation as hpu
 import py.hebrew_accents as ha
-import py.my_str_defs as sd
+import py.str_defs as sd
 
 
 def shunna(string):

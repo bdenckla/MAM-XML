@@ -1,6 +1,6 @@
 """ Exports names for Unicode Hebrew points (niqqud) """
 
-import py.my_str_defs as sd
+import py.str_defs as sd
 
 MTGOSLQ = "\N{HEBREW POINT METEG}"
 VARIKA = "\N{HEBREW POINT JUDEO-SPANISH VARIKA}"

@@ -5,11 +5,11 @@ Exports:
 
 import csv
 import py.my_html as my_html
-import py.my_open as my_open
+import py.file_io as file_io
 import py.my_utils as my_utils
 import py.sef_header as sef_header
 import py.sef_cmn as sef_cmn
-import py.my_locales as tbn
+import py.bib_locales as tbn
 
 
 def write_bkg_in_csv_fmt(out_path, variant, verses, cant_dabs):
@@ -26,7 +26,7 @@ def write_bkg_in_csv_fmt(out_path, variant, verses, cant_dabs):
             _html_str(_maybe_get(verses_dicts, cant_dab, bcvt))
             for cant_dab in cant_dabs
         )
-    my_open.with_tmp_openw(
+    file_io.with_tmp_openw(
         out_path, {"newline": ""}, _write_callback, variant, bkid, book_out
     )
 

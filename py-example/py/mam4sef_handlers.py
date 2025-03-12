@@ -1,9 +1,9 @@
 """ Exports HANDLERS """
 
 import py.my_html as my_html
-import py.my_str_defs as sd
+import py.str_defs as sd
 import py.hebrew_punctuation as hpu
-import py.my_shrink as my_shrink
+import py.shrink as shrink
 
 # etel: ElementTree element
 # ofc1: output for all children, summed together
@@ -146,12 +146,12 @@ def _implicit_maqaf(_etel, _ofc1, _ofc2):
 
 
 def _paren(lst: list):
-    return my_shrink.shrink(["("] + lst + [")"])
+    return shrink.shrink(["("] + lst + [")"])
 
 
 def _ketiv_or_qere_helper(the_class, brackets, ofc1, maybe_maqaf=""):
     brac_ofc1_m = [brackets[0], *ofc1, brackets[1] + maybe_maqaf]
-    return [my_html.span(my_shrink.shrink(brac_ofc1_m), {"class": the_class})]
+    return [my_html.span(shrink.shrink(brac_ofc1_m), {"class": the_class})]
 
 
 def _maybe_sampe(etel):

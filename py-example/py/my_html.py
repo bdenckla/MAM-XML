@@ -5,10 +5,10 @@ import html
 from dataclasses import dataclass
 from typing import Union
 
-import py.my_open as my_open
+import py.file_io as file_io
 import py.hebrew_punctuation as hpu
 import py.two_col_css_styles as styles
-import py.my_str_defs as sd
+import py.str_defs as sd
 from py.my_utils import st_map
 from py.my_utils import sl_map
 
@@ -33,7 +33,7 @@ def write_html_to_file(body_contents, write_ctx: WriteCtx):
     """
     style = write_ctx.style or styles.STYLES_STR
     html_el = html_el2(write_ctx.title, body_contents, other={"head_style": style})
-    my_open.with_tmp_openw(
+    file_io.with_tmp_openw(
         write_ctx.path, {}, _write_callback, html_el, write_ctx.add_wbr
     )
 

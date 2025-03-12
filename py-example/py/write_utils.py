@@ -5,12 +5,12 @@ Exports:
 """
 
 import py.my_html as my_html
-import py.my_open as my_open
+import py.file_io as file_io
 import py.my_utils as my_utils
-import py.my_uni_heb as uh
+import py.uni_heb as uh
 import py.verse_and_friends as vaf
-import py.my_locales as tbn
-import py.my_str_defs as sd
+import py.bib_locales as tbn
+import py.str_defs as sd
 
 
 def write_bkg_in_un_fmt(variant, bkg_name, verses, rv_cant_that_covers):
@@ -19,7 +19,7 @@ def write_bkg_in_un_fmt(variant, bkg_name, verses, rv_cant_that_covers):
     out_path = bkg_path(variant, bkg_name, fmt_is_unicode_names=True)
     title = f"unicode_names {bkg_name}"
     verses_dicts = my_utils.dv_map(dict, verses)
-    my_open.with_tmp_openw(
+    file_io.with_tmp_openw(
         out_path, {}, _write_callback, verses, rv_cant_that_covers, title, verses_dicts
     )
 

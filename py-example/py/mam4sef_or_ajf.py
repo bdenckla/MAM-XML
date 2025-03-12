@@ -4,10 +4,10 @@ import xml.etree.ElementTree as ET
 import py.my_utils_for_mainish as my_utils_fm
 import py.osis_book_abbrevs as osis_book_abbrevs
 import py.sef_cmn as sef_cmn
-import py.my_locales as tbn
+import py.bib_locales as tbn
 import py.write_utils as write_utils
 import py.write_utils_sef_or_ajf as write_utils_sef_or_ajf
-import py.my_shrink as my_shrink
+import py.shrink as shrink
 
 
 def main_helper(variant):
@@ -25,14 +25,14 @@ def _handle(handlers, etel):  # etel: ElementTree element
         output_for_child = _handle(handlers, child)
         ofc1_raw.extend(output_for_child)
         ofc2[child] = output_for_child
-    ofc1 = my_shrink.shrink(ofc1_raw)
+    ofc1 = shrink.shrink(ofc1_raw)
     attr_text = etel.attrib.get("text")
     if attr_text is not None:
         assert not ofc1
         ofc1 = [attr_text]
     tag_and_class = etel.tag, etel.attrib.get("class")
     handler = handlers[tag_and_class]
-    return my_shrink.shrink(handler(etel, ofc1, ofc2))
+    return shrink.shrink(handler(etel, ofc1, ofc2))
 
 
 def _read_book_group(variant, bkg_name):

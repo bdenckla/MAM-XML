@@ -1,7 +1,7 @@
 """ Exports OSIS_BOOK_ABBREVS """
 
 import re
-import py.my_locales as tbn
+import py.bib_locales as tbn
 
 # From https://wiki.crosswire.org/OSIS_Book_Abbreviations.
 

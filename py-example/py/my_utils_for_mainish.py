@@ -1,5 +1,5 @@
 import os
-import py.my_locales as tbn
+import py.bib_locales as tbn
 
 
 import argparse
