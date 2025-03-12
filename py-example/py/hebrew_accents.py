@@ -3,15 +3,13 @@
 import py.cantsys as cantsys
 
 ATN = "\N{HEBREW ACCENT ETNAHTA}"
-SEG_A = "\N{HEBREW ACCENT SEGOL}"  # A for accent (not vowel)
+SEG_A = "\N{HEBREW ACCENT SEGOL}"
 SHA = "\N{HEBREW ACCENT SHALSHELET}"
 ZAQ_Q = "\N{HEBREW ACCENT ZAQEF QATAN}"
 ZAQ_G = "\N{HEBREW ACCENT ZAQEF GADOL}"
 TIP = "\N{HEBREW ACCENT TIPEHA}"
 REV = "\N{HEBREW ACCENT REVIA}"
-ZSH_OR_TSIT = (
-    "\N{HEBREW ACCENT ZARQA}"  # SH: stress helper (!); tsinnorit in Sifrei Emet
-)
+ZSH_OR_TSIT = "\N{HEBREW ACCENT ZARQA}"
 PASH = "\N{HEBREW ACCENT PASHTA}"
 YET = "\N{HEBREW ACCENT YETIV}"
 TEV = "\N{HEBREW ACCENT TEVIR}"
@@ -27,13 +25,24 @@ MAH = "\N{HEBREW ACCENT MAHAPAKH}"
 MER = "\N{HEBREW ACCENT MERKHA}"
 MER_2 = "\N{HEBREW ACCENT MERKHA KEFULA}"
 DAR = "\N{HEBREW ACCENT DARGA}"
-QOM = "\N{HEBREW ACCENT QADMA}"  # qadma (aka azla) or metigah
+QOM = "\N{HEBREW ACCENT QADMA}"
 TEL_Q = "\N{HEBREW ACCENT TELISHA QETANA}"
-YBY = "\N{HEBREW ACCENT YERAH BEN YOMO}"  # aka galgal
+YBY = "\N{HEBREW ACCENT YERAH BEN YOMO}"
 OLE = "\N{HEBREW ACCENT OLE}"
 ILU = "\N{HEBREW ACCENT ILUY}"
 DEX = "\N{HEBREW ACCENT DEHI}"
-Z_OR_TSOR = "\N{HEBREW ACCENT ZINOR}"  # tsinnor in Sifrei Emet
+Z_OR_TSOR = "\N{HEBREW ACCENT ZINOR}"
+
+# In SEG_A, the A is for "accent", i.e. distinguishing it from the vowel SEGOL_V.
+# In ZSH_OR_TSIT, the ZSH stands for "zarqa stress helper" (!)
+# In ZSH_OR_TSIT, the TSIT stands for "tsinnorit" (an accent confied to Sifrei Emet)
+# In Z_OR_TSOR, the Z stands for "zarqa"
+# In Z_OR_TSOR, the TSOR stands for "tsinnor" (an accent confied to Sifrei Emet)
+# In QOM, the Q stands for qadma (aka azla)
+# In QOM, the O stands for "or".
+# In QOM, the M stands for "metigah".
+# Thus, QOM stands for "qadma or metigah".
+# YBY is also known as galgal.
 
 # NU: non-Unicode
 # Both prose and poetic

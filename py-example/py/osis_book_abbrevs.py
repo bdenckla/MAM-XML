@@ -1,5 +1,3 @@
-""" Exports OSIS_BOOK_ABBREVS """
-
 import re
 import py.bib_locales as tbn
 

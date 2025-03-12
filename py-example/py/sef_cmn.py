@@ -1,4 +1,4 @@
-""" Exports some constants commonly needed for Sefaria-related work. """
+""" Exports SEF_BKNA """
 
 import py.bib_locales as tbn
 
