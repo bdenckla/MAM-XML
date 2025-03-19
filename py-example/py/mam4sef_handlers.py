@@ -98,9 +98,14 @@ def _ketiv(etel, ofc1, _ofc2):
        * the ketiv part of a ketiv ve qere (common)
        * a ketiv velo qere (rare)
     """
-    maybe_maqaf_dic = {"append-maqaf": hpu.MAQ, None: ""}
-    maybe_maqaf = maybe_maqaf_dic[etel.attrib.get("class")]
-    return _ketiv_or_qere_helper("mam-kq-k", "()", ofc1, maybe_maqaf)
+    return _ketiv_or_qere_helper("mam-kq-k", "()", ofc1)
+
+
+def _k_velo_q_maq(_etel, _ofc1, _ofc2):
+    """
+    Handle the rare-within-rare (2 cases) of maqaf after ketiv velo qere.
+    """
+    return [my_html.span(hpu.MAQ, {"class": "k-velo-q-maq"})]
 
 
 def _qere(_etel, ofc1, _ofc2):
@@ -113,24 +118,25 @@ def _qere(_etel, ofc1, _ofc2):
 
 
 def _scrdfftar(etel, _ofc1, ofc2):
-    target, note = ofc2.values()
-    starpos = etel.attrib["sdt-starpos"]
-    assert starpos in ("before-word", "after-word")
-    maybe_note_0 = note if starpos == "before-word" else []
-    maybe_note_1 = note if starpos == "after-word" else []
-    return maybe_note_0 + target + maybe_note_1
+    target, _note = ofc2.values()
+    # starpos = etel.attrib["sdt-starpos"]
+    # assert starpos in ("before-word", "after-word")
+    # maybe_note_0 = note if starpos == "before-word" else []
+    # maybe_note_1 = note if starpos == "after-word" else []
+    # return maybe_note_0 + target + maybe_note_1
+    return target
 
 
 def _scrdfftar_target(_etel, ofc1, _ofc2):
     return ofc1
 
 
-def _scrdfftar_note(_etel, ofc1, _ofc2):
-    """Handle a scroll difference note element"""
-    paren_ofc1 = _paren(ofc1)
-    el_sup = my_html.sup(["*"], {"class": "footnote-marker"})
-    el_italic = my_html.italic(paren_ofc1, {"class": "footnote"})
-    return [el_sup, el_italic]
+# def _scrdfftar_note(_etel, ofc1, _ofc2):
+#     """Handle a scroll difference note element"""
+#     paren_ofc1 = _paren(ofc1)
+#     el_sup = my_html.sup(["*"], {"class": "footnote-marker"})
+#     el_italic = my_html.italic(paren_ofc1, {"class": "footnote"})
+#     return [el_sup, el_italic]
 
 
 def _shirah_space(_etel, _ofc1, _ofc2):
@@ -149,9 +155,10 @@ def _paren(lst: list):
     return shrink.shrink(["("] + lst + [")"])
 
 
-def _ketiv_or_qere_helper(the_class, brackets, ofc1, maybe_maqaf=""):
-    brac_ofc1_m = [brackets[0], *ofc1, brackets[1] + maybe_maqaf]
-    return [my_html.span(shrink.shrink(brac_ofc1_m), {"class": the_class})]
+def _ketiv_or_qere_helper(the_class, brackets, ofc1):
+    b0_ofc1_b1 = [brackets[0], *ofc1, brackets[1]]
+    contents = shrink.shrink(b0_ofc1_b1)
+    return [my_html.span(contents, {"class": the_class})]
 
 
 def _maybe_sampe(etel):
@@ -178,7 +185,7 @@ HANDLERS = {
     ("letter-hung", None): _letter_hung,
     #
     ("kq-k-velo-q", None): _ketiv,
-    ("kq-k-velo-q", "append-maqaf"): _ketiv,
+    ("kq-k-velo-q-maq", None): _k_velo_q_maq,
     ("kq-q-velo-k", None): _qere,
     ("kq", None): _ketiv_qere,
     ("kq", "sep-maqaf"): _ketiv_qere,
@@ -205,7 +212,7 @@ HANDLERS = {
     #
     ("scrdfftar", None): _scrdfftar,
     ("sdt-target", None): _scrdfftar_target,
-    ("sdt-note", None): _scrdfftar_note,
+    ("sdt-note", None): _empty,
     #
     ("slh-word", None): _pass_thru,
 }
