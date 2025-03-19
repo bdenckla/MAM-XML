@@ -2,6 +2,7 @@
 This module exports:
     shunna
     accent_names
+    rm_mtgoslq
     he_char_name
     join_shunnas
     t_shunnas
