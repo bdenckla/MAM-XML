@@ -27699,9 +27699,10 @@ SPACE
 r,i,m,·,o,(zaq_q),n.
 SPACE
 y,i,σ,:,l,_,x,-
-START kq-k-velo-q class=append-maqaf
+START kq-k-velo-q
 n,α
-STOP kq-k-velo-q class=append-maqaf
+STOP kq-k-velo-q
+START/STOP kq-k-velo-q-maq
 y,:,h,o,w,a,(mer),h
 SPACE
 l,:,ʕ,_,v,:,d,·,:,k.,a,(tip)

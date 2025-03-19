@@ -2507,7 +2507,8 @@
       </verse>
       <verse osisID="2Sam.13.33" yeivinID="2S 13:33" ends-with-sampe="pe2">
         <text text="וְעַתָּ֡ה אַל־יָשֵׂם֩ אֲדֹנִ֨י הַמֶּ֤לֶךְ אֶל־לִבּוֹ֙ דָּבָ֣ר לֵאמֹ֔ר כׇּל־בְּנֵ֥י הַמֶּ֖לֶךְ מֵ֑תוּ כִּֽי־" />
-        <kq-k-velo-q class="append-maqaf" text="אם" />
+        <kq-k-velo-q text="אם" />
+        <kq-k-velo-q-maq />
         <text text="אַמְנ֥וֹן לְבַדּ֖וֹ מֵֽת׃" />
       </verse>
       <spi-pe2 />

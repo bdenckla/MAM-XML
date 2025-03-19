@@ -33688,9 +33688,10 @@ SPACE
 m,‥,(atn),τ,w,·
 SPACE
 k,·,i,(mos),y,-
-START kq-k-velo-q class=append-maqaf
+START kq-k-velo-q
 α,m.
-STOP kq-k-velo-q class=append-maqaf
+STOP kq-k-velo-q
+START/STOP kq-k-velo-q-maq
 α,_,m,:,n,(mer),w,o,n.
 SPACE
 l,:,v,_,d,·,(tip),w,o
