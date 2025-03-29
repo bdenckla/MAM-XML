@@ -5,16 +5,16 @@ the books of the Hebrew Bible and identifying verses within those books.
 
 import re
 
-# Various programs take a --book39tbn argument.
+# Various programs take a --book39 argument.
 # This comment explains here, centrally, what values are expected for such an
 # argument.
-# book39tbn is a book name of the following type:
+# book39 is a book name of the following type:
 #    * It names a book in the "1 out of 39 books" sense of the word "book".
 #         (This is as opposed to the "1 out of 24 books" sense.)
 #    * It names these books using our "tbn" convention. The "tbn" convention
 #         is encoded here in the my_locales Python module, in
 #         constants like FST_SAMUEL.
-# A pithy example of a valid value for book39tbn is 1Samuel.
+# A pithy example of a valid value for book39 is 1Samuel.
 # The example is pithy since:
 #    * It shows that this is a "39 books" name, since we identify a "half"
 #         of Samuel.
