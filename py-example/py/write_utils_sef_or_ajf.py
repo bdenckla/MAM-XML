@@ -5,11 +5,11 @@ Exports:
 
 import csv
 import py.my_html as my_html
-import py.file_io as file_io
-import py.my_utils as my_utils
+import pycmn.file_io as file_io
+import pycmn.my_utils as my_utils
 import py.sef_header as sef_header
 import py.sef_cmn as sef_cmn
-import py.bib_locales as tbn
+import pycmn.bib_locales as tbn
 
 
 def write_bkg_in_csv_fmt(out_path, variant, verses, cant_dabs):

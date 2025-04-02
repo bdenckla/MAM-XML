@@ -5,12 +5,12 @@ import html
 from dataclasses import dataclass
 from typing import Union
 
-import py.file_io as file_io
-import py.hebrew_punctuation as hpu
+import pycmn.file_io as file_io
+import pycmn.hebrew_punctuation as hpu
 import py.two_col_css_styles as styles
-import py.str_defs as sd
-from py.my_utils import st_map
-from py.my_utils import sl_map
+import pycmn.str_defs as sd
+from pycmn.my_utils import st_map
+from pycmn.my_utils import sl_map
 
 
 @dataclass

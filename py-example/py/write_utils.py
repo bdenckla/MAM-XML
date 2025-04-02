@@ -5,12 +5,12 @@ Exports:
 """
 
 import py.my_html as my_html
-import py.file_io as file_io
-import py.my_utils as my_utils
-import py.uni_heb as uh
+import pycmn.file_io as file_io
+import pycmn.my_utils as my_utils
+import pycmn.uni_heb as uh
 import py.verse_and_friends as vaf
-import py.bib_locales as tbn
-import py.str_defs as sd
+import pycmn.bib_locales as tbn
+import pycmn.str_defs as sd
 
 
 def write_bkg_in_un_fmt(variant, bkg_name, verses, rv_cant_that_covers):

@@ -19,7 +19,7 @@ import re
 #    * It shows that this is a "39 books" name, since we identify a "half"
 #         of Samuel.
 #    * It shows that this is neither the Sefaria nor the UXLC book naming
-#         convention: since those would be I Samuel and Samuel_1 respectively.
+#         convention, since those would be I Samuel and Samuel_1 respectively.
 
 
 def bk39_is_of_sec(secid, bk39id):
@@ -60,22 +60,6 @@ def bk24id(bk39id):
     return _bkprop_bk24id(_BK39_PROPERTIES[bk39id])
 
 
-def ordered_short(bk39id):  # E.g. 'A1' for GENESIS, 'FD' for SND_CHRONICLES
-    """
-    Returns the ordered short name (2 alphanumerics) corresponding to the
-    given book.
-    E.g. A1 for Genesis, BA for 1Samuel.
-    The 1st alphanumeric is a letter in the range A to F
-    corresponding to the book's section.
-    The 2nd alphanumeric is a capital Latin letter or base-10 digit.
-    This 2nd alphanumeric identifies and orders the book within its
-    section.
-    ASCII ordering, in particular digits-before-letters ordering,
-    is assumed. E.g. B1 (Joshua) comes before BA (1Samuel).
-    """
-    return _bkprop_ordered_short(_BK39_PROPERTIES[bk39id])
-
-
 def get_bknu(bk39id):  # E.g. 1 for GENESIS, 39 for SND_CHRONICLES.
     """
     E.g. 1 for GENESIS, 39 for SND_CHRONICLES.
@@ -89,22 +73,10 @@ def ordered_short_dash_full_39(bk39id):
     return f"{ordered_short(bk39id)}-{bk39id}"
 
 
-def ordered_short_24(bk24id):
-    """Return, for example, 'BC' given 'Kings'."""
-    assert bk24id in _ALL_BK24_IDS
-    bk39ids = bk39ids_of_bk24(bk24id)
-    return ordered_short(bk39ids[0])
-
-
 def ordered_short_dash_full_24(bk24id):
     """Return, for example, 'BC-Kings.json' given 'Kings'."""
     assert bk24id in _ALL_BK24_IDS
-    return f"{ordered_short_24(bk24id)}-{bk24id}"
-
-
-def osdf24(bk24id):
-    """Return, for example, 'BC-Kings.json' given 'Kings'."""
-    return ordered_short_dash_full_24(bk24id)
+    return f"{_ordered_short_24(bk24id)}-{bk24id}"
 
 
 def short_bcv(bcv):
@@ -382,6 +354,22 @@ def is_cvt(obj):
     )
 
 
+def ordered_short(bk39id):  # E.g. 'A1' for GENESIS, 'FD' for SND_CHRONICLES
+    """
+    Returns the ordered short name (2 alphanumerics) corresponding to the
+    given book.
+    E.g. A1 for Genesis, BA for 1Samuel.
+    The 1st alphanumeric is a letter in the range A to F
+    corresponding to the book's section.
+    The 2nd alphanumeric is a capital Latin letter or base-10 digit.
+    This 2nd alphanumeric identifies and orders the book within its
+    section.
+    ASCII ordering, in particular digits-before-letters ordering,
+    is assumed. E.g. B1 (Joshua) comes before BA (1Samuel).
+    """
+    return _bkprop_ordered_short(_BK39_PROPERTIES[bk39id])
+
+
 def _max_width_for_chnu(bk39id):
     if bk39id == BK_PSALMS:
         return 3
@@ -436,6 +424,13 @@ def _bcvt_setv(bcvt, new_vrnu):
 def _cvt_setv(cvt, new_vrnu):
     chnu, vtrad = cvt_get_chnu(cvt), cvt_get_vtrad(cvt)
     return mk_cvt(chnu, new_vrnu, vtrad)
+
+
+def _ordered_short_24(bk24id):
+    """Return, for example, 'BC' given 'Kings'."""
+    assert bk24id in _ALL_BK24_IDS
+    bk39ids = bk39ids_of_bk24(bk24id)
+    return ordered_short(bk39ids[0])
 
 
 BK_GENESIS = "Genesis"
