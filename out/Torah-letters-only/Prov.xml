@@ -1,0 +1,1739 @@
+<book24 versification-tradition="vtmam">
+  <book39 osisID="Prov">
+    <chapter osisID="Prov.1">
+      <verse osisID="Prov.1.1" yeivinID="Prov 1:1">
+        <slh-word slhw-desc-0="משלי" slhw-desc-1="מ..." slhw-desc-2="ג" slhw-desc-3="מ/ג">
+          <letter-large text="מ" />
+          <text text="שלי" />
+        </slh-word>
+        <text text=" שלמה בן־דוד מלך ישראל׃" />
+      </verse>
+      <verse osisID="Prov.1.2" yeivinID="Prov 1:2" text="לדעת חכמה ומוסר להבין אמרי בינה׃" />
+      <verse osisID="Prov.1.3" yeivinID="Prov 1:3" text="לקחת מוסר השכל צדק ומשפט ומשרים׃" />
+      <verse osisID="Prov.1.4" yeivinID="Prov 1:4" text="לתת לפתאים ערמה לנער דעת ומזמה׃" />
+      <verse osisID="Prov.1.5" yeivinID="Prov 1:5" text="ישמע חכם ויוסף לקח ונבון תחבלות יקנה׃" />
+      <verse osisID="Prov.1.6" yeivinID="Prov 1:6" text="להבין משל ומליצה דברי חכמים וחידתם׃" />
+      <verse osisID="Prov.1.7" yeivinID="Prov 1:7" ends-with-sampe="pe2" text="יראת יהוה ראשית דעת חכמה ומוסר אוילים בזו׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.1.8" yeivinID="Prov 1:8" starts-with-sampe="pe2" text="שמע בני מוסר אביך ואל־תטש תורת אמך׃" />
+      <verse osisID="Prov.1.9" yeivinID="Prov 1:9">
+        <text text="כי" />
+        <lp-legarmeih />
+        <text text=" לוית חן הם לראשך וענקים לגרגרתך׃" />
+      </verse>
+      <verse osisID="Prov.1.10" yeivinID="Prov 1:10" text="בני אם־יפתוך חטאים אל־תבא׃" />
+      <verse osisID="Prov.1.11" yeivinID="Prov 1:11" text="אם־יאמרו לכה אתנו נארבה לדם נצפנה לנקי חנם׃" />
+      <verse osisID="Prov.1.12" yeivinID="Prov 1:12" text="נבלעם כשאול חיים ותמימים כיורדי בור׃" />
+      <verse osisID="Prov.1.13" yeivinID="Prov 1:13" text="כל־הון יקר נמצא נמלא בתינו שלל׃" />
+      <verse osisID="Prov.1.14" yeivinID="Prov 1:14" text="גורלך תפיל בתוכנו כיס אחד יהיה לכלנו׃" />
+      <verse osisID="Prov.1.15" yeivinID="Prov 1:15" text="בני אל־תלך בדרך אתם מנע רגלך מנתיבתם׃" />
+      <verse osisID="Prov.1.16" yeivinID="Prov 1:16" text="כי רגליהם לרע ירוצו וימהרו לשפך־דם׃" />
+      <verse osisID="Prov.1.17" yeivinID="Prov 1:17" text="כי־חנם מזרה הרשת בעיני כל־בעל כנף׃" />
+      <verse osisID="Prov.1.18" yeivinID="Prov 1:18" text="והם לדמם יארבו יצפנו לנפשתם׃" />
+      <verse osisID="Prov.1.19" yeivinID="Prov 1:19" ends-with-sampe="pe2" text="כן ארחות כל־בצע בצע את־נפש בעליו יקח׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.1.20" yeivinID="Prov 1:20" starts-with-sampe="pe2" text="חכמות בחוץ תרנה ברחבות תתן קולה׃" />
+      <verse osisID="Prov.1.21" yeivinID="Prov 1:21" text="בראש המיות תקרא בפתחי שערים בעיר אמריה תאמר׃" />
+      <verse osisID="Prov.1.22" yeivinID="Prov 1:22">
+        <text text="עד־מתי" />
+        <lp-paseq />
+        <text text="פתים תאהבו" />
+        <implicit-maqaf />
+        <text text="פתי ולצים לצון חמדו להם וכסילים ישנאו־דעת׃" />
+      </verse>
+      <verse osisID="Prov.1.23" yeivinID="Prov 1:23" text="תשובו לתוכחתי הנה אביעה לכם רוחי אודיעה דברי אתכם׃" />
+      <verse osisID="Prov.1.24" yeivinID="Prov 1:24" text="יען קראתי ותמאנו נטיתי ידי ואין מקשיב׃" />
+      <verse osisID="Prov.1.25" yeivinID="Prov 1:25" text="ותפרעו כל־עצתי ותוכחתי לא אביתם׃" />
+      <verse osisID="Prov.1.26" yeivinID="Prov 1:26" text="גם־אני באידכם אשחק אלעג בבא פחדכם׃" />
+      <verse osisID="Prov.1.27" yeivinID="Prov 1:27">
+        <text text="בבא " />
+        <kq>
+          <kq-k text="כשאוה" />
+          <kq-q>
+            <text text="כשואה" />
+            <lp-legarmeih />
+          </kq-q>
+        </kq>
+        <text text=" פחדכם ואידכם כסופה יאתה בבא עליכם צרה וצוקה׃" />
+      </verse>
+      <verse osisID="Prov.1.28" yeivinID="Prov 1:28" text="אז יקראנני ולא אענה ישחרנני ולא ימצאנני׃" />
+      <verse osisID="Prov.1.29" yeivinID="Prov 1:29" text="תחת כי־שנאו דעת ויראת יהוה לא בחרו׃" />
+      <verse osisID="Prov.1.30" yeivinID="Prov 1:30" text="לא־אבו לעצתי נאצו כל־תוכחתי׃" />
+      <verse osisID="Prov.1.31" yeivinID="Prov 1:31" text="ויאכלו מפרי דרכם וממעצתיהם ישבעו׃" />
+      <verse osisID="Prov.1.32" yeivinID="Prov 1:32" text="כי משובת פתים תהרגם ושלות כסילים תאבדם׃" />
+      <verse osisID="Prov.1.33" yeivinID="Prov 1:33" ends-with-sampe="pe2" text="ושמע לי ישכן־בטח ושאנן מפחד רעה׃" />
+    </chapter>
+    <spi-pe2 />
+    <chapter osisID="Prov.2">
+      <verse osisID="Prov.2.1" yeivinID="Prov 2:1" starts-with-sampe="pe2" text="בני אם־תקח אמרי ומצותי תצפן אתך׃" />
+      <verse osisID="Prov.2.2" yeivinID="Prov 2:2" text="להקשיב לחכמה אזנך תטה לבך לתבונה׃" />
+      <verse osisID="Prov.2.3" yeivinID="Prov 2:3" text="כי אם לבינה תקרא לתבונה תתן קולך׃" />
+      <verse osisID="Prov.2.4" yeivinID="Prov 2:4" text="אם־תבקשנה ככסף וכמטמונים תחפשנה׃" />
+      <verse osisID="Prov.2.5" yeivinID="Prov 2:5" text="אז תבין יראת יהוה ודעת אלהים תמצא׃" />
+      <verse osisID="Prov.2.6" yeivinID="Prov 2:6" text="כי־יהוה יתן חכמה מפיו דעת ותבונה׃" />
+      <verse osisID="Prov.2.7" yeivinID="Prov 2:7">
+        <kq>
+          <kq-k text="וצפן" />
+          <kq-q text="יצפן" />
+        </kq>
+        <text text=" לישרים תושיה מגן להלכי תם׃" />
+      </verse>
+      <verse osisID="Prov.2.8" yeivinID="Prov 2:8" text="לנצר ארחות משפט ודרך חסידו ישמר׃" />
+      <verse osisID="Prov.2.9" yeivinID="Prov 2:9" text="אז תבין צדק ומשפט ומישרים כל־מעגל־טוב׃" />
+      <verse osisID="Prov.2.10" yeivinID="Prov 2:10" text="כי־תבוא חכמה בלבך ודעת לנפשך ינעם׃" />
+      <verse osisID="Prov.2.11" yeivinID="Prov 2:11" text="מזמה תשמר עליך תבונה תנצרכה׃" />
+      <verse osisID="Prov.2.12" yeivinID="Prov 2:12" text="להצילך מדרך רע מאיש מדבר תהפכות׃" />
+      <verse osisID="Prov.2.13" yeivinID="Prov 2:13" text="העזבים ארחות ישר ללכת בדרכי־חשך׃" />
+      <verse osisID="Prov.2.14" yeivinID="Prov 2:14" text="השמחים לעשות רע יגילו בתהפכות רע׃" />
+      <verse osisID="Prov.2.15" yeivinID="Prov 2:15" text="אשר ארחתיהם עקשים ונלוזים במעגלותם׃" />
+      <verse osisID="Prov.2.16" yeivinID="Prov 2:16" text="להצילך מאשה זרה מנכריה אמריה החליקה׃" />
+      <verse osisID="Prov.2.17" yeivinID="Prov 2:17" text="העזבת אלוף נעוריה ואת־ברית אלהיה שכחה׃" />
+      <verse osisID="Prov.2.18" yeivinID="Prov 2:18" text="כי שחה אל־מות ביתה ואל־רפאים מעגלתיה׃" />
+      <verse osisID="Prov.2.19" yeivinID="Prov 2:19" text="כל־באיה לא ישובון ולא־ישיגו ארחות חיים׃" />
+      <verse osisID="Prov.2.20" yeivinID="Prov 2:20" text="למען תלך בדרך טובים וארחות צדיקים תשמר׃" />
+      <verse osisID="Prov.2.21" yeivinID="Prov 2:21" text="כי־ישרים ישכנו־ארץ ותמימים יותרו בה׃" />
+      <verse osisID="Prov.2.22" yeivinID="Prov 2:22" ends-with-sampe="pe2" text="ורשעים מארץ יכרתו ובוגדים יסחו ממנה׃" />
+    </chapter>
+    <spi-pe2 />
+    <chapter osisID="Prov.3">
+      <verse osisID="Prov.3.1" yeivinID="Prov 3:1" starts-with-sampe="pe2" text="בני תורתי אל־תשכח ומצותי יצר לבך׃" />
+      <verse osisID="Prov.3.2" yeivinID="Prov 3:2" text="כי ארך ימים ושנות חיים ושלום יוסיפו לך׃" />
+      <verse osisID="Prov.3.3" yeivinID="Prov 3:3" text="חסד ואמת אל־יעזבך קשרם על־גרגרותיך כתבם על־לוח לבך׃" />
+      <verse osisID="Prov.3.4" yeivinID="Prov 3:4" text="ומצא־חן ושכל־טוב בעיני אלהים ואדם׃" />
+      <verse osisID="Prov.3.5" yeivinID="Prov 3:5" text="בטח אל־יהוה בכל־לבך ואל־בינתך אל־תשען׃" />
+      <verse osisID="Prov.3.6" yeivinID="Prov 3:6" text="בכל־דרכיך דעהו והוא יישר ארחתיך׃" />
+      <verse osisID="Prov.3.7" yeivinID="Prov 3:7" text="אל־תהי חכם בעיניך ירא את־יהוה וסור מרע׃" />
+      <verse osisID="Prov.3.8" yeivinID="Prov 3:8" text="רפאות תהי לשרך ושקוי לעצמותיך׃" />
+      <verse osisID="Prov.3.9" yeivinID="Prov 3:9" text="כבד את־יהוה מהונך ומראשית כל־תבואתך׃" />
+      <verse osisID="Prov.3.10" yeivinID="Prov 3:10" ends-with-sampe="pe2" text="וימלאו אסמיך שבע ותירוש יקביך יפרצו׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.3.11" yeivinID="Prov 3:11" starts-with-sampe="pe2" text="מוסר יהוה בני אל־תמאס ואל־תקץ בתוכחתו׃" />
+      <verse osisID="Prov.3.12" yeivinID="Prov 3:12">
+        <text text="כי את" />
+        <implicit-maqaf />
+        <text text="אשר יאהב יהוה יוכיח וכאב את־בן ירצה׃" />
+      </verse>
+      <verse osisID="Prov.3.13" yeivinID="Prov 3:13" text="אשרי אדם מצא חכמה ואדם יפיק תבונה׃" />
+      <verse osisID="Prov.3.14" yeivinID="Prov 3:14" text="כי טוב סחרה מסחר־כסף ומחרוץ תבואתה׃" />
+      <verse osisID="Prov.3.15" yeivinID="Prov 3:15">
+        <text text="יקרה היא " />
+        <kq>
+          <kq-k text="מפניים" />
+          <kq-q text="מפנינים" />
+        </kq>
+        <text text=" וכל־חפציך לא ישוו־בה׃" />
+      </verse>
+      <verse osisID="Prov.3.16" yeivinID="Prov 3:16" text="ארך ימים בימינה בשמאולה עשר וכבוד׃" />
+      <verse osisID="Prov.3.17" yeivinID="Prov 3:17" text="דרכיה דרכי־נעם וכל־נתיבותיה שלום׃" />
+      <verse osisID="Prov.3.18" yeivinID="Prov 3:18" ends-with-sampe="pe2" text="עץ־חיים היא למחזיקים בה ותמכיה מאשר׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.3.19" yeivinID="Prov 3:19" starts-with-sampe="pe2" text="יהוה בחכמה יסד־ארץ כונן שמים בתבונה׃" />
+      <verse osisID="Prov.3.20" yeivinID="Prov 3:20" text="בדעתו תהומות נבקעו ושחקים ירעפו־טל׃" />
+      <verse osisID="Prov.3.21" yeivinID="Prov 3:21" text="בני אל־ילזו מעיניך נצר תשיה ומזמה׃" />
+      <verse osisID="Prov.3.22" yeivinID="Prov 3:22" text="ויהיו חיים לנפשך וחן לגרגרתיך׃" />
+      <verse osisID="Prov.3.23" yeivinID="Prov 3:23" text="אז תלך לבטח דרכך ורגלך לא תגוף׃" />
+      <verse osisID="Prov.3.24" yeivinID="Prov 3:24" text="אם־תשכב לא־תפחד ושכבת וערבה שנתך׃" />
+      <verse osisID="Prov.3.25" yeivinID="Prov 3:25" text="אל־תירא מפחד פתאם ומשאת רשעים כי תבא׃" />
+      <verse osisID="Prov.3.26" yeivinID="Prov 3:26" text="כי־יהוה יהיה בכסלך ושמר רגלך מלכד׃" />
+      <verse osisID="Prov.3.27" yeivinID="Prov 3:27">
+        <text text="אל־תמנע־טוב מבעליו בהיות לאל " />
+        <kq>
+          <kq-k text="ידיך" />
+          <kq-q text="ידך" />
+        </kq>
+        <text text=" לעשות׃" />
+      </verse>
+      <verse osisID="Prov.3.28" yeivinID="Prov 3:28">
+        <text text="אל־תאמר " />
+        <kq>
+          <kq-k text="לרעיך" />
+          <kq-q>
+            <text text="לרעך" />
+            <lp-legarmeih />
+          </kq-q>
+        </kq>
+        <text text=" לך ושוב ומחר אתן ויש אתך׃" />
+      </verse>
+      <verse osisID="Prov.3.29" yeivinID="Prov 3:29" text="אל־תחרש על־רעך רעה והוא־יושב לבטח אתך׃" />
+      <verse osisID="Prov.3.30" yeivinID="Prov 3:30">
+        <text text="אל־" />
+        <kq>
+          <kq-q text="תריב" />
+          <kq-k text="תרוב" />
+        </kq>
+        <text text=" עם־אדם חנם אם־לא גמלך רעה׃" />
+      </verse>
+      <verse osisID="Prov.3.31" yeivinID="Prov 3:31" text="אל־תקנא באיש חמס ואל־תבחר בכל־דרכיו׃" />
+      <verse osisID="Prov.3.32" yeivinID="Prov 3:32" text="כי תועבת יהוה נלוז ואת־ישרים סודו׃" />
+      <verse osisID="Prov.3.33" yeivinID="Prov 3:33" text="מארת יהוה בבית רשע ונוה צדיקים יברך׃" />
+      <verse osisID="Prov.3.34" yeivinID="Prov 3:34">
+        <text text="אם־ללצים הוא־יליץ " />
+        <kq>
+          <kq-k text="ולעניים" />
+          <kq-q text="ולענוים" />
+        </kq>
+        <text text=" יתן־חן׃" />
+      </verse>
+      <verse osisID="Prov.3.35" yeivinID="Prov 3:35" ends-with-sampe="pe2" text="כבוד חכמים ינחלו וכסילים מרים קלון׃" />
+    </chapter>
+    <spi-pe2 />
+    <chapter osisID="Prov.4">
+      <verse osisID="Prov.4.1" yeivinID="Prov 4:1" starts-with-sampe="pe2" text="שמעו בנים מוסר אב והקשיבו לדעת בינה׃" />
+      <verse osisID="Prov.4.2" yeivinID="Prov 4:2" text="כי לקח טוב נתתי לכם תורתי אל־תעזבו׃" />
+      <verse osisID="Prov.4.3" yeivinID="Prov 4:3" text="כי־בן הייתי לאבי רך ויחיד לפני אמי׃" />
+      <verse osisID="Prov.4.4" yeivinID="Prov 4:4" text="וירני ויאמר לי יתמך־דברי לבך שמר מצותי וחיה׃" />
+      <verse osisID="Prov.4.5" yeivinID="Prov 4:5" text="קנה חכמה קנה בינה אל־תשכח ואל־תט מאמרי־פי׃" />
+      <verse osisID="Prov.4.6" yeivinID="Prov 4:6" text="אל־תעזבה ותשמרך אהבה ותצרך׃" />
+      <verse osisID="Prov.4.7" yeivinID="Prov 4:7" text="ראשית חכמה קנה חכמה ובכל־קנינך קנה בינה׃" />
+      <verse osisID="Prov.4.8" yeivinID="Prov 4:8" text="סלסלה ותרוממך תכבדך כי תחבקנה׃" />
+      <verse osisID="Prov.4.9" yeivinID="Prov 4:9" text="תתן לראשך לוית־חן עטרת תפארת תמגנך׃" />
+      <verse osisID="Prov.4.10" yeivinID="Prov 4:10" text="שמע בני וקח אמרי וירבו לך שנות חיים׃" />
+      <verse osisID="Prov.4.11" yeivinID="Prov 4:11" text="בדרך חכמה הריתיך הדרכתיך במעגלי־ישר׃" />
+      <verse osisID="Prov.4.12" yeivinID="Prov 4:12" text="בלכתך לא־יצר צעדך ואם־תרוץ לא תכשל׃" />
+      <verse osisID="Prov.4.13" yeivinID="Prov 4:13" text="החזק במוסר אל־תרף נצרה כי־היא חייך׃" />
+      <verse osisID="Prov.4.14" yeivinID="Prov 4:14" text="בארח רשעים אל־תבא ואל־תאשר בדרך רעים׃" />
+      <verse osisID="Prov.4.15" yeivinID="Prov 4:15" text="פרעהו אל־תעבר־בו שטה מעליו ועבר׃" />
+      <verse osisID="Prov.4.16" yeivinID="Prov 4:16">
+        <text text="כי לא ישנו אם־לא ירעו ונגזלה שנתם אם־לא " />
+        <kq>
+          <kq-k text="יכשולו" />
+          <kq-q text="יכשילו" />
+        </kq>
+        <text text="׃" />
+      </verse>
+      <verse osisID="Prov.4.17" yeivinID="Prov 4:17" text="כי לחמו לחם רשע ויין חמסים ישתו׃" />
+      <verse osisID="Prov.4.18" yeivinID="Prov 4:18" text="וארח צדיקים כאור נגה הולך ואור עד־נכון היום׃" />
+      <verse osisID="Prov.4.19" yeivinID="Prov 4:19" ends-with-sampe="pe2" text="דרך רשעים כאפלה לא ידעו במה יכשלו׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.4.20" yeivinID="Prov 4:20" starts-with-sampe="pe2" text="בני לדברי הקשיבה לאמרי הט־אזנך׃" />
+      <verse osisID="Prov.4.21" yeivinID="Prov 4:21" text="אל־יליזו מעיניך שמרם בתוך לבבך׃" />
+      <verse osisID="Prov.4.22" yeivinID="Prov 4:22" text="כי־חיים הם למצאיהם ולכל־בשרו מרפא׃" />
+      <verse osisID="Prov.4.23" yeivinID="Prov 4:23" text="מכל־משמר נצר לבך כי־ממנו תוצאות חיים׃" />
+      <verse osisID="Prov.4.24" yeivinID="Prov 4:24" text="הסר ממך עקשות פה ולזות שפתים הרחק ממך׃" />
+      <verse osisID="Prov.4.25" yeivinID="Prov 4:25" text="עיניך לנכח יביטו ועפעפיך יישרו נגדך׃" />
+      <verse osisID="Prov.4.26" yeivinID="Prov 4:26" text="פלס מעגל רגלך וכל־דרכיך יכנו׃" />
+      <verse osisID="Prov.4.27" yeivinID="Prov 4:27" ends-with-sampe="pe2" text="אל־תט־ימין ושמאול הסר רגלך מרע׃" />
+    </chapter>
+    <spi-pe2 />
+    <chapter osisID="Prov.5">
+      <verse osisID="Prov.5.1" yeivinID="Prov 5:1" starts-with-sampe="pe2" text="בני לחכמתי הקשיבה לתבונתי הט־אזנך׃" />
+      <verse osisID="Prov.5.2" yeivinID="Prov 5:2" text="לשמר מזמות ודעת שפתיך ינצרו׃" />
+      <verse osisID="Prov.5.3" yeivinID="Prov 5:3" text="כי נפת תטפנה שפתי זרה וחלק משמן חכה׃" />
+      <verse osisID="Prov.5.4" yeivinID="Prov 5:4" text="ואחריתה מרה כלענה חדה כחרב פיות׃" />
+      <verse osisID="Prov.5.5" yeivinID="Prov 5:5" text="רגליה ירדות מות שאול צעדיה יתמכו׃" />
+      <verse osisID="Prov.5.6" yeivinID="Prov 5:6" ends-with-sampe="pe2" text="ארח חיים פן־תפלס נעו מעגלתיה לא תדע׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.5.7" yeivinID="Prov 5:7" starts-with-sampe="pe2" text="ועתה בנים שמעו־לי ואל־תסורו מאמרי־פי׃" />
+      <verse osisID="Prov.5.8" yeivinID="Prov 5:8" text="הרחק מעליה דרכך ואל־תקרב אל־פתח ביתה׃" />
+      <verse osisID="Prov.5.9" yeivinID="Prov 5:9" text="פן־תתן לאחרים הודך ושנתיך לאכזרי׃" />
+      <verse osisID="Prov.5.10" yeivinID="Prov 5:10" text="פן־ישבעו זרים כחך ועצביך בבית נכרי׃" />
+      <verse osisID="Prov.5.11" yeivinID="Prov 5:11" text="ונהמת באחריתך בכלות בשרך ושארך׃" />
+      <verse osisID="Prov.5.12" yeivinID="Prov 5:12" text="ואמרת איך שנאתי מוסר ותוכחת נאץ לבי׃" />
+      <verse osisID="Prov.5.13" yeivinID="Prov 5:13" text="ולא־שמעתי בקול מורי ולמלמדי לא־הטיתי אזני׃" />
+      <verse osisID="Prov.5.14" yeivinID="Prov 5:14" text="כמעט הייתי בכל־רע בתוך קהל ועדה׃" />
+      <verse osisID="Prov.5.15" yeivinID="Prov 5:15" text="שתה־מים מבורך ונזלים מתוך בארך׃" />
+      <verse osisID="Prov.5.16" yeivinID="Prov 5:16" text="יפוצו מעינתיך חוצה ברחבות פלגי־מים׃" />
+      <verse osisID="Prov.5.17" yeivinID="Prov 5:17" text="יהיו־לך לבדך ואין לזרים אתך׃" />
+      <verse osisID="Prov.5.18" yeivinID="Prov 5:18" text="יהי־מקורך ברוך ושמח מאשת נעורך׃" />
+      <verse osisID="Prov.5.19" yeivinID="Prov 5:19" text="אילת אהבים ויעלת־חן דדיה ירוך בכל־עת באהבתה תשגה תמיד׃" />
+      <verse osisID="Prov.5.20" yeivinID="Prov 5:20" text="ולמה תשגה בני בזרה ותחבק חק נכריה׃" />
+      <verse osisID="Prov.5.21" yeivinID="Prov 5:21">
+        <text text="כי נכח" />
+        <lp-legarmeih />
+        <text text=" עיני יהוה דרכי־איש וכל־מעגלתיו מפלס׃" />
+      </verse>
+      <verse osisID="Prov.5.22" yeivinID="Prov 5:22" text="עוונתיו ילכדנו את־הרשע ובחבלי חטאתו יתמך׃" />
+      <verse osisID="Prov.5.23" yeivinID="Prov 5:23" ends-with-sampe="pe2" text="הוא ימות באין מוסר וברב אולתו ישגה׃" />
+    </chapter>
+    <spi-pe2 />
+    <chapter osisID="Prov.6">
+      <verse osisID="Prov.6.1" yeivinID="Prov 6:1" starts-with-sampe="pe2" text="בני אם־ערבת לרעך תקעת לזר כפיך׃" />
+      <verse osisID="Prov.6.2" yeivinID="Prov 6:2" text="נוקשת באמרי־פיך נלכדת באמרי־פיך׃" />
+      <verse osisID="Prov.6.3" yeivinID="Prov 6:3">
+        <text text="עשה זאת אפוא" />
+        <lp-paseq />
+        <text text="בני והנצל כי" />
+        <implicit-maqaf />
+        <text text="באת בכף־רעך לך התרפס ורהב רעיך׃" />
+      </verse>
+      <verse osisID="Prov.6.4" yeivinID="Prov 6:4" text="אל־תתן שנה לעיניך ותנומה לעפעפיך׃" />
+      <verse osisID="Prov.6.5" yeivinID="Prov 6:5" ends-with-sampe="pe2" text="הנצל כצבי מיד וכצפור מיד יקוש׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.6.6" yeivinID="Prov 6:6" starts-with-sampe="pe2" text="לך־אל־נמלה עצל ראה דרכיה וחכם׃" />
+      <verse osisID="Prov.6.7" yeivinID="Prov 6:7" text="אשר אין־לה קצין שטר ומשל׃" />
+      <verse osisID="Prov.6.8" yeivinID="Prov 6:8" text="תכין בקיץ לחמה אגרה בקציר מאכלה׃" />
+      <verse osisID="Prov.6.9" yeivinID="Prov 6:9">
+        <text text="עד־מתי עצל" />
+        <lp-paseq />
+        <text text="תשכב מתי תקום משנתך׃" />
+      </verse>
+      <verse osisID="Prov.6.10" yeivinID="Prov 6:10">
+        <text text="מעט שנות מעט תנומות מעט" />
+        <lp-legarmeih />
+        <text text=" חבק ידים לשכב׃" />
+      </verse>
+      <verse osisID="Prov.6.11" yeivinID="Prov 6:11" ends-with-sampe="pe2" text="ובא־כמהלך ראשך ומחסרך כאיש מגן׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.6.12" yeivinID="Prov 6:12" starts-with-sampe="pe2" text="אדם בליעל איש און הולך עקשות פה׃" />
+      <verse osisID="Prov.6.13" yeivinID="Prov 6:13">
+        <text text="קרץ " />
+        <kq-trivial text="בעינו" />
+        <text text=" מלל " />
+        <kq-trivial text="ברגלו" />
+        <text text=" מרה באצבעתיו׃" />
+      </verse>
+      <verse osisID="Prov.6.14" yeivinID="Prov 6:14">
+        <text text="תהפכות" />
+        <lp-legarmeih />
+        <text text=" בלבו חרש רע בכל־עת " />
+        <kq>
+          <kq-k text="מדנים" />
+          <kq-q text="מדינים" />
+        </kq>
+        <text text=" ישלח׃" />
+      </verse>
+      <verse osisID="Prov.6.15" yeivinID="Prov 6:15" ends-with-sampe="pe2" text="על־כן פתאם יבוא אידו פתע ישבר ואין מרפא׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.6.16" yeivinID="Prov 6:16" starts-with-sampe="pe2">
+        <text text="שש־הנה שנא יהוה ושבע " />
+        <kq>
+          <kq-k text="תועבות" />
+          <kq-q text="תועבת" />
+        </kq>
+        <text text=" נפשו׃" />
+      </verse>
+      <verse osisID="Prov.6.17" yeivinID="Prov 6:17" text="עינים רמות לשון שקר וידים שפכות דם־נקי׃" />
+      <verse osisID="Prov.6.18" yeivinID="Prov 6:18" text="לב חרש מחשבות און רגלים ממהרות לרוץ לרעה׃" />
+      <verse osisID="Prov.6.19" yeivinID="Prov 6:19" ends-with-sampe="pe2" text="יפיח כזבים עד שקר ומשלח מדנים בין אחים׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.6.20" yeivinID="Prov 6:20" starts-with-sampe="pe2" text="נצר בני מצות אביך ואל־תטש תורת אמך׃" />
+      <verse osisID="Prov.6.21" yeivinID="Prov 6:21" text="קשרם על־לבך תמיד ענדם על־גרגרתך׃" />
+      <verse osisID="Prov.6.22" yeivinID="Prov 6:22">
+        <text text="בהתהלכך" />
+        <lp-legarmeih />
+        <text text=" תנחה אתך בשכבך תשמר עליך והקיצות היא תשיחך׃" />
+      </verse>
+      <verse osisID="Prov.6.23" yeivinID="Prov 6:23" text="כי נר מצוה ותורה אור ודרך חיים תוכחות מוסר׃" />
+      <verse osisID="Prov.6.24" yeivinID="Prov 6:24" text="לשמרך מאשת רע מחלקת לשון נכריה׃" />
+      <verse osisID="Prov.6.25" yeivinID="Prov 6:25" text="אל־תחמד יפיה בלבבך ואל־תקחך בעפעפיה׃" />
+      <verse osisID="Prov.6.26" yeivinID="Prov 6:26" ends-with-sampe="pe2">
+        <text text="כי בעד־אשה זונה עד־ככר" />
+        <implicit-maqaf />
+        <text text="לחם ואשת איש נפש יקרה תצוד׃" />
+      </verse>
+      <spi-pe2 />
+      <verse osisID="Prov.6.27" yeivinID="Prov 6:27" starts-with-sampe="pe2" text="היחתה איש אש בחיקו ובגדיו לא תשרפנה׃" />
+      <verse osisID="Prov.6.28" yeivinID="Prov 6:28" text="אם־יהלך איש על־הגחלים ורגליו לא תכוינה׃" />
+      <verse osisID="Prov.6.29" yeivinID="Prov 6:29" text="כן הבא אל־אשת רעהו לא ינקה כל־הנגע בה׃" />
+      <verse osisID="Prov.6.30" yeivinID="Prov 6:30" text="לא־יבוזו לגנב כי יגנוב למלא נפשו כי ירעב׃" />
+      <verse osisID="Prov.6.31" yeivinID="Prov 6:31" text="ונמצא ישלם שבעתים את־כל־הון ביתו יתן׃" />
+      <verse osisID="Prov.6.32" yeivinID="Prov 6:32" text="נאף אשה חסר־לב משחית נפשו הוא יעשנה׃" />
+      <verse osisID="Prov.6.33" yeivinID="Prov 6:33" text="נגע־וקלון ימצא וחרפתו לא תמחה׃" />
+      <verse osisID="Prov.6.34" yeivinID="Prov 6:34" text="כי־קנאה חמת־גבר ולא־יחמול ביום נקם׃" />
+      <verse osisID="Prov.6.35" yeivinID="Prov 6:35" ends-with-sampe="pe2" text="לא־ישא פני כל־כפר ולא־יאבה כי תרבה־שחד׃" />
+    </chapter>
+    <spi-pe2 />
+    <chapter osisID="Prov.7">
+      <verse osisID="Prov.7.1" yeivinID="Prov 7:1" starts-with-sampe="pe2" text="בני שמר אמרי ומצותי תצפן אתך׃" />
+      <verse osisID="Prov.7.2" yeivinID="Prov 7:2" text="שמר מצותי וחיה ותורתי כאישון עיניך׃" />
+      <verse osisID="Prov.7.3" yeivinID="Prov 7:3" text="קשרם על־אצבעתיך כתבם על־לוח לבך׃" />
+      <verse osisID="Prov.7.4" yeivinID="Prov 7:4" text="אמר לחכמה אחתי את ומדע לבינה תקרא׃" />
+      <verse osisID="Prov.7.5" yeivinID="Prov 7:5" text="לשמרך מאשה זרה מנכריה אמריה החליקה׃" />
+      <verse osisID="Prov.7.6" yeivinID="Prov 7:6" text="כי בחלון ביתי בעד אשנבי נשקפתי׃" />
+      <verse osisID="Prov.7.7" yeivinID="Prov 7:7" text="וארא בפתאים אבינה בבנים נער חסר־לב׃" />
+      <verse osisID="Prov.7.8" yeivinID="Prov 7:8" text="עבר בשוק אצל פנה ודרך ביתה יצעד׃" />
+      <verse osisID="Prov.7.9" yeivinID="Prov 7:9" text="בנשף־בערב יום באישון לילה ואפלה׃" />
+      <verse osisID="Prov.7.10" yeivinID="Prov 7:10" text="והנה אשה לקראתו שית זונה ונצרת לב׃" />
+      <verse osisID="Prov.7.11" yeivinID="Prov 7:11" text="המיה היא וסררת בביתה לא־ישכנו רגליה׃" />
+      <verse osisID="Prov.7.12" yeivinID="Prov 7:12">
+        <text text="פעם" />
+        <lp-legarmeih />
+        <text text=" בחוץ פעם ברחבות ואצל כל־פנה תארב׃" />
+      </verse>
+      <verse osisID="Prov.7.13" yeivinID="Prov 7:13" text="והחזיקה בו ונשקה לו העזה פניה ותאמר לו׃" />
+      <verse osisID="Prov.7.14" yeivinID="Prov 7:14" text="זבחי שלמים עלי היום שלמתי נדרי׃" />
+      <verse osisID="Prov.7.15" yeivinID="Prov 7:15" text="על־כן יצאתי לקראתך לשחר פניך ואמצאך׃" />
+      <verse osisID="Prov.7.16" yeivinID="Prov 7:16" text="מרבדים רבדתי ערשי חטבות אטון מצרים׃" />
+      <verse osisID="Prov.7.17" yeivinID="Prov 7:17" text="נפתי משכבי מר אהלים וקנמון׃" />
+      <verse osisID="Prov.7.18" yeivinID="Prov 7:18" text="לכה נרוה דדים עד־הבקר נתעלסה באהבים׃" />
+      <verse osisID="Prov.7.19" yeivinID="Prov 7:19" text="כי אין האיש בביתו הלך בדרך מרחוק׃" />
+      <verse osisID="Prov.7.20" yeivinID="Prov 7:20" text="צרור־הכסף לקח בידו ליום הכסא יבא ביתו׃" />
+      <verse osisID="Prov.7.21" yeivinID="Prov 7:21" text="הטתו ברב לקחה בחלק שפתיה תדיחנו׃" />
+      <verse osisID="Prov.7.22" yeivinID="Prov 7:22" text="הולך אחריה פתאם כשור אל־טבח יבא וכעכס אל־מוסר אויל׃" />
+      <verse osisID="Prov.7.23" yeivinID="Prov 7:23" text="עד יפלח חץ כבדו כמהר צפור אל־פח ולא־ידע כי־בנפשו הוא׃" />
+      <verse osisID="Prov.7.24" yeivinID="Prov 7:24" text="ועתה בנים שמעו־לי והקשיבו לאמרי־פי׃" />
+      <verse osisID="Prov.7.25" yeivinID="Prov 7:25" text="אל־ישט אל־דרכיה לבך אל־תתע בנתיבותיה׃" />
+      <verse osisID="Prov.7.26" yeivinID="Prov 7:26" text="כי־רבים חללים הפילה ועצמים כל־הרגיה׃" />
+      <verse osisID="Prov.7.27" yeivinID="Prov 7:27" ends-with-sampe="pe2" text="דרכי שאול ביתה ירדות אל־חדרי־מות׃" />
+    </chapter>
+    <spi-pe2 />
+    <chapter osisID="Prov.8">
+      <verse osisID="Prov.8.1" yeivinID="Prov 8:1" starts-with-sampe="pe2" text="הלא־חכמה תקרא ותבונה תתן קולה׃" />
+      <verse osisID="Prov.8.2" yeivinID="Prov 8:2" text="בראש־מרמים עלי־דרך בית נתיבות נצבה׃" />
+      <verse osisID="Prov.8.3" yeivinID="Prov 8:3" text="ליד־שערים לפי־קרת מבוא פתחים תרנה׃" />
+      <verse osisID="Prov.8.4" yeivinID="Prov 8:4" text="אליכם אישים אקרא וקולי אל־בני אדם׃" />
+      <verse osisID="Prov.8.5" yeivinID="Prov 8:5" text="הבינו פתאים ערמה וכסילים הבינו לב׃" />
+      <verse osisID="Prov.8.6" yeivinID="Prov 8:6" text="שמעו כי־נגידים אדבר ומפתח שפתי מישרים׃" />
+      <verse osisID="Prov.8.7" yeivinID="Prov 8:7" text="כי־אמת יהגה חכי ותועבת שפתי רשע׃" />
+      <verse osisID="Prov.8.8" yeivinID="Prov 8:8" text="בצדק כל־אמרי־פי אין בהם נפתל ועקש׃" />
+      <verse osisID="Prov.8.9" yeivinID="Prov 8:9" text="כלם נכחים למבין וישרים למצאי דעת׃" />
+      <verse osisID="Prov.8.10" yeivinID="Prov 8:10" text="קחו־מוסרי ואל־כסף ודעת מחרוץ נבחר׃" />
+      <verse osisID="Prov.8.11" yeivinID="Prov 8:11" text="כי־טובה חכמה מפנינים וכל־חפצים לא ישוו־בה׃" />
+      <verse osisID="Prov.8.12" yeivinID="Prov 8:12" text="אני־חכמה שכנתי ערמה ודעת מזמות אמצא׃" />
+      <verse osisID="Prov.8.13" yeivinID="Prov 8:13">
+        <text text="יראת יהוה שנאת" />
+        <implicit-maqaf />
+        <text text="רע גאה וגאון" />
+        <lp-legarmeih />
+        <text text=" ודרך רע ופי תהפכות שנאתי׃" />
+      </verse>
+      <verse osisID="Prov.8.14" yeivinID="Prov 8:14" text="לי־עצה ותושיה אני בינה לי גבורה׃" />
+      <verse osisID="Prov.8.15" yeivinID="Prov 8:15" text="בי מלכים ימלכו ורזנים יחקקו צדק׃" />
+      <verse osisID="Prov.8.16" yeivinID="Prov 8:16" text="בי שרים ישרו ונדיבים כל־שפטי צדק׃" />
+      <verse osisID="Prov.8.17" yeivinID="Prov 8:17">
+        <text text="אני " />
+        <kq>
+          <kq-k text="אהביה" />
+          <kq-q text="אהבי" />
+        </kq>
+        <text text=" אהב ומשחרי ימצאנני׃" />
+      </verse>
+      <verse osisID="Prov.8.18" yeivinID="Prov 8:18" text="עשר־וכבוד אתי הון עתק וצדקה׃" />
+      <verse osisID="Prov.8.19" yeivinID="Prov 8:19" text="טוב פריי מחרוץ ומפז ותבואתי מכסף נבחר׃" />
+      <verse osisID="Prov.8.20" yeivinID="Prov 8:20" text="בארח־צדקה אהלך בתוך נתיבות משפט׃" />
+      <verse osisID="Prov.8.21" yeivinID="Prov 8:21">
+        <text text="להנחיל אהבי" />
+        <lp-paseq />
+        <text text="יש ואצרתיהם אמלא׃" />
+      </verse>
+      <verse osisID="Prov.8.22" yeivinID="Prov 8:22" text="יהוה קנני ראשית דרכו קדם מפעליו מאז׃" />
+      <verse osisID="Prov.8.23" yeivinID="Prov 8:23" text="מעולם נסכתי מראש מקדמי־ארץ׃" />
+      <verse osisID="Prov.8.24" yeivinID="Prov 8:24" text="באין־תהמות חוללתי באין מעינות נכבדי־מים׃" />
+      <verse osisID="Prov.8.25" yeivinID="Prov 8:25" text="בטרם הרים הטבעו לפני גבעות חוללתי׃" />
+      <verse osisID="Prov.8.26" yeivinID="Prov 8:26" text="עד־לא עשה ארץ וחוצות וראש עפרות תבל׃" />
+      <verse osisID="Prov.8.27" yeivinID="Prov 8:27" text="בהכינו שמים שם אני בחקו חוג על־פני תהום׃" />
+      <verse osisID="Prov.8.28" yeivinID="Prov 8:28" text="באמצו שחקים ממעל בעזוז עינות תהום׃" />
+      <verse osisID="Prov.8.29" yeivinID="Prov 8:29">
+        <text text="בשומו לים" />
+        <lp-legarmeih />
+        <text text=" חקו ומים לא יעברו־פיו בחוקו מוסדי ארץ׃" />
+      </verse>
+      <verse osisID="Prov.8.30" yeivinID="Prov 8:30">
+        <text text="ואהיה אצלו אמון ואהיה שעשועים יום" />
+        <lp-legarmeih />
+        <text text=" יום משחקת לפניו בכל־עת׃" />
+      </verse>
+      <verse osisID="Prov.8.31" yeivinID="Prov 8:31" ends-with-sampe="pe2" text="משחקת בתבל ארצו ושעשעי את־בני אדם׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.8.32" yeivinID="Prov 8:32" starts-with-sampe="pe2" text="ועתה בנים שמעו־לי ואשרי דרכי ישמרו׃" />
+      <verse osisID="Prov.8.33" yeivinID="Prov 8:33" text="שמעו מוסר וחכמו ואל־תפרעו׃" />
+      <verse osisID="Prov.8.34" yeivinID="Prov 8:34">
+        <text text="אשרי" />
+        <implicit-maqaf />
+        <text text="אדם שמע לי לשקד על־דלתתי יום" />
+        <lp-legarmeih />
+        <text text=" יום לשמר מזוזת פתחי׃" />
+      </verse>
+      <verse osisID="Prov.8.35" yeivinID="Prov 8:35">
+        <text text="כי מצאי " />
+        <kq>
+          <kq-k text="מצאי" />
+          <kq-q text="מצא" />
+        </kq>
+        <text text=" חיים ויפק רצון מיהוה׃" />
+      </verse>
+      <verse osisID="Prov.8.36" yeivinID="Prov 8:36" text="וחטאי חמס נפשו כל־משנאי אהבו מות׃" />
+    </chapter>
+    <chapter osisID="Prov.9">
+      <verse osisID="Prov.9.1" yeivinID="Prov 9:1" text="חכמות בנתה ביתה חצבה עמודיה שבעה׃" />
+      <verse osisID="Prov.9.2" yeivinID="Prov 9:2" text="טבחה טבחה מסכה יינה אף ערכה שלחנה׃" />
+      <verse osisID="Prov.9.3" yeivinID="Prov 9:3" text="שלחה נערתיה תקרא על־גפי מרמי קרת׃" />
+      <verse osisID="Prov.9.4" yeivinID="Prov 9:4" text="מי־פתי יסר הנה חסר־לב אמרה לו׃" />
+      <verse osisID="Prov.9.5" yeivinID="Prov 9:5" text="לכו לחמו בלחמי ושתו ביין מסכתי׃" />
+      <verse osisID="Prov.9.6" yeivinID="Prov 9:6" text="עזבו פתאים וחיו ואשרו בדרך בינה׃" />
+      <verse osisID="Prov.9.7" yeivinID="Prov 9:7">
+        <text text="יסר" />
+        <lp-legarmeih />
+        <text text=" לץ לקח לו קלון ומוכיח לרשע מומו׃" />
+      </verse>
+      <verse osisID="Prov.9.8" yeivinID="Prov 9:8" text="אל־תוכח לץ פן־ישנאך הוכח לחכם ויאהבך׃" />
+      <verse osisID="Prov.9.9" yeivinID="Prov 9:9" text="תן לחכם ויחכם־עוד הודע לצדיק ויוסף לקח׃" />
+      <verse osisID="Prov.9.10" yeivinID="Prov 9:10" text="תחלת חכמה יראת יהוה ודעת קדשים בינה׃" />
+      <verse osisID="Prov.9.11" yeivinID="Prov 9:11" text="כי־בי ירבו ימיך ויוסיפו לך שנות חיים׃" />
+      <verse osisID="Prov.9.12" yeivinID="Prov 9:12" text="אם־חכמת חכמת לך ולצת לבדך תשא׃" />
+      <verse osisID="Prov.9.13" yeivinID="Prov 9:13" text="אשת כסילות המיה פתיות ובל־ידעה מה׃" />
+      <verse osisID="Prov.9.14" yeivinID="Prov 9:14" text="וישבה לפתח ביתה על־כסא מרמי קרת׃" />
+      <verse osisID="Prov.9.15" yeivinID="Prov 9:15" text="לקרא לעברי־דרך המישרים ארחותם׃" />
+      <verse osisID="Prov.9.16" yeivinID="Prov 9:16" text="מי־פתי יסר הנה וחסר־לב ואמרה לו׃" />
+      <verse osisID="Prov.9.17" yeivinID="Prov 9:17" text="מים־גנובים ימתקו ולחם סתרים ינעם׃" />
+      <verse osisID="Prov.9.18" yeivinID="Prov 9:18" ends-with-sampe="pe2" text="ולא־ידע כי־רפאים שם בעמקי שאול קראיה׃" />
+    </chapter>
+    <spi-pe2 />
+    <chapter osisID="Prov.10">
+      <verse osisID="Prov.10.1" yeivinID="Prov 10:1" starts-with-sampe="pe2" text="משלי שלמה בן חכם ישמח־אב ובן כסיל תוגת אמו׃" />
+      <verse osisID="Prov.10.2" yeivinID="Prov 10:2" text="לא־יועילו אוצרות רשע וצדקה תציל ממות׃" />
+      <verse osisID="Prov.10.3" yeivinID="Prov 10:3" text="לא־ירעיב יהוה נפש צדיק והות רשעים יהדף׃" />
+      <verse osisID="Prov.10.4" yeivinID="Prov 10:4" text="ראש עשה כף־רמיה ויד חרוצים תעשיר׃" />
+      <verse osisID="Prov.10.5" yeivinID="Prov 10:5" text="אגר בקיץ בן משכיל נרדם בקציר בן מביש׃" />
+      <verse osisID="Prov.10.6" yeivinID="Prov 10:6" text="ברכות לראש צדיק ופי רשעים יכסה חמס׃" />
+      <verse osisID="Prov.10.7" yeivinID="Prov 10:7" text="זכר צדיק לברכה ושם רשעים ירקב׃" />
+      <verse osisID="Prov.10.8" yeivinID="Prov 10:8" text="חכם־לב יקח מצות ואויל שפתים ילבט׃" />
+      <verse osisID="Prov.10.9" yeivinID="Prov 10:9" text="הולך בתם ילך בטח ומעקש דרכיו יודע׃" />
+      <verse osisID="Prov.10.10" yeivinID="Prov 10:10" text="קרץ עין יתן עצבת ואויל שפתים ילבט׃" />
+      <verse osisID="Prov.10.11" yeivinID="Prov 10:11" text="מקור חיים פי צדיק ופי רשעים יכסה חמס׃" />
+      <verse osisID="Prov.10.12" yeivinID="Prov 10:12" text="שנאה תערר מדנים ועל כל־פשעים תכסה אהבה׃" />
+      <verse osisID="Prov.10.13" yeivinID="Prov 10:13" text="בשפתי נבון תמצא חכמה ושבט לגו חסר־לב׃" />
+      <verse osisID="Prov.10.14" yeivinID="Prov 10:14" text="חכמים יצפנו־דעת ופי־אויל מחתה קרבה׃" />
+      <verse osisID="Prov.10.15" yeivinID="Prov 10:15" text="הון עשיר קרית עזו מחתת דלים רישם׃" />
+      <verse osisID="Prov.10.16" yeivinID="Prov 10:16" text="פעלת צדיק לחיים תבואת רשע לחטאת׃" />
+      <verse osisID="Prov.10.17" yeivinID="Prov 10:17" text="ארח לחיים שומר מוסר ועזב תוכחת מתעה׃" />
+      <verse osisID="Prov.10.18" yeivinID="Prov 10:18" text="מכסה שנאה שפתי־שקר ומוצא דבה הוא כסיל׃" />
+      <verse osisID="Prov.10.19" yeivinID="Prov 10:19" text="ברב דברים לא יחדל־פשע וחושך שפתיו משכיל׃" />
+      <verse osisID="Prov.10.20" yeivinID="Prov 10:20" text="כסף נבחר לשון צדיק לב רשעים כמעט׃" />
+      <verse osisID="Prov.10.21" yeivinID="Prov 10:21" text="שפתי צדיק ירעו רבים ואוילים בחסר־לב ימותו׃" />
+      <verse osisID="Prov.10.22" yeivinID="Prov 10:22" text="ברכת יהוה היא תעשיר ולא־יוסף עצב עמה׃" />
+      <verse osisID="Prov.10.23" yeivinID="Prov 10:23" text="כשחוק לכסיל עשות זמה וחכמה לאיש תבונה׃" />
+      <verse osisID="Prov.10.24" yeivinID="Prov 10:24" text="מגורת רשע היא תבואנו ותאות צדיקים יתן׃" />
+      <verse osisID="Prov.10.25" yeivinID="Prov 10:25" text="כעבור סופה ואין רשע וצדיק יסוד עולם׃" />
+      <verse osisID="Prov.10.26" yeivinID="Prov 10:26">
+        <text text="כחמץ" />
+        <lp-legarmeih />
+        <text text=" לשנים וכעשן לעינים כן העצל לשלחיו׃" />
+      </verse>
+      <verse osisID="Prov.10.27" yeivinID="Prov 10:27" text="יראת יהוה תוסיף ימים ושנות רשעים תקצרנה׃" />
+      <verse osisID="Prov.10.28" yeivinID="Prov 10:28" text="תוחלת צדיקים שמחה ותקות רשעים תאבד׃" />
+      <verse osisID="Prov.10.29" yeivinID="Prov 10:29" text="מעוז לתם דרך יהוה ומחתה לפעלי און׃" />
+      <verse osisID="Prov.10.30" yeivinID="Prov 10:30" text="צדיק לעולם בל־ימוט ורשעים לא ישכנו־ארץ׃" />
+      <verse osisID="Prov.10.31" yeivinID="Prov 10:31" text="פי־צדיק ינוב חכמה ולשון תהפכות תכרת׃" />
+      <verse osisID="Prov.10.32" yeivinID="Prov 10:32" text="שפתי צדיק ידעון רצון ופי רשעים תהפכות׃" />
+    </chapter>
+    <chapter osisID="Prov.11">
+      <verse osisID="Prov.11.1" yeivinID="Prov 11:1" text="מאזני מרמה תועבת יהוה ואבן שלמה רצונו׃" />
+      <verse osisID="Prov.11.2" yeivinID="Prov 11:2" text="בא־זדון ויבא קלון ואת־צנועים חכמה׃" />
+      <verse osisID="Prov.11.3" yeivinID="Prov 11:3">
+        <text text="תמת ישרים תנחם וסלף בגדים " />
+        <kq>
+          <kq-k text="ושדם" />
+          <kq-q text="ישדם" />
+        </kq>
+        <text text="׃" />
+      </verse>
+      <verse osisID="Prov.11.4" yeivinID="Prov 11:4" text="לא־יועיל הון ביום עברה וצדקה תציל ממות׃" />
+      <verse osisID="Prov.11.5" yeivinID="Prov 11:5" text="צדקת תמים תישר דרכו וברשעתו יפל רשע׃" />
+      <verse osisID="Prov.11.6" yeivinID="Prov 11:6" text="צדקת ישרים תצילם ובהות בגדים ילכדו׃" />
+      <verse osisID="Prov.11.7" yeivinID="Prov 11:7" text="במות אדם רשע תאבד תקוה ותוחלת אונים אבדה׃" />
+      <verse osisID="Prov.11.8" yeivinID="Prov 11:8" text="צדיק מצרה נחלץ ויבא רשע תחתיו׃" />
+      <verse osisID="Prov.11.9" yeivinID="Prov 11:9" text="בפה חנף ישחת רעהו ובדעת צדיקים יחלצו׃" />
+      <verse osisID="Prov.11.10" yeivinID="Prov 11:10" text="בטוב צדיקים תעלץ קריה ובאבד רשעים רנה׃" />
+      <verse osisID="Prov.11.11" yeivinID="Prov 11:11" text="בברכת ישרים תרום קרת ובפי רשעים תהרס׃" />
+      <verse osisID="Prov.11.12" yeivinID="Prov 11:12" text="בז־לרעהו חסר־לב ואיש תבונות יחריש׃" />
+      <verse osisID="Prov.11.13" yeivinID="Prov 11:13" text="הולך רכיל מגלה־סוד ונאמן־רוח מכסה דבר׃" />
+      <verse osisID="Prov.11.14" yeivinID="Prov 11:14" text="באין תחבלות יפל־עם ותשועה ברב יועץ׃" />
+      <verse osisID="Prov.11.15" yeivinID="Prov 11:15" text="רע־ירוע כי־ערב זר ושנא תקעים בוטח׃" />
+      <verse osisID="Prov.11.16" yeivinID="Prov 11:16" text="אשת־חן תתמך כבוד ועריצים יתמכו־עשר׃" />
+      <verse osisID="Prov.11.17" yeivinID="Prov 11:17" text="גמל נפשו איש חסד ועכר שארו אכזרי׃" />
+      <verse osisID="Prov.11.18" yeivinID="Prov 11:18" text="רשע עשה פעלת־שקר וזרע צדקה שכר אמת׃" />
+      <verse osisID="Prov.11.19" yeivinID="Prov 11:19" text="כן־צדקה לחיים ומרדף רעה למותו׃" />
+      <verse osisID="Prov.11.20" yeivinID="Prov 11:20" text="תועבת יהוה עקשי־לב ורצונו תמימי דרך׃" />
+      <verse osisID="Prov.11.21" yeivinID="Prov 11:21" text="יד ליד לא־ינקה רע וזרע צדיקים נמלט׃" />
+      <verse osisID="Prov.11.22" yeivinID="Prov 11:22" text="נזם זהב באף חזיר אשה יפה וסרת טעם׃" />
+      <verse osisID="Prov.11.23" yeivinID="Prov 11:23" text="תאות צדיקים אך־טוב תקות רשעים עברה׃" />
+      <verse osisID="Prov.11.24" yeivinID="Prov 11:24" text="יש מפזר ונוסף עוד וחשך מישר אך־למחסור׃" />
+      <verse osisID="Prov.11.25" yeivinID="Prov 11:25" text="נפש־ברכה תדשן ומרוה גם־הוא יורא׃" />
+      <verse osisID="Prov.11.26" yeivinID="Prov 11:26" text="מנע בר יקבהו לאום וברכה לראש משביר׃" />
+      <verse osisID="Prov.11.27" yeivinID="Prov 11:27" text="שחר טוב יבקש רצון ודרש רעה תבואנו׃" />
+      <verse osisID="Prov.11.28" yeivinID="Prov 11:28" text="בוטח בעשרו הוא יפול וכעלה צדיקים יפרחו׃" />
+      <verse osisID="Prov.11.29" yeivinID="Prov 11:29" text="עכר ביתו ינחל־רוח ועבד אויל לחכם־לב׃" />
+      <verse osisID="Prov.11.30" yeivinID="Prov 11:30" text="פרי־צדיק עץ חיים ולקח נפשות חכם׃" />
+      <verse osisID="Prov.11.31" yeivinID="Prov 11:31" text="הן צדיק בארץ ישלם אף כי־רשע וחוטא׃" />
+    </chapter>
+    <chapter osisID="Prov.12">
+      <verse osisID="Prov.12.1" yeivinID="Prov 12:1" text="אהב מוסר אהב דעת ושונא תוכחת בער׃" />
+      <verse osisID="Prov.12.2" yeivinID="Prov 12:2" text="טוב יפיק רצון מיהוה ואיש מזמות ירשיע׃" />
+      <verse osisID="Prov.12.3" yeivinID="Prov 12:3" text="לא־יכון אדם ברשע ושרש צדיקים בל־ימוט׃" />
+      <verse osisID="Prov.12.4" yeivinID="Prov 12:4" text="אשת־חיל עטרת בעלה וכרקב בעצמותיו מבישה׃" />
+      <verse osisID="Prov.12.5" yeivinID="Prov 12:5" text="מחשבות צדיקים משפט תחבלות רשעים מרמה׃" />
+      <verse osisID="Prov.12.6" yeivinID="Prov 12:6" text="דברי רשעים ארב־דם ופי ישרים יצילם׃" />
+      <verse osisID="Prov.12.7" yeivinID="Prov 12:7" text="הפוך רשעים ואינם ובית צדיקים יעמד׃" />
+      <verse osisID="Prov.12.8" yeivinID="Prov 12:8" text="לפי־שכלו יהלל־איש ונעוה־לב יהיה לבוז׃" />
+      <verse osisID="Prov.12.9" yeivinID="Prov 12:9" text="טוב נקלה ועבד לו ממתכבד וחסר־לחם׃" />
+      <verse osisID="Prov.12.10" yeivinID="Prov 12:10" text="יודע צדיק נפש בהמתו ורחמי רשעים אכזרי׃" />
+      <verse osisID="Prov.12.11" yeivinID="Prov 12:11" text="עבד אדמתו ישבע־לחם ומרדף ריקים חסר־לב׃" />
+      <verse osisID="Prov.12.12" yeivinID="Prov 12:12" text="חמד רשע מצוד רעים ושרש צדיקים יתן׃" />
+      <verse osisID="Prov.12.13" yeivinID="Prov 12:13" text="בפשע שפתים מוקש רע ויצא מצרה צדיק׃" />
+      <verse osisID="Prov.12.14" yeivinID="Prov 12:14">
+        <text text="מפרי פי־איש ישבע־טוב וגמול ידי־אדם " />
+        <kq>
+          <kq-k text="ישוב" />
+          <kq-q text="ישיב" />
+        </kq>
+        <text text=" לו׃" />
+      </verse>
+      <verse osisID="Prov.12.15" yeivinID="Prov 12:15" text="דרך אויל ישר בעיניו ושמע לעצה חכם׃" />
+      <verse osisID="Prov.12.16" yeivinID="Prov 12:16" text="אויל ביום יודע כעסו וכסה קלון ערום׃" />
+      <verse osisID="Prov.12.17" yeivinID="Prov 12:17" text="יפיח אמונה יגיד צדק ועד שקרים מרמה׃" />
+      <verse osisID="Prov.12.18" yeivinID="Prov 12:18" text="יש בוטה כמדקרות חרב ולשון חכמים מרפא׃" />
+      <verse osisID="Prov.12.19" yeivinID="Prov 12:19" text="שפת־אמת תכון לעד ועד־ארגיעה לשון שקר׃" />
+      <verse osisID="Prov.12.20" yeivinID="Prov 12:20" text="מרמה בלב־חרשי רע וליעצי שלום שמחה׃" />
+      <verse osisID="Prov.12.21" yeivinID="Prov 12:21" text="לא־יאנה לצדיק כל־און ורשעים מלאו רע׃" />
+      <verse osisID="Prov.12.22" yeivinID="Prov 12:22" text="תועבת יהוה שפתי־שקר ועשי אמונה רצונו׃" />
+      <verse osisID="Prov.12.23" yeivinID="Prov 12:23" text="אדם ערום כסה דעת ולב כסילים יקרא אולת׃" />
+      <verse osisID="Prov.12.24" yeivinID="Prov 12:24" text="יד־חרוצים תמשול ורמיה תהיה למס׃" />
+      <verse osisID="Prov.12.25" yeivinID="Prov 12:25" text="דאגה בלב־איש ישחנה ודבר טוב ישמחנה׃" />
+      <verse osisID="Prov.12.26" yeivinID="Prov 12:26" text="יתר מרעהו צדיק ודרך רשעים תתעם׃" />
+      <verse osisID="Prov.12.27" yeivinID="Prov 12:27" text="לא־יחרך רמיה צידו והון־אדם יקר חרוץ׃" />
+      <verse osisID="Prov.12.28" yeivinID="Prov 12:28" text="בארח־צדקה חיים ודרך נתיבה אל־מות׃" />
+    </chapter>
+    <chapter osisID="Prov.13">
+      <verse osisID="Prov.13.1" yeivinID="Prov 13:1" text="בן חכם מוסר אב ולץ לא־שמע גערה׃" />
+      <verse osisID="Prov.13.2" yeivinID="Prov 13:2" text="מפרי פי־איש יאכל טוב ונפש בגדים חמס׃" />
+      <verse osisID="Prov.13.3" yeivinID="Prov 13:3" text="נצר פיו שמר נפשו פשק שפתיו מחתה־לו׃" />
+      <verse osisID="Prov.13.4" yeivinID="Prov 13:4" text="מתאוה ואין נפשו עצל ונפש חרצים תדשן׃" />
+      <verse osisID="Prov.13.5" yeivinID="Prov 13:5" text="דבר־שקר ישנא צדיק ורשע יבאיש ויחפיר׃" />
+      <verse osisID="Prov.13.6" yeivinID="Prov 13:6" text="צדקה תצר תם־דרך ורשעה תסלף חטאת׃" />
+      <verse osisID="Prov.13.7" yeivinID="Prov 13:7" text="יש מתעשר ואין כל מתרושש והון רב׃" />
+      <verse osisID="Prov.13.8" yeivinID="Prov 13:8" text="כפר נפש־איש עשרו ורש לא־שמע גערה׃" />
+      <verse osisID="Prov.13.9" yeivinID="Prov 13:9" text="אור־צדיקים ישמח ונר רשעים ידעך׃" />
+      <verse osisID="Prov.13.10" yeivinID="Prov 13:10" text="רק־בזדון יתן מצה ואת־נועצים חכמה׃" />
+      <verse osisID="Prov.13.11" yeivinID="Prov 13:11" text="הון מהבל ימעט וקבץ על־יד ירבה׃" />
+      <verse osisID="Prov.13.12" yeivinID="Prov 13:12" text="תוחלת ממשכה מחלה־לב ועץ חיים תאוה באה׃" />
+      <verse osisID="Prov.13.13" yeivinID="Prov 13:13" text="בז לדבר יחבל לו וירא מצוה הוא ישלם׃" />
+      <verse osisID="Prov.13.14" yeivinID="Prov 13:14" text="תורת חכם מקור חיים לסור ממקשי מות׃" />
+      <verse osisID="Prov.13.15" yeivinID="Prov 13:15" text="שכל־טוב יתן־חן ודרך בגדים איתן׃" />
+      <verse osisID="Prov.13.16" yeivinID="Prov 13:16" text="כל־ערום יעשה בדעת וכסיל יפרש אולת׃" />
+      <verse osisID="Prov.13.17" yeivinID="Prov 13:17" text="מלאך רשע יפל ברע וציר אמונים מרפא׃" />
+      <verse osisID="Prov.13.18" yeivinID="Prov 13:18" text="ריש וקלון פורע מוסר ושמר תוכחת יכבד׃" />
+      <verse osisID="Prov.13.19" yeivinID="Prov 13:19" text="תאוה נהיה תערב לנפש ותועבת כסילים סור מרע׃" />
+      <verse osisID="Prov.13.20" yeivinID="Prov 13:20">
+        <kq>
+          <kq-k text="הלוך" />
+          <kq-q text="הולך" />
+        </kq>
+        <text text=" את־חכמים " />
+        <kq>
+          <kq-k text="וחכם" />
+          <kq-q text="יחכם" />
+        </kq>
+        <text text=" ורעה כסילים ירוע׃" />
+      </verse>
+      <verse osisID="Prov.13.21" yeivinID="Prov 13:21" text="חטאים תרדף רעה ואת־צדיקים ישלם־טוב׃" />
+      <verse osisID="Prov.13.22" yeivinID="Prov 13:22" text="טוב ינחיל בני־בנים וצפון לצדיק חיל חוטא׃" />
+      <verse osisID="Prov.13.23" yeivinID="Prov 13:23" text="רב־אכל ניר ראשים ויש נספה בלא משפט׃" />
+      <verse osisID="Prov.13.24" yeivinID="Prov 13:24" text="חושך שבטו שונא בנו ואהבו שחרו מוסר׃" />
+      <verse osisID="Prov.13.25" yeivinID="Prov 13:25" text="צדיק אכל לשבע נפשו ובטן רשעים תחסר׃" />
+    </chapter>
+    <chapter osisID="Prov.14">
+      <verse osisID="Prov.14.1" yeivinID="Prov 14:1" text="חכמות נשים בנתה ביתה ואולת בידיה תהרסנו׃" />
+      <verse osisID="Prov.14.2" yeivinID="Prov 14:2" text="הולך בישרו ירא יהוה ונלוז דרכיו בוזהו׃" />
+      <verse osisID="Prov.14.3" yeivinID="Prov 14:3" text="בפי־אויל חטר גאוה ושפתי חכמים תשמורם׃" />
+      <verse osisID="Prov.14.4" yeivinID="Prov 14:4" text="באין אלפים אבוס בר ורב־תבואות בכח שור׃" />
+      <verse osisID="Prov.14.5" yeivinID="Prov 14:5" text="עד אמונים לא יכזב ויפיח כזבים עד שקר׃" />
+      <verse osisID="Prov.14.6" yeivinID="Prov 14:6" text="בקש־לץ חכמה ואין ודעת לנבון נקל׃" />
+      <verse osisID="Prov.14.7" yeivinID="Prov 14:7" text="לך מנגד לאיש כסיל ובל־ידעת שפתי־דעת׃" />
+      <verse osisID="Prov.14.8" yeivinID="Prov 14:8" text="חכמת ערום הבין דרכו ואולת כסילים מרמה׃" />
+      <verse osisID="Prov.14.9" yeivinID="Prov 14:9" text="אולים יליץ אשם ובין ישרים רצון׃" />
+      <verse osisID="Prov.14.10" yeivinID="Prov 14:10" text="לב יודע מרת נפשו ובשמחתו לא־יתערב זר׃" />
+      <verse osisID="Prov.14.11" yeivinID="Prov 14:11" text="בית רשעים ישמד ואהל ישרים יפריח׃" />
+      <verse osisID="Prov.14.12" yeivinID="Prov 14:12" text="יש דרך ישר לפני־איש ואחריתה דרכי־מות׃" />
+      <verse osisID="Prov.14.13" yeivinID="Prov 14:13" text="גם־בשחק יכאב־לב ואחריתה שמחה תוגה׃" />
+      <verse osisID="Prov.14.14" yeivinID="Prov 14:14" text="מדרכיו ישבע סוג לב ומעליו איש טוב׃" />
+      <verse osisID="Prov.14.15" yeivinID="Prov 14:15" text="פתי יאמין לכל־דבר וערום יבין לאשרו׃" />
+      <verse osisID="Prov.14.16" yeivinID="Prov 14:16" text="חכם ירא וסר מרע וכסיל מתעבר ובוטח׃" />
+      <verse osisID="Prov.14.17" yeivinID="Prov 14:17" text="קצר־אפים יעשה אולת ואיש מזמות ישנא׃" />
+      <verse osisID="Prov.14.18" yeivinID="Prov 14:18" text="נחלו פתאים אולת וערומים יכתרו דעת׃" />
+      <verse osisID="Prov.14.19" yeivinID="Prov 14:19" text="שחו רעים לפני טובים ורשעים על־שערי צדיק׃" />
+      <verse osisID="Prov.14.20" yeivinID="Prov 14:20" text="גם־לרעהו ישנא רש ואהבי עשיר רבים׃" />
+      <verse osisID="Prov.14.21" yeivinID="Prov 14:21">
+        <text text="בז־לרעהו חוטא ומחונן " />
+        <kq>
+          <kq-k text="עניים" />
+          <kq-q text="ענוים" />
+        </kq>
+        <text text=" אשריו׃" />
+      </verse>
+      <verse osisID="Prov.14.22" yeivinID="Prov 14:22" text="הלוא־יתעו חרשי רע וחסד ואמת חרשי טוב׃" />
+      <verse osisID="Prov.14.23" yeivinID="Prov 14:23" text="בכל־עצב יהיה מותר ודבר־שפתים אך־למחסור׃" />
+      <verse osisID="Prov.14.24" yeivinID="Prov 14:24" text="עטרת חכמים עשרם אולת כסילים אולת׃" />
+      <verse osisID="Prov.14.25" yeivinID="Prov 14:25" text="מציל נפשות עד אמת ויפח כזבים מרמה׃" />
+      <verse osisID="Prov.14.26" yeivinID="Prov 14:26" text="ביראת יהוה מבטח־עז ולבניו יהיה מחסה׃" />
+      <verse osisID="Prov.14.27" yeivinID="Prov 14:27" text="יראת יהוה מקור חיים לסור ממקשי מות׃" />
+      <verse osisID="Prov.14.28" yeivinID="Prov 14:28" text="ברב־עם הדרת־מלך ובאפס לאם מחתת רזון׃" />
+      <verse osisID="Prov.14.29" yeivinID="Prov 14:29" text="ארך אפים רב־תבונה וקצר־רוח מרים אולת׃" />
+      <verse osisID="Prov.14.30" yeivinID="Prov 14:30" text="חיי בשרים לב מרפא ורקב עצמות קנאה׃" />
+      <verse osisID="Prov.14.31" yeivinID="Prov 14:31" text="עשק דל חרף עשהו ומכבדו חנן אביון׃" />
+      <verse osisID="Prov.14.32" yeivinID="Prov 14:32" text="ברעתו ידחה רשע וחסה במותו צדיק׃" />
+      <verse osisID="Prov.14.33" yeivinID="Prov 14:33" text="בלב נבון תנוח חכמה ובקרב כסילים תודע׃" />
+      <verse osisID="Prov.14.34" yeivinID="Prov 14:34" text="צדקה תרומם־גוי וחסד לאמים חטאת׃" />
+      <verse osisID="Prov.14.35" yeivinID="Prov 14:35" text="רצון־מלך לעבד משכיל ועברתו תהיה מביש׃" />
+    </chapter>
+    <chapter osisID="Prov.15">
+      <verse osisID="Prov.15.1" yeivinID="Prov 15:1" text="מענה־רך ישיב חמה ודבר־עצב יעלה־אף׃" />
+      <verse osisID="Prov.15.2" yeivinID="Prov 15:2" text="לשון חכמים תיטיב דעת ופי כסילים יביע אולת׃" />
+      <verse osisID="Prov.15.3" yeivinID="Prov 15:3" text="בכל־מקום עיני יהוה צפות רעים וטובים׃" />
+      <verse osisID="Prov.15.4" yeivinID="Prov 15:4" text="מרפא לשון עץ חיים וסלף בה שבר ברוח׃" />
+      <verse osisID="Prov.15.5" yeivinID="Prov 15:5" text="אויל ינאץ מוסר אביו ושמר תוכחת יערים׃" />
+      <verse osisID="Prov.15.6" yeivinID="Prov 15:6" text="בית צדיק חסן רב ובתבואת רשע נעכרת׃" />
+      <verse osisID="Prov.15.7" yeivinID="Prov 15:7" text="שפתי חכמים יזרו דעת ולב כסילים לא־כן׃" />
+      <verse osisID="Prov.15.8" yeivinID="Prov 15:8" text="זבח רשעים תועבת יהוה ותפלת ישרים רצונו׃" />
+      <verse osisID="Prov.15.9" yeivinID="Prov 15:9" text="תועבת יהוה דרך רשע ומרדף צדקה יאהב׃" />
+      <verse osisID="Prov.15.10" yeivinID="Prov 15:10" text="מוסר רע לעזב ארח שונא תוכחת ימות׃" />
+      <verse osisID="Prov.15.11" yeivinID="Prov 15:11" text="שאול ואבדון נגד יהוה אף כי־לבות בני־אדם׃" />
+      <verse osisID="Prov.15.12" yeivinID="Prov 15:12" text="לא יאהב־לץ הוכח לו אל־חכמים לא ילך׃" />
+      <verse osisID="Prov.15.13" yeivinID="Prov 15:13" text="לב שמח ייטב פנים ובעצבת־לב רוח נכאה׃" />
+      <verse osisID="Prov.15.14" yeivinID="Prov 15:14">
+        <text text="לב נבון יבקש־דעת " />
+        <kq>
+          <kq-k text="ופני" />
+          <kq-q text="ופי" />
+        </kq>
+        <text text=" כסילים ירעה אולת׃" />
+      </verse>
+      <verse osisID="Prov.15.15" yeivinID="Prov 15:15" text="כל־ימי עני רעים וטוב־לב משתה תמיד׃" />
+      <verse osisID="Prov.15.16" yeivinID="Prov 15:16" text="טוב־מעט ביראת יהוה מאוצר רב ומהומה בו׃" />
+      <verse osisID="Prov.15.17" yeivinID="Prov 15:17" text="טוב ארחת ירק ואהבה־שם משור אבוס ושנאה־בו׃" />
+      <verse osisID="Prov.15.18" yeivinID="Prov 15:18" text="איש חמה יגרה מדון וארך אפים ישקיט ריב׃" />
+      <verse osisID="Prov.15.19" yeivinID="Prov 15:19" text="דרך עצל כמשכת חדק וארח ישרים סללה׃" />
+      <verse osisID="Prov.15.20" yeivinID="Prov 15:20" text="בן חכם ישמח־אב וכסיל אדם בוזה אמו׃" />
+      <verse osisID="Prov.15.21" yeivinID="Prov 15:21" text="אולת שמחה לחסר־לב ואיש תבונה יישר־לכת׃" />
+      <verse osisID="Prov.15.22" yeivinID="Prov 15:22" text="הפר מחשבות באין סוד וברב יועצים תקום׃" />
+      <verse osisID="Prov.15.23" yeivinID="Prov 15:23" text="שמחה לאיש במענה־פיו ודבר בעתו מה־טוב׃" />
+      <verse osisID="Prov.15.24" yeivinID="Prov 15:24" text="ארח חיים למעלה למשכיל למען סור משאול מטה׃" />
+      <verse osisID="Prov.15.25" yeivinID="Prov 15:25">
+        <text text="בית גאים יסח" />
+        <lp-paseq />
+        <text text="יהוה ויצב גבול אלמנה׃" />
+      </verse>
+      <verse osisID="Prov.15.26" yeivinID="Prov 15:26" text="תועבת יהוה מחשבות רע וטהרים אמרי־נעם׃" />
+      <verse osisID="Prov.15.27" yeivinID="Prov 15:27" text="עכר ביתו בוצע בצע ושונא מתנת יחיה׃" />
+      <verse osisID="Prov.15.28" yeivinID="Prov 15:28" text="לב צדיק יהגה לענות ופי רשעים יביע רעות׃" />
+      <verse osisID="Prov.15.29" yeivinID="Prov 15:29" text="רחוק יהוה מרשעים ותפלת צדיקים ישמע׃" />
+      <verse osisID="Prov.15.30" yeivinID="Prov 15:30" text="מאור־עינים ישמח־לב שמועה טובה תדשן־עצם׃" />
+      <verse osisID="Prov.15.31" yeivinID="Prov 15:31" text="אזן שמעת תוכחת חיים בקרב חכמים תלין׃" />
+      <verse osisID="Prov.15.32" yeivinID="Prov 15:32" text="פורע מוסר מואס נפשו ושומע תוכחת קונה לב׃" />
+      <verse osisID="Prov.15.33" yeivinID="Prov 15:33" text="יראת יהוה מוסר חכמה ולפני כבוד ענוה׃" />
+    </chapter>
+    <chapter osisID="Prov.16">
+      <verse osisID="Prov.16.1" yeivinID="Prov 16:1" text="לאדם מערכי־לב ומיהוה מענה לשון׃" />
+      <verse osisID="Prov.16.2" yeivinID="Prov 16:2" text="כל־דרכי־איש זך בעיניו ותכן רוחות יהוה׃" />
+      <verse osisID="Prov.16.3" yeivinID="Prov 16:3" text="גל אל־יהוה מעשיך ויכנו מחשבתיך׃" />
+      <verse osisID="Prov.16.4" yeivinID="Prov 16:4" text="כל פעל יהוה למענהו וגם־רשע ליום רעה׃" />
+      <verse osisID="Prov.16.5" yeivinID="Prov 16:5" text="תועבת יהוה כל־גבה־לב יד ליד לא ינקה׃" />
+      <verse osisID="Prov.16.6" yeivinID="Prov 16:6" text="בחסד ואמת יכפר עון וביראת יהוה סור מרע׃" />
+      <verse osisID="Prov.16.7" yeivinID="Prov 16:7" text="ברצות יהוה דרכי־איש גם־אויביו ישלם אתו׃" />
+      <verse osisID="Prov.16.8" yeivinID="Prov 16:8" text="טוב־מעט בצדקה מרב תבואות בלא משפט׃" />
+      <verse osisID="Prov.16.9" yeivinID="Prov 16:9" text="לב אדם יחשב דרכו ויהוה יכין צעדו׃" />
+      <verse osisID="Prov.16.10" yeivinID="Prov 16:10">
+        <text text="קסם" />
+        <lp-legarmeih />
+        <text text=" על־שפתי־מלך במשפט לא ימעל־פיו׃" />
+      </verse>
+      <verse osisID="Prov.16.11" yeivinID="Prov 16:11">
+        <text text="פלס" />
+        <lp-legarmeih />
+        <text text=" ומאזני משפט ליהוה מעשהו כל־אבני־כיס׃" />
+      </verse>
+      <verse osisID="Prov.16.12" yeivinID="Prov 16:12" text="תועבת מלכים עשות רשע כי בצדקה יכון כסא׃" />
+      <verse osisID="Prov.16.13" yeivinID="Prov 16:13" text="רצון מלכים שפתי־צדק ודבר ישרים יאהב׃" />
+      <verse osisID="Prov.16.14" yeivinID="Prov 16:14" text="חמת־מלך מלאכי־מות ואיש חכם יכפרנה׃" />
+      <verse osisID="Prov.16.15" yeivinID="Prov 16:15" text="באור־פני־מלך חיים ורצונו כעב מלקוש׃" />
+      <verse osisID="Prov.16.16" yeivinID="Prov 16:16" text="קנה־חכמה מה־טוב מחרוץ וקנות בינה נבחר מכסף׃" />
+      <verse osisID="Prov.16.17" yeivinID="Prov 16:17" text="מסלת ישרים סור מרע שמר נפשו נצר דרכו׃" />
+      <verse osisID="Prov.16.18" yeivinID="Prov 16:18" text="לפני־שבר גאון ולפני כשלון גבה רוח׃" />
+      <verse osisID="Prov.16.19" yeivinID="Prov 16:19">
+        <text text="טוב שפל־רוח את־" />
+        <kq>
+          <kq-q text="ענוים" />
+          <kq-k text="עניים" />
+        </kq>
+        <text text=" מחלק שלל את־גאים׃" />
+      </verse>
+      <verse osisID="Prov.16.20" yeivinID="Prov 16:20" text="משכיל על־דבר ימצא־טוב ובוטח ביהוה אשריו׃" />
+      <verse osisID="Prov.16.21" yeivinID="Prov 16:21" text="לחכם־לב יקרא נבון ומתק שפתים יסיף לקח׃" />
+      <verse osisID="Prov.16.22" yeivinID="Prov 16:22" text="מקור חיים שכל בעליו ומוסר אולים אולת׃" />
+      <verse osisID="Prov.16.23" yeivinID="Prov 16:23" text="לב חכם ישכיל פיהו ועל־שפתיו יסיף לקח׃" />
+      <verse osisID="Prov.16.24" yeivinID="Prov 16:24" text="צוף־דבש אמרי־נעם מתוק לנפש ומרפא לעצם׃" />
+      <verse osisID="Prov.16.25" yeivinID="Prov 16:25" text="יש דרך ישר לפני־איש ואחריתה דרכי־מות׃" />
+      <verse osisID="Prov.16.26" yeivinID="Prov 16:26" text="נפש עמל עמלה לו כי־אכף עליו פיהו׃" />
+      <verse osisID="Prov.16.27" yeivinID="Prov 16:27">
+        <text text="איש בליעל כרה רעה ועל־" />
+        <kq>
+          <kq-q text="שפתו" />
+          <kq-k text="שפתיו" />
+        </kq>
+        <text text=" כאש צרבת׃" />
+      </verse>
+      <verse osisID="Prov.16.28" yeivinID="Prov 16:28" text="איש תהפכות ישלח מדון ונרגן מפריד אלוף׃" />
+      <verse osisID="Prov.16.29" yeivinID="Prov 16:29" text="איש חמס יפתה רעהו והוליכו בדרך לא־טוב׃" />
+      <verse osisID="Prov.16.30" yeivinID="Prov 16:30" text="עצה עיניו לחשב תהפכות קרץ שפתיו כלה רעה׃" />
+      <verse osisID="Prov.16.31" yeivinID="Prov 16:31" text="עטרת תפארת שיבה בדרך צדקה תמצא׃" />
+      <verse osisID="Prov.16.32" yeivinID="Prov 16:32" text="טוב ארך אפים מגבור ומשל ברוחו מלכד עיר׃" />
+      <verse osisID="Prov.16.33" yeivinID="Prov 16:33" text="בחיק יוטל את־הגורל ומיהוה כל־משפטו׃" />
+    </chapter>
+    <chapter osisID="Prov.17">
+      <verse osisID="Prov.17.1" yeivinID="Prov 17:1" text="טוב פת חרבה ושלוה־בה מבית מלא זבחי־ריב׃" />
+      <verse osisID="Prov.17.2" yeivinID="Prov 17:2" text="עבד־משכיל ימשל בבן מביש ובתוך אחים יחלק נחלה׃" />
+      <verse osisID="Prov.17.3" yeivinID="Prov 17:3" text="מצרף לכסף וכור לזהב ובחן לבות יהוה׃" />
+      <verse osisID="Prov.17.4" yeivinID="Prov 17:4" text="מרע מקשיב על־שפת־און שקר מזין על־לשון הות׃" />
+      <verse osisID="Prov.17.5" yeivinID="Prov 17:5" text="לעג לרש חרף עשהו שמח לאיד לא ינקה׃" />
+      <verse osisID="Prov.17.6" yeivinID="Prov 17:6" text="עטרת זקנים בני בנים ותפארת בנים אבותם׃" />
+      <verse osisID="Prov.17.7" yeivinID="Prov 17:7" text="לא־נאוה לנבל שפת־יתר אף כי־לנדיב שפת־שקר׃" />
+      <verse osisID="Prov.17.8" yeivinID="Prov 17:8" text="אבן־חן השחד בעיני בעליו אל־כל־אשר יפנה ישכיל׃" />
+      <verse osisID="Prov.17.9" yeivinID="Prov 17:9" text="מכסה־פשע מבקש אהבה ושנה בדבר מפריד אלוף׃" />
+      <verse osisID="Prov.17.10" yeivinID="Prov 17:10" text="תחת גערה במבין מהכות כסיל מאה׃" />
+      <verse osisID="Prov.17.11" yeivinID="Prov 17:11" text="אך־מרי יבקש־רע ומלאך אכזרי ישלח־בו׃" />
+      <verse osisID="Prov.17.12" yeivinID="Prov 17:12" text="פגוש דב שכול באיש ואל־כסיל באולתו׃" />
+      <verse osisID="Prov.17.13" yeivinID="Prov 17:13">
+        <text text="משיב רעה תחת טובה לא־" />
+        <kq>
+          <kq-q text="תמוש" />
+          <kq-k text="תמיש" />
+        </kq>
+        <text text=" רעה מביתו׃" />
+      </verse>
+      <verse osisID="Prov.17.14" yeivinID="Prov 17:14" text="פוטר מים ראשית מדון ולפני התגלע הריב נטוש׃" />
+      <verse osisID="Prov.17.15" yeivinID="Prov 17:15" text="מצדיק רשע ומרשיע צדיק תועבת יהוה גם־שניהם׃" />
+      <verse osisID="Prov.17.16" yeivinID="Prov 17:16" text="למה־זה מחיר ביד־כסיל לקנות חכמה ולב־אין׃" />
+      <verse osisID="Prov.17.17" yeivinID="Prov 17:17" text="בכל־עת אהב הרע ואח לצרה יולד׃" />
+      <verse osisID="Prov.17.18" yeivinID="Prov 17:18" text="אדם חסר־לב תוקע כף ערב ערבה לפני רעהו׃" />
+      <verse osisID="Prov.17.19" yeivinID="Prov 17:19" text="אהב פשע אהב מצה מגביה פתחו מבקש־שבר׃" />
+      <verse osisID="Prov.17.20" yeivinID="Prov 17:20" text="עקש־לב לא ימצא־טוב ונהפך בלשונו יפול ברעה׃" />
+      <verse osisID="Prov.17.21" yeivinID="Prov 17:21" text="ילד כסיל לתוגה לו ולא־ישמח אבי נבל׃" />
+      <verse osisID="Prov.17.22" yeivinID="Prov 17:22" text="לב שמח ייטיב גהה ורוח נכאה תיבש־גרם׃" />
+      <verse osisID="Prov.17.23" yeivinID="Prov 17:23" text="שחד מחק רשע יקח להטות ארחות משפט׃" />
+      <verse osisID="Prov.17.24" yeivinID="Prov 17:24" text="את־פני מבין חכמה ועיני כסיל בקצה־ארץ׃" />
+      <verse osisID="Prov.17.25" yeivinID="Prov 17:25" text="כעס לאביו בן כסיל וממר ליולדתו׃" />
+      <verse osisID="Prov.17.26" yeivinID="Prov 17:26" text="גם ענוש לצדיק לא־טוב להכות נדיבים על־ישר׃" />
+      <verse osisID="Prov.17.27" yeivinID="Prov 17:27">
+        <text text="חושך אמריו יודע דעת " />
+        <kq>
+          <kq-k text="וקר" />
+          <kq-q text="יקר־" />
+        </kq>
+        <text text="רוח איש תבונה׃" />
+      </verse>
+      <verse osisID="Prov.17.28" yeivinID="Prov 17:28" text="גם אויל מחריש חכם יחשב אטם שפתיו נבון׃" />
+    </chapter>
+    <chapter osisID="Prov.18">
+      <verse osisID="Prov.18.1" yeivinID="Prov 18:1" text="לתאוה יבקש נפרד בכל־תושיה יתגלע׃" />
+      <verse osisID="Prov.18.2" yeivinID="Prov 18:2" text="לא־יחפץ כסיל בתבונה כי אם־בהתגלות לבו׃" />
+      <verse osisID="Prov.18.3" yeivinID="Prov 18:3" text="בבוא־רשע בא גם־בוז ועם־קלון חרפה׃" />
+      <verse osisID="Prov.18.4" yeivinID="Prov 18:4" text="מים עמקים דברי פי־איש נחל נבע מקור חכמה׃" />
+      <verse osisID="Prov.18.5" yeivinID="Prov 18:5" text="שאת פני־רשע לא־טוב להטות צדיק במשפט׃" />
+      <verse osisID="Prov.18.6" yeivinID="Prov 18:6" text="שפתי כסיל יבאו בריב ופיו למהלמות יקרא׃" />
+      <verse osisID="Prov.18.7" yeivinID="Prov 18:7" text="פי־כסיל מחתה־לו ושפתיו מוקש נפשו׃" />
+      <verse osisID="Prov.18.8" yeivinID="Prov 18:8" text="דברי נרגן כמתלהמים והם ירדו חדרי־בטן׃" />
+      <verse osisID="Prov.18.9" yeivinID="Prov 18:9" text="גם מתרפה במלאכתו אח הוא לבעל משחית׃" />
+      <verse osisID="Prov.18.10" yeivinID="Prov 18:10" text="מגדל־עז שם יהוה בו־ירוץ צדיק ונשגב׃" />
+      <verse osisID="Prov.18.11" yeivinID="Prov 18:11" text="הון עשיר קרית עזו וכחומה נשגבה במשכתו׃" />
+      <verse osisID="Prov.18.12" yeivinID="Prov 18:12" text="לפני־שבר יגבה לב־איש ולפני כבוד ענוה׃" />
+      <verse osisID="Prov.18.13" yeivinID="Prov 18:13" text="משיב דבר בטרם ישמע אולת היא־לו וכלמה׃" />
+      <verse osisID="Prov.18.14" yeivinID="Prov 18:14" text="רוח־איש יכלכל מחלהו ורוח נכאה מי ישאנה׃" />
+      <verse osisID="Prov.18.15" yeivinID="Prov 18:15" text="לב נבון יקנה־דעת ואזן חכמים תבקש־דעת׃" />
+      <verse osisID="Prov.18.16" yeivinID="Prov 18:16" text="מתן אדם ירחיב לו ולפני גדלים ינחנו׃" />
+      <verse osisID="Prov.18.17" yeivinID="Prov 18:17">
+        <text text="צדיק הראשון בריבו " />
+        <kq>
+          <kq-k text="יבא" />
+          <kq-q text="ובא־" />
+        </kq>
+        <text text="רעהו וחקרו׃" />
+      </verse>
+      <verse osisID="Prov.18.18" yeivinID="Prov 18:18" text="מדינים ישבית הגורל ובין עצומים יפריד׃" />
+      <verse osisID="Prov.18.19" yeivinID="Prov 18:19">
+        <text text="אח נפשע מקרית־עז " />
+        <kq>
+          <kq-k text="ומדונים" />
+          <kq-q text="ומדינים" />
+        </kq>
+        <text text=" כבריח ארמון׃" />
+      </verse>
+      <verse osisID="Prov.18.20" yeivinID="Prov 18:20" text="מפרי פי־איש תשבע בטנו תבואת שפתיו ישבע׃" />
+      <verse osisID="Prov.18.21" yeivinID="Prov 18:21" text="מות וחיים ביד־לשון ואהביה יאכל פריה׃" />
+      <verse osisID="Prov.18.22" yeivinID="Prov 18:22" text="מצא אשה מצא טוב ויפק רצון מיהוה׃" />
+      <verse osisID="Prov.18.23" yeivinID="Prov 18:23" text="תחנונים ידבר־רש ועשיר יענה עזות׃" />
+      <verse osisID="Prov.18.24" yeivinID="Prov 18:24" text="איש רעים להתרעע ויש אהב דבק מאח׃" />
+    </chapter>
+    <chapter osisID="Prov.19">
+      <verse osisID="Prov.19.1" yeivinID="Prov 19:1" text="טוב־רש הולך בתמו מעקש שפתיו והוא כסיל׃" />
+      <verse osisID="Prov.19.2" yeivinID="Prov 19:2" text="גם בלא־דעת נפש לא־טוב ואץ ברגלים חוטא׃" />
+      <verse osisID="Prov.19.3" yeivinID="Prov 19:3" text="אולת אדם תסלף דרכו ועל־יהוה יזעף לבו׃" />
+      <verse osisID="Prov.19.4" yeivinID="Prov 19:4" text="הון יסיף רעים רבים ודל מרעהו יפרד׃" />
+      <verse osisID="Prov.19.5" yeivinID="Prov 19:5" text="עד שקרים לא ינקה ויפיח כזבים לא ימלט׃" />
+      <verse osisID="Prov.19.6" yeivinID="Prov 19:6" text="רבים יחלו פני־נדיב וכל־הרע לאיש מתן׃" />
+      <verse osisID="Prov.19.7" yeivinID="Prov 19:7">
+        <text text="כל" />
+        <implicit-maqaf />
+        <text text="אחי־רש" />
+        <lp-legarmeih />
+        <text text=" שנאהו אף כי מרעהו רחקו ממנו מרדף אמרים " />
+        <kq>
+          <kq-k text="לא" />
+          <kq-q text="לו־" />
+        </kq>
+        <text text="המה׃" />
+      </verse>
+      <verse osisID="Prov.19.8" yeivinID="Prov 19:8" text="קנה־לב אהב נפשו שמר תבונה למצא־טוב׃" />
+      <verse osisID="Prov.19.9" yeivinID="Prov 19:9" ends-with-sampe="pe2" text="עד שקרים לא ינקה ויפיח כזבים יאבד׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.19.10" yeivinID="Prov 19:10" starts-with-sampe="pe2">
+        <text text="לא־נאוה לכסיל תענוג אף כי־לעבד" />
+        <lp-legarmeih />
+        <text text=" משל בשרים׃" />
+      </verse>
+      <verse osisID="Prov.19.11" yeivinID="Prov 19:11" text="שכל אדם האריך אפו ותפארתו עבר על־פשע׃" />
+      <verse osisID="Prov.19.12" yeivinID="Prov 19:12" text="נהם ככפיר זעף מלך וכטל על־עשב רצונו׃" />
+      <verse osisID="Prov.19.13" yeivinID="Prov 19:13" text="הות לאביו בן כסיל ודלף טרד מדיני אשה׃" />
+      <verse osisID="Prov.19.14" yeivinID="Prov 19:14" text="בית והון נחלת אבות ומיהוה אשה משכלת׃" />
+      <verse osisID="Prov.19.15" yeivinID="Prov 19:15" text="עצלה תפיל תרדמה ונפש רמיה תרעב׃" />
+      <verse osisID="Prov.19.16" yeivinID="Prov 19:16">
+        <text text="שמר מצוה שמר נפשו בוזה דרכיו " />
+        <kq>
+          <kq-k text="יומת" />
+          <kq-q text="ימות" />
+        </kq>
+        <text text="׃" />
+      </verse>
+      <verse osisID="Prov.19.17" yeivinID="Prov 19:17" text="מלוה יהוה חונן דל וגמלו ישלם־לו׃" />
+      <verse osisID="Prov.19.18" yeivinID="Prov 19:18" text="יסר בנך כי־יש תקוה ואל־המיתו אל־תשא נפשך׃" />
+      <verse osisID="Prov.19.19" yeivinID="Prov 19:19">
+        <kq>
+          <kq-k text="גרל" />
+          <kq-q text="גדל־" />
+        </kq>
+        <text text="חמה נשא ענש כי אם־תציל ועוד תוסף׃" />
+      </verse>
+      <verse osisID="Prov.19.20" yeivinID="Prov 19:20" text="שמע עצה וקבל מוסר למען תחכם באחריתך׃" />
+      <verse osisID="Prov.19.21" yeivinID="Prov 19:21" text="רבות מחשבות בלב־איש ועצת יהוה היא תקום׃" />
+      <verse osisID="Prov.19.22" yeivinID="Prov 19:22" text="תאות אדם חסדו וטוב־רש מאיש כזב׃" />
+      <verse osisID="Prov.19.23" yeivinID="Prov 19:23" text="יראת יהוה לחיים ושבע ילין בל־יפקד רע׃" />
+      <verse osisID="Prov.19.24" yeivinID="Prov 19:24" text="טמן עצל ידו בצלחת גם־אל־פיהו לא ישיבנה׃" />
+      <verse osisID="Prov.19.25" yeivinID="Prov 19:25" text="לץ תכה ופתי יערם והוכיח לנבון יבין דעת׃" />
+      <verse osisID="Prov.19.26" yeivinID="Prov 19:26" text="משדד־אב יבריח אם בן מביש ומחפיר׃" />
+      <verse osisID="Prov.19.27" yeivinID="Prov 19:27" text="חדל־בני לשמע מוסר לשגות מאמרי־דעת׃" />
+      <verse osisID="Prov.19.28" yeivinID="Prov 19:28" text="עד בליעל יליץ משפט ופי רשעים יבלע־און׃" />
+      <verse osisID="Prov.19.29" yeivinID="Prov 19:29" text="נכונו ללצים שפטים ומהלמות לגו כסילים׃" />
+    </chapter>
+    <chapter osisID="Prov.20">
+      <verse osisID="Prov.20.1" yeivinID="Prov 20:1" text="לץ היין המה שכר וכל־שגה בו לא יחכם׃" />
+      <verse osisID="Prov.20.2" yeivinID="Prov 20:2" text="נהם ככפיר אימת מלך מתעברו חוטא נפשו׃" />
+      <verse osisID="Prov.20.3" yeivinID="Prov 20:3" text="כבוד לאיש שבת מריב וכל־אויל יתגלע׃" />
+      <verse osisID="Prov.20.4" yeivinID="Prov 20:4">
+        <text text="מחרף עצל לא־יחרש " />
+        <kq>
+          <kq-k text="ישאל" />
+          <kq-q text="ושאל" />
+        </kq>
+        <text text=" בקציר ואין׃" />
+      </verse>
+      <verse osisID="Prov.20.5" yeivinID="Prov 20:5" text="מים עמקים עצה בלב־איש ואיש תבונה ידלנה׃" />
+      <verse osisID="Prov.20.6" yeivinID="Prov 20:6" text="רב־אדם יקרא איש חסדו ואיש אמונים מי ימצא׃" />
+      <verse osisID="Prov.20.7" yeivinID="Prov 20:7" text="מתהלך בתמו צדיק אשרי בניו אחריו׃" />
+      <verse osisID="Prov.20.8" yeivinID="Prov 20:8" text="מלך יושב על־כסא־דין מזרה בעיניו כל־רע׃" />
+      <verse osisID="Prov.20.9" yeivinID="Prov 20:9" text="מי־יאמר זכיתי לבי טהרתי מחטאתי׃" />
+      <verse osisID="Prov.20.10" yeivinID="Prov 20:10" text="אבן ואבן איפה ואיפה תועבת יהוה גם־שניהם׃" />
+      <verse osisID="Prov.20.11" yeivinID="Prov 20:11" text="גם במעלליו יתנכר־נער אם־זך ואם־ישר פעלו׃" />
+      <verse osisID="Prov.20.12" yeivinID="Prov 20:12" text="אזן שמעת ועין ראה יהוה עשה גם־שניהם׃" />
+      <verse osisID="Prov.20.13" yeivinID="Prov 20:13" text="אל־תאהב שנה פן־תורש פקח עיניך שבע־לחם׃" />
+      <verse osisID="Prov.20.14" yeivinID="Prov 20:14" text="רע רע יאמר הקונה ואזל לו אז יתהלל׃" />
+      <verse osisID="Prov.20.15" yeivinID="Prov 20:15" text="יש זהב ורב־פנינים וכלי יקר שפתי־דעת׃" />
+      <verse osisID="Prov.20.16" yeivinID="Prov 20:16">
+        <text text="לקח־בגדו כי־ערב זר ובעד " />
+        <kq>
+          <kq-k text="נכרים" />
+          <kq-q text="נכריה" />
+        </kq>
+        <text text=" חבלהו׃" />
+      </verse>
+      <verse osisID="Prov.20.17" yeivinID="Prov 20:17" text="ערב לאיש לחם שקר ואחר ימלא־פיהו חצץ׃" />
+      <verse osisID="Prov.20.18" yeivinID="Prov 20:18" text="מחשבות בעצה תכון ובתחבלות עשה מלחמה׃" />
+      <verse osisID="Prov.20.19" yeivinID="Prov 20:19" text="גולה־סוד הולך רכיל ולפתה שפתיו לא תתערב׃" />
+      <verse osisID="Prov.20.20" yeivinID="Prov 20:20">
+        <text text="מקלל אביו ואמו ידעך נרו " />
+        <kq>
+          <kq-k text="באישון" />
+          <kq-q text="באשון" />
+        </kq>
+        <text text=" חשך׃" />
+      </verse>
+      <verse osisID="Prov.20.21" yeivinID="Prov 20:21">
+        <text text="נחלה " />
+        <kq>
+          <kq-k text="מבחלת" />
+          <kq-q text="מבהלת" />
+        </kq>
+        <text text=" בראשונה ואחריתה לא תברך׃" />
+      </verse>
+      <verse osisID="Prov.20.22" yeivinID="Prov 20:22" text="אל־תאמר אשלמה־רע קוה ליהוה וישע לך׃" />
+      <verse osisID="Prov.20.23" yeivinID="Prov 20:23" text="תועבת יהוה אבן ואבן ומאזני מרמה לא־טוב׃" />
+      <verse osisID="Prov.20.24" yeivinID="Prov 20:24" text="מיהוה מצעדי־גבר ואדם מה־יבין דרכו׃" />
+      <verse osisID="Prov.20.25" yeivinID="Prov 20:25" text="מוקש אדם ילע קדש ואחר נדרים לבקר׃" />
+      <verse osisID="Prov.20.26" yeivinID="Prov 20:26" text="מזרה רשעים מלך חכם וישב עליהם אופן׃" />
+      <verse osisID="Prov.20.27" yeivinID="Prov 20:27" text="נר יהוה נשמת אדם חפש כל־חדרי־בטן׃" />
+      <verse osisID="Prov.20.28" yeivinID="Prov 20:28" text="חסד ואמת יצרו־מלך וסעד בחסד כסאו׃" />
+      <verse osisID="Prov.20.29" yeivinID="Prov 20:29" text="תפארת בחורים כחם והדר זקנים שיבה׃" />
+      <verse osisID="Prov.20.30" yeivinID="Prov 20:30">
+        <text text="חברות פצע " />
+        <kq>
+          <kq-k text="תמריק" />
+          <kq-q text="תמרוק" />
+        </kq>
+        <text text=" ברע ומכות חדרי־בטן׃" />
+      </verse>
+    </chapter>
+    <chapter osisID="Prov.21">
+      <verse osisID="Prov.21.1" yeivinID="Prov 21:1" text="פלגי־מים לב־מלך ביד־יהוה על־כל־אשר יחפץ יטנו׃" />
+      <verse osisID="Prov.21.2" yeivinID="Prov 21:2" text="כל־דרך־איש ישר בעיניו ותכן לבות יהוה׃" />
+      <verse osisID="Prov.21.3" yeivinID="Prov 21:3" text="עשה צדקה ומשפט נבחר ליהוה מזבח׃" />
+      <verse osisID="Prov.21.4" yeivinID="Prov 21:4" text="רום־עינים ורחב־לב נר רשעים חטאת׃" />
+      <verse osisID="Prov.21.5" yeivinID="Prov 21:5" text="מחשבות חרוץ אך־למותר וכל־אץ אך־למחסור׃" />
+      <verse osisID="Prov.21.6" yeivinID="Prov 21:6" text="פעל אצרות בלשון שקר הבל נדף מבקשי־מות׃" />
+      <verse osisID="Prov.21.7" yeivinID="Prov 21:7" text="שד־רשעים יגורם כי מאנו לעשות משפט׃" />
+      <verse osisID="Prov.21.8" yeivinID="Prov 21:8" text="הפכפך דרך איש וזר וזך ישר פעלו׃" />
+      <verse osisID="Prov.21.9" yeivinID="Prov 21:9" text="טוב לשבת על־פנת־גג מאשת מדינים ובית חבר׃" />
+      <verse osisID="Prov.21.10" yeivinID="Prov 21:10" text="נפש רשע אותה־רע לא־יחן בעיניו רעהו׃" />
+      <verse osisID="Prov.21.11" yeivinID="Prov 21:11" text="בענש־לץ יחכם־פתי ובהשכיל לחכם יקח־דעת׃" />
+      <verse osisID="Prov.21.12" yeivinID="Prov 21:12" text="משכיל צדיק לבית רשע מסלף רשעים לרע׃" />
+      <verse osisID="Prov.21.13" yeivinID="Prov 21:13" text="אטם אזנו מזעקת־דל גם־הוא יקרא ולא יענה׃" />
+      <verse osisID="Prov.21.14" yeivinID="Prov 21:14" text="מתן בסתר יכפה־אף ושחד בחק חמה עזה׃" />
+      <verse osisID="Prov.21.15" yeivinID="Prov 21:15" text="שמחה לצדיק עשות משפט ומחתה לפעלי און׃" />
+      <verse osisID="Prov.21.16" yeivinID="Prov 21:16" text="אדם תועה מדרך השכל בקהל רפאים ינוח׃" />
+      <verse osisID="Prov.21.17" yeivinID="Prov 21:17" text="איש מחסור אהב שמחה אהב יין־ושמן לא יעשיר׃" />
+      <verse osisID="Prov.21.18" yeivinID="Prov 21:18" text="כפר לצדיק רשע ותחת ישרים בוגד׃" />
+      <verse osisID="Prov.21.19" yeivinID="Prov 21:19">
+        <text text="טוב שבת בארץ־מדבר מאשת " />
+        <kq>
+          <kq-k text="מדונים" />
+          <kq-q text="מדינים" />
+        </kq>
+        <text text=" וכעס׃" />
+      </verse>
+      <verse osisID="Prov.21.20" yeivinID="Prov 21:20">
+        <text text="אוצר" />
+        <lp-legarmeih />
+        <text text=" נחמד ושמן בנוה חכם וכסיל אדם יבלענו׃" />
+      </verse>
+      <verse osisID="Prov.21.21" yeivinID="Prov 21:21" text="רדף צדקה וחסד ימצא חיים צדקה וכבוד׃" />
+      <verse osisID="Prov.21.22" yeivinID="Prov 21:22" text="עיר גברים עלה חכם וירד עז מבטחה׃" />
+      <verse osisID="Prov.21.23" yeivinID="Prov 21:23" text="שמר פיו ולשונו שמר מצרות נפשו׃" />
+      <verse osisID="Prov.21.24" yeivinID="Prov 21:24" text="זד יהיר לץ שמו עושה בעברת זדון׃" />
+      <verse osisID="Prov.21.25" yeivinID="Prov 21:25" text="תאות עצל תמיתנו כי־מאנו ידיו לעשות׃" />
+      <verse osisID="Prov.21.26" yeivinID="Prov 21:26" text="כל־היום התאוה תאוה וצדיק יתן ולא יחשך׃" />
+      <verse osisID="Prov.21.27" yeivinID="Prov 21:27" text="זבח רשעים תועבה אף כי־בזמה יביאנו׃" />
+      <verse osisID="Prov.21.28" yeivinID="Prov 21:28" text="עד־כזבים יאבד ואיש שומע לנצח ידבר׃" />
+      <verse osisID="Prov.21.29" yeivinID="Prov 21:29">
+        <text text="העז איש רשע בפניו וישר הוא" />
+        <lp-legarmeih />
+        <text text=" " />
+        <kq>
+          <kq-k text="יכין דרכיו" />
+          <kq-q text="יבין דרכו" />
+        </kq>
+        <text text="׃" />
+      </verse>
+      <verse osisID="Prov.21.30" yeivinID="Prov 21:30" ends-with-sampe="pe2" text="אין חכמה ואין תבונה ואין עצה לנגד יהוה׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.21.31" yeivinID="Prov 21:31" starts-with-sampe="pe2" text="סוס מוכן ליום מלחמה וליהוה התשועה׃" />
+    </chapter>
+    <chapter osisID="Prov.22">
+      <verse osisID="Prov.22.1" yeivinID="Prov 22:1" text="נבחר שם מעשר רב מכסף ומזהב חן טוב׃" />
+      <verse osisID="Prov.22.2" yeivinID="Prov 22:2" text="עשיר ורש נפגשו עשה כלם יהוה׃" />
+      <verse osisID="Prov.22.3" yeivinID="Prov 22:3">
+        <text text="ערום" />
+        <lp-legarmeih />
+        <text text=" ראה רעה " />
+        <kq>
+          <kq-k text="ויסתר" />
+          <kq-q text="ונסתר" />
+        </kq>
+        <text text=" ופתיים עברו ונענשו׃" />
+      </verse>
+      <verse osisID="Prov.22.4" yeivinID="Prov 22:4" text="עקב ענוה יראת יהוה עשר וכבוד וחיים׃" />
+      <verse osisID="Prov.22.5" yeivinID="Prov 22:5" text="צנים פחים בדרך עקש שומר נפשו ירחק מהם׃" />
+      <verse osisID="Prov.22.6" yeivinID="Prov 22:6" text="חנך לנער על־פי דרכו גם כי־יזקין לא־יסור ממנה׃" />
+      <verse osisID="Prov.22.7" yeivinID="Prov 22:7" text="עשיר ברשים ימשול ועבד לוה לאיש מלוה׃" />
+      <verse osisID="Prov.22.8" yeivinID="Prov 22:8">
+        <text text="זורע עולה " />
+        <kq>
+          <kq-k text="יקצור" />
+          <kq-q text="יקצר־" />
+        </kq>
+        <text text="און ושבט עברתו יכלה׃" />
+      </verse>
+      <verse osisID="Prov.22.9" yeivinID="Prov 22:9" text="טוב־עין הוא יברך כי־נתן מלחמו לדל׃" />
+      <verse osisID="Prov.22.10" yeivinID="Prov 22:10" text="גרש לץ ויצא מדון וישבת דין וקלון׃" />
+      <verse osisID="Prov.22.11" yeivinID="Prov 22:11">
+        <text text="אהב " />
+        <kq>
+          <kq-k text="טהור" />
+          <kq-q text="טהר־" />
+        </kq>
+        <text text="לב חן שפתיו רעהו מלך׃" />
+      </verse>
+      <verse osisID="Prov.22.12" yeivinID="Prov 22:12" text="עיני יהוה נצרו דעת ויסלף דברי בגד׃" />
+      <verse osisID="Prov.22.13" yeivinID="Prov 22:13" text="אמר עצל ארי בחוץ בתוך רחבות ארצח׃" />
+      <verse osisID="Prov.22.14" yeivinID="Prov 22:14">
+        <text text="שוחה עמקה פי זרות זעום יהוה " />
+        <kq>
+          <kq-k text="יפול" />
+          <kq-q text="יפל־" />
+        </kq>
+        <text text="שם׃" />
+      </verse>
+      <verse osisID="Prov.22.15" yeivinID="Prov 22:15" text="אולת קשורה בלב־נער שבט מוסר ירחיקנה ממנו׃" />
+      <verse osisID="Prov.22.16" yeivinID="Prov 22:16" text="עשק דל להרבות לו נתן לעשיר אך־למחסור׃" />
+      <verse osisID="Prov.22.17" yeivinID="Prov 22:17" text="הט אזנך ושמע דברי חכמים ולבך תשית לדעתי׃" />
+      <verse osisID="Prov.22.18" yeivinID="Prov 22:18" text="כי־נעים כי־תשמרם בבטנך יכנו יחדו על־שפתיך׃" />
+      <verse osisID="Prov.22.19" yeivinID="Prov 22:19" text="להיות ביהוה מבטחך הודעתיך היום אף־אתה׃" />
+      <verse osisID="Prov.22.20" yeivinID="Prov 22:20">
+        <text text="הלא כתבתי לך " />
+        <kq>
+          <kq-k text="שלשום" />
+          <kq-q text="שלישים" />
+        </kq>
+        <text text=" במעצות ודעת׃" />
+      </verse>
+      <verse osisID="Prov.22.21" yeivinID="Prov 22:21" text="להודיעך קשט אמרי אמת להשיב אמרים אמת לשלחיך׃" />
+      <verse osisID="Prov.22.22" yeivinID="Prov 22:22" text="אל־תגזל־דל כי דל־הוא ואל־תדכא עני בשער׃" />
+      <verse osisID="Prov.22.23" yeivinID="Prov 22:23" text="כי־יהוה יריב ריבם וקבע את־קבעיהם נפש׃" />
+      <verse osisID="Prov.22.24" yeivinID="Prov 22:24" text="אל־תתרע את־בעל אף ואת־איש חמות לא תבוא׃" />
+      <verse osisID="Prov.22.25" yeivinID="Prov 22:25">
+        <text text="פן־תאלף " />
+        <kq-trivial text="ארחתו" />
+        <text text=" ולקחת מוקש לנפשך׃" />
+      </verse>
+      <verse osisID="Prov.22.26" yeivinID="Prov 22:26" text="אל־תהי בתקעי־כף בערבים משאות׃" />
+      <verse osisID="Prov.22.27" yeivinID="Prov 22:27" text="אם־אין־לך לשלם למה יקח משכבך מתחתיך׃" />
+      <verse osisID="Prov.22.28" yeivinID="Prov 22:28" text="אל־תסג גבול עולם אשר עשו אבותיך׃" />
+      <verse osisID="Prov.22.29" yeivinID="Prov 22:29" ends-with-sampe="pe2">
+        <text text="חזית איש" />
+        <lp-legarmeih />
+        <text text=" מהיר במלאכתו לפני־מלכים יתיצב בל־יתיצב לפני חשכים׃" />
+      </verse>
+    </chapter>
+    <spi-pe2 />
+    <chapter osisID="Prov.23">
+      <verse osisID="Prov.23.1" yeivinID="Prov 23:1" starts-with-sampe="pe2" text="כי־תשב ללחום את־מושל בין תבין את־אשר לפניך׃" />
+      <verse osisID="Prov.23.2" yeivinID="Prov 23:2" text="ושמת שכין בלעך אם־בעל נפש אתה׃" />
+      <verse osisID="Prov.23.3" yeivinID="Prov 23:3" text="אל־תתאו למטעמותיו והוא לחם כזבים׃" />
+      <verse osisID="Prov.23.4" yeivinID="Prov 23:4" text="אל־תיגע להעשיר מבינתך חדל׃" />
+      <verse osisID="Prov.23.5" yeivinID="Prov 23:5" ends-with-sampe="pe2">
+        <kq>
+          <kq-k text="התעוף" />
+          <kq-q text="התעיף" />
+        </kq>
+        <implicit-maqaf />
+        <text text="עיניך בו ואיננו כי עשה יעשה־לו כנפים כנשר " />
+        <kq>
+          <kq-k text="ועיף" />
+          <kq-q text="יעוף" />
+        </kq>
+        <text text=" השמים׃" />
+      </verse>
+      <spi-pe2 />
+      <verse osisID="Prov.23.6" yeivinID="Prov 23:6" starts-with-sampe="pe2" text="אל־תלחם את־לחם רע עין ואל־תתאו למטעמתיו׃" />
+      <verse osisID="Prov.23.7" yeivinID="Prov 23:7">
+        <text text="כי" />
+        <lp-legarmeih />
+        <text text=" כמו שער בנפשו כן־הוא אכול ושתה יאמר לך ולבו בל־עמך׃" />
+      </verse>
+      <verse osisID="Prov.23.8" yeivinID="Prov 23:8" text="פתך־אכלת תקיאנה ושחת דבריך הנעימים׃" />
+      <verse osisID="Prov.23.9" yeivinID="Prov 23:9" text="באזני כסיל אל־תדבר כי־יבוז לשכל מליך׃" />
+      <verse osisID="Prov.23.10" yeivinID="Prov 23:10" text="אל־תסג גבול עולם ובשדי יתומים אל־תבא׃" />
+      <verse osisID="Prov.23.11" yeivinID="Prov 23:11" text="כי־גאלם חזק הוא־יריב את־ריבם אתך׃" />
+      <verse osisID="Prov.23.12" yeivinID="Prov 23:12" text="הביאה למוסר לבך ואזנך לאמרי־דעת׃" />
+      <verse osisID="Prov.23.13" yeivinID="Prov 23:13" text="אל־תמנע מנער מוסר כי־תכנו בשבט לא ימות׃" />
+      <verse osisID="Prov.23.14" yeivinID="Prov 23:14" text="אתה בשבט תכנו ונפשו משאול תציל׃" />
+      <verse osisID="Prov.23.15" yeivinID="Prov 23:15" text="בני אם־חכם לבך ישמח לבי גם־אני׃" />
+      <verse osisID="Prov.23.16" yeivinID="Prov 23:16" text="ותעלזנה כליותי בדבר שפתיך מישרים׃" />
+      <verse osisID="Prov.23.17" yeivinID="Prov 23:17" text="אל־יקנא לבך בחטאים כי אם־ביראת־יהוה כל־היום׃" />
+      <verse osisID="Prov.23.18" yeivinID="Prov 23:18" text="כי אם־יש אחרית ותקותך לא תכרת׃" />
+      <verse osisID="Prov.23.19" yeivinID="Prov 23:19" text="שמע־אתה בני וחכם ואשר בדרך לבך׃" />
+      <verse osisID="Prov.23.20" yeivinID="Prov 23:20" text="אל־תהי בסבאי־יין בזללי בשר למו׃" />
+      <verse osisID="Prov.23.21" yeivinID="Prov 23:21" text="כי־סבא וזולל יורש וקרעים תלביש נומה׃" />
+      <verse osisID="Prov.23.22" yeivinID="Prov 23:22" text="שמע לאביך זה ילדך ואל־תבוז כי־זקנה אמך׃" />
+      <verse osisID="Prov.23.23" yeivinID="Prov 23:23" text="אמת קנה ואל־תמכר חכמה ומוסר ובינה׃" />
+      <verse osisID="Prov.23.24" yeivinID="Prov 23:24">
+        <kq>
+          <kq-k text="גול" />
+          <kq-q text="גיל" />
+        </kq>
+        <text text=" יגיל אבי צדיק " />
+        <kq>
+          <kq-k text="יולד" />
+          <kq-q text="ויולד" />
+        </kq>
+        <text text=" חכם " />
+        <kq>
+          <kq-k text="וישמח" />
+          <kq-q text="ישמח־" />
+        </kq>
+        <text text="בו׃" />
+      </verse>
+      <verse osisID="Prov.23.25" yeivinID="Prov 23:25" text="ישמח־אביך ואמך ותגל יולדתך׃" />
+      <verse osisID="Prov.23.26" yeivinID="Prov 23:26">
+        <text text="תנה־בני לבך לי ועיניך דרכי " />
+        <kq>
+          <kq-k text="תרצנה" />
+          <kq-q text="תצרנה" />
+        </kq>
+        <text text="׃" />
+      </verse>
+      <verse osisID="Prov.23.27" yeivinID="Prov 23:27" text="כי־שוחה עמקה זונה ובאר צרה נכריה׃" />
+      <verse osisID="Prov.23.28" yeivinID="Prov 23:28" text="אף־היא כחתף תארב ובוגדים באדם תוסף׃" />
+      <verse osisID="Prov.23.29" yeivinID="Prov 23:29">
+        <text text="למי אוי למי אבוי למי " />
+        <kq>
+          <kq-k text="מדונים" />
+          <kq-q>
+            <text text="מדינים" />
+            <lp-legarmeih />
+          </kq-q>
+        </kq>
+        <text text=" למי שיח למי פצעים חנם למי חכללות עינים׃" />
+      </verse>
+      <verse osisID="Prov.23.30" yeivinID="Prov 23:30" text="למאחרים על־היין לבאים לחקר ממסך׃" />
+      <verse osisID="Prov.23.31" yeivinID="Prov 23:31">
+        <text text="אל־תרא יין כי יתאדם כי־יתן " />
+        <kq>
+          <kq-k text="בכיס" />
+          <kq-q text="בכוס" />
+        </kq>
+        <text text=" עינו יתהלך במישרים׃" />
+      </verse>
+      <verse osisID="Prov.23.32" yeivinID="Prov 23:32" text="אחריתו כנחש ישך וכצפעני יפרש׃" />
+      <verse osisID="Prov.23.33" yeivinID="Prov 23:33" text="עיניך יראו זרות ולבך ידבר תהפכות׃" />
+      <verse osisID="Prov.23.34" yeivinID="Prov 23:34" text="והיית כשכב בלב־ים וכשכב בראש חבל׃" />
+      <verse osisID="Prov.23.35" yeivinID="Prov 23:35" text="הכוני בל־חליתי הלמוני בל־ידעתי מתי אקיץ אוסיף אבקשנו עוד׃" />
+    </chapter>
+    <chapter osisID="Prov.24">
+      <verse osisID="Prov.24.1" yeivinID="Prov 24:1" text="אל־תקנא באנשי רעה ואל־תתאו להיות אתם׃" />
+      <verse osisID="Prov.24.2" yeivinID="Prov 24:2" text="כי־שד יהגה לבם ועמל שפתיהם תדברנה׃" />
+      <verse osisID="Prov.24.3" yeivinID="Prov 24:3" text="בחכמה יבנה בית ובתבונה יתכונן׃" />
+      <verse osisID="Prov.24.4" yeivinID="Prov 24:4" text="ובדעת חדרים ימלאו כל־הון יקר ונעים׃" />
+      <verse osisID="Prov.24.5" yeivinID="Prov 24:5" text="גבר־חכם בעוז ואיש־דעת מאמץ־כח׃" />
+      <verse osisID="Prov.24.6" yeivinID="Prov 24:6" text="כי בתחבלות תעשה־לך מלחמה ותשועה ברב יועץ׃" />
+      <verse osisID="Prov.24.7" yeivinID="Prov 24:7" text="ראמות לאויל חכמות בשער לא יפתח־פיהו׃" />
+      <verse osisID="Prov.24.8" yeivinID="Prov 24:8" text="מחשב להרע לו בעל־מזמות יקראו׃" />
+      <verse osisID="Prov.24.9" yeivinID="Prov 24:9" text="זמת אולת חטאת ותועבת לאדם לץ׃" />
+      <verse osisID="Prov.24.10" yeivinID="Prov 24:10" text="התרפית ביום צרה צר כחכה׃" />
+      <verse osisID="Prov.24.11" yeivinID="Prov 24:11" text="הצל לקחים למות ומטים להרג אם־תחשוך׃" />
+      <verse osisID="Prov.24.12" yeivinID="Prov 24:12">
+        <text text="כי־תאמר הן לא־ידענו זה הלא־תכן לבות" />
+        <lp-legarmeih />
+        <text text=" הוא־יבין ונצר נפשך הוא ידע והשיב לאדם כפעלו׃" />
+      </verse>
+      <verse osisID="Prov.24.13" yeivinID="Prov 24:13" text="אכל־בני דבש כי־טוב ונפת מתוק על־חכך׃" />
+      <verse osisID="Prov.24.14" yeivinID="Prov 24:14" ends-with-sampe="pe2">
+        <text text="כן" />
+        <lp-legarmeih />
+        <text text=" דעה חכמה לנפשך אם־מצאת ויש אחרית ותקותך לא תכרת׃" />
+      </verse>
+      <spi-pe2 />
+      <verse osisID="Prov.24.15" yeivinID="Prov 24:15" starts-with-sampe="pe2" text="אל־תארב רשע לנוה צדיק אל־תשדד רבצו׃" />
+      <verse osisID="Prov.24.16" yeivinID="Prov 24:16">
+        <text text="כי שבע" />
+        <lp-legarmeih />
+        <text text=" יפול צדיק וקם ורשעים יכשלו ברעה׃" />
+      </verse>
+      <verse osisID="Prov.24.17" yeivinID="Prov 24:17">
+        <text text="בנפל " />
+        <kq>
+          <kq-k text="אויביך" />
+          <kq-q text="אויבך" />
+        </kq>
+        <text text=" אל־תשמח ובכשלו אל־יגל לבך׃" />
+      </verse>
+      <verse osisID="Prov.24.18" yeivinID="Prov 24:18" text="פן־יראה יהוה ורע בעיניו והשיב מעליו אפו׃" />
+      <verse osisID="Prov.24.19" yeivinID="Prov 24:19" text="אל־תתחר במרעים אל־תקנא ברשעים׃" />
+      <verse osisID="Prov.24.20" yeivinID="Prov 24:20">
+        <text text="כי" />
+        <lp-legarmeih />
+        <text text=" לא־תהיה אחרית לרע נר רשעים ידעך׃" />
+      </verse>
+      <verse osisID="Prov.24.21" yeivinID="Prov 24:21" text="ירא־את־יהוה בני ומלך עם־שונים אל־תתערב׃" />
+      <verse osisID="Prov.24.22" yeivinID="Prov 24:22" ends-with-sampe="pe2" text="כי־פתאם יקום אידם ופיד שניהם מי יודע׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.24.23" yeivinID="Prov 24:23" starts-with-sampe="pe2" text="גם־אלה לחכמים הכר־פנים במשפט בל־טוב׃" />
+      <verse osisID="Prov.24.24" yeivinID="Prov 24:24">
+        <text text="אמר" />
+        <lp-legarmeih />
+        <text text=" לרשע צדיק אתה יקבהו עמים יזעמוהו לאמים׃" />
+      </verse>
+      <verse osisID="Prov.24.25" yeivinID="Prov 24:25" text="ולמוכיחים ינעם ועליהם תבוא ברכת־טוב׃" />
+      <verse osisID="Prov.24.26" yeivinID="Prov 24:26" text="שפתים ישק משיב דברים נכחים׃" />
+      <verse osisID="Prov.24.27" yeivinID="Prov 24:27" ends-with-sampe="pe2">
+        <text text="הכן בחוץ" />
+        <lp-legarmeih />
+        <text text=" מלאכתך ועתדה בשדה לך אחר ובנית ביתך׃" />
+      </verse>
+      <spi-pe2 />
+      <verse osisID="Prov.24.28" yeivinID="Prov 24:28" starts-with-sampe="pe2" text="אל־תהי עד־חנם ברעך והפתית בשפתיך׃" />
+      <verse osisID="Prov.24.29" yeivinID="Prov 24:29" ends-with-sampe="pe2" text="אל־תאמר כאשר עשה־לי כן אעשה־לו אשיב לאיש כפעלו׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.24.30" yeivinID="Prov 24:30" starts-with-sampe="pe2" text="על־שדה איש־עצל עברתי ועל־כרם אדם חסר־לב׃" />
+      <verse osisID="Prov.24.31" yeivinID="Prov 24:31">
+        <text text="והנה עלה כלו" />
+        <lp-legarmeih />
+        <text text=" קמשנים כסו פניו חרלים וגדר אבניו נהרסה׃" />
+      </verse>
+      <verse osisID="Prov.24.32" yeivinID="Prov 24:32" text="ואחזה אנכי אשית לבי ראיתי לקחתי מוסר׃" />
+      <verse osisID="Prov.24.33" yeivinID="Prov 24:33">
+        <text text="מעט שנות מעט תנומות מעט" />
+        <lp-legarmeih />
+        <text text=" חבק ידים לשכב׃" />
+      </verse>
+      <verse osisID="Prov.24.34" yeivinID="Prov 24:34" ends-with-sampe="pe2" text="ובא־מתהלך רישך ומחסריך כאיש מגן׃" />
+    </chapter>
+    <spi-pe2 />
+    <chapter osisID="Prov.25">
+      <verse osisID="Prov.25.1" yeivinID="Prov 25:1" starts-with-sampe="pe2">
+        <text text="גם־אלה משלי שלמה אשר העתיקו אנשי" />
+        <lp-legarmeih />
+        <text text=" חזקיה מלך־יהודה׃" />
+      </verse>
+      <verse osisID="Prov.25.2" yeivinID="Prov 25:2" text="כבד אלהים הסתר דבר וכבד מלכים חקר דבר׃" />
+      <verse osisID="Prov.25.3" yeivinID="Prov 25:3" text="שמים לרום וארץ לעמק ולב מלכים אין חקר׃" />
+      <verse osisID="Prov.25.4" yeivinID="Prov 25:4" text="הגו סיגים מכסף ויצא לצרף כלי׃" />
+      <verse osisID="Prov.25.5" yeivinID="Prov 25:5" text="הגו רשע לפני־מלך ויכון בצדק כסאו׃" />
+      <verse osisID="Prov.25.6" yeivinID="Prov 25:6" text="אל־תתהדר לפני־מלך ובמקום גדלים אל־תעמד׃" />
+      <verse osisID="Prov.25.7" yeivinID="Prov 25:7">
+        <text text="כי טוב אמר־לך עלה" />
+        <implicit-maqaf />
+        <text text="הנה מהשפילך לפני נדיב אשר ראו עיניך׃" />
+      </verse>
+      <verse osisID="Prov.25.8" yeivinID="Prov 25:8" text="אל־תצא לרב מהר פן מה־תעשה באחריתה בהכלים אתך רעך׃" />
+      <verse osisID="Prov.25.9" yeivinID="Prov 25:9" text="ריבך ריב את־רעך וסוד אחר אל־תגל׃" />
+      <verse osisID="Prov.25.10" yeivinID="Prov 25:10" text="פן־יחסדך שמע ודבתך לא תשוב׃" />
+      <verse osisID="Prov.25.11" yeivinID="Prov 25:11" text="תפוחי זהב במשכיות כסף דבר דבר על־אפניו׃" />
+      <verse osisID="Prov.25.12" yeivinID="Prov 25:12" text="נזם זהב וחלי־כתם מוכיח חכם על־אזן שמעת׃" />
+      <verse osisID="Prov.25.13" yeivinID="Prov 25:13" ends-with-sampe="pe2">
+        <text text="כצנת־שלג" />
+        <lp-legarmeih />
+        <text text=" ביום קציר ציר נאמן לשלחיו ונפש אדניו ישיב׃" />
+      </verse>
+      <spi-pe2 />
+      <verse osisID="Prov.25.14" yeivinID="Prov 25:14" starts-with-sampe="pe2" text="נשיאים ורוח וגשם אין איש מתהלל במתת־שקר׃" />
+      <verse osisID="Prov.25.15" yeivinID="Prov 25:15" text="בארך אפים יפתה קצין ולשון רכה תשבר־גרם׃" />
+      <verse osisID="Prov.25.16" yeivinID="Prov 25:16" text="דבש מצאת אכל דיך פן־תשבענו והקאתו׃" />
+      <verse osisID="Prov.25.17" yeivinID="Prov 25:17" text="הקר רגלך מבית רעך פן־ישבעך ושנאך׃" />
+      <verse osisID="Prov.25.18" yeivinID="Prov 25:18" text="מפיץ וחרב וחץ שנון איש ענה ברעהו עד שקר׃" />
+      <verse osisID="Prov.25.19" yeivinID="Prov 25:19" text="שן רעה ורגל מועדת מבטח בוגד ביום צרה׃" />
+      <verse osisID="Prov.25.20" yeivinID="Prov 25:20" ends-with-sampe="pe2">
+        <text text="מעדה־בגד" />
+        <lp-legarmeih />
+        <text text=" ביום קרה חמץ על־נתר ושר בשרים על לב־רע׃" />
+      </verse>
+      <spi-pe2 />
+      <verse osisID="Prov.25.21" yeivinID="Prov 25:21" starts-with-sampe="pe2" text="אם־רעב שנאך האכלהו לחם ואם־צמא השקהו מים׃" />
+      <verse osisID="Prov.25.22" yeivinID="Prov 25:22" text="כי גחלים אתה חתה על־ראשו ויהוה ישלם־לך׃" />
+      <verse osisID="Prov.25.23" yeivinID="Prov 25:23" text="רוח צפון תחולל גשם ופנים נזעמים לשון סתר׃" />
+      <verse osisID="Prov.25.24" yeivinID="Prov 25:24">
+        <text text="טוב שבת על־פנת־גג מאשת " />
+        <kq>
+          <kq-k text="מדונים" />
+          <kq-q text="מדינים" />
+        </kq>
+        <text text=" ובית חבר׃" />
+      </verse>
+      <verse osisID="Prov.25.25" yeivinID="Prov 25:25" text="מים קרים על־נפש עיפה ושמועה טובה מארץ מרחק׃" />
+      <verse osisID="Prov.25.26" yeivinID="Prov 25:26" text="מעין נרפש ומקור משחת צדיק מט לפני־רשע׃" />
+      <verse osisID="Prov.25.27" yeivinID="Prov 25:27" text="אכל דבש הרבות לא־טוב וחקר כבדם כבוד׃" />
+      <verse osisID="Prov.25.28" yeivinID="Prov 25:28" text="עיר פרוצה אין חומה איש אשר אין מעצר לרוחו׃" />
+    </chapter>
+    <chapter osisID="Prov.26">
+      <verse osisID="Prov.26.1" yeivinID="Prov 26:1">
+        <text text="כשלג" />
+        <lp-legarmeih />
+        <text text=" בקיץ וכמטר בקציר כן לא־נאוה לכסיל כבוד׃" />
+      </verse>
+      <verse osisID="Prov.26.2" yeivinID="Prov 26:2">
+        <text text="כצפור לנוד כדרור לעוף כן קללת חנם " />
+        <kq>
+          <kq-k text="לא" />
+          <kq-q text="לו" />
+        </kq>
+        <text text=" תבא׃" />
+      </verse>
+      <verse osisID="Prov.26.3" yeivinID="Prov 26:3" text="שוט לסוס מתג לחמור ושבט לגו כסילים׃" />
+      <verse osisID="Prov.26.4" yeivinID="Prov 26:4" text="אל־תען כסיל כאולתו פן־תשוה־לו גם־אתה׃" />
+      <verse osisID="Prov.26.5" yeivinID="Prov 26:5" text="ענה כסיל כאולתו פן־יהיה חכם בעיניו׃" />
+      <verse osisID="Prov.26.6" yeivinID="Prov 26:6" text="מקצה רגלים חמס שתה שלח דברים ביד־כסיל׃" />
+      <verse osisID="Prov.26.7" yeivinID="Prov 26:7" text="דליו שקים מפסח ומשל בפי כסילים׃" />
+      <verse osisID="Prov.26.8" yeivinID="Prov 26:8" text="כצרור אבן במרגמה כן־נותן לכסיל כבוד׃" />
+      <verse osisID="Prov.26.9" yeivinID="Prov 26:9" text="חוח עלה ביד־שכור ומשל בפי כסילים׃" />
+      <verse osisID="Prov.26.10" yeivinID="Prov 26:10" text="רב מחולל־כל ושכר כסיל ושכר עברים׃" />
+      <verse osisID="Prov.26.11" yeivinID="Prov 26:11" text="ככלב שב על־קאו כסיל שונה באולתו׃" />
+      <verse osisID="Prov.26.12" yeivinID="Prov 26:12" text="ראית איש חכם בעיניו תקוה לכסיל ממנו׃" />
+      <verse osisID="Prov.26.13" yeivinID="Prov 26:13" text="אמר עצל שחל בדרך ארי בין הרחבות׃" />
+      <verse osisID="Prov.26.14" yeivinID="Prov 26:14" text="הדלת תסוב על־צירה ועצל על־מטתו׃" />
+      <verse osisID="Prov.26.15" yeivinID="Prov 26:15" text="טמן עצל ידו בצלחת נלאה להשיבה אל־פיו׃" />
+      <verse osisID="Prov.26.16" yeivinID="Prov 26:16" text="חכם עצל בעיניו משבעה משיבי טעם׃" />
+      <verse osisID="Prov.26.17" yeivinID="Prov 26:17" text="מחזיק באזני־כלב עבר מתעבר על־ריב לא־לו׃" />
+      <verse osisID="Prov.26.18" yeivinID="Prov 26:18" text="כמתלהלה הירה זקים חצים ומות׃" />
+      <verse osisID="Prov.26.19" yeivinID="Prov 26:19" text="כן־איש רמה את־רעהו ואמר הלא־משחק אני׃" />
+      <verse osisID="Prov.26.20" yeivinID="Prov 26:20" text="באפס עצים תכבה־אש ובאין נרגן ישתק מדון׃" />
+      <verse osisID="Prov.26.21" yeivinID="Prov 26:21" ends-with-sampe="pe2">
+        <text text="פחם לגחלים ועצים לאש ואיש " />
+        <kq>
+          <kq-k text="מדונים" />
+          <kq-q text="מדינים" />
+        </kq>
+        <text text=" לחרחר־ריב׃" />
+      </verse>
+      <spi-pe2 />
+      <verse osisID="Prov.26.22" yeivinID="Prov 26:22" starts-with-sampe="pe2" text="דברי נרגן כמתלהמים והם ירדו חדרי־בטן׃" />
+      <verse osisID="Prov.26.23" yeivinID="Prov 26:23" text="כסף סיגים מצפה על־חרש שפתים דלקים ולב־רע׃" />
+      <verse osisID="Prov.26.24" yeivinID="Prov 26:24">
+        <kq-trivial text="בשפתו" />
+        <text text=" ינכר שונא ובקרבו ישית מרמה׃" />
+      </verse>
+      <verse osisID="Prov.26.25" yeivinID="Prov 26:25" text="כי־יחנן קולו אל־תאמן־בו כי שבע תועבות בלבו׃" />
+      <verse osisID="Prov.26.26" yeivinID="Prov 26:26" text="תכסה שנאה במשאון תגלה רעתו בקהל׃" />
+      <verse osisID="Prov.26.27" yeivinID="Prov 26:27" text="כרה־שחת בה יפול וגולל אבן אליו תשוב׃" />
+      <verse osisID="Prov.26.28" yeivinID="Prov 26:28" text="לשון־שקר ישנא דכיו ופה חלק יעשה מדחה׃" />
+    </chapter>
+    <chapter osisID="Prov.27">
+      <verse osisID="Prov.27.1" yeivinID="Prov 27:1" text="אל־תתהלל ביום מחר כי לא־תדע מה־ילד יום׃" />
+      <verse osisID="Prov.27.2" yeivinID="Prov 27:2" text="יהללך זר ולא־פיך נכרי ואל־שפתיך׃" />
+      <verse osisID="Prov.27.3" yeivinID="Prov 27:3" text="כבד־אבן ונטל החול וכעס אויל כבד משניהם׃" />
+      <verse osisID="Prov.27.4" yeivinID="Prov 27:4" text="אכזריות חמה ושטף אף ומי יעמד לפני קנאה׃" />
+      <verse osisID="Prov.27.5" yeivinID="Prov 27:5" text="טובה תוכחת מגלה מאהבה מסתרת׃" />
+      <verse osisID="Prov.27.6" yeivinID="Prov 27:6" text="נאמנים פצעי אוהב ונעתרות נשיקות שונא׃" />
+      <verse osisID="Prov.27.7" yeivinID="Prov 27:7" text="נפש שבעה תבוס נפת ונפש רעבה כל־מר מתוק׃" />
+      <verse osisID="Prov.27.8" yeivinID="Prov 27:8" text="כצפור נודדת מן־קנה כן־איש נודד ממקומו׃" />
+      <verse osisID="Prov.27.9" yeivinID="Prov 27:9" text="שמן וקטרת ישמח־לב ומתק רעהו מעצת־נפש׃" />
+      <verse osisID="Prov.27.10" yeivinID="Prov 27:10">
+        <text text="רעך " />
+        <kq>
+          <kq-k text="ורעה" />
+          <kq-q text="ורע" />
+        </kq>
+        <text text=" אביך אל־תעזב ובית אחיך אל־תבוא ביום אידך טוב שכן קרוב מאח רחוק׃" />
+      </verse>
+      <verse osisID="Prov.27.11" yeivinID="Prov 27:11" text="חכם בני ושמח לבי ואשיבה חרפי דבר׃" />
+      <verse osisID="Prov.27.12" yeivinID="Prov 27:12">
+        <text text="ערום" />
+        <lp-legarmeih />
+        <text text=" ראה רעה נסתר פתאים עברו נענשו׃" />
+      </verse>
+      <verse osisID="Prov.27.13" yeivinID="Prov 27:13" text="קח־בגדו כי־ערב זר ובעד נכריה חבלהו׃" />
+      <verse osisID="Prov.27.14" yeivinID="Prov 27:14">
+        <text text="מברך רעהו" />
+        <lp-legarmeih />
+        <text text=" בקול גדול בבקר השכים קללה תחשב לו׃" />
+      </verse>
+      <verse osisID="Prov.27.15" yeivinID="Prov 27:15">
+        <text text="דלף טורד ביום סגריר ואשת " />
+        <kq>
+          <kq-k text="מדונים" />
+          <kq-q text="מדינים" />
+        </kq>
+        <text text=" נשתוה׃" />
+      </verse>
+      <verse osisID="Prov.27.16" yeivinID="Prov 27:16" text="צפניה צפן־רוח ושמן ימינו יקרא׃" />
+      <verse osisID="Prov.27.17" yeivinID="Prov 27:17" text="ברזל בברזל יחד ואיש יחד פני־רעהו׃" />
+      <verse osisID="Prov.27.18" yeivinID="Prov 27:18" text="נצר תאנה יאכל פריה ושמר אדניו יכבד׃" />
+      <verse osisID="Prov.27.19" yeivinID="Prov 27:19" text="כמים הפנים לפנים כן לב־האדם לאדם׃" />
+      <verse osisID="Prov.27.20" yeivinID="Prov 27:20" text="שאול ואבדה לא תשבענה ועיני האדם לא תשבענה׃" />
+      <verse osisID="Prov.27.21" yeivinID="Prov 27:21" text="מצרף לכסף וכור לזהב ואיש לפי מהללו׃" />
+      <verse osisID="Prov.27.22" yeivinID="Prov 27:22" ends-with-sampe="pe2">
+        <text text="אם" />
+        <implicit-maqaf />
+        <text text="תכתוש־את־האויל" />
+        <lp-legarmeih />
+        <text text=" במכתש בתוך הריפות בעלי לא־תסור מעליו אולתו׃" />
+      </verse>
+      <spi-pe2 />
+      <verse osisID="Prov.27.23" yeivinID="Prov 27:23" starts-with-sampe="pe2" text="ידע תדע פני צאנך שית לבך לעדרים׃" />
+      <verse osisID="Prov.27.24" yeivinID="Prov 27:24">
+        <text text="כי לא לעולם חסן ואם־נזר לדור " />
+        <kq>
+          <kq-k text="דור" />
+          <kq-q text="ודור" />
+        </kq>
+        <text text="׃" />
+      </verse>
+      <verse osisID="Prov.27.25" yeivinID="Prov 27:25" text="גלה חציר ונראה־דשא ונאספו עשבות הרים׃" />
+      <verse osisID="Prov.27.26" yeivinID="Prov 27:26" text="כבשים ללבושך ומחיר שדה עתודים׃" />
+      <verse osisID="Prov.27.27" yeivinID="Prov 27:27">
+        <text text="ודי" />
+        <lp-legarmeih />
+        <text text=" חלב עזים ללחמך ללחם ביתך וחיים לנערותיך׃" />
+      </verse>
+    </chapter>
+    <chapter osisID="Prov.28">
+      <verse osisID="Prov.28.1" yeivinID="Prov 28:1" text="נסו ואין־רדף רשע וצדיקים ככפיר יבטח׃" />
+      <verse osisID="Prov.28.2" yeivinID="Prov 28:2" text="בפשע ארץ רבים שריה ובאדם מבין ידע כן יאריך׃" />
+      <verse osisID="Prov.28.3" yeivinID="Prov 28:3" text="גבר־רש ועשק דלים מטר סחף ואין לחם׃" />
+      <verse osisID="Prov.28.4" yeivinID="Prov 28:4" ends-with-sampe="pe2" text="עזבי תורה יהללו רשע ושמרי תורה יתגרו בם׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.28.5" yeivinID="Prov 28:5" starts-with-sampe="pe2" text="אנשי־רע לא־יבינו משפט ומבקשי יהוה יבינו כל׃" />
+      <verse osisID="Prov.28.6" yeivinID="Prov 28:6" text="טוב־רש הולך בתמו מעקש דרכים והוא עשיר׃" />
+      <verse osisID="Prov.28.7" yeivinID="Prov 28:7" text="נוצר תורה בן מבין ורעה זוללים יכלים אביו׃" />
+      <verse osisID="Prov.28.8" yeivinID="Prov 28:8">
+        <text text="מרבה הונו בנשך " />
+        <kq>
+          <kq-k text="ובתרבית" />
+          <kq-q text="ותרבית" />
+        </kq>
+        <text text=" לחונן דלים יקבצנו׃" />
+      </verse>
+      <verse osisID="Prov.28.9" yeivinID="Prov 28:9" text="מסיר אזנו משמע תורה גם תפלתו תועבה׃" />
+      <verse osisID="Prov.28.10" yeivinID="Prov 28:10" ends-with-sampe="pe2">
+        <text text="משגה ישרים" />
+        <lp-legarmeih />
+        <text text=" בדרך רע בשחותו הוא־יפול ותמימים ינחלו־טוב׃" />
+      </verse>
+      <spi-pe2 />
+      <verse osisID="Prov.28.11" yeivinID="Prov 28:11" starts-with-sampe="pe2" text="חכם בעיניו איש עשיר ודל מבין יחקרנו׃" />
+      <verse osisID="Prov.28.12" yeivinID="Prov 28:12" text="בעלץ צדיקים רבה תפארת ובקום רשעים יחפש אדם׃" />
+      <verse osisID="Prov.28.13" yeivinID="Prov 28:13" text="מכסה פשעיו לא יצליח ומודה ועזב ירחם׃" />
+      <verse osisID="Prov.28.14" yeivinID="Prov 28:14" text="אשרי אדם מפחד תמיד ומקשה לבו יפול ברעה׃" />
+      <verse osisID="Prov.28.15" yeivinID="Prov 28:15" text="ארי־נהם ודב שוקק מושל רשע על עם־דל׃" />
+      <verse osisID="Prov.28.16" yeivinID="Prov 28:16" ends-with-sampe="pe2">
+        <text text="נגיד חסר תבונות ורב מעשקות " />
+        <kq>
+          <kq-k text="שנאי" />
+          <kq-q text="שנא" />
+        </kq>
+        <text text=" בצע יאריך ימים׃" />
+      </verse>
+      <spi-pe2 />
+      <verse osisID="Prov.28.17" yeivinID="Prov 28:17" starts-with-sampe="pe2">
+        <slh-word slhw-desc-0="אדם" slhw-desc-1=".ד." slhw-desc-2="ק" slhw-desc-3="ד/ק">
+          <text text="א" />
+          <letter-small text="ד" />
+          <text text="ם" />
+        </slh-word>
+        <text text=" עשק בדם־נפש עד־בור ינוס אל־יתמכו־בו׃" />
+      </verse>
+      <verse osisID="Prov.28.18" yeivinID="Prov 28:18" text="הולך תמים יושע ונעקש דרכים יפול באחת׃" />
+      <verse osisID="Prov.28.19" yeivinID="Prov 28:19" text="עבד אדמתו ישבע־לחם ומרדף ריקים ישבע־ריש׃" />
+      <verse osisID="Prov.28.20" yeivinID="Prov 28:20" text="איש אמונות רב־ברכות ואץ להעשיר לא ינקה׃" />
+      <verse osisID="Prov.28.21" yeivinID="Prov 28:21" text="הכר־פנים לא־טוב ועל־פת־לחם יפשע־גבר׃" />
+      <verse osisID="Prov.28.22" yeivinID="Prov 28:22">
+        <text text="נבהל" />
+        <implicit-maqaf />
+        <text text="להון איש רע עין ולא־ידע כי־חסר יבאנו׃" />
+      </verse>
+      <verse osisID="Prov.28.23" yeivinID="Prov 28:23" text="מוכיח אדם אחרי חן ימצא ממחליק לשון׃" />
+      <verse osisID="Prov.28.24" yeivinID="Prov 28:24">
+        <text text="גוזל" />
+        <lp-legarmeih />
+        <text text=" אביו ואמו ואמר אין־פשע חבר הוא לאיש משחית׃" />
+      </verse>
+      <verse osisID="Prov.28.25" yeivinID="Prov 28:25" text="רחב־נפש יגרה מדון ובטח על־יהוה ידשן׃" />
+      <verse osisID="Prov.28.26" yeivinID="Prov 28:26" text="בוטח בלבו הוא כסיל והולך בחכמה הוא ימלט׃" />
+      <verse osisID="Prov.28.27" yeivinID="Prov 28:27" text="נותן לרש אין מחסור ומעלים עיניו רב־מארות׃" />
+      <verse osisID="Prov.28.28" yeivinID="Prov 28:28" text="בקום רשעים יסתר אדם ובאבדם ירבו צדיקים׃" />
+    </chapter>
+    <chapter osisID="Prov.29">
+      <verse osisID="Prov.29.1" yeivinID="Prov 29:1" text="איש תוכחות מקשה־ערף פתע ישבר ואין מרפא׃" />
+      <verse osisID="Prov.29.2" yeivinID="Prov 29:2" text="ברבות צדיקים ישמח העם ובמשל רשע יאנח עם׃" />
+      <verse osisID="Prov.29.3" yeivinID="Prov 29:3" text="איש־אהב חכמה ישמח אביו ורעה זונות יאבד־הון׃" />
+      <verse osisID="Prov.29.4" yeivinID="Prov 29:4" text="מלך במשפט יעמיד ארץ ואיש תרומות יהרסנה׃" />
+      <verse osisID="Prov.29.5" yeivinID="Prov 29:5" text="גבר מחליק על־רעהו רשת פורש על־פעמיו׃" />
+      <verse osisID="Prov.29.6" yeivinID="Prov 29:6" text="בפשע איש רע מוקש וצדיק ירון ושמח׃" />
+      <verse osisID="Prov.29.7" yeivinID="Prov 29:7" text="ידע צדיק דין דלים רשע לא־יבין דעת׃" />
+      <verse osisID="Prov.29.8" yeivinID="Prov 29:8" text="אנשי לצון יפיחו קריה וחכמים ישיבו אף׃" />
+      <verse osisID="Prov.29.9" yeivinID="Prov 29:9" text="איש־חכם נשפט את־איש אויל ורגז ושחק ואין נחת׃" />
+      <verse osisID="Prov.29.10" yeivinID="Prov 29:10" text="אנשי דמים ישנאו־תם וישרים יבקשו נפשו׃" />
+      <verse osisID="Prov.29.11" yeivinID="Prov 29:11" text="כל־רוחו יוציא כסיל וחכם באחור ישבחנה׃" />
+      <verse osisID="Prov.29.12" yeivinID="Prov 29:12" text="משל מקשיב על־דבר־שקר כל־משרתיו רשעים׃" />
+      <verse osisID="Prov.29.13" yeivinID="Prov 29:13">
+        <text text="רש ואיש תככים נפגשו מאיר" />
+        <implicit-maqaf />
+        <text text="עיני שניהם יהוה׃" />
+      </verse>
+      <verse osisID="Prov.29.14" yeivinID="Prov 29:14" text="מלך שופט באמת דלים כסאו לעד יכון׃" />
+      <verse osisID="Prov.29.15" yeivinID="Prov 29:15" text="שבט ותוכחת יתן חכמה ונער משלח מביש אמו׃" />
+      <verse osisID="Prov.29.16" yeivinID="Prov 29:16" text="ברבות רשעים ירבה־פשע וצדיקים במפלתם יראו׃" />
+      <verse osisID="Prov.29.17" yeivinID="Prov 29:17" ends-with-sampe="pe2" text="יסר בנך ויניחך ויתן מעדנים לנפשך׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.29.18" yeivinID="Prov 29:18" starts-with-sampe="pe2" text="באין חזון יפרע עם ושמר תורה אשרהו׃" />
+      <verse osisID="Prov.29.19" yeivinID="Prov 29:19" text="בדברים לא־יוסר עבד כי־יבין ואין מענה׃" />
+      <verse osisID="Prov.29.20" yeivinID="Prov 29:20" text="חזית איש אץ בדבריו תקוה לכסיל ממנו׃" />
+      <verse osisID="Prov.29.21" yeivinID="Prov 29:21" text="מפנק מנער עבדו ואחריתו יהיה מנון׃" />
+      <verse osisID="Prov.29.22" yeivinID="Prov 29:22" text="איש־אף יגרה מדון ובעל חמה רב־פשע׃" />
+      <verse osisID="Prov.29.23" yeivinID="Prov 29:23" text="גאות אדם תשפילנו ושפל־רוח יתמך כבוד׃" />
+      <verse osisID="Prov.29.24" yeivinID="Prov 29:24" text="חולק עם־גנב שונא נפשו אלה ישמע ולא יגיד׃" />
+      <verse osisID="Prov.29.25" yeivinID="Prov 29:25" text="חרדת אדם יתן מוקש ובוטח ביהוה ישגב׃" />
+      <verse osisID="Prov.29.26" yeivinID="Prov 29:26" text="רבים מבקשים פני־מושל ומיהוה משפט־איש׃" />
+      <verse osisID="Prov.29.27" yeivinID="Prov 29:27" ends-with-sampe="pe2" text="תועבת צדיקים איש עול ותועבת רשע ישר־דרך׃" />
+    </chapter>
+    <spi-pe2 />
+    <chapter osisID="Prov.30">
+      <verse osisID="Prov.30.1" yeivinID="Prov 30:1" starts-with-sampe="pe2">
+        <text text="דברי" />
+        <lp-legarmeih />
+        <text text=" אגור בן־יקה המשא נאם הגבר לאיתיאל לאיתיאל ואכל׃" />
+      </verse>
+      <verse osisID="Prov.30.2" yeivinID="Prov 30:2" text="כי בער אנכי מאיש ולא־בינת אדם לי׃" />
+      <verse osisID="Prov.30.3" yeivinID="Prov 30:3" text="ולא־למדתי חכמה ודעת קדשים אדע׃" />
+      <verse osisID="Prov.30.4" yeivinID="Prov 30:4">
+        <text text="מי עלה־שמים" />
+        <lp-legarmeih />
+        <text text=" וירד מי אסף־רוח" />
+        <lp-legarmeih />
+        <text text=" בחפניו מי צרר־מים" />
+        <lp-legarmeih />
+        <text text=" בשמלה מי הקים כל־אפסי־ארץ מה־שמו ומה־שם־בנו כי תדע׃" />
+      </verse>
+      <verse osisID="Prov.30.5" yeivinID="Prov 30:5" text="כל־אמרת אלוה צרופה מגן הוא לחסים בו׃" />
+      <verse osisID="Prov.30.6" yeivinID="Prov 30:6" ends-with-sampe="pe2" text="אל־תוסף על־דבריו פן־יוכיח בך ונכזבת׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.30.7" yeivinID="Prov 30:7" starts-with-sampe="pe2" text="שתים שאלתי מאתך אל־תמנע ממני בטרם אמות׃" />
+      <verse osisID="Prov.30.8" yeivinID="Prov 30:8">
+        <text text="שוא" />
+        <lp-legarmeih />
+        <text text=" ודבר־כזב הרחק ממני ראש ועשר אל־תתן־לי הטריפני לחם חקי׃" />
+      </verse>
+      <verse osisID="Prov.30.9" yeivinID="Prov 30:9" ends-with-sampe="pe2">
+        <text text="פן" />
+        <implicit-maqaf />
+        <text text="אשבע" />
+        <lp-legarmeih />
+        <text text=" וכחשתי ואמרתי מי" />
+        <implicit-maqaf />
+        <text text="יהוה ופן־אורש וגנבתי ותפשתי שם אלהי׃" />
+      </verse>
+      <spi-pe2 />
+      <verse osisID="Prov.30.10" yeivinID="Prov 30:10" starts-with-sampe="pe2">
+        <text text="אל־תלשן עבד אל־" />
+        <kq-trivial text="אדנו" />
+        <text text=" פן־יקללך ואשמת׃" />
+      </verse>
+      <verse osisID="Prov.30.11" yeivinID="Prov 30:11" text="דור אביו יקלל ואת־אמו לא יברך׃" />
+      <verse osisID="Prov.30.12" yeivinID="Prov 30:12" text="דור טהור בעיניו ומצאתו לא רחץ׃" />
+      <verse osisID="Prov.30.13" yeivinID="Prov 30:13" text="דור מה־רמו עיניו ועפעפיו ינשאו׃" />
+      <verse osisID="Prov.30.14" yeivinID="Prov 30:14" ends-with-sampe="pe2">
+        <text text="דור" />
+        <lp-legarmeih />
+        <text text=" חרבות שניו ומאכלות מתלעתיו לאכל עניים מארץ ואביונים מאדם׃" />
+      </verse>
+      <spi-pe2 />
+      <verse osisID="Prov.30.15" yeivinID="Prov 30:15" starts-with-sampe="pe2">
+        <text text="לעלוקה" />
+        <lp-legarmeih />
+        <text text=" שתי בנות " />
+        <slh-word slhw-desc-0="הב" slhw-desc-1=".ב" slhw-desc-2="ק" slhw-desc-3="ב/ק">
+          <text text="ה" />
+          <letter-small text="ב" />
+          <lp-legarmeih />
+        </slh-word>
+        <text text=" הב שלוש הנה לא תשבענה ארבע לא־אמרו הון׃" />
+      </verse>
+      <verse osisID="Prov.30.16" yeivinID="Prov 30:16" text="שאול ועצר רחם ארץ לא־שבעה מים ואש לא־אמרה הון׃" />
+      <verse osisID="Prov.30.17" yeivinID="Prov 30:17" ends-with-sampe="pe2">
+        <text text="עין" />
+        <lp-legarmeih />
+        <text text=" תלעג לאב ותבז ליקהת־אם יקרוה ערבי־נחל ויאכלוה בני־נשר׃" />
+      </verse>
+      <spi-pe2 />
+      <verse osisID="Prov.30.18" yeivinID="Prov 30:18" starts-with-sampe="pe2">
+        <text text="שלשה המה נפלאו ממני " />
+        <kq>
+          <kq-k text="וארבע" />
+          <kq-q text="וארבעה" />
+        </kq>
+        <text text=" לא ידעתים׃" />
+      </verse>
+      <verse osisID="Prov.30.19" yeivinID="Prov 30:19">
+        <text text="דרך הנשר" />
+        <lp-legarmeih />
+        <text text=" בשמים דרך נחש עלי־צור דרך־אניה בלב־ים ודרך גבר בעלמה׃" />
+      </verse>
+      <verse osisID="Prov.30.20" yeivinID="Prov 30:20" ends-with-sampe="pe2">
+        <text text="כן" />
+        <lp-legarmeih />
+        <text text=" דרך אשה מנאפת אכלה ומחתה פיה ואמרה לא־פעלתי און׃" />
+      </verse>
+      <spi-pe2 />
+      <verse osisID="Prov.30.21" yeivinID="Prov 30:21" starts-with-sampe="pe2" text="תחת שלוש רגזה ארץ ותחת ארבע לא־תוכל שאת׃" />
+      <verse osisID="Prov.30.22" yeivinID="Prov 30:22" text="תחת־עבד כי ימלוך ונבל כי ישבע־לחם׃" />
+      <verse osisID="Prov.30.23" yeivinID="Prov 30:23" ends-with-sampe="pe2" text="תחת שנואה כי תבעל ושפחה כי־תירש גברתה׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.30.24" yeivinID="Prov 30:24" starts-with-sampe="pe2" text="ארבעה הם קטני־ארץ והמה חכמים מחכמים׃" />
+      <verse osisID="Prov.30.25" yeivinID="Prov 30:25" text="הנמלים עם לא־עז ויכינו בקיץ לחמם׃" />
+      <verse osisID="Prov.30.26" yeivinID="Prov 30:26" text="שפנים עם לא־עצום וישימו בסלע ביתם׃" />
+      <verse osisID="Prov.30.27" yeivinID="Prov 30:27" text="מלך אין לארבה ויצא חצץ כלו׃" />
+      <verse osisID="Prov.30.28" yeivinID="Prov 30:28" ends-with-sampe="pe2" text="שממית בידים תתפש והיא בהיכלי מלך׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.30.29" yeivinID="Prov 30:29" starts-with-sampe="pe2" text="שלשה המה מיטיבי צעד וארבעה מיטבי לכת׃" />
+      <verse osisID="Prov.30.30" yeivinID="Prov 30:30" text="ליש גבור בבהמה ולא־ישוב מפני־כל׃" />
+      <verse osisID="Prov.30.31" yeivinID="Prov 30:31" text="זרזיר מתנים או־תיש ומלך אלקום עמו׃" />
+      <verse osisID="Prov.30.32" yeivinID="Prov 30:32" text="אם־נבלת בהתנשא ואם־זמות יד לפה׃" />
+      <verse osisID="Prov.30.33" yeivinID="Prov 30:33" ends-with-sampe="pe2" text="כי מיץ חלב יוציא חמאה ומיץ־אף יוציא דם ומיץ אפים יוציא ריב׃" />
+    </chapter>
+    <spi-pe2 />
+    <chapter osisID="Prov.31">
+      <verse osisID="Prov.31.1" yeivinID="Prov 31:1" starts-with-sampe="pe2" text="דברי למואל מלך משא אשר־יסרתו אמו׃" />
+      <verse osisID="Prov.31.2" yeivinID="Prov 31:2" text="מה־ברי ומה־בר־בטני ומה בר־נדרי׃" />
+      <verse osisID="Prov.31.3" yeivinID="Prov 31:3" text="אל־תתן לנשים חילך ודרכיך למחות מלכין׃" />
+      <verse osisID="Prov.31.4" yeivinID="Prov 31:4">
+        <text text="אל למלכים" />
+        <lp-legarmeih />
+        <text text=" למואל אל למלכים שתו־יין ולרוזנים " />
+        <kq>
+          <kq-k text="או" />
+          <kq-q text="אי" />
+        </kq>
+        <text text=" שכר׃" />
+      </verse>
+      <verse osisID="Prov.31.5" yeivinID="Prov 31:5" text="פן־ישתה וישכח מחקק וישנה דין כל־בני־עני׃" />
+      <verse osisID="Prov.31.6" yeivinID="Prov 31:6" text="תנו־שכר לאובד ויין למרי נפש׃" />
+      <verse osisID="Prov.31.7" yeivinID="Prov 31:7" ends-with-sampe="pe2" text="ישתה וישכח רישו ועמלו לא יזכר־עוד׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.31.8" yeivinID="Prov 31:8" starts-with-sampe="pe2" text="פתח־פיך לאלם אל־דין כל־בני חלוף׃" />
+      <verse osisID="Prov.31.9" yeivinID="Prov 31:9" ends-with-sampe="pe2" text="פתח־פיך שפט־צדק ודין עני ואביון׃" />
+      <spi-pe2 />
+      <verse osisID="Prov.31.10" yeivinID="Prov 31:10" starts-with-sampe="pe2" text="אשת־חיל מי ימצא ורחק מפנינים מכרה׃" />
+      <verse osisID="Prov.31.11" yeivinID="Prov 31:11" text="בטח בה לב בעלה ושלל לא יחסר׃" />
+      <verse osisID="Prov.31.12" yeivinID="Prov 31:12" text="גמלתהו טוב ולא־רע כל ימי חייה׃" />
+      <verse osisID="Prov.31.13" yeivinID="Prov 31:13" text="דרשה צמר ופשתים ותעש בחפץ כפיה׃" />
+      <verse osisID="Prov.31.14" yeivinID="Prov 31:14" text="היתה כאניות סוחר ממרחק תביא לחמה׃" />
+      <verse osisID="Prov.31.15" yeivinID="Prov 31:15">
+        <text text="ותקם" />
+        <lp-legarmeih />
+        <text text=" בעוד לילה ותתן טרף לביתה וחק לנערתיה׃" />
+      </verse>
+      <verse osisID="Prov.31.16" yeivinID="Prov 31:16">
+        <text text="זממה שדה ותקחהו מפרי כפיה " />
+        <kq>
+          <kq-k text="נטע" />
+          <kq-q text="נטעה" />
+        </kq>
+        <text text=" כרם׃" />
+      </verse>
+      <verse osisID="Prov.31.17" yeivinID="Prov 31:17" text="חגרה בעוז מתניה ותאמץ זרועתיה׃" />
+      <verse osisID="Prov.31.18" yeivinID="Prov 31:18">
+        <text text="טעמה כי־טוב סחרה לא־יכבה " />
+        <kq>
+          <kq-k text="בליל" />
+          <kq-q text="בלילה" />
+        </kq>
+        <text text=" נרה׃" />
+      </verse>
+      <verse osisID="Prov.31.19" yeivinID="Prov 31:19" text="ידיה שלחה בכישור וכפיה תמכו פלך׃" />
+      <verse osisID="Prov.31.20" yeivinID="Prov 31:20" text="כפה פרשה לעני וידיה שלחה לאביון׃" />
+      <verse osisID="Prov.31.21" yeivinID="Prov 31:21" text="לא־תירא לביתה משלג כי כל־ביתה לבש שנים׃" />
+      <verse osisID="Prov.31.22" yeivinID="Prov 31:22" text="מרבדים עשתה־לה שש וארגמן לבושה׃" />
+      <verse osisID="Prov.31.23" yeivinID="Prov 31:23" text="נודע בשערים בעלה בשבתו עם־זקני־ארץ׃" />
+      <verse osisID="Prov.31.24" yeivinID="Prov 31:24" text="סדין עשתה ותמכר וחגור נתנה לכנעני׃" />
+      <verse osisID="Prov.31.25" yeivinID="Prov 31:25" text="עז־והדר לבושה ותשחק ליום אחרון׃" />
+      <verse osisID="Prov.31.26" yeivinID="Prov 31:26" text="פיה פתחה בחכמה ותורת חסד על־לשונה׃" />
+      <verse osisID="Prov.31.27" yeivinID="Prov 31:27">
+        <text text="צופיה " />
+        <kq>
+          <kq-k text="הילכות" />
+          <kq-q text="הליכות" />
+        </kq>
+        <text text=" ביתה ולחם עצלות לא תאכל׃" />
+      </verse>
+      <verse osisID="Prov.31.28" yeivinID="Prov 31:28" text="קמו בניה ויאשרוה בעלה ויהללה׃" />
+      <verse osisID="Prov.31.29" yeivinID="Prov 31:29" text="רבות בנות עשו חיל ואת עלית על־כלנה׃" />
+      <verse osisID="Prov.31.30" yeivinID="Prov 31:30" text="שקר החן והבל היפי אשה יראת־יהוה היא תתהלל׃" />
+      <verse osisID="Prov.31.31" yeivinID="Prov 31:31" text="תנו־לה מפרי ידיה ויהללוה בשערים מעשיה׃" />
+    </chapter>
+  </book39>
+</book24>
