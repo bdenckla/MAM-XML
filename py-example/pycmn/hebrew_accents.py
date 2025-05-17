@@ -44,6 +44,42 @@ Z_OR_TSOR = "\N{HEBREW ACCENT ZINOR}"
 # Thus, QOM stands for "qadma or metigah".
 # YBY is also known as galgal.
 
+UNI_OVER_ACCENTS = {
+    REV,
+    GER,
+    GER_2,
+    GER_M,
+    TEL_G,
+    TEL_Q,
+    QAR,
+    PASH,
+    QOM,
+    ZAQ_Q,
+    ZAQ_G,
+    SEG_A,
+    ZSH_OR_TSIT,
+    Z_OR_TSOR,
+    PAZ,
+    SHA,
+    OLE,
+    ILU,
+}
+UNI_UNDER_ACCENTS = {
+    ATN,
+    MUN,
+    TEV,
+    TIP,
+    MER,
+    MAH,
+    DAR,
+    YET,
+    YBY,
+    MER_2,
+    DEX,
+    ATN_H,
+}
+
+
 # NU: non-Unicode
 # Both prose and poetic
 NU_SLQ = "nu_slq"
