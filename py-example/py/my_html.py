@@ -9,8 +9,10 @@ import pycmn.file_io as file_io
 import pycmn.hebrew_punctuation as hpu
 import py.two_col_css_styles as styles
 import pycmn.str_defs as sd
+import py.my_html_get_lines as hgl
 from pycmn.my_utils import st_map
 from pycmn.my_utils import sl_map
+from pycmn.my_utils import sum_of_map
 
 
 @dataclass
@@ -47,34 +49,10 @@ _SSTT = str.maketrans(
 )
 
 
-def el_to_str_no_wbr(html_el):
-    """Call el_to_str with add_wbr=False."""
-    return el_to_str(add_wbr=False, html_el=html_el)
-
-
-def el_to_str(add_wbr, html_el):
-    """Convert an HTML element to a string."""
-    if isinstance(html_el, str):
-        outstr = html_el
-        outstr = html.escape(html_el, quote=False)
-        outstr = outstr.translate(_SSTT)
-        if add_wbr:
-            outstr = outstr.replace(hpu.MAQ, hpu.MAQ + "<wbr>")
-        return outstr
-    contents_str = ""
-    if contents := html_el.get("contents"):
-        assert isinstance(contents, (tuple, list))
-        contents_str = "".join(sl_map((el_to_str, add_wbr), contents))
-    eltag = htel_get_tag(html_el)
-    fields = {
-        "tag_name": eltag,
-        "attr": _attr_str(html_el.get("attr")),
-        "contents": contents_str,
-        "close": "" if html_el.get("noclose") else f"</{eltag}>",
-        "lb1": html_el.get("lb1", "\n"),
-        "lb2": html_el.get("lb2", "\n"),
-    }
-    return "<{tag_name}{attr}>{lb1}{contents}{close}{lb2}".format(**fields)
+def el_to_str_for_sef(html_el):
+    lines = hgl.get_lines_from_html_el(False, -1, html_el)
+    assert len(lines) == 1
+    return lines[0]
 
 
 def simplify_if_htel_span(obj):
@@ -85,12 +63,9 @@ def simplify_if_htel_span(obj):
         return obj
     if list(obj["attr"].keys()) != ["class"]:
         return obj
-    assert obj["lb1"] == obj["lb2"] == ""
     rest = dict(obj)
     del rest["_htel_tag"]
     del rest["attr"]
-    del rest["lb1"]
-    del rest["lb2"]
     del rest["contents"]
     attr_class = obj["attr"]["class"]
     contents = _simplify_if_singleton(obj["contents"])
@@ -300,66 +275,52 @@ def line_break2(attr=None):
     return htel_mk_nlb1_nc("br", attr=attr)
 
 
-@dataclass
-class HelDetails:
-    """Details about how to make an HTML element."""
+def flatten(flex_contents):
+    if _is_str_or_htel(flex_contents):
+        return [flex_contents]
+    if isinstance(flex_contents, (tuple, list)):
+        return sum_of_map(flatten, flex_contents)
+    assert flex_contents is None, flex_contents
+    return None
 
-    lb1: Union[str, None] = None
-    lb2: Union[str, None] = None
-    noclose: Union[bool, None] = None
 
 
 def htel_mk(tag: str, attr=None, flex_contents=None, details=None):
     """Make an HTML element"""
     assert isinstance(tag, str)
     assert isinstance(attr, (type(None), dict))
-    strict_contents = (
-        (flex_contents,) if _is_str_or_htel(flex_contents) else flex_contents
-    )
-    if isinstance(strict_contents, (tuple, list)):
-        for seq_el in strict_contents:
+    flat_contents = flatten(flex_contents)
+    if isinstance(flat_contents, (tuple, list)):
+        for seq_el in flat_contents:
             assert _is_str_or_htel(seq_el)
     else:
-        assert strict_contents is None
+        assert flat_contents is None
     opts1 = {
         "attr": attr,
-        "contents": strict_contents,
-        "lb1": details.lb1 if details else None,
-        "lb2": details.lb2 if details else None,
-        "noclose": details.noclose if details else None,
+        "contents": flat_contents,
     }
     opts2 = {k: v for k, v in opts1.items() if v is not None}
     return {"_htel_tag": tag, **opts2}
 
 
 def htel_mk_inline(tag: str, attr=None, contents=None):
-    """htel_mk with lb1='', lb2=''"""
-    details = HelDetails(lb1="", lb2="")
-    return htel_mk(tag, attr, contents, details)
+    return htel_mk(tag, attr, contents)
 
 
 def htel_mk_inline_nc(tag: str, attr=None, contents=None):
-    """htel_mk with lb1='', lb2='', noclose=True"""
-    details = HelDetails(lb1="", lb2="", noclose=True)
-    return htel_mk(tag, attr, contents, details)
+    return htel_mk(tag, attr, contents)
 
 
 def htel_mk_nlb1_nc(tag: str, attr=None, contents=None):
-    """htel_mk with lb1='', noclose=True"""
-    details = HelDetails(lb1="", noclose=True)
-    return htel_mk(tag, attr, contents, details)
+    return htel_mk(tag, attr, contents)
 
 
 def htel_mk_nlb1(tag: str, attr=None, contents=None):
-    """htel_mk with lb1=''"""
-    details = HelDetails(lb1="")
-    return htel_mk(tag, attr, contents, details)
+    return htel_mk(tag, attr, contents)
 
 
 def htel_mk_nlb2_nc(tag: str, attr=None, contents=None):
-    """htel_mk with lb2='', noclose=True"""
-    details = HelDetails(lb2="", noclose=True)
-    return htel_mk(tag, attr, contents, details)
+    return htel_mk(tag, attr, contents)
 
 
 def htel_get_tag(html_el):
@@ -385,7 +346,8 @@ def _is_htel(obj):
 
 def _write_callback(html_el, add_wbr, out_fp):
     out_fp.write("<!doctype html>\n")
-    out_fp.write(el_to_str(add_wbr, html_el))
+    lines = hgl.get_lines_from_html_el(add_wbr, 100, html_el)
+    out_fp.write("\n".join(lines))
 
 
 def _is_text_singleton(array):  # "array": tuple or list
