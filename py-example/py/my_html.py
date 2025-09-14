@@ -106,7 +106,7 @@ def html_el2(title_text, body_contents, css_hrefs=(), other=None):
     if other is None:
         other = {}
     other = {**other_defaults, **other}
-    meta = htel_mk_nlb2_nc("meta", attr={"charset": "utf-8"})
+    meta = htel_mk("meta", attr={"charset": "utf-8"})
     title = htel_mk("title", flex_contents=(title_text,))
     links_to_css = st_map(_link_to_css, css_hrefs)
     if other["head_style"] is None:
@@ -122,22 +122,22 @@ def html_el2(title_text, body_contents, css_hrefs=(), other=None):
 
 def para(contents, attr=None):
     """Make a <p> element."""
-    return htel_mk_nlb1("p", attr=attr, contents=contents)
+    return htel_mk("p", attr=attr, flex_contents=contents)
 
 
 def img(contents, attr=None):
     """Make an <img> element."""
-    return htel_mk_nlb1("img", attr=attr, contents=contents)
+    return htel_mk("img", attr=attr, flex_contents=contents)
 
 
 def caption(contents):
     """Make a <caption> element."""
-    return htel_mk_nlb1("caption", contents=contents)
+    return htel_mk("caption", flex_contents=contents)
 
 
 def table_row(contents):
     """Make a <tr> element."""
-    return htel_mk_nlb1("tr", contents=contents)
+    return htel_mk("tr", flex_contents=contents)
 
 
 def table_row_of_data(tdconts, tdattrs=None):
@@ -162,12 +162,12 @@ def table_datum2(contents_and_attr):
 
 def table_datum(contents, attr=None):
     """Make a <td> (table datum cell) element."""
-    return htel_mk_inline("td", attr, contents)
+    return htel_mk("td", attr, contents)
 
 
 def table_header(contents, attr=None):
     """Make a <th> (table header cell) element."""
-    return htel_mk_inline("th", attr, contents)
+    return htel_mk("th", attr, contents)
 
 
 def div(contents, attr=None):
@@ -204,7 +204,7 @@ def heading_level_3(contents, attr=None):
 
 def anchor(contents, attr=None):
     """Make an <a> element."""
-    return htel_mk_inline("a", attr, contents)
+    return htel_mk("a", attr, contents)
 
 
 def colgroup(contents, attr=None):
@@ -214,12 +214,12 @@ def colgroup(contents, attr=None):
 
 def col(attr=None):
     """Make a <col> element."""
-    return htel_mk_nlb2_nc("col", attr=attr)
+    return htel_mk("col", attr=attr)
 
 
 def span(contents, attr=None):
     """Make a <span> element."""
-    return htel_mk_inline("span", attr=attr, contents=contents)
+    return htel_mk("span", attr=attr, flex_contents=contents)
 
 
 def span_c(contents, the_class=None):
@@ -229,34 +229,34 @@ def span_c(contents, the_class=None):
 
 def bold(contents, attr=None):
     """Make a <bold> element."""
-    return htel_mk_inline("b", attr=attr, contents=contents)
+    return htel_mk("b", attr=attr, flex_contents=contents)
 
 
 def italic(contents, attr=None):
     """Make a <italic> element."""
-    return htel_mk_inline("i", attr=attr, contents=contents)
+    return htel_mk("i", attr=attr, flex_contents=contents)
 
 
 def small(contents, attr=None):
     """Make a <small> element."""
-    return htel_mk_inline("small", attr=attr, contents=contents)
+    return htel_mk("small", attr=attr, flex_contents=contents)
 
 
 def big(contents, attr=None):
     """Make a <big> element."""
-    return htel_mk_inline("big", attr=attr, contents=contents)
+    return htel_mk("big", attr=attr, flex_contents=contents)
 
 
 def sup(contents, attr=None):
     """Make a <sup> (superscript) element."""
-    return htel_mk_inline("sup", attr=attr, contents=contents)
+    return htel_mk("sup", attr=attr, flex_contents=contents)
 
 
 def horizontal_rule(attr=None):
     """
     Make a <hr> element
     """
-    return htel_mk_nlb1_nc("hr", attr=attr)
+    return htel_mk("hr", attr=attr)
 
 
 def line_break(attr=None):
@@ -264,7 +264,7 @@ def line_break(attr=None):
     Make a <br> element
     that is NOT followed by a newline in the source code.
     """
-    return htel_mk_inline_nc("br", attr=attr)
+    return htel_mk("br", attr=attr)
 
 
 def line_break2(attr=None):
@@ -272,7 +272,7 @@ def line_break2(attr=None):
     Make <br> element
     that is followed by a newline in the source code.
     """
-    return htel_mk_nlb1_nc("br", attr=attr)
+    return htel_mk("br", attr=attr)
 
 
 def flatten(flex_contents):
@@ -285,7 +285,7 @@ def flatten(flex_contents):
 
 
 
-def htel_mk(tag: str, attr=None, flex_contents=None, details=None):
+def htel_mk(tag: str, attr=None, flex_contents=None):
     """Make an HTML element"""
     assert isinstance(tag, str)
     assert isinstance(attr, (type(None), dict))
@@ -301,26 +301,6 @@ def htel_mk(tag: str, attr=None, flex_contents=None, details=None):
     }
     opts2 = {k: v for k, v in opts1.items() if v is not None}
     return {"_htel_tag": tag, **opts2}
-
-
-def htel_mk_inline(tag: str, attr=None, contents=None):
-    return htel_mk(tag, attr, contents)
-
-
-def htel_mk_inline_nc(tag: str, attr=None, contents=None):
-    return htel_mk(tag, attr, contents)
-
-
-def htel_mk_nlb1_nc(tag: str, attr=None, contents=None):
-    return htel_mk(tag, attr, contents)
-
-
-def htel_mk_nlb1(tag: str, attr=None, contents=None):
-    return htel_mk(tag, attr, contents)
-
-
-def htel_mk_nlb2_nc(tag: str, attr=None, contents=None):
-    return htel_mk(tag, attr, contents)
 
 
 def htel_get_tag(html_el):
@@ -360,7 +340,7 @@ def _list_item(contents, attr=None):
 
 def _link_to_css(css_href):
     link_to_css_attr = {"rel": "stylesheet", "href": css_href}
-    return htel_mk_nlb2_nc("link", attr=link_to_css_attr)
+    return htel_mk("link", attr=link_to_css_attr)
 
 
 def _html_el1(attr, contents):
