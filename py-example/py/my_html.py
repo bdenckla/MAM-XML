@@ -1,17 +1,13 @@
 """ Exports various HTML utilities """
 
 import xml.etree.ElementTree as ET
-import html
 from dataclasses import dataclass
 from typing import Union
 
 import pycmn.file_io as file_io
-import pycmn.hebrew_punctuation as hpu
-import py.two_col_css_styles as styles
-import pycmn.str_defs as sd
 import py.my_html_get_lines as hgl
+import pycmn.str_defs as sd
 from pycmn.my_utils import st_map
-from pycmn.my_utils import sl_map
 from pycmn.my_utils import sum_of_map
 
 
@@ -21,7 +17,8 @@ class WriteCtx:
 
     title: str
     path: str
-    style: Union[str, None] = None
+    head_style: Union[str, None] = None
+    css_hrefs: tuple = ()
     add_wbr: bool = False
 
 
@@ -33,20 +30,15 @@ def write_html_to_file(body_contents, write_ctx: WriteCtx):
             * a title
             * an output path
     """
-    style = write_ctx.style or styles.STYLES_STR
-    html_el = html_el2(write_ctx.title, body_contents, other={"head_style": style})
+    html_el = html_el2(
+        write_ctx.title,
+        body_contents,
+        write_ctx.css_hrefs,
+        other={"head_style": write_ctx.head_style},
+    )
     file_io.with_tmp_openw(
         write_ctx.path, {}, _write_callback, html_el, write_ctx.add_wbr
     )
-
-
-_SSTT = str.maketrans(
-    {  # special space translation table
-        "\N{EM SPACE}": "&emsp;",
-        sd.THSP: "&thinsp;",
-        sd.NBSP: "&nbsp;",
-    }
-)
 
 
 def el_to_str_for_sef(html_el):
@@ -125,9 +117,9 @@ def para(contents, attr=None):
     return htel_mk("p", attr=attr, flex_contents=contents)
 
 
-def img(contents, attr=None):
+def img(attr=None):
     """Make an <img> element."""
-    return htel_mk("img", attr=attr, flex_contents=contents)
+    return htel_mk("img", attr=attr)
 
 
 def caption(contents):
@@ -222,6 +214,11 @@ def span(contents, attr=None):
     return htel_mk("span", attr=attr, flex_contents=contents)
 
 
+def abbr(contents, attr=None):
+    """Make an <abbr> (abbreviation) element."""
+    return htel_mk("abbr", attr, contents)
+
+
 def span_c(contents, the_class=None):
     """Make a <span> element, given a value for the "class" attr."""
     return span(contents, the_class and {"class": the_class})
@@ -252,6 +249,11 @@ def sup(contents, attr=None):
     return htel_mk("sup", attr=attr, flex_contents=contents)
 
 
+def bdi(contents, attr=None):
+    """Make a <bdi> element."""
+    return htel_mk("bdi", attr, contents)
+
+
 def horizontal_rule(attr=None):
     """
     Make a <hr> element
@@ -262,15 +264,6 @@ def horizontal_rule(attr=None):
 def line_break(attr=None):
     """
     Make a <br> element
-    that is NOT followed by a newline in the source code.
-    """
-    return htel_mk("br", attr=attr)
-
-
-def line_break2(attr=None):
-    """
-    Make <br> element
-    that is followed by a newline in the source code.
     """
     return htel_mk("br", attr=attr)
 
@@ -284,23 +277,31 @@ def flatten(flex_contents):
     return None
 
 
-
 def htel_mk(tag: str, attr=None, flex_contents=None):
     """Make an HTML element"""
     assert isinstance(tag, str)
     assert isinstance(attr, (type(None), dict))
     flat_contents = flatten(flex_contents)
-    if isinstance(flat_contents, (tuple, list)):
-        for seq_el in flat_contents:
-            assert _is_str_or_htel(seq_el)
-    else:
-        assert flat_contents is None
+    if flat_contents and tag != "style":
+        assert not _has_lt_space(flat_contents), (flat_contents[0], flat_contents[-1])
     opts1 = {
         "attr": attr,
         "contents": flat_contents,
     }
     opts2 = {k: v for k, v in opts1.items() if v is not None}
     return {"_htel_tag": tag, **opts2}
+
+
+def _has_lt_space(xs):
+    """Does this have either leading or trailing space?"""
+    if xs[0] == sd.OCTO_NBSP:
+        return False  # make an exception for OCTO_NBSP
+    return iswlts(xs[0], str.lstrip) or iswlts(xs[-1], str.rstrip)
+
+
+def iswlts(x, strip_fn):
+    """Is [this a] string with leading [or] trailing space?"""
+    return isinstance(x, str) and strip_fn(x) != x
 
 
 def htel_get_tag(html_el):
@@ -345,15 +346,3 @@ def _link_to_css(css_href):
 
 def _html_el1(attr, contents):
     return htel_mk("html", attr, contents)
-
-
-def _attr_str(attr_dict):
-    if not attr_dict:
-        return ""
-    return " " + " ".join(map(_kv_str, attr_dict.items()))
-
-
-def _kv_str(key_and_val):
-    key = key_and_val[0]
-    value = html.escape(key_and_val[1], quote=True)
-    return f'{key}="{value}"'

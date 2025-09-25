@@ -5933,14 +5933,14 @@ m,:,r,‥,r,a,τ,i,(mos),y,(sopa)
 Job 16:14 in vtrad vtbhs
 y,i,f,:,r,:,ц,‥,(mun),n,i,y
 SPACE
-START slh-word slhw-desc-0=פֶ֭רֶץ slhw-desc-1=..ץ slhw-desc-2=ק slhw-desc-3=ץ/ק
-f,∵,(dex),r,∵
+f,∵,(dex),r,∵,ц.
+SPACE
+START slh-word slhw-desc-0=עַל־פְּנֵי־פָ֑רֶץ slhw-desc-1=..־...־..ץ slhw-desc-2=ק slhw-desc-3=ץ/ק
+ʕ,_,l,-,f,·,:,n,‥,y,-,f,a,(atn),r,∵
 START letter-small
 ц.
 STOP letter-small
-STOP slh-word slhw-desc-0=פֶ֭רֶץ slhw-desc-1=..ץ slhw-desc-2=ק slhw-desc-3=ץ/ק
-SPACE
-ʕ,_,l,-,f,·,:,n,‥,y,-,f,a,(atn),r,∵,ц.
+STOP slh-word slhw-desc-0=עַל־פְּנֵי־פָ֑רֶץ slhw-desc-1=..־...־..ץ slhw-desc-2=ק slhw-desc-3=ץ/ק
 SPACE
 y,a,r,u,(tip),ц.
 SPACE

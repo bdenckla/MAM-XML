@@ -695,12 +695,12 @@
         <text text=" רַבָּ֗יו יְפַלַּ֣ח כִּ֭לְיוֹתַי וְלֹ֣א יַחְמֹ֑ל יִשְׁפֹּ֥ךְ לָ֝אָ֗רֶץ מְרֵרָתִֽי׃" />
       </verse>
       <verse osisID="Job.16.14" yeivinID="Job 16:14">
-        <text text="יִפְרְצֵ֣נִי " />
-        <slh-word slhw-desc-0="פֶ֭רֶץ" slhw-desc-1="..ץ" slhw-desc-2="ק" slhw-desc-3="ץ/ק">
-          <text text="פֶ֭רֶ" />
+        <text text="יִפְרְצֵ֣נִי פֶ֭רֶץ " />
+        <slh-word slhw-desc-0="עַל־פְּנֵי־פָ֑רֶץ" slhw-desc-1="..־...־..ץ" slhw-desc-2="ק" slhw-desc-3="ץ/ק">
+          <text text="עַל־פְּנֵי־פָ֑רֶ" />
           <letter-small text="ץ" />
         </slh-word>
-        <text text=" עַל־פְּנֵי־פָ֑רֶץ יָרֻ֖ץ עָלַ֣י כְּגִבּֽוֹר׃" />
+        <text text=" יָרֻ֖ץ עָלַ֣י כְּגִבּֽוֹר׃" />
       </verse>
       <verse osisID="Job.16.15" yeivinID="Job 16:15" text="שַׂ֣ק תָּ֭פַרְתִּי עֲלֵ֣י גִלְדִּ֑י וְעֹלַ֖לְתִּי בֶעָפָ֣ר קַרְנִֽי׃" />
       <verse osisID="Job.16.16" yeivinID="Job 16:16">
