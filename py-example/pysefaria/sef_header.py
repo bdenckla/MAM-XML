@@ -1,7 +1,7 @@
 """ Exports sef_header """
 
 import pysefaria.sef_cmn as sef_cmn
-import pyws.ws_urls as ws_urls
+import py.ws_urls as ws_urls
 
 
 def sef_header(bkid):
