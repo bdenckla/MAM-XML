@@ -7,8 +7,8 @@ import csv
 import py.my_html as my_html
 import pycmn.file_io as file_io
 import pycmn.my_utils as my_utils
-import py.sef_header as sef_header
-import py.sef_cmn as sef_cmn
+import pysefaria.sef_header as sef_header
+import pysefaria.sef_cmn as sef_cmn
 import pycmn.bib_locales as tbn
 
 

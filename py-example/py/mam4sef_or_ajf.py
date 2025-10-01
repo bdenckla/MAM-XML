@@ -3,10 +3,10 @@
 import xml.etree.ElementTree as ET
 import py.my_utils_for_mainish as my_utils_fm
 import py.osis_book_abbrevs as osis_book_abbrevs
-import py.sef_cmn as sef_cmn
+import pysefaria.sef_cmn as sef_cmn
 import pycmn.bib_locales as tbn
 import py.write_utils as write_utils
-import py.write_utils_sef_or_ajf as write_utils_sef_or_ajf
+import pysefaria.write_utils_sef_or_ajf as write_utils_sef_or_ajf
 import pycmn.shrink as shrink
 
 

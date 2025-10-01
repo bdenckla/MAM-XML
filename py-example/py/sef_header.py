@@ -1,6 +1,6 @@
 """ Exports sef_header """
 
-import py.sef_cmn as sef_cmn
+import pysefaria.sef_cmn as sef_cmn
 import pyws.ws_urls as ws_urls
 
 

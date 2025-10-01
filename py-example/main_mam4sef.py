@@ -1,8 +1,8 @@
 """ Exports main """
 
 import pycmn.bib_locales as tbn
-import py.mam4sef_handlers as mam4sef_handlers
-import py.mam4sef_or_ajf as mam4sef_or_ajf
+import pysefaria.mam4sef_handlers as mam4sef_handlers
+import pysefaria.mam4sef_or_ajf as mam4sef_or_ajf
 
 
 def main():
