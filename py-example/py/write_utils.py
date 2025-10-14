@@ -4,9 +4,9 @@ Exports:
     bkg_path
 """
 
-import py.my_html as my_html
-import pycmn.file_io as file_io
-import pycmn.my_utils as my_utils
+from py import my_html
+from pycmn import file_io
+from pycmn import my_utils
 import pycmn.uni_heb as uh
 import py.verse_and_friends as vaf
 import pycmn.bib_locales as tbn

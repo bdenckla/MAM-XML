@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 from dataclasses import dataclass
 from typing import Union
 
-import pycmn.file_io as file_io
+from pycmn import file_io
 import py.my_html_get_lines as hgl
 import pycmn.str_defs as sd
 from pycmn.my_utils import st_map

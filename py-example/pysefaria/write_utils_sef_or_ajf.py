@@ -4,11 +4,11 @@ Exports:
 """
 
 import csv
-import py.my_html as my_html
-import pycmn.file_io as file_io
-import pycmn.my_utils as my_utils
-import pysefaria.sef_header as sef_header
-import pysefaria.sef_cmn as sef_cmn
+from py import my_html
+from pycmn import file_io
+from pycmn import my_utils
+from pysefaria import sef_header
+from pysefaria import sef_cmn
 import pycmn.bib_locales as tbn
 
 

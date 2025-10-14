@@ -1,9 +1,9 @@
 """ Exports HANDLERS """
 
-import py.my_html as my_html
+from py import my_html
 import pycmn.str_defs as sd
 import pycmn.hebrew_punctuation as hpu
-import pycmn.shrink as shrink
+from pycmn import shrink
 
 # etel: ElementTree element
 # ofc1: output for all children, summed together
