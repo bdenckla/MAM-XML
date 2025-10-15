@@ -1,6 +1,7 @@
 """ Exports various HTML utilities """
 
 import xml.etree.ElementTree as ET
+import re
 from dataclasses import dataclass
 from typing import Union
 
@@ -9,6 +10,7 @@ import py.my_html_get_lines as hgl
 import pycmn.str_defs as sd
 from pycmn.my_utils import st_map
 from pycmn.my_utils import sum_of_map
+from pycmn import shrink
 
 
 @dataclass
@@ -22,7 +24,7 @@ class WriteCtx:
     add_wbr: bool = False
 
 
-def write_html_to_file(body_contents, write_ctx: WriteCtx):
+def write_html_to_file(body_contents, wc: WriteCtx):
     """
     Write HTML to file based on the following inputs:
         * a body contents
@@ -31,18 +33,23 @@ def write_html_to_file(body_contents, write_ctx: WriteCtx):
             * an output path
     """
     html_el = html_el2(
-        write_ctx.title,
+        wc.title,
         body_contents,
-        write_ctx.css_hrefs,
-        other={"head_style": write_ctx.head_style},
+        wc.css_hrefs,
+        other={"head_style": wc.head_style},
     )
     file_io.with_tmp_openw(
-        write_ctx.path, {}, _write_callback, html_el, write_ctx.add_wbr
+        wc.path, {}, _write_callback, wc.add_wbr, html_el
     )
 
 
 def el_to_str_for_sef(html_el):
-    lines = hgl.get_lines_from_html_el(False, -1, html_el)
+    hgl_opts = {
+        "hgl-add-wbr": False,
+        "hgl-max-line-len": -1,
+        "hgl-line-breaks-allowed": False,
+    }
+    lines = hgl.get_lines_from_html_el(hgl_opts, html_el)
     assert len(lines) == 1
     return lines[0]
 
@@ -179,6 +186,13 @@ def unordered_list(liconts, attr=None):
     return htel_mk("ul", attr, st_map(_list_item, liconts))
 
 
+def ordered_list(liconts, attr=None):
+    """Make an <ol> element."""
+    # licont: list item contents
+    # liconts: a tuple where each element is a licont
+    return htel_mk("ol", attr, st_map(_list_item, liconts))
+
+
 def heading_level_1(contents, attr=None):
     """Make an <h1> element."""
     return htel_mk("h1", attr, contents)
@@ -212,6 +226,11 @@ def col(attr=None):
 def span(contents, attr=None):
     """Make a <span> element."""
     return htel_mk("span", attr=attr, flex_contents=contents)
+
+
+def emphasis(contents, attr=None):
+    """Make an <em> (emphasis) element."""
+    return htel_mk("em", attr=attr, flex_contents=contents)
 
 
 def abbr(contents, attr=None):
@@ -249,6 +268,11 @@ def sup(contents, attr=None):
     return htel_mk("sup", attr=attr, flex_contents=contents)
 
 
+def sub(contents, attr=None):
+    """Make a <sub> (subscript) element."""
+    return htel_mk("sub", attr=attr, flex_contents=contents)
+
+
 def bdi(contents, attr=None):
     """Make a <bdi> element."""
     return htel_mk("bdi", attr, contents)
@@ -282,14 +306,34 @@ def htel_mk(tag: str, attr=None, flex_contents=None):
     assert isinstance(tag, str)
     assert isinstance(attr, (type(None), dict))
     flat_contents = flatten(flex_contents)
-    if flat_contents and tag != "style":
-        assert not _has_lt_space(flat_contents), (flat_contents[0], flat_contents[-1])
+    fs_contents = flat_contents and shrink.shrink(flat_contents)
+    _do_space_asserts(tag, fs_contents)
     opts1 = {
         "attr": attr,
-        "contents": flat_contents,
+        "contents": fs_contents,
     }
     opts2 = {k: v for k, v in opts1.items() if v is not None}
     return {"_htel_tag": tag, **opts2}
+
+
+def _do_space_asserts(tag, fs_contents):
+    if not fs_contents:
+        return
+    if tag == "style":
+        return
+    assert not _has_lt_space(fs_contents), (fs_contents[0], fs_contents[-1])
+    for htel in fs_contents:
+        if isinstance(htel, str):
+            assert not "  " in htel, _double_space_helper(htel)
+
+
+def _double_space_helper(string: str):
+    match = re.search(r"\S*  \S*", string)
+    return match and (match.group(0), string)
+
+
+def anchor_h(contents, href_val):
+    return anchor(contents, {"href": href_val})
 
 
 def _has_lt_space(xs):
@@ -325,9 +369,14 @@ def _is_htel(obj):
     return isinstance(obj, dict) and "_htel_tag" in obj
 
 
-def _write_callback(html_el, add_wbr, out_fp):
+def _write_callback(add_wbr, html_el, out_fp):
     out_fp.write("<!doctype html>\n")
-    lines = hgl.get_lines_from_html_el(add_wbr, 100, html_el)
+    hgl_opts = {
+        "hgl-add-wbr": add_wbr,
+        "hgl-max-line-len": 100,
+        "hgl-line-breaks-allowed": True,
+    }
+    lines = hgl.get_lines_from_html_el(hgl_opts, html_el)
     out_fp.write("\n".join(lines))
 
 

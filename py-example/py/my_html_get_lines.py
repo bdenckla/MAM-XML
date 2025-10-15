@@ -4,32 +4,36 @@ import pycmn.str_defs as sd
 from pycmn.my_utils import sum_of_map
 
 
-def get_lines_from_html_el(add_wbr, max_line_len, html_el):
+def get_lines_from_html_el(hgl_opts, html_el):
     io_paragraphs = [[""]]
-    _el_to_paragraphs(add_wbr, io_paragraphs, html_el)
+    max_line_len = hgl_opts["hgl-max-line-len"]
+    _el_to_paragraphs(hgl_opts, io_paragraphs, html_el)
     return sum_of_map((_get_lines_from_words, max_line_len), io_paragraphs)
 
 
-def _el_to_paragraphs(add_wbr, io_paragraphs, html_el):
+def _el_to_paragraphs(hgl_opts, io_paragraphs, html_el):
     """Convert an HTML element to a string."""
+    add_wbr = hgl_opts["hgl-add-wbr"]
     if isinstance(html_el, str):
         _add_str(io_paragraphs[-1], _finalize_string(add_wbr, html_el))
         return
     eltag = html_el["_htel_tag"]
-    # hts: htel string
-    hts_attr = _attr_str(html_el.get("attr"))
-    _add_word(io_paragraphs[-1], f"<{eltag}{hts_attr}>")
-    _maybe_start_new_paragraph(io_paragraphs, _LB1.get(eltag, "\n"))
+    attr_str = _attr_str(html_el.get("attr"))
+    _add_word(io_paragraphs[-1], f"<{eltag}{attr_str}>")
+    lb_allowed = hgl_opts["hgl-line-breaks-allowed"]
+    if lb_allowed:
+        _maybe_start_new_paragraph(io_paragraphs, _LB1[eltag])
     if contents := html_el.get("contents"):
         assert isinstance(contents, (tuple, list))
         for seq_el in contents:
             if eltag == "style":
                 _add_word(io_paragraphs[-1], seq_el)
             else:
-                _el_to_paragraphs(add_wbr, io_paragraphs, seq_el)
+                _el_to_paragraphs(hgl_opts, io_paragraphs, seq_el)
     if eltag not in _NOCLOSE_SET:
         _add_word(io_paragraphs[-1], f"</{eltag}>")
-    _maybe_start_new_paragraph(io_paragraphs, _hts_lb2(eltag))
+    if lb_allowed:
+        _maybe_start_new_paragraph(io_paragraphs, _LB2[eltag])
 
 
 def _finalize_string(add_wbr, string):
@@ -42,7 +46,7 @@ def _finalize_string(add_wbr, string):
 
 
 def _add_str(io_paragraph, string: str):
-    assert "\n" not in string
+    assert "\n" not in string, string
     words = string.split(" ")
     _add_word(io_paragraph, words[0])
     io_paragraph.extend(words[1:])
@@ -70,15 +74,6 @@ def _get_lines_from_words(max_line_len, words):
     return out_lines
 
 
-def _hts_lb2(eltag):
-    hts_lb2 = _LB2.get(eltag)
-    if hts_lb2 is None:
-        hts_lb2 = "" if eltag in _NOCLOSE_SET else None
-    if hts_lb2 is None:
-        hts_lb2 = "\n"
-    return hts_lb2
-
-
 def _attr_str(attr_dic):
     if not attr_dic:
         return ""
@@ -95,16 +90,40 @@ _SSTT = str.maketrans(
     {  # special space translation table
         "\N{EM SPACE}": "&emsp;",
         sd.THSP: "&thinsp;",
+        sd.HAIRSP: "&hairsp;",
         sd.NBSP: "&nbsp;",
     }
 )
-_NOCLOSE_SET = {"br", "hr", "meta", "link", "col"}
+_NOCLOSE_TUPLE = "br", "hr", "meta", "link", "col", "img"
+_NOCLOSE_SET = {*_NOCLOSE_TUPLE}
 _LB2 = {
+    "html": "\n",
+    "head": "\n",
+    "title": "\n",
+    "style": "\n",
+    "body": "\n",
+    "h1": "\n",
+    "h2": "\n",
+    "h3": "\n",
+    "div": "\n",
+    "p": "\n",
+    "table": "\n",
+    "colgroup": "\n",
+    "tr": "\n",
+    "td": "\n",
+    "ul": "\n",
+    "ol": "\n",
+    "li": "\n",
+    "img": "\n",
+    #
+    **{tag: "\n" for tag in _NOCLOSE_TUPLE},
+    #
     "bdi": "",
     "a": "",
     "span": "",
     "abbr": "",
     "em": "",
+    "sub": "",
     "sup": "",
     "big": "",
     "small": "",
@@ -112,15 +131,17 @@ _LB2 = {
 }
 _LB1 = {
     **_LB2,
-    "td": "",
-    "th": "",
+    #
+    **{tag: "" for tag in _NOCLOSE_TUPLE},
+    #
+    "title": "",
     "h1": "",
     "h2": "",
     "h3": "",
-    "blockquote": "",
-    "hr": "",
-    "li": "",
-    "br": "",
-    "caption": "",
     "p": "",
+    "blockquote": "",
+    "caption": "",
+    "td": "",
+    "th": "",
+    "li": "",
 }

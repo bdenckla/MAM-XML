@@ -19,6 +19,11 @@ def with_tmp_openw(out_path: str, kwargs_dic, write_fun, *write_fun_args):
     return retval
 
 
+def json_dump_to_file_path(dumpable, out_path: str):
+    """Dump JSON to a file path"""
+    with_tmp_openw(out_path, {}, _json_dump_to_file_pointer, dumpable)
+
+
 def _replace_file(tmp_path: str, path: str):
     fail_count = 0
     succeeded = False
@@ -41,11 +46,6 @@ def _sleep(fail_count):
     sleep_time = 2**fail_count
     print(f"Sleeping {sleep_time} seconds before trying again ...")
     time.sleep(sleep_time)
-
-
-def json_dump_to_file_path(dumpable, out_path: str):
-    """Dump JSON to a file path"""
-    with_tmp_openw(out_path, {}, _json_dump_to_file_pointer, dumpable)
 
 
 def _openw(out_path: str, **kwargs):

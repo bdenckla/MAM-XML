@@ -168,14 +168,6 @@ def sl_map_even_odd(foc_pair, the_sequence):
     return sl_map((_even_odd_foc, foc_pair), enumerate(the_sequence))
 
 
-def _even_odd_foc(foc_pair, idx_and_elem):
-    idx, elem = idx_and_elem
-    foc = foc_pair[idx % 2]
-    if isinstance(foc, tuple):
-        return foc[0](*foc[1:], elem)
-    return foc(elem)
-
-
 def my_groupby(iterable, keyfunc):
     groups = groupby(iterable, keyfunc)
     return {k: list(v) for k, v in groups}
@@ -214,6 +206,14 @@ def sum_of_tuples(seq_of_tuples):
 
 def sum_of_dics(seq_of_dics):
     return reduce(_accum_dic, seq_of_dics)
+
+
+def _even_odd_foc(foc_pair, idx_and_elem):
+    idx, elem = idx_and_elem
+    foc = foc_pair[idx % 2]
+    if isinstance(foc, tuple):
+        return foc[0](*foc[1:], elem)
+    return foc(elem)
 
 
 def _accum_dic(accum, dic):

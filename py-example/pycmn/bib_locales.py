@@ -325,7 +325,7 @@ def _is_prose_section_of_job(bcvt):
     if chnu in (1, 2):
         return True
     vrnu = bcvt_get_vrnu(bcvt)
-    if chnu == 3 and vrnu == 1:
+    if chnu == 3 and vrnu < 2:
         return True
     if chnu == 42 and vrnu > 6:
         return True
