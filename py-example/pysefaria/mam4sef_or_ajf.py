@@ -15,7 +15,7 @@ def main_helper(variant):
     bkids = my_utils_fm.get_bk39_tuple_from_argparse()
     bkgs = osis_book_abbrevs.bk24_bkgs(bkids)
     for bkg in bkgs:
-        do_one_book_group(variant, bkg)
+        _do_one_book_group(variant, bkg)
 
 
 def _handle(handlers, etel):  # etel: ElementTree element
@@ -90,7 +90,7 @@ def _do_for_cant_dab(bkg_out, variant, root, cant_dab):
         bkg_out[bkid][cant_dab] = verses
 
 
-def do_one_book_group(variant, bkg):
+def _do_one_book_group(variant, bkg):
     """Do the book group bkg"""
     bkg_name = bkg["bkg-name"]
     root = _read_book_group(variant, bkg_name)

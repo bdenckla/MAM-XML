@@ -38,9 +38,7 @@ def write_html_to_file(body_contents, wc: WriteCtx):
         wc.css_hrefs,
         other={"head_style": wc.head_style},
     )
-    file_io.with_tmp_openw(
-        wc.path, {}, _write_callback, wc.add_wbr, html_el
-    )
+    file_io.with_tmp_openw(wc.path, {}, _write_callback, wc.add_wbr, html_el)
 
 
 def el_to_str_for_sef(html_el):
@@ -52,29 +50,6 @@ def el_to_str_for_sef(html_el):
     lines = hgl.get_lines_from_html_el(hgl_opts, html_el)
     assert len(lines) == 1
     return lines[0]
-
-
-def simplify_if_htel_span(obj):
-    # This is for dumping to JSON
-    if not _is_htel(obj):
-        return obj
-    if not obj["_htel_tag"] == "span":
-        return obj
-    if list(obj["attr"].keys()) != ["class"]:
-        return obj
-    rest = dict(obj)
-    del rest["_htel_tag"]
-    del rest["attr"]
-    del rest["contents"]
-    attr_class = obj["attr"]["class"]
-    contents = _simplify_if_singleton(obj["contents"])
-    return {attr_class: contents, **rest}
-
-
-def _simplify_if_singleton(lis_obj):
-    if len(lis_obj) == 1 and isinstance(lis_obj[0], str):
-        return lis_obj[0]
-    return lis_obj
 
 
 def add_htel_to_etxml(etxml_parent, htel):
@@ -307,7 +282,8 @@ def htel_mk(tag: str, attr=None, flex_contents=None):
     assert isinstance(attr, (type(None), dict))
     flat_contents = flatten(flex_contents)
     fs_contents = flat_contents and shrink.shrink(flat_contents)
-    _do_space_asserts(tag, fs_contents)
+    if not (attr and "lt-space-okay" in attr):
+        _do_space_asserts(tag, fs_contents)
     opts1 = {
         "attr": attr,
         "contents": fs_contents,
@@ -340,12 +316,7 @@ def _has_lt_space(xs):
     """Does this have either leading or trailing space?"""
     if xs[0] == sd.OCTO_NBSP:
         return False  # make an exception for OCTO_NBSP
-    return iswlts(xs[0], str.lstrip) or iswlts(xs[-1], str.rstrip)
-
-
-def iswlts(x, strip_fn):
-    """Is [this a] string with leading [or] trailing space?"""
-    return isinstance(x, str) and strip_fn(x) != x
+    return _iswlts(xs[0], str.lstrip) or _iswlts(xs[-1], str.rstrip)
 
 
 def htel_get_tag(html_el):
@@ -359,6 +330,11 @@ def htel_get_class_attr(html_el):
 
 
 ###########################################################
+
+
+def _iswlts(x, strip_fn):
+    """Is [this a] string with leading [or] trailing space?"""
+    return isinstance(x, str) and strip_fn(x) != x
 
 
 def _is_str_or_htel(obj):

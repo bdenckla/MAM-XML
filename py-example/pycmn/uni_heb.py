@@ -82,11 +82,11 @@ _SHORTEN_DIC = {
 
 _HE_AND_NONHE_LETT_PAIRS = (
     (hl.ALEF, "α"),  # Greek alpha
-    (hl.BET, "v"),  # v not b
+    (hl.BET, "b"),
     (hl.GIMEL, "g"),
     (hl.DALET, "d"),
     (hl.HE, "h"),
-    (hl.VAV, "w"),
+    (hl.VAV, "v"),
     (hl.ZAYIN, "z"),
     (hl.XET, "x"),
     (hl.TET, "θ"),  # See note on θ (theta)
@@ -99,14 +99,14 @@ _HE_AND_NONHE_LETT_PAIRS = (
     (hl.FNUN, "n."),
     (hl.NUN, "n"),
     (hl.SAMEKH, "σ"),  # Greek sigma
-    (hl.AYIN, "ʕ"),  # PHARYNGEAL VOICED FRICATIVE
-    (hl.FPE, "f."),  # f. not p.
-    (hl.PE, "f"),  # f not p
-    (hl.FTSADI, "ц."),
-    (hl.TSADI, "ц"),  # Cyrillic small letter tse
+    (hl.AYIN, "3"),  # as in Arabizi
+    (hl.FPE, "p."),
+    (hl.PE, "p"),
+    (hl.FTSADI, "c."), # as in "C" in Michigan-Claremont
+    (hl.TSADI, "c"),
     (hl.QOF, "q"),
     (hl.RESH, "r"),
-    (hl.SHIN, "$"),
+    (hl.SHIN, "$"), # as in Michigan-Claremont
     (hl.TAV, "τ"),  # Greek tau
 )
 _HE_AND_NONHE_POINT_PAIRS = (
