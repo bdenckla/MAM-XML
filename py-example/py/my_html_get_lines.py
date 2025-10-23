@@ -1,6 +1,6 @@
 import html
-import pycmn.hebrew_punctuation as hpu
-import pycmn.str_defs as sd
+from pycmn import hebrew_punctuation as hpu
+from pycmn import str_defs as sd
 from pycmn.my_utils import sum_of_map
 
 
@@ -107,10 +107,12 @@ _LB2 = {
     "h3": "\n",
     "div": "\n",
     "p": "\n",
+    "blockquote": "\n",
     "table": "\n",
     "colgroup": "\n",
     "tr": "\n",
     "td": "\n",
+    "th": "\n",
     "ul": "\n",
     "ol": "\n",
     "li": "\n",

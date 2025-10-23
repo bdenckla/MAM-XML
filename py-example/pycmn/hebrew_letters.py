@@ -1,4 +1,4 @@
-""" Exports names for Unicode Hebrew letters """
+"""Exports names for Unicode Hebrew letters"""
 
 import re
 

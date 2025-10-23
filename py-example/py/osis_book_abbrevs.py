@@ -1,5 +1,5 @@
 import re
-import pycmn.bib_locales as tbn
+from pycmn import bib_locales as tbn
 
 # From https://wiki.crosswire.org/OSIS_Book_Abbreviations.
 

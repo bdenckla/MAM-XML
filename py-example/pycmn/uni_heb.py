@@ -9,11 +9,11 @@ This module exports:
 """
 
 import unicodedata
-import pycmn.hebrew_letters as hl
-import pycmn.hebrew_points as hpo
-import pycmn.hebrew_punctuation as hpu
-import pycmn.hebrew_accents as ha
-import pycmn.str_defs as sd
+from pycmn import hebrew_letters as hl
+from pycmn import hebrew_points as hpo
+from pycmn import hebrew_punctuation as hpu
+from pycmn import hebrew_accents as ha
+from pycmn import str_defs as sd
 
 
 def shunna(string):
@@ -102,11 +102,11 @@ _HE_AND_NONHE_LETT_PAIRS = (
     (hl.AYIN, "3"),  # as in Arabizi
     (hl.FPE, "p."),
     (hl.PE, "p"),
-    (hl.FTSADI, "c."), # as in "C" in Michigan-Claremont
+    (hl.FTSADI, "c."),  # as in "C" in Michigan-Claremont
     (hl.TSADI, "c"),
     (hl.QOF, "q"),
     (hl.RESH, "r"),
-    (hl.SHIN, "$"), # as in Michigan-Claremont
+    (hl.SHIN, "$"),  # as in Michigan-Claremont
     (hl.TAV, "τ"),  # Greek tau
 )
 _HE_AND_NONHE_POINT_PAIRS = (

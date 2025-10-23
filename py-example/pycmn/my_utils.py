@@ -1,5 +1,5 @@
 """
-    Exports various functions of general utility.
+Exports various functions of general utility.
 """
 
 from functools import reduce

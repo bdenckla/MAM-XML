@@ -1,4 +1,4 @@
-""" Exports names for Unicode Hebrew accents """
+"""Exports names for Unicode Hebrew accents"""
 
 from pycmn import cantsys
 
@@ -35,9 +35,9 @@ Z_OR_TSOR = "\N{HEBREW ACCENT ZINOR}"
 
 # In SEG_A, the A is for "accent", i.e. distinguishing it from the vowel SEGOL_V.
 # In ZSH_OR_TSIT, the ZSH stands for "zarqa stress helper" (!)
-# In ZSH_OR_TSIT, the TSIT stands for "tsinnorit" (an accent confied to Sifrei Emet)
+# In ZSH_OR_TSIT, the TSIT stands for "tsinnorit" (an accent confined to Sifrei Emet)
 # In Z_OR_TSOR, the Z stands for "zarqa"
-# In Z_OR_TSOR, the TSOR stands for "tsinnor" (an accent confied to Sifrei Emet)
+# In Z_OR_TSOR, the TSOR stands for "tsinnor" (an accent confined to Sifrei Emet)
 # In QOM, the Q stands for qadma (aka azla)
 # In QOM, the O stands for "or".
 # In QOM, the M stands for "metigah".

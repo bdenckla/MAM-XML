@@ -1,5 +1,5 @@
 import os
-import pycmn.bib_locales as tbn
+from pycmn import bib_locales as tbn
 
 
 import argparse

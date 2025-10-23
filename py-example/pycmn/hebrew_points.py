@@ -1,6 +1,6 @@
-""" Exports names for Unicode Hebrew vowel points (niqqud) """
+"""Exports names for Unicode Hebrew vowel points (niqqud)"""
 
-import pycmn.str_defs as sd
+from pycmn import str_defs as sd
 
 MTGOSLQ = "\N{HEBREW POINT METEG}"
 VARIKA = "\N{HEBREW POINT JUDEO-SPANISH VARIKA}"

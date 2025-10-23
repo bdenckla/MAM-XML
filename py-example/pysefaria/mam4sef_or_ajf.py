@@ -1,10 +1,10 @@
 """ Exports main_helper """
 
 import xml.etree.ElementTree as ET
-import py.my_utils_for_mainish as my_utils_fm
+from py import my_utils_for_mainish as my_utils_fm
 from py import osis_book_abbrevs
 from pysefaria import sef_cmn
-import pycmn.bib_locales as tbn
+from pycmn import bib_locales as tbn
 from py import write_utils
 from pysefaria import write_utils_sef_or_ajf
 from pycmn import shrink

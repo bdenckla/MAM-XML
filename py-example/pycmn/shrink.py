@@ -1,4 +1,4 @@
-""" Exports shrink, shrink_xml """
+"""Exports shrink, shrink_xml"""
 
 import copy
 import xml.etree.ElementTree as ET

@@ -1,8 +1,8 @@
 """ Exports HANDLERS """
 
 from py import my_html
-import pycmn.str_defs as sd
-import pycmn.hebrew_punctuation as hpu
+from pycmn import str_defs as sd
+from pycmn import hebrew_punctuation as hpu
 from pycmn import shrink
 
 # etel: ElementTree element

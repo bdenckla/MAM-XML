@@ -1,6 +1,6 @@
 """ Exports main """
 
-import pycmn.bib_locales as tbn
+from pycmn import bib_locales as tbn
 from pysefaria import mam4sef_handlers
 from pysefaria import mam4sef_or_ajf
 

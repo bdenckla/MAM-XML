@@ -6,8 +6,8 @@ from dataclasses import dataclass
 from typing import Union
 
 from pycmn import file_io
-import py.my_html_get_lines as hgl
-import pycmn.str_defs as sd
+from py import my_html_get_lines as hgl
+from pycmn import str_defs as sd
 from pycmn.my_utils import st_map
 from pycmn.my_utils import sum_of_map
 from pycmn import shrink
@@ -32,12 +32,8 @@ def write_html_to_file(body_contents, wc: WriteCtx):
             * a title
             * an output path
     """
-    html_el = html_el2(
-        wc.title,
-        body_contents,
-        wc.css_hrefs,
-        other={"head_style": wc.head_style},
-    )
+    other = {"head_style": wc.head_style}
+    html_el = html_el2(wc.title, body_contents, wc.css_hrefs, other=other)
     file_io.with_tmp_openw(wc.path, {}, _write_callback, wc.add_wbr, html_el)
 
 
@@ -97,6 +93,11 @@ def html_el2(title_text, body_contents, css_hrefs=(), other=None):
 def para(contents, attr=None):
     """Make a <p> element."""
     return htel_mk("p", attr=attr, flex_contents=contents)
+
+
+def blockquote(contents, attr=None):
+    """Make a <blockquote> element."""
+    return htel_mk("blockquote", attr=attr, flex_contents=contents)
 
 
 def img(attr=None):

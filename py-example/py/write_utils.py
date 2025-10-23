@@ -7,10 +7,10 @@ Exports:
 from py import my_html
 from pycmn import file_io
 from pycmn import my_utils
-import pycmn.uni_heb as uh
-import py.verse_and_friends as vaf
-import pycmn.bib_locales as tbn
-import pycmn.str_defs as sd
+from pycmn import uni_heb as uh
+from py import verse_and_friends as vaf
+from pycmn import bib_locales as tbn
+from pycmn import str_defs as sd
 
 
 def write_bkg_in_un_fmt(variant, bkg_name, verses, rv_cant_that_covers):

@@ -9,7 +9,7 @@ from pycmn import file_io
 from pycmn import my_utils
 from pysefaria import sef_header
 from pysefaria import sef_cmn
-import pycmn.bib_locales as tbn
+from pycmn import bib_locales as tbn
 
 
 def write_bkg_in_csv_fmt(out_path, variant, verses, cant_dabs):

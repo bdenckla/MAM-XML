@@ -1,6 +1,6 @@
 """ Exports SEF_BKNA """
 
-import pycmn.bib_locales as tbn
+from pycmn import bib_locales as tbn
 
 
 _SEF_BOOK_PROPERTIES = {
