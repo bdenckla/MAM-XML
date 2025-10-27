@@ -1,4 +1,7 @@
-""" Exports the string STYLES_STR """
+def copy_css_styles_file(out_path):
+    with open(out_path, "w", encoding="utf-8") as out_fp:
+        out_fp.write(STYLES_STR)
+
 
 STYLES_STR = """
 body { font-size: 14pt; }
