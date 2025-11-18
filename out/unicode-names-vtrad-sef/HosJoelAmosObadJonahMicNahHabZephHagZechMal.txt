@@ -2682,7 +2682,7 @@ l,o,α,-,y,i,σ,·,:,k,(qom),v,·
 SPACE
 l,_,y,h,o,v,a,(mer),h
 START/STOP lp-paseq
-y,_,≁,y,i,n.,~
+y,_,(zarshit),y,i,n.,(zarnor)
 SPACE
 v,:,l,o,(mun),α
 SPACE
@@ -3341,7 +3341,7 @@ g,·,i,b,·,v,o,r,∵,(mos),y,k.,a,(sopa)
 Hosea 10:14 in vtrad vtsef
 v,:,q,a,(mun),α,m.
 SPACE
-$,·sh,a,α,v,o,n.,~
+$,·sh,a,α,v,o,n.,(zarnor)
 SPACE
 b,·,:,3,_,m,·,∵,(seg_a),k.,a,(seg_a)
 SPACE
@@ -5429,7 +5429,7 @@ SPACE
 SPACE
 m,‥,3,:_,l,‥,y,k,∵,(rev),m.
 SPACE
-v,:,h,i,d,·,_,x,:,τ,·,i,y,v,~
+v,:,h,i,d,·,_,x,:,τ,·,i,y,v,(zarnor)
 SPACE
 α,∵,l,-,α,∵,(mun),r,∵,c.
 SPACE
@@ -7317,7 +7317,7 @@ SPACE
 α,_,r,:,m,:,n,v,o,τ,a,(mos),y,i,k.,:,(sopa)
 
 Amos 3:12 in vtrad vtsef
-k,·,o,h,~
+k,·,o,h,(zarnor)
 SPACE
 α,a,m,_,(mun),r
 SPACE
@@ -7666,7 +7666,7 @@ n,:,α,u,m.,-,y,:,h,o,v,a,(mos),h,(sopa)
 Amos 4:9 in vtrad vtsef
 h,i,k,·,‥,(mun),y,τ,i,y
 SPACE
-α,∵,τ,:,k,∵,m.,~
+α,∵,τ,:,k,∵,m.,(zarnor)
 SPACE
 b,·,_,$,·sh,·,i,d,·,a,p,(mun),v,o,n.
 SPACE
@@ -8602,7 +8602,7 @@ v,·,m,:,σ,a,(mos),r,:,p,(rev),v,o
 SPACE
 l,:,h,v,o,c,i,(mun),y,α
 SPACE
-3,:_,c,a,m,i,y,m.,~
+3,:_,c,a,m,i,y,m.,(zarnor)
 SPACE
 m,i,n.,-,h,_,b,·,_,y,i,τ,(seg_a)
 SPACE
@@ -9945,7 +9945,7 @@ SPACE
 τ,·,i,τ,:,m,v,o,g,_,(mos),g,:,n,a,h,(sopa)
 
 Amos 9:14 in vtrad vtsef
-v,:,$,·sh,_,b,:,τ,·,i,y,~
+v,:,$,·sh,_,b,:,τ,·,i,y,(zarnor)
 SPACE
 α,∵,τ,-,$,·sh,:,b,(mun),v,·,τ
 SPACE
@@ -10623,7 +10623,7 @@ v,_,y,·,i,(mos),y,r,:,α,(mun),v,·
 SPACE
 h,_,m,·,_,l,·,a,x,i,(rev),y,m.
 SPACE
-v,_,(mos),y,·,i,z,:,3,:_,q,v,·,~
+v,_,(mos),y,·,i,z,:,3,:_,q,v,·,(zarnor)
 SPACE
 α,i,(mun),y,$,·sh
 SPACE
@@ -12553,7 +12553,7 @@ SPACE
 Micah 3:3 in vtrad vtsef
 v,_,α,:_,$,·sh,∵,(mun),r
 SPACE
-α,a,k,:,l,v,·,~
+α,a,k,:,l,v,·,(zarnor)
 SPACE
 $,·sh,:,α,‥,(mun),r
 SPACE
@@ -16386,7 +16386,7 @@ y,:,h,o,v,a,(rev),h
 SPACE
 $,·sh,a,m,_,(mun),3,:,τ,·,i,y
 SPACE
-$,·sh,i,m,:,3,:_,k.,a,~
+$,·sh,i,m,:,3,:_,k.,a,(zarnor)
 SPACE
 y,a,r,‥,(seg_a),α,τ,i,y,(seg_a)
 SPACE
@@ -19553,7 +19553,7 @@ v,:,$,·sh,o,q,a,(mos),θ,∵,τ,(sopa)
 Zechariah 1:12 in vtrad vtsef
 v,_,y,·,_,(mun),3,_,n.
 SPACE
-m,_,l,:,α,_,k.,:,-,y,:,h,o,v,a,h,~
+m,_,l,:,α,_,k.,:,-,y,:,h,o,v,a,h,(zarnor)
 SPACE
 v,_,y,·,o,α,m,_,r,(seg_a)
 SPACE
@@ -19999,7 +19999,7 @@ k,·,i,(mun),y
 SPACE
 k,o,(mun),h
 SPACE
-α,a,m,_,r,~
+α,a,m,_,r,(zarnor)
 SPACE
 y,:,h,o,v,a,(mun),h
 SPACE
@@ -20672,7 +20672,7 @@ k,·,i,(mun),y
 SPACE
 m,i,(mun),y
 SPACE
-b,_,z,~
+b,_,z,(zarnor)
 SPACE
 l,:,y,(mun),v,o,m.
 SPACE
@@ -21994,7 +21994,7 @@ v,·,b,i,c,:,d,a,q,a,(mos),h,(sopa)
 START/STOP spi-pe2
 
 Zechariah 8:9 in vtrad vtsef
-k,·,o,(mos),h,-,α,a,m,_,r,~
+k,·,o,(mos),h,-,α,a,m,_,r,(zarnor)
 SPACE
 y,:,h,o,v,a,(mun),h
 SPACE
@@ -22170,7 +22170,7 @@ k,·,i,(mun),y
 SPACE
 k,o,(mun),h
 SPACE
-α,a,m,_,r,~
+α,a,m,_,r,(zarnor)
 SPACE
 y,:,h,o,v,a,(mun),h
 SPACE
@@ -22411,7 +22411,7 @@ y,:,h,o,v,a,(mos),h,(sopa)
 START/STOP spi-samekh2
 
 Zechariah 8:23 in vtrad vtsef
-k,·,o,(mos),h,-,α,a,m,_,r,~
+k,·,o,(mos),h,-,α,a,m,_,r,(zarnor)
 SPACE
 y,:,h,o,v,a,(mun),h
 SPACE
@@ -22802,7 +22802,7 @@ SPACE
 Zechariah 9:15 in vtrad vtsef
 y,:,h,o,v,a,(mun),h
 SPACE
-c,:,b,a,α,v,o,τ,~
+c,:,b,a,α,v,o,τ,(zarnor)
 SPACE
 y,a,g,‥,(mun),n.
 SPACE
@@ -24117,7 +24117,7 @@ v,:,h,a,y,a,(rev),h
 SPACE
 k,·,i,y,-,y,i,n,·,a,b,‥,(mun),α
 SPACE
-α,i,y,$,·sh,~
+α,i,y,$,·sh,(zarnor)
 SPACE
 3,v,o,d,(seg_a)
 SPACE
@@ -24351,7 +24351,7 @@ v,:,α,a,σ,_,p,:,τ,·,i,(qom),y
 SPACE
 α,∵,τ,-,k,·,oa,l,-,h,_,g,·,v,o,y,i,(mer),m.
 START/STOP lp-paseq
-α,∵,(mos),l,-,y,:,r,v,·,$,·sh,a,l,_,≁,CGJ,i,m.,~
+α,∵,(mos),l,-,y,:,r,v,·,$,·sh,a,l,_,(zarshit),CGJ,i,m.,(zarnor)
 SPACE
 l,_,m,·,i,l,:,x,a,m,a,h,(seg_a)
 SPACE
@@ -24426,7 +24426,7 @@ SPACE
 SPACE
 3,_,l,-,p,·,:,n,‥,(mer),y
 SPACE
-y,:,r,(mos),v,·,$,·sh,a,l,_,≁,CGJ,i,m.,~
+y,:,r,(mos),v,·,$,·sh,a,l,_,(zarshit),CGJ,i,m.,(zarnor)
 SPACE
 m,i,q,·,∵,(seg_a),d,∵,m.,(seg_a)
 SPACE
@@ -24465,7 +24465,7 @@ g,·,‥,y,α,-,h,a,r,_,(rev),y
 SPACE
 k,·,i,y,-,y,_,g,·,i,(mun),y,3,_
 SPACE
-g,·,‥,(mos),y,-,h,a,r,i,y,m.,~
+g,·,‥,(mos),y,-,h,a,r,i,y,m.,(zarnor)
 SPACE
 α,∵,l,-,α,a,c,_,l,(seg_a)
 SPACE
@@ -26045,7 +26045,7 @@ q,_,d,:,m,o,n,i,y,·,o,(mos),τ,(sopa)
 Malachi 3:5 in vtrad vtsef
 v,:,q,a,r,_,b,:,τ,·,i,(mun),y
 SPACE
-α,:_,l,‥,y,k,∵,m.,~
+α,:_,l,‥,y,k,∵,m.,(zarnor)
 SPACE
 l,_,m,·,i,$,·sh,:,p,·,a,θ,(seg_a)
 SPACE

@@ -33,11 +33,15 @@ def shunna(string):
 
 
 def accent_names(string):
-    """Return accent names."""
+    """
+    Return accent names including "mos" (MTGOSLQ), which might not be an accent,
+    since "mos" could be either meteg or silluq.
+    """
     return list(filter(None, (_HE_TO_NONHE_ACC_DIC.get(c) for c in string)))
 
 
 def rm_mtgoslq(string):
+    """Remove MTGOSLQ from the given string."""
     return string.replace(hpo.MTGOSLQ, "")
 
 
@@ -130,9 +134,12 @@ _HE_AND_NONHE_POINT_PAIRS = (
     (hpo.QUBUTS, "u"),
 )
 _HE_AND_NONHE_ACC_PAIRS = (
-    (ha.Z_OR_TSOR, "~"),  # zarqa or tsinnor; see: Note on zinor
-    (ha.ZSH_OR_TSIT, "≁"),  # zarqa stress helper or tsinnorit; see: Note on zinor
-    (hpo.MTGOSLQ, "(mos)"),  # meteg or silluq; we consider it an accent not a point
+    # These first three are the only ones not of the form (ha.X, "(x)")
+    (ha.Z_OR_TSOR, "(zarnor)"),  # zarqa or tsinnor; see: Note on zinor
+    (ha.ZSH_OR_TSIT, "(zarshit)"),  # zarqa stress helper or tsinnorit; see: Note on zinor
+    (hpo.MTGOSLQ, "(mos)"),
+    # Above is meteg or silluq; here we consider it an accent not a point
+    # The ones below are all of the form (ha.X, "(x)")
     (ha.ATN, "(atn)"),
     (ha.SEG_A, "(seg_a)"),
     (ha.SHA, "(sha)"),

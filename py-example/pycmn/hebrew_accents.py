@@ -82,24 +82,28 @@ UNI_UNDER_ACCENTS = {
 
 # NU: non-Unicode
 # Both prose and poetic
-NU_SLQ = "nu_slq"
-NU_SHA_LEG = "nu_sha_leg"
-NU_MUN_LEG = "nu_mun_leg"
+NU_SLQ = "üslq"
+NU_MTG = "ümtg"
+NU_SHA_LEG = "üshall"
+NU_MUN_LEG = "ümunl"
 # Prose only
-NU_Z = "nu_z"
+NU_Z = "üz"
 # Poetic only
-NU_MAH_LEG = "nu_mah_leg"
-NU_AZL_LEG = "nu_azl_leg"
-NU_TSOR = "nu_tsor"
-NU_TSIT = "nu_tsit"
+NU_MAH_LEG = "ümahl"
+NU_AZL_LEG = "üazll"
+NU_AZL = "üazl"
+NU_TSOR = "ütsor"
+NU_TSIT = "ütsit"
 
 NON_UNICODE_ACCENTS = {
     NU_SLQ,
+    # NU_MTG,
     NU_SHA_LEG,
     NU_MUN_LEG,
     NU_Z,
     NU_MAH_LEG,
     NU_AZL_LEG,
+	# NU_AZL,
     NU_TSOR,
     NU_TSIT,
 }

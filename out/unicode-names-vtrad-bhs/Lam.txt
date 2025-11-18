@@ -375,7 +375,7 @@ STOP letter-small
 v,o,α
 STOP slh-word slhw-desc-0=ל֣וֹא slhw-desc-1=ל.. slhw-desc-2=ק slhw-desc-3=ל/ק
 SPACE
-α,:_,l,‥,y,k,∵,m.,~
+α,:_,l,‥,y,k,∵,m.,(zarnor)
 SPACE
 k,·,oa,l,-,3,o,(mun),b,:,r,‥,y
 SPACE

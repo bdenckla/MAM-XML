@@ -9,7 +9,7 @@ START/STOP lp-legarmeih
 SPACE
 l,o,(mer),α
 SPACE
-h,a,l,_,k.,:,~
+h,a,l,_,k.,:,(zarnor)
 SPACE
 b,·,_,3,:_,c,_,(atn_h),τ
 SPACE
@@ -53,7 +53,7 @@ v,a,l,a,(mos),y,:,l,a,h,(sopa)
 Psalms 1:3 in vtrad vtbhs
 v,:,(mos),h,a,y,a,(rev),h
 SPACE
-k,·,:,3,‥,c.,~
+k,·,:,3,‥,c.,(zarnor)
 SPACE
 $,·sh,a,τ,(atn_h),v,·,l
 SPACE
@@ -205,7 +205,7 @@ x,o,(mer),q
 SPACE
 y,:,(mos),h,o,v,a,(rev),h
 SPACE
-α,a,m,_,≁,r
+α,a,m,_,(zarshit),r
 START/STOP implicit-maqaf
 α,‥,l,_,(mer),y
 SPACE
@@ -322,7 +322,7 @@ SPACE
 3,a,l,a,(mos),y,(sopa)
 
 Psalms 3:3 in vtrad vtbhs
-r,_,b,·,i,y,m.,~
+r,_,b,·,i,y,m.,(zarnor)
 SPACE
 α,o,m,:,r,i,(atn_h),y,m.
 SPACE
@@ -399,12 +399,12 @@ SPACE
 3,a,l,a,(mos),y,(sopa)
 
 Psalms 3:8 in vtrad vtbhs
-q,≁,v,·,m,a,(mah),h
+q,(zarshit),v,·,m,a,(mah),h
 SPACE
 y,:,h,o,v,a,(qom),h
 START/STOP lp-legarmeih
 SPACE
-h,v,o,$,·sh,i,≁,y,3,‥,(mah),n,i,y
+h,v,o,$,·sh,i,(zarshit),y,3,‥,(mah),n,i,y
 SPACE
 α,:∵,l,o,h,_,(rev),y
 SPACE
@@ -447,7 +447,7 @@ SPACE
 3,:_,n,‥,(mah),n,i,y
 START/STOP lp-legarmeih
 SPACE
-α,:∵,l,o,≁,h,‥,(mah),y
+α,:∵,l,o,(zarshit),h,‥,(mah),y
 SPACE
 c,i,d,:,q,i,(rev),y
 SPACE
@@ -530,7 +530,7 @@ SPACE
 Psalms 4:7 in vtrad vtbhs
 r,_,b,·,i,(mer),y,m.
 SPACE
-α,o,m,:,r,i,y,m.,~
+α,o,m,:,r,i,y,m.,(zarnor)
 SPACE
 m,i,(mos),y,-,y,_,r,:,α,‥,(atn_h),n,(ole),v,·
 SPACE
@@ -562,7 +562,7 @@ r,a,(mos),b,·,v,·,(sopa)
 Psalms 4:9 in vtrad vtbhs
 b,·,:,$,·sh,a,l,(mun),v,o,m.
 SPACE
-y,_,x,:,d,·,a,v,~
+y,_,x,:,d,·,a,v,(zarnor)
 SPACE
 α,∵,$,·sh,:,k,·,:,b,a,(atn_h),h
 SPACE
@@ -636,7 +636,7 @@ START/STOP lp-legarmeih
 SPACE
 l,o,(mah),α
 SPACE
-α,‥,(mos),l,-,x,a,p,‥,≁,c.
+α,‥,(mos),l,-,x,a,p,‥,(zarshit),c.
 START/STOP implicit-maqaf
 r,∵,(mer),$,·sh,_,3
 START/STOP lp-paseq
@@ -664,7 +664,7 @@ SPACE
 α,a,(mos),v,∵,n.,(sopa)
 
 Psalms 5:7 in vtrad vtbhs
-τ,·,:,α,_,b,·,‥,d,~
+τ,·,:,α,_,b,·,‥,d,(zarnor)
 SPACE
 d,·,o,b,:,r,‥,(atn_h),y
 SPACE
@@ -674,7 +674,7 @@ SPACE
 SPACE
 v,·,m,i,r,:,m,a,(rev),h
 SPACE
-y,:,τ,a,≁,3,‥,(mer),b
+y,:,τ,a,(zarshit),3,‥,(mer),b
 START/STOP lp-paseq
 y,:,h,o,v,a,(mos),h,(sopa)
 
@@ -727,7 +727,7 @@ SPACE
 SPACE
 b,·,:,p,i,(paz),y,h,v,·
 SPACE
-n,:,k,v,o,n,a,h,~
+n,:,k,v,o,n,a,h,(zarnor)
 SPACE
 q,i,r,:,b,·,a,(atn_h),m.
 SPACE
@@ -747,7 +747,7 @@ START/STOP lp-legarmeih
 SPACE
 α,:∵,(mos),l,o,h,i,(rev),y,m.
 SPACE
-y,i,p,·,:,l,v,·,~
+y,i,p,·,:,l,v,·,(zarnor)
 SPACE
 m,i,(mos),m,·,o,3,:_,c,(atn_h),v,o,τ,‥,(ole),y,h,∵,(mer),m.
 SPACE
@@ -785,7 +785,7 @@ SPACE
 $,·sh,:,m,∵,(mos),k.,a,(sopa)
 
 Psalms 5:13 in vtrad vtbhs
-k,·,i,(mos),y,-,α,_,τ,·,a,h,~
+k,·,i,(mos),y,-,α,_,τ,·,a,h,(zarnor)
 SPACE
 τ,·,:,b,a,r,‥,(atn_h),k.,:
 SPACE
@@ -825,7 +825,7 @@ SPACE
 Psalms 6:3 in vtrad vtbhs
 x,oa,n,·,‥,(mer),n,i,y
 SPACE
-y,:,h,o,v,a,h,~
+y,:,h,o,v,a,h,(zarnor)
 SPACE
 k,·,i,(mah),y
 SPACE
@@ -1060,7 +1060,7 @@ SPACE
 σ,∵,(mos),l,a,h,(sopa)
 
 Psalms 7:7 in vtrad vtbhs
-q,≁,v,·,m,a,(mah),h
+q,(zarshit),v,·,m,a,(mah),h
 SPACE
 y,:,h,o,v,a,(qom),h
 START/STOP lp-legarmeih
@@ -1095,7 +1095,7 @@ SPACE
 $,·sh,(mos),v,·,b,a,h,(sopa)
 
 Psalms 7:9 in vtrad vtbhs
-y,:,h,o,v,a,h,~
+y,:,h,o,v,a,h,(zarnor)
 SPACE
 y,a,d,i,(atn_h),y,n.
 SPACE
@@ -1117,7 +1117,7 @@ SPACE
 r,_,(qom),3
 START/STOP lp-legarmeih
 SPACE
-r,:,$,·sh,a,3,i,y,m.,~
+r,:,$,·sh,a,3,i,y,m.,(zarnor)
 SPACE
 v,·,τ,:,k,v,o,n,‥,(atn_h),n.
 SPACE
@@ -1272,7 +1272,7 @@ SPACE
 3,v,o,l,:,l,i,(qom),y,m.
 START/STOP lp-legarmeih
 SPACE
-v,:,(mos),y,o,n,:,q,i,y,m.,~
+v,:,(mos),y,o,n,:,q,i,y,m.,(zarnor)
 SPACE
 y,i,σ,·,_,(atn_h),d,:,τ,·,a,(ole)
 SPACE
@@ -1507,7 +1507,7 @@ SPACE
 b,·,:,m,‥,y,$,·sh,a,r,i,(mos),y,m.,(sopa)
 
 Psalms 9:10 in vtrad vtbhs
-v,i,≁,y,h,i,(mah),y
+v,i,(zarshit),y,h,i,(mah),y
 SPACE
 y,:,h,o,v,a,(mun),h
 SPACE
@@ -1629,7 +1629,7 @@ Psalms 9:17 in vtrad vtbhs
 n,(mah),v,o,d,_,(qom),3
 START/STOP lp-legarmeih
 SPACE
-y,:,h,o,v,a,h,~
+y,:,h,o,v,a,h,(zarnor)
 SPACE
 m,i,$,·sh,:,p,·,a,(atn_h),θ
 SPACE
@@ -1702,7 +1702,7 @@ SPACE
 3,_,l,-,p,·,a,n,∵,(mos),y,k.,a,(sopa)
 
 Psalms 9:21 in vtrad vtbhs
-$,·sh,i,≁,y,τ,a,(mah),h
+$,·sh,i,(zarshit),y,τ,a,(mah),h
 SPACE
 y,:,h,o,v,a,(qom),h
 START/STOP lp-legarmeih
@@ -1768,7 +1768,7 @@ v,·,b,o,c,‥,(mer),3,_
 SPACE
 b,·,‥,(ger_m),r,‥,(rev),k.,:
 SPACE
-n,i,≁,α,‥,(mer),c.
+n,i,(zarshit),α,‥,(mer),c.
 START/STOP lp-paseq
 y,:,h,o,v,a,(mos),h,(sopa)
 
@@ -1788,7 +1788,7 @@ SPACE
 k,·,oa,l,-,m,:,z,i,m,·,v,o,τ,a,(mos),y,v,(sopa)
 
 Psalms 10:5 in vtrad vtbhs
-y,a,≁,x,i,(mah),y,l,v,·
+y,a,(zarshit),x,i,(mah),y,l,v,·
 SPACE
 START kq-trivial
 d,:,r,a,k,a,(qom),v
@@ -1980,12 +1980,12 @@ SPACE
 k,·,i,y,-,α,_,τ,·,a,(mah),h
 START/STOP lp-legarmeih
 SPACE
-3,a,≁,m,a,(mah),l
+3,a,(zarshit),m,a,(mah),l
 SPACE
 v,a,k,_,(qom),3,_,σ
 START/STOP lp-legarmeih
 SPACE
-τ,·,_,b,·,i,y,θ,~
+τ,·,_,b,·,i,y,θ,(zarnor)
 SPACE
 l,a,τ,‥,(atn_h),τ
 SPACE
@@ -2136,11 +2136,11 @@ Psalms 11:4 in vtrad vtbhs
 y,:,h,o,v,a,(mah),h
 START/STOP lp-legarmeih
 SPACE
-b,·,:,(mos),h,‥,≁,y,k,_,(mah),l
+b,·,:,(mos),h,‥,(zarshit),y,k,_,(mah),l
 SPACE
 q,oa,d,:,$,·sh,(rev),v,o
 SPACE
-y,:,h,o,v,a,h,~
+y,:,h,o,v,a,h,(zarnor)
 SPACE
 b,·,_,$,·sh,·,a,m,_,(atn_h),y,i,m.
 SPACE
@@ -2159,7 +2159,7 @@ SPACE
 α,a,d,a,(mos),m.,(sopa)
 
 Psalms 11:5 in vtrad vtbhs
-y,:,h,o,v,a,h,~
+y,:,h,o,v,a,h,(zarnor)
 SPACE
 c,_,d,·,i,(atn_h),y,q
 SPACE
@@ -2240,7 +2240,7 @@ Psalms 12:3 in vtrad vtbhs
 $,·sh,a,(mah),v,:,α
 START/STOP lp-legarmeih
 SPACE
-y,:,(mos),d,_,b,·,:,r,v,·,~
+y,:,(mos),d,_,b,·,:,r,v,·,(zarnor)
 SPACE
 α,i,(mah),y,$,·sh
 SPACE
@@ -2294,7 +2294,7 @@ l,a,(mos),n,v,·,(sopa)
 Psalms 12:6 in vtrad vtbhs
 m,i,$,·sh,·,o,(mer),d
 SPACE
-3,:_,n,i,y,·,i,y,m.,~
+3,:_,n,i,y,·,i,y,m.,(zarnor)
 SPACE
 m,‥,α,∵,n,:,q,_,(atn_h),τ
 SPACE
@@ -2317,7 +2317,7 @@ y,a,p,i,(mer),y,x,_,(mos),-,l,(mos),v,o,(sopa)
 Psalms 12:7 in vtrad vtbhs
 α,i,(mer),m,:,r,(mun),v,o,τ
 SPACE
-y,:,h,o,v,a,h,~
+y,:,h,o,v,a,h,(zarnor)
 SPACE
 α,:_,m,a,r,(atn_h),v,o,τ
 SPACE
@@ -2452,7 +2452,7 @@ START/STOP lp-legarmeih
 SPACE
 b,·,:,x,_,σ,:,d,·,:,k.,a,(mun)
 SPACE
-b,a,θ,_,x,:,τ,·,i,y,~
+b,a,θ,_,x,:,τ,·,i,y,(zarnor)
 SPACE
 y,a,(mah),g,‥,(mer),l
 SPACE
@@ -2476,7 +2476,7 @@ l,_,m,:,n,_,c,·,‥,(rev),x,_
 SPACE
 l,:,d,a,(ole),v,i,(mer),d
 SPACE
-α,a,≁,m,_,(mah),r
+α,a,(zarshit),m,_,(mah),r
 SPACE
 n,a,b,a,(mun),l
 SPACE
@@ -2499,7 +2499,7 @@ SPACE
 Psalms 14:2 in vtrad vtbhs
 y,:,(mos),h,o,v,a,(rev),h
 SPACE
-m,i,$,·sh,·,a,m,_,y,i,m.,~
+m,i,$,·sh,·,a,m,_,y,i,m.,(zarnor)
 SPACE
 h,i,$,·sh,:,q,i,(atn_h),y,p.
 SPACE
@@ -2518,7 +2518,7 @@ SPACE
 Psalms 14:3 in vtrad vtbhs
 h,_,k,·,o,(mer),l
 SPACE
-σ,a,r,~
+σ,a,r,(zarnor)
 SPACE
 y,_,x,:,d,·,a,(atn_h),v
 SPACE
@@ -2535,7 +2535,7 @@ g,·,_,m.,-,α,∵,x,a,(mos),d,(sopa)
 Psalms 14:4 in vtrad vtbhs
 h,:_,l,o,(mer),α
 SPACE
-y,a,d,:,3,v,·,~
+y,a,d,:,3,v,·,(zarnor)
 SPACE
 k,·,oa,l,-,p,·,o,(atn_h),3,:_,l,‥,(ole),y
 SPACE
@@ -2585,7 +2585,7 @@ m,i,(mer),y
 START/STOP implicit-maqaf
 y,i,τ,·,‥,(mun),n.
 SPACE
-m,i,c,·,i,y,·,v,o,n.,~
+m,i,c,·,i,y,·,v,o,n.,(zarnor)
 SPACE
 y,:,$,·sh,v,·,3,_,(atn_h),τ
 SPACE
@@ -2662,7 +2662,7 @@ Psalms 15:4 in vtrad vtbhs
 n,i,b,:,z,∵,(mah),h
 START/STOP lp-legarmeih
 SPACE
-b,·,:,(mos),3,‥,≁,y,n,a,(mah),y,v
+b,·,:,(mos),3,‥,(zarshit),y,n,a,(mah),y,v
 SPACE
 n,i,m,:,α,a,(rev),σ
 SPACE
@@ -2686,7 +2686,7 @@ START/STOP lp-legarmeih
 SPACE
 l,o,α,-,n,a,τ,_,(mun),n.
 SPACE
-b,·,:,n,∵,$,·sh,∵,k.,:,~
+b,·,:,n,∵,$,·sh,∵,k.,:,(zarnor)
 SPACE
 v,:,$,·sh,o,(mer),x,_,d
 SPACE
@@ -2745,7 +2745,7 @@ k,·,oa,l,-,x,∵,p,:,c,i,y,-,b,a,(mos),m.,(sopa)
 Psalms 16:4 in vtrad vtbhs
 y,i,r,:,b,·,(mer),v,·
 SPACE
-3,_,c,·,:,b,v,o,τ,a,m.,~
+3,_,c,·,:,b,v,o,τ,a,m.,(zarnor)
 SPACE
 α,_,x,‥,(atn_h),r
 SPACE
@@ -2856,7 +2856,7 @@ SPACE
 $,·sh,a,(mos),x,_,τ,(sopa)
 
 Psalms 16:11 in vtrad vtbhs
-τ,·,(mos),v,o,d,i,y,3,‥,n,i,y,~
+τ,·,(mos),v,o,d,i,y,3,‥,n,i,y,(zarnor)
 SPACE
 α,o,(mah),r,_,x
 SPACE
@@ -2915,12 +2915,12 @@ SPACE
 m,‥,y,$,·sh,a,r,i,(mos),y,m.,(sopa)
 
 Psalms 17:3 in vtrad vtbhs
-b,·,a,≁,x,_,(mah),n,:,τ,·,a
+b,·,a,(zarshit),x,_,(mah),n,:,τ,·,a
 SPACE
 l,i,b,·,i,(qom),y
 START/STOP lp-legarmeih
 SPACE
-p,·,a,≁,q,_,(mah),d,:,τ,·,a
+p,·,a,(zarshit),q,_,(mah),d,:,τ,·,a
 SPACE
 l,·,_,(rev),y,:,l,a,h
 SPACE
@@ -3097,14 +3097,14 @@ m,‥,x,∵,(rev),l,∵,d
 SPACE
 x,∵,l,:,q,a,(mer),m.
 SPACE
-b,·,_,(mos),x,_,y,·,i,y,m.,~
+b,·,_,(mos),x,_,y,·,i,y,m.,(zarnor)
 SPACE
 START kq
 START kq-k
 v,c,p,y,n,k.
 STOP kq-k
 START kq-q
-v,·,(mos),c,:,p,v,·,n,:,k.,a,~
+v,·,(mos),c,:,p,v,·,n,:,k.,a,(zarnor)
 STOP kq-q
 STOP kq
 SPACE
@@ -3163,7 +3163,7 @@ h,_,z,·,o,(atn),α,τ
 SPACE
 b,·,:,y,(mah),v,o,m.
 SPACE
-h,i,(mos),c,·,i,y,l,-,y,:,h,o,v,a,≁,h
+h,i,(mos),c,·,i,y,l,-,y,:,h,o,v,a,(zarshit),h
 START/STOP implicit-maqaf
 α,v,o,τ,(mer),v,o
 SPACE
@@ -3247,7 +3247,7 @@ START/STOP lp-legarmeih
 SPACE
 α,∵,(mer),q,:,r,a,(mun),α
 SPACE
-y,:,h,o,v,a,h,~
+y,:,h,o,v,a,h,(zarnor)
 SPACE
 v,:,α,∵,l,-,α,:∵,l,o,h,_,(atn_h),y
 SPACE
@@ -3289,7 +3289,7 @@ SPACE
 l,(mos),v,o,(sopa)
 
 Psalms 18:9 in vtrad vtbhs
-3,a,≁,l,a,(mah),h
+3,a,(zarshit),l,a,(mah),h
 SPACE
 3,a,$,·sh,a,(qom),n.
 START/STOP lp-legarmeih
@@ -3400,7 +3400,7 @@ SPACE
 SPACE
 m,_,(rev),y,i,m.
 SPACE
-v,_,(mos),y,·,i,g,·,a,l,v,·,~
+v,_,(mos),y,·,i,g,·,a,l,v,·,(zarnor)
 SPACE
 m,v,o,σ,:,d,(atn_h),v,o,τ
 SPACE
@@ -3460,7 +3460,7 @@ l,_,m,·,∵,r,:,x,a,(atn),b
 SPACE
 y,:,(ger_m),x,_,l,·,:,c,‥,(rev),n,i,y
 SPACE
-k,·,i,≁,y
+k,·,i,(zarshit),y
 START/STOP implicit-maqaf
 x,a,(mer),p,‥,(mos),c.
 START/STOP implicit-maqaf
@@ -3591,7 +3591,7 @@ SPACE
 α,:_,d,_,l,·,∵,g,-,$,·sh,(mos),v,·,r,(sopa)
 
 Psalms 18:31 in vtrad vtbhs
-h,a,α,‥,l,~
+h,a,α,‥,l,(zarnor)
 SPACE
 τ,·,a,m,i,(atn_h),y,m.
 SPACE
@@ -3671,7 +3671,7 @@ SPACE
 z,:,r,v,o,3,o,τ,a,(mos),y,(sopa)
 
 Psalms 18:36 in vtrad vtbhs
-v,_,τ,·,i,τ,·,∵,n.,-,l,i,y,~
+v,_,τ,·,i,τ,·,∵,n.,-,l,i,y,(zarnor)
 SPACE
 m,a,g,‥,(atn_h),n.
 SPACE
@@ -3773,7 +3773,7 @@ SPACE
 α,:_,r,i,y,q,‥,(mos),m.,(sopa)
 
 Psalms 18:44 in vtrad vtbhs
-τ,·,:,p,_,l,·,:,θ,‥,n,i,y,~
+τ,·,:,p,_,l,·,:,θ,‥,n,i,y,(zarnor)
 SPACE
 m,‥,r,i,(atn_h),y,b,‥,(ole),y
 SPACE
@@ -3874,7 +3874,7 @@ SPACE
 
 Psalms 18:51 in vtrad vtbhs
 START kq-trivial
-m,_,g,:,d,·,i,l,~
+m,_,g,:,d,·,i,l,(zarnor)
 STOP kq-trivial
 SPACE
 y,:,$,·sh,v,·,3,(atn_h),v,o,τ
@@ -3949,7 +3949,7 @@ Psalms 19:5 in vtrad vtbhs
 b,·,:,k,oa,l,-,h,a,α,a,(qom),r,∵,c.
 START/STOP lp-legarmeih
 SPACE
-y,a,≁,c,a,(mah),α
+y,a,(zarshit),c,a,(mah),α
 SPACE
 q,_,v,·,a,(rev),m.
 SPACE
@@ -4001,7 +4001,7 @@ SPACE
 m,‥,x,_,m,·,a,τ,(mos),v,o,(sopa)
 
 Psalms 19:8 in vtrad vtbhs
-τ,·,≁,v,o,r,_,(mah),τ
+τ,·,(zarshit),v,o,r,_,(mah),τ
 SPACE
 y,:,h,o,v,a,(mun),h
 SPACE
@@ -4022,7 +4022,7 @@ SPACE
 p,·,∵,(mos),τ,i,y,(sopa)
 
 Psalms 19:9 in vtrad vtbhs
-p,·,i,q,·,≁,v,·,d,‥,(mah),y
+p,·,i,q,·,(zarshit),v,·,d,‥,(mah),y
 SPACE
 y,:,h,o,v,a,(mun),h
 SPACE
@@ -4046,7 +4046,7 @@ SPACE
 y,:,h,o,v,a,(qom),h
 START/STOP lp-legarmeih
 SPACE
-θ,:,h,v,o,r,a,h,~
+θ,:,h,v,o,r,a,h,(zarnor)
 SPACE
 3,v,o,m,∵,(atn_h),d,∵,τ
 SPACE
@@ -4198,7 +4198,7 @@ Psalms 20:6 in vtrad vtbhs
 n,:,r,_,n,·,:,n,a,(mah),h
 START/STOP lp-legarmeih
 SPACE
-b,·,i,≁,y,$,·sh,(mah),v,·,3,a,τ,∵,(rev),k.,a
+b,·,i,(zarshit),y,$,·sh,(mah),v,·,3,a,τ,∵,(rev),k.,a
 SPACE
 v,·,b,:,$,·sh,‥,(mos),m.,-,α,:∵,l,o,h,‥,(mer),y,n,v,·
 SPACE
@@ -4418,7 +4418,7 @@ START/STOP lp-legarmeih
 SPACE
 k,·,:,τ,_,n,·,(mer),v,·,r
 SPACE
-α,‥,$,·sh,~
+α,‥,$,·sh,(zarnor)
 SPACE
 l,:,3,‥,(atn_h),τ
 SPACE
@@ -4606,7 +4606,7 @@ y,:,p,_,l,·,:,θ,‥,(atn),h,v,·
 SPACE
 y,_,(ger_m),c,·,i,y,l,‥,(rev),h,v,·
 SPACE
-k,·,i,≁,y
+k,·,i,(zarshit),y
 START/STOP implicit-maqaf
 x,a,(mer),p,‥,(mos),c.
 START/STOP implicit-maqaf
@@ -4682,7 +4682,7 @@ v,:,$,·sh,o,α,‥,(mos),g,(sopa)
 Psalms 22:15 in vtrad vtbhs
 k,·,_,m,·,_,(mer),y,i,m.
 SPACE
-n,i,$,·sh,:,p,·,_,k,:,τ,·,i,y,~
+n,i,$,·sh,:,p,·,_,k,:,τ,·,i,y,(zarnor)
 SPACE
 v,:,h,i,τ,:,p,·,a,(mos),r,:,d,(rev),v,·
 SPACE
@@ -4701,7 +4701,7 @@ SPACE
 m,‥,3,a,(mos),y,(sopa)
 
 Psalms 22:16 in vtrad vtbhs
-y,a,≁,b,‥,(mah),$,·sh
+y,a,(zarshit),b,‥,(mah),$,·sh
 SPACE
 k,·,_,x,∵,(qom),r,∵,$,·si
 START/STOP lp-legarmeih
@@ -5021,7 +5021,7 @@ b,·,:,g,‥,(yby),y,α
 SPACE
 c,_,l,:,m,a,(paz),v,∵,τ
 SPACE
-l,o,α,-,α,i,≁,y,r,a,(mah),α
+l,o,α,-,α,i,(zarshit),y,r,a,(mah),α
 SPACE
 r,a,(rev),3
 SPACE
@@ -5196,7 +5196,7 @@ h,_,k,·,a,b,(mos),v,o,d,(sopa)
 Psalms 24:8 in vtrad vtbhs
 m,i,(mer),y
 SPACE
-z,∵,h,~
+z,∵,h,(zarnor)
 SPACE
 m,∵,(mah),l,∵,k.,:
 SPACE
@@ -5239,7 +5239,7 @@ m,i,(mah),y
 START/STOP implicit-maqaf
 h,(mun),v,·,α
 SPACE
-z,∵,h,~
+z,∵,h,(zarnor)
 SPACE
 m,∵,(mah),l,∵,k.,:
 SPACE
@@ -5311,7 +5311,7 @@ SPACE
 l,_,m,·,:,d,‥,(mos),n,i,y,(sopa)
 
 Psalms 25:5 in vtrad vtbhs
-h,_,d,:,r,i,≁,y,k,‥,(mah),n,i,y
+h,_,d,:,r,i,(zarshit),y,k,‥,(mah),n,i,y
 SPACE
 b,_,α,:_,m,i,τ,·,∵,(qom),k.,a
 START/STOP lp-legarmeih
@@ -5745,7 +5745,7 @@ SPACE
 3,a,l,_,(qom),y
 START/STOP lp-legarmeih
 SPACE
-m,:,r,‥,3,i,y,m.,~
+m,:,r,‥,3,i,y,m.,(zarnor)
 SPACE
 l,∵,α,:∵,k,o,(atn_h),l
 SPACE
@@ -5769,7 +5769,7 @@ SPACE
 3,a,l,_,(qom),y
 START/STOP lp-legarmeih
 SPACE
-m,_,x,:_,n,∵,h,~
+m,_,x,:_,n,∵,h,(zarnor)
 SPACE
 l,o,α,-,y,i,y,r,a,(atn_h),α
 SPACE
@@ -5793,7 +5793,7 @@ START/STOP lp-legarmeih
 SPACE
 $,·sh,a,α,_,(mun),l,:,τ,·,i,y
 SPACE
-m,‥,α,‥,τ,-,y,:,h,o,v,a,h,~
+m,‥,α,‥,τ,-,y,:,h,o,v,a,h,(zarnor)
 SPACE
 α,v,o,τ,a,(atn_h),h,·
 SPACE
@@ -5821,7 +5821,7 @@ SPACE
 y,i,c,:,p,·,:,n,‥,(qom),n,i,y
 START/STOP lp-legarmeih
 SPACE
-b,·,:,σ,u,k,·,o,h,~
+b,·,:,σ,u,k,·,o,h,(zarnor)
 SPACE
 b,·,:,y,(atn_h),v,o,m.
 SPACE
@@ -5899,7 +5899,7 @@ SPACE
 p,·,a,n,∵,(qom),y,k.,a
 START/STOP lp-legarmeih
 SPACE
-m,i,m,·,∵,n,·,i,y,~
+m,i,m,·,∵,n,·,i,y,(zarnor)
 SPACE
 α,_,(mer),l
 SPACE
@@ -5996,14 +5996,14 @@ START/STOP spi-pe2
 Psalms 28:1 in vtrad vtbhs
 l,:,d,a,v,i,(paz),d
 SPACE
-α,‥,≁,l,∵,(mah),y,k.,a
+α,‥,(zarshit),l,∵,(mah),y,k.,a
 SPACE
 y,:,h,o,v,a,(qom),h
 START/STOP lp-legarmeih
 SPACE
 α,∵,q,:,r,a,(rev),α
 SPACE
-c,v,·,r,i,y,~
+c,v,·,r,i,y,(zarnor)
 SPACE
 α,_,(mos),l,-,τ,·,∵,x,:∵,r,_,(atn_h),$,·sh
 SPACE
@@ -6041,7 +6041,7 @@ q,oa,d,:,$,·sh,∵,(mos),k.,a,(sopa)
 Psalms 28:3 in vtrad vtbhs
 α,_,l,-,τ,·,i,m,:,$,·sh,:,k,‥,(mun),n,i,y
 SPACE
-3,i,m.,-,r,:,$,·sh,a,3,i,y,m.,~
+3,i,m.,-,r,:,$,·sh,a,3,i,y,m.,(zarnor)
 SPACE
 v,:,3,i,m.,-,p,·,o,(atn_h),3,:_,l,‥,(ole),y
 SPACE
@@ -6060,7 +6060,7 @@ b,·,i,l,:,b,a,b,a,(mos),m.,(sopa)
 Psalms 28:4 in vtrad vtbhs
 τ,·,∵,n.,-,l,a,h,∵,(mun),m.
 SPACE
-k,·,:,p,oa,3,:a,l,a,m.,~
+k,·,:,p,oa,3,:a,l,a,m.,(zarnor)
 SPACE
 v,·,k,:,r,o,(atn_h),3,_
 SPACE
@@ -6118,7 +6118,7 @@ START/STOP lp-legarmeih
 SPACE
 3,u,z,·,i,(mer),y
 SPACE
-v,·,m,a,g,i,n,·,i,y,~
+v,·,m,a,g,i,n,·,i,y,(zarnor)
 SPACE
 b,·,(mah),v,o
 SPACE
@@ -6141,7 +6141,7 @@ y,:,h,o,v,a,(mer),h
 SPACE
 3,o,(mos),z,-,l,a,(atn),m,v,o
 SPACE
-v,·,m,a,≁,3,(mah),v,o,z
+v,·,m,a,(zarshit),3,(mah),v,o,z
 SPACE
 y,:,$,·sh,v,·,3,(tip),v,o,τ
 SPACE
@@ -6294,7 +6294,7 @@ START/STOP lp-legarmeih
 SPACE
 y,:,x,v,o,l,‥,(mun),l
 SPACE
-α,_,y,·,a,l,v,o,τ,~
+α,_,y,·,a,l,v,o,τ,(zarnor)
 SPACE
 v,_,(mos),y,·,∵,x,:∵,$,·si,o,(atn_h),p.
 SPACE
@@ -6417,7 +6417,7 @@ SPACE
 r,∵,(qom),g,_,3
 START/STOP lp-legarmeih
 SPACE
-b,·,:,α,_,p,·,v,o,~
+b,·,:,α,_,p,·,v,o,(zarnor)
 SPACE
 x,_,y,·,i,(atn_h),y,m.
 SPACE
@@ -6447,7 +6447,7 @@ l,:,3,v,o,l,a,(mos),m.,(sopa)
 Psalms 30:8 in vtrad vtbhs
 y,:,(mos),h,o,v,a,(rev),h
 SPACE
-b,·,i,r,:,c,v,o,n,:,k.,a,~
+b,·,i,r,:,c,v,o,n,:,k.,a,(zarnor)
 SPACE
 h,∵,3,:∵,m,_,(atn_h),d,:,τ,·,a,h
 SPACE
@@ -6477,7 +6477,7 @@ SPACE
 Psalms 30:10 in vtrad vtbhs
 m,_,h,-,b,·,∵,(mer),c,_,3
 SPACE
-b,·,:,d,a,m,i,y,~
+b,·,:,d,a,m,i,y,(zarnor)
 SPACE
 b,·,:,r,i,d,:,τ,·,i,(atn_h),y
 SPACE
@@ -6507,7 +6507,7 @@ l,i,(mos),y,(sopa)
 Psalms 30:12 in vtrad vtbhs
 h,a,p,_,(mun),k,:,τ,·,a
 SPACE
-m,i,σ,:,p,·,:,d,i,y,~
+m,i,σ,:,p,·,:,d,i,y,(zarnor)
 SPACE
 l,:,m,a,x,(atn_h),v,o,l
 SPACE
@@ -6568,7 +6568,7 @@ SPACE
 α,‥,l,_,(qom),y
 START/STOP lp-legarmeih
 SPACE
-α,oa,z,:,n,:,k.,a,~
+α,oa,z,:,n,:,k.,a,(zarnor)
 SPACE
 m,:,h,‥,r,a,(atn_h),h
 SPACE
@@ -6618,7 +6618,7 @@ SPACE
 m,a,3,v,·,z,·,i,(mos),y,(sopa)
 
 Psalms 31:6 in vtrad vtbhs
-b,·,:,y,a,d,:,k.,a,~
+b,·,:,y,a,d,:,k.,a,(zarnor)
 SPACE
 α,_,p,:,q,i,(atn_h),y,d
 SPACE
@@ -6682,7 +6682,7 @@ r,_,g,:,l,a,(mos),y,(sopa)
 Psalms 31:10 in vtrad vtbhs
 x,oa,n,·,‥,(mer),n,i,y
 SPACE
-y,:,h,o,v,a,h,~
+y,:,h,o,v,a,h,(zarnor)
 SPACE
 k,·,i,(mah),y
 SPACE
@@ -6707,7 +6707,7 @@ k,a,l,(yby),v,·
 SPACE
 b,:,y,a,g,(paz),v,o,n.
 SPACE
-x,_,y,·,_,y,~
+x,_,y,·,_,y,(zarnor)
 SPACE
 v,·,$,·sh,:,n,v,o,τ,_,(atn_h),y
 SPACE
@@ -6733,7 +6733,7 @@ SPACE
 v,:,l,i,(mer),$,·sh,:,k,‥,n,_,(qom),y
 START/STOP lp-legarmeih
 SPACE
-m,:,α,o,d,~
+m,:,α,o,d,(zarnor)
 SPACE
 v,·,p,_,(atn_h),x,_,d
 SPACE
@@ -6768,7 +6768,7 @@ START/STOP lp-legarmeih
 SPACE
 d,·,i,b,·,_,(mer),τ
 SPACE
-r,_,b,·,i,y,m.,~
+r,_,b,·,i,y,m.,(zarnor)
 SPACE
 m,a,g,(atn_h),v,o,r
 SPACE
@@ -6807,7 +6807,7 @@ b,·,:,y,a,d,:,k.,a,(mer)
 SPACE
 3,i,τ,·,o,τ,a,(atn),y
 SPACE
-h,_,c,·,i,≁,y,l,‥,(mah),n,i,y
+h,_,c,·,i,(zarshit),y,l,‥,(mah),n,i,y
 SPACE
 m,i,y,·,_,d,-,α,(ger_m),v,o,y,:,b,_,(rev),y
 SPACE
@@ -6861,7 +6861,7 @@ v,a,b,(mos),v,·,z,(sopa)
 Psalms 31:20 in vtrad vtbhs
 m,a,(mah),h
 SPACE
-r,_,(mos),b,-,θ,v,·,b,:,k.,a,~
+r,_,(mos),b,-,θ,v,·,b,:,k.,a,(zarnor)
 SPACE
 α,:_,$,·sh,∵,r,-,c,a,p,_,(atn_h),n,:,τ,·,a
 SPACE
@@ -6885,7 +6885,7 @@ START/STOP lp-legarmeih
 SPACE
 b,·,:,σ,‥,(mer),τ,∵,r
 SPACE
-p,·,a,n,∵,y,k.,a,~
+p,·,a,n,∵,y,k.,a,(zarnor)
 SPACE
 m,‥,r,u,k,:,σ,‥,(ole),y
 START/STOP implicit-maqaf
@@ -6906,7 +6906,7 @@ y,:,h,o,v,a,(atn),h
 SPACE
 k,·,i,(mer),y
 SPACE
-h,i,p,:,l,i,≁,y,α
+h,i,p,:,l,i,(zarshit),y,α
 START/STOP implicit-maqaf
 x,_,σ,:,d,·,(mer),v,o
 SPACE
@@ -6920,11 +6920,11 @@ Psalms 31:23 in vtrad vtbhs
 v,_,α,:_,n,i,(mah),y
 START/STOP lp-legarmeih
 SPACE
-α,a,≁,m,_,(mah),r,:,τ,·,i,y
+α,a,(zarshit),m,_,(mah),r,:,τ,·,i,y
 SPACE
 b,:,x,oa,p,:,z,i,(rev),y
 SPACE
-n,i,g,:,r,_,z,:,τ,·,i,y,~
+n,i,g,:,r,_,z,:,τ,·,i,y,(zarnor)
 SPACE
 m,i,n,·,∵,(atn_h),g,∵,d
 SPACE
@@ -7026,7 +7026,7 @@ START/STOP lp-legarmeih
 SPACE
 y,v,o,m,a,(mun),m.
 SPACE
-v,a,l,_,y,:,l,a,h,~
+v,a,l,_,y,:,l,a,h,(zarnor)
 SPACE
 τ,·,i,k,:,b,·,_,(mer),d
 SPACE
@@ -7049,7 +7049,7 @@ x,_,θ,·,a,α,τ,i,(qom),y
 SPACE
 α,v,o,d,i,(yby),y,3,:_,k.,a,(paz)
 SPACE
-v,_,3,:_,v,xxfv,≁,n,i,(mah),y
+v,_,3,:_,v,xxfv,(zarshit),n,i,(mah),y
 SPACE
 l,o,(mos),α,-,k,i,σ,·,i,(rev),y,τ,i,y
 SPACE
@@ -7065,7 +7065,7 @@ l,_,y,h,o,v,a,(atn),h
 SPACE
 v,:,α,_,τ,·,a,(qom),h
 SPACE
-n,a,≁,$,·si,a,(mah),α,τ,a
+n,a,(zarshit),$,·si,a,(mah),α,τ,a
 SPACE
 3,:_,v,xxfv,(tip),n.
 SPACE
@@ -7081,7 +7081,7 @@ SPACE
 k,·,oa,l,-,x,a,σ,i,(qom),y,d
 START/STOP lp-legarmeih
 SPACE
-α,‥,l,∵,y,k.,a,~
+α,‥,l,∵,y,k.,a,(zarnor)
 SPACE
 l,:,3,‥,(atn_h),τ
 SPACE
@@ -7107,7 +7107,7 @@ START/STOP lp-legarmeih
 SPACE
 σ,‥,(mer),τ,∵,r
 SPACE
-l,i,y,~
+l,i,y,(zarnor)
 SPACE
 m,i,c,·,_,(atn_h),r
 SPACE
@@ -7143,7 +7143,7 @@ START/STOP lp-legarmeih
 SPACE
 k,·,:,σ,(mer),v,·,σ
 SPACE
-k,·,:,p,∵,r,∵,d,~
+k,·,:,p,∵,r,∵,d,(zarnor)
 SPACE
 α,‥,(mah),y,n.
 SPACE
@@ -7584,7 +7584,7 @@ x,o,n,∵,(mah),h
 SPACE
 m,_,l,:,α,_,k.,:,-,y,:,h,o,v,a,(sha),h
 SPACE
-σ,a,≁,b,i,(mah),y,b
+σ,a,(zarshit),b,i,(mah),y,b
 SPACE
 l,i,y,r,‥,α,a,(rev),y,v
 SPACE
@@ -7816,7 +7816,7 @@ SPACE
 b,·,:,3,∵,z,:,r,a,τ,i,(mos),y,(sopa)
 
 Psalms 35:3 in vtrad vtbhs
-v,:,h,a,≁,r,‥,(mah),q
+v,:,h,a,(zarshit),r,‥,(mah),q
 SPACE
 x,:_,n,i,(mun),y,τ
 SPACE
@@ -7837,7 +7837,7 @@ SPACE
 Psalms 35:4 in vtrad vtbhs
 y,‥,b,o,(mun),$,·sh,v,·
 SPACE
-v,:,y,i,k,·,a,l,:,m,v,·,~
+v,:,y,i,k,·,a,l,:,m,v,·,(zarnor)
 SPACE
 m,:,b,_,q,:,$,·sh,‥,(atn_h),y
 SPACE
@@ -7897,7 +7897,7 @@ l,:,n,_,p,:,$,·sh,i,(mos),y,(sopa)
 Psalms 35:8 in vtrad vtbhs
 τ,·,:,b,v,o,α,‥,(mun),h,v,·
 SPACE
-$,·sh,v,o,α,a,h,~
+$,·sh,v,o,α,a,h,(zarnor)
 SPACE
 l,o,(mos),α,-,y,‥,(ole),d,a,(mer),3
 SPACE
@@ -7928,7 +7928,7 @@ START/STOP implicit-maqaf
 3,_,c,:,m,v,o,τ,_,(qom),y
 START/STOP lp-legarmeih
 SPACE
-τ,·,o,α,m,_,r,:,n,a,h,~
+τ,·,o,α,m,_,r,:,n,a,h,(zarnor)
 SPACE
 y,:,h,o,v,a,(rev),h
 SPACE
@@ -8012,7 +8012,7 @@ SPACE
 $,·sh,_,x,(mos),v,o,τ,i,y,(sopa)
 
 Psalms 35:15 in vtrad vtbhs
-v,·,b,:,c,_,l,:,3,i,y,~
+v,·,b,:,c,_,l,:,3,i,y,(zarnor)
 SPACE
 $,·si,a,m,:,x,(atn_h),v,·
 SPACE
@@ -8046,7 +8046,7 @@ SPACE
 $,·sh,i,n,·,‥,(mos),y,m,v,o,(sopa)
 
 Psalms 35:17 in vtrad vtbhs
-α,:_,d,o,n,a,y,~
+α,:_,d,o,n,a,y,(zarnor)
 SPACE
 k,·,_,m,·,a,(atn_h),h
 SPACE
@@ -8175,12 +8175,12 @@ SPACE
 b,·,i,(mos),l,·,_,3,:_,n,(mos),v,·,h,v,·,(sopa)
 
 Psalms 35:26 in vtrad vtbhs
-y,‥,≁,b,o,(mah),$,·sh,v,·
+y,‥,(zarshit),b,o,(mah),$,·sh,v,·
 SPACE
 v,:,y,_,x,:,p,·,:,r,(qom),v,·
 START/STOP lp-legarmeih
 SPACE
-y,_,x,:,d,·,a,v,~
+y,_,x,:,d,·,a,v,(zarnor)
 SPACE
 $,·si,:,m,‥,x,‥,(atn_h),y
 SPACE
@@ -8197,7 +8197,7 @@ SPACE
 Psalms 35:27 in vtrad vtbhs
 y,a,r,o,(mun),n,·,v,·
 SPACE
-v,:,y,i,$,·si,:,m,:,x,v,·,~
+v,:,y,i,$,·si,:,m,:,x,v,·,(zarnor)
 SPACE
 x,:_,p,‥,c,‥,(atn_h),y
 SPACE
@@ -8492,7 +8492,7 @@ Psalms 37:7 in vtrad vtbhs
 d,·,(mah),v,o,m.
 START/STOP lp-legarmeih
 SPACE
-l,_,y,h,o,v,a,h,~
+l,_,y,h,o,v,a,h,(zarnor)
 SPACE
 v,:,h,i,τ,:,x,(atn_h),v,o,l,‥,(mos),(ole),l
 SPACE
@@ -8592,7 +8592,7 @@ START/STOP lp-legarmeih
 SPACE
 p,·,a,(mer),τ,:,x,(mun),v,·
 SPACE
-r,:,$,·sh,a,3,i,y,m.,~
+r,:,$,·sh,a,3,i,y,m.,(zarnor)
 SPACE
 v,:,d,a,r,:,k,(atn_h),v,·
 SPACE
@@ -8791,7 +8791,7 @@ SPACE
 y,:,h,o,v,a,(qom),h
 START/STOP lp-legarmeih
 SPACE
-α,o,≁,h,‥,(mah),b
+α,o,(zarshit),h,‥,(mah),b
 SPACE
 m,i,$,·sh,:,p,·,a,(rev),θ
 SPACE
@@ -9318,7 +9318,7 @@ Psalms 39:2 in vtrad vtbhs
 SPACE
 α,∵,(mer),$,·sh,:,m,:,r,a,(mun),h
 SPACE
-d,:,r,a,k,_,y,~
+d,:,r,a,k,_,y,(zarnor)
 SPACE
 m,‥,x,:_,θ,(atn_h),v,o,α
 SPACE
@@ -9364,7 +9364,7 @@ SPACE
 b,·,i,l,:,$,·sh,v,o,n,i,(mos),y,(sopa)
 
 Psalms 39:5 in vtrad vtbhs
-h,v,o,d,i,≁,y,3,‥,(mah),n,i,y
+h,v,o,d,i,(zarshit),y,3,‥,(mah),n,i,y
 SPACE
 y,:,h,o,v,a,(qom),h
 START/STOP lp-legarmeih
@@ -9389,7 +9389,7 @@ SPACE
 θ,:,p,a,x,(qom),v,o,τ
 START/STOP lp-legarmeih
 SPACE
-n,a,≁,τ,_,(mah),τ,·,a,h
+n,a,(zarshit),τ,_,(mah),τ,·,a,h
 SPACE
 y,a,m,_,(rev),y
 SPACE
@@ -9478,7 +9478,7 @@ SPACE
 k,a,l,i,(mos),y,τ,i,y,(sopa)
 
 Psalms 39:12 in vtrad vtbhs
-b,·,:,(mos),τ,v,o,k,a,≁,x,(mah),v,o,τ
+b,·,:,(mos),τ,v,o,k,a,(zarshit),x,(mah),v,o,τ
 SPACE
 3,_,l,-,3,a,v,xxfv,(qom),n.
 START/STOP lp-legarmeih
@@ -9512,7 +9512,7 @@ SPACE
 v,:,$,·sh,_,v,:,3,a,τ,i,(qom),y
 START/STOP lp-legarmeih
 SPACE
-h,_,α,:_,z,i,y,n,a,h,~
+h,_,α,:_,z,i,y,n,a,h,(zarnor)
 SPACE
 α,∵,(mos),l,-,d,·,i,m,:,3,a,τ,i,(rev),y
 SPACE
@@ -9572,7 +9572,7 @@ START/STOP lp-legarmeih
 SPACE
 m,i,b,·,(mer),v,o,r
 SPACE
-$,·sh,a,α,v,o,n.,~
+$,·sh,a,α,v,o,n.,(zarnor)
 SPACE
 m,i,θ,·,i,(atn_h),y,θ
 SPACE
@@ -9596,7 +9596,7 @@ START/STOP lp-legarmeih
 SPACE
 $,·sh,i,(mer),y,r
 SPACE
-x,a,d,a,$,·sh,~
+x,a,d,a,$,·sh,(zarnor)
 SPACE
 τ,·,:,h,i,l,·,a,(atn_h),h
 SPACE
@@ -9642,7 +9642,7 @@ START/STOP lp-legarmeih
 SPACE
 y,:,h,o,v,a,(mun),h
 SPACE
-α,:∵,l,o,h,_,y,~
+α,:∵,l,o,h,_,y,(zarnor)
 SPACE
 n,i,(mer),p,:,l,:,α,o,τ,∵,(mer),y,k.,a
 SPACE
@@ -9719,7 +9719,7 @@ SPACE
 c,∵,(qom),d,∵,q
 START/STOP lp-legarmeih
 SPACE
-b,·,:,q,a,≁,h,a,(mah),l
+b,·,:,q,a,(zarshit),h,a,(mah),l
 SPACE
 r,a,(rev),b
 SPACE
@@ -9826,12 +9826,12 @@ SPACE
 x,(mos),v,·,$,·sh,a,h,(sopa)
 
 Psalms 40:15 in vtrad vtbhs
-y,‥,≁,b,o,(mah),$,·sh,v,·
+y,‥,(zarshit),b,o,(mah),$,·sh,v,·
 SPACE
 v,:,y,_,x,:,p,·,:,r,(qom),v,·
 START/STOP lp-legarmeih
 SPACE
-y,_,x,_,d,~
+y,_,x,_,d,(zarnor)
 SPACE
 m,:,b,_,q,:,$,·sh,‥,(mer),y
 SPACE
@@ -9860,12 +9860,12 @@ h,a,α,o,m,:,r,i,(mer),y,m.
 SPACE
 l,i,(ger_m),(rev),y
 SPACE
-h,∵,≁,α,a,(mer),x
+h,∵,(zarshit),α,a,(mer),x
 START/STOP lp-paseq
 h,∵,α,a,(mos),x,(sopa)
 
 Psalms 40:17 in vtrad vtbhs
-y,a,≁,$,·si,i,(mah),y,$,·si,v,·
+y,a,(zarshit),$,·si,i,(mah),y,$,·si,v,·
 SPACE
 v,:,y,i,$,·si,:,m,:,x,(qom),v,·
 START/STOP lp-legarmeih
@@ -9892,7 +9892,7 @@ START/STOP lp-legarmeih
 SPACE
 3,a,n,i,(mun),y
 SPACE
-v,:,α,∵,b,:,y,v,o,n.,~
+v,:,α,∵,b,:,y,v,o,n.,(zarnor)
 SPACE
 α,:_,d,o,n,a,(atn_h),y
 SPACE
@@ -10126,12 +10126,12 @@ SPACE
 l,:,3,v,o,l,a,(mos),m.,(sopa)
 
 Psalms 41:14 in vtrad vtbhs
-b,·,a,≁,r,(mah),v,·,k.,:
+b,·,a,(zarshit),r,(mah),v,·,k.,:
 SPACE
 y,:,h,o,v,a,(qom),h
 START/STOP lp-legarmeih
 SPACE
-α,:∵,l,o,≁,h,‥,(mah),y
+α,:∵,l,o,(zarshit),h,‥,(mah),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,(rev),l
 SPACE
@@ -10141,7 +10141,7 @@ v,:,3,_,(mer),d
 SPACE
 h,a,3,v,o,l,a,(rev),m.
 SPACE
-α,a,≁,m,‥,(mer),n.
+α,a,(zarshit),m,‥,(mer),n.
 START/STOP lp-paseq
 v,:,α,a,m,‥,(mos),n.,(sopa)
 
@@ -10175,7 +10175,7 @@ SPACE
 n,_,p,:,$,·sh,i,(qom),y
 START/STOP lp-legarmeih
 SPACE
-l,‥,α,l,o,h,i,y,m.,~
+l,‥,α,l,o,h,i,y,m.,(zarnor)
 SPACE
 l,:,α,‥,(atn_h),l
 SPACE
@@ -10230,7 +10230,7 @@ SPACE
 α,∵,3,:∵,b,o,(qom),r
 START/STOP lp-legarmeih
 SPACE
-b,·,_,σ,·,a,k.,:,~
+b,·,_,σ,·,a,k.,:,(zarnor)
 SPACE
 α,∵,d,·,_,d,·,‥,(rev),m.
 SPACE
@@ -10250,7 +10250,7 @@ Psalms 42:6 in vtrad vtbhs
 m,_,h,-,τ,·,i,$,·sh,:,τ,·,(ilu),v,o,x,:_,x,i,(qom),y
 START/STOP lp-legarmeih
 SPACE
-n,_,p,:,$,·sh,i,y,~
+n,_,p,:,$,·sh,i,y,(zarnor)
 SPACE
 v,_,τ,·,∵,h,:∵,m,i,(atn_h),y
 SPACE
@@ -10271,7 +10271,7 @@ p,·,a,n,a,(mos),y,v,(sopa)
 Psalms 42:7 in vtrad vtbhs
 α,:∵,(mos),l,o,h,_,(rev),y
 SPACE
-3,a,l,_,y,~
+3,a,l,_,y,(zarnor)
 SPACE
 n,_,p,:,$,·sh,i,(atn_h),y
 SPACE
@@ -10337,7 +10337,7 @@ START/STOP lp-legarmeih
 SPACE
 l,:,α,‥,(mer),l
 SPACE
-σ,_,l,:,3,i,y,~
+σ,_,l,:,3,i,y,(zarnor)
 SPACE
 l,a,m,a,(atn_h),h
 SPACE
@@ -10375,7 +10375,7 @@ Psalms 42:12 in vtrad vtbhs
 m,_,h,-,τ,·,i,$,·sh,:,τ,·,(ilu),v,o,x,:_,x,i,(qom),y
 START/STOP lp-legarmeih
 SPACE
-n,_,p,:,$,·sh,i,y,~
+n,_,p,:,$,·sh,i,y,(zarnor)
 SPACE
 v,·,(mos),m,_,h,-,τ,·,∵,h,:∵,m,i,(atn_h),y
 SPACE
@@ -10402,7 +10402,7 @@ SPACE
 α,:∵,l,o,h,i,(qom),y,m.
 START/STOP lp-legarmeih
 SPACE
-v,:,r,i,≁,y,b,a,(mah),h
+v,:,r,i,(zarshit),y,b,a,(mah),h
 SPACE
 r,i,y,b,i,(rev),y
 SPACE
@@ -10424,7 +10424,7 @@ START/STOP lp-legarmeih
 SPACE
 α,:∵,l,o,h,‥,(mun),y
 SPACE
-m,a,3,v,·,z,·,i,y,~
+m,a,3,v,·,z,·,i,y,(zarnor)
 SPACE
 l,a,m,a,(atn_h),h
 SPACE
@@ -10461,7 +10461,7 @@ SPACE
 SPACE
 α,:∵,l,o,h,i,(rev),y,m.
 SPACE
-α,∵,l,-,α,‥,l,~
+α,∵,l,-,α,‥,l,(zarnor)
 SPACE
 $,·si,i,m,:,x,_,(atn_h),τ
 SPACE
@@ -10479,7 +10479,7 @@ Psalms 43:5 in vtrad vtbhs
 m,_,h,-,τ,·,i,$,·sh,:,τ,·,(ilu),v,o,x,:_,x,i,(qom),y
 START/STOP lp-legarmeih
 SPACE
-n,_,p,:,$,·sh,i,y,~
+n,_,p,:,$,·sh,i,y,(zarnor)
 SPACE
 v,·,(mos),m,_,h,-,τ,·,∵,h,:∵,m,i,(atn_h),y
 SPACE
@@ -10558,7 +10558,7 @@ y,a,(mer),r,:,$,·sh,v,·
 SPACE
 α,a,(rev),r,∵,c.
 SPACE
-v,·,z,:,r,v,o,3,a,m.,~
+v,·,z,:,r,v,o,3,a,m.,(zarnor)
 SPACE
 l,o,α,-,h,v,o,$,·sh,i,(atn_h),y,3,a,(ole),h
 SPACE
@@ -10892,12 +10892,12 @@ SPACE
 y,:,d,i,y,d,o,(mos),τ,(sopa)
 
 Psalms 45:2 in vtrad vtbhs
-r,a,≁,x,_,(mah),$,·sh
+r,a,(zarshit),x,_,(mah),$,·sh
 SPACE
 l,i,b,·,i,(qom),y
 START/STOP lp-legarmeih
 SPACE
-d,·,a,≁,b,a,(mah),r
+d,·,a,(zarshit),b,a,(mah),r
 SPACE
 θ,(rev),v,o,b
 SPACE
@@ -11005,7 +11005,7 @@ m,_,l,:,k,v,·,τ,∵,(mos),k.,a,(sopa)
 Psalms 45:8 in vtrad vtbhs
 α,a,h,_,(mun),b,:,τ,·,a
 SPACE
-c,·,∵,d,∵,q,~
+c,·,∵,d,∵,q,(zarnor)
 SPACE
 v,_,τ,·,i,$,·si,:,n,a,(ole),α
 START/STOP implicit-maqaf
@@ -11116,7 +11116,7 @@ SPACE
 l,:,b,v,·,$,·sh,a,(mos),h,·,(sopa)
 
 Psalms 45:15 in vtrad vtbhs
-l,i,r,:,q,a,m,v,o,τ,~
+l,i,r,:,q,a,m,v,o,τ,(zarnor)
 SPACE
 τ,·,v,·,b,_,(atn_h),l
 SPACE
@@ -11316,7 +11316,7 @@ b,·,a,α,a,(mos),r,∵,c.,(sopa)
 Psalms 46:10 in vtrad vtbhs
 m,_,$,·sh,:,b,·,i,(mer),y,τ
 SPACE
-m,i,l,:,x,a,m,v,o,τ,~
+m,i,l,:,x,a,m,v,o,τ,(zarnor)
 SPACE
 3,_,d,-,q,:,c,‥,(atn_h),h
 SPACE
@@ -11486,14 +11486,14 @@ SPACE
 q,oa,d,:,$,·sh,(mos),v,o,(sopa)
 
 Psalms 47:10 in vtrad vtbhs
-n,:,d,i,≁,y,b,‥,(mah),y
+n,:,d,i,(zarshit),y,b,‥,(mah),y
 SPACE
 3,_,m,·,i,(qom),y,m.
 START/STOP lp-legarmeih
 SPACE
 n,∵,α,:∵,σ,a,(rev),p,v,·
 SPACE
-3,_,m.,~
+3,_,m.,(zarnor)
 SPACE
 α,:∵,l,o,h,‥,(atn_h),y
 SPACE
@@ -11518,7 +11518,7 @@ SPACE
 l,i,b,:,n,‥,y,-,q,o,(mos),r,_,x,(sopa)
 
 Psalms 48:2 in vtrad vtbhs
-g,·,a,≁,d,(mah),v,o,l
+g,·,a,(zarshit),d,(mah),v,o,l
 SPACE
 y,:,h,o,v,a,(mun),h
 SPACE
@@ -11535,7 +11535,7 @@ h,_,r,-,q,oa,d,:,$,·sh,(mos),v,o,(sopa)
 Psalms 48:3 in vtrad vtbhs
 y,:,p,‥,(mer),h
 SPACE
-n,v,o,p.,~
+n,v,o,p.,(zarnor)
 SPACE
 m,:,$,·si,(atn_h),v,o,$,·si
 SPACE
@@ -11626,7 +11626,7 @@ b,·,:,3,i,(mun),y,r
 SPACE
 α,:∵,l,o,h,‥,(atn),y,n,v,·
 SPACE
-α,:∵,l,o,≁,h,i,(mah),y,m.
+α,:∵,l,o,(zarshit),h,i,(mah),y,m.
 SPACE
 y,:,k,v,o,n,:,n,∵,(tip),h,a
 SPACE
@@ -11856,7 +11856,7 @@ SPACE
 y,i,r,:,α,∵,(qom),h
 START/STOP lp-legarmeih
 SPACE
-x,:_,k,a,≁,m,i,(mah),y,m.
+x,:_,k,a,(zarshit),m,i,(mah),y,m.
 SPACE
 y,a,m,(rev),v,·,τ,v,·
 SPACE
@@ -11933,13 +11933,13 @@ START/STOP lp-legarmeih
 SPACE
 l,i,(mer),$,·sh,:,α,(mun),v,o,l
 SPACE
-$,·sh,_,τ,·,v,·,~
+$,·sh,_,τ,·,v,·,(zarnor)
 SPACE
 m,a,(mah),v,∵,τ
 SPACE
 y,i,(ole),r,:,3,‥,(mer),m.
 SPACE
-v,_,y,·,i,r,:,d,·,≁,v,·
+v,_,y,·,i,r,:,d,·,(zarshit),v,·
 START/STOP implicit-maqaf
 b,a,(mah),m.
 SPACE
@@ -12258,7 +12258,7 @@ Psalms 50:16 in vtrad vtbhs
 v,:,l,a,(mah),r,a,$,·sh,a,(qom),3
 START/STOP lp-legarmeih
 SPACE
-α,a,≁,m,_,(mah),r
+α,a,(zarshit),m,_,(mah),r
 SPACE
 α,:∵,l,o,h,i,(rev),y,m.
 SPACE
@@ -12449,7 +12449,7 @@ SPACE
 l,:,b,_,d,·,:,k.,a,(qom)
 START/STOP lp-legarmeih
 SPACE
-x,a,θ,a,α,τ,i,y,~
+x,a,θ,a,α,τ,i,y,(zarnor)
 SPACE
 v,:,h,a,r,_,(mer),3
 SPACE
@@ -12587,7 +12587,7 @@ SPACE
 y,a,$,·sh,(mos),v,·,b,v,·,(sopa)
 
 Psalms 51:16 in vtrad vtbhs
-h,_,c,·,i,≁,y,l,‥,(mah),n,i,y
+h,_,c,·,i,(zarshit),y,l,‥,(mah),n,i,y
 SPACE
 m,i,d,·,a,m,i,(qom),y,m.
 START/STOP lp-legarmeih
@@ -12636,7 +12636,7 @@ SPACE
 Psalms 51:19 in vtrad vtbhs
 z,i,(mer),b,:,x,‥,(mun),y
 SPACE
-α,:∵,l,o,h,i,y,m.,~
+α,:∵,l,o,h,i,y,m.,(zarnor)
 SPACE
 r,(mah),v,·,x,_
 SPACE
@@ -12698,7 +12698,7 @@ START/STOP lp-legarmeih
 SPACE
 d,·,v,o,α,‥,(mun),g
 SPACE
-h,a,α,:_,d,o,m,i,y,~
+h,a,α,:_,d,o,m,i,y,(zarnor)
 SPACE
 v,_,y,·,_,g,·,‥,(atn_h),d
 SPACE
@@ -12770,7 +12770,7 @@ SPACE
 m,i,r,:,m,a,(mos),h,(sopa)
 
 Psalms 52:7 in vtrad vtbhs
-g,·,_,m.,-,α,‥,l,~
+g,·,_,m.,-,α,‥,l,(zarnor)
 SPACE
 y,i,τ,·,oa,c,:,k.,a,(atn_h)
 SPACE
@@ -12874,7 +12874,7 @@ SPACE
 l,:,d,a,v,i,(mos),d,(sopa)
 
 Psalms 53:2 in vtrad vtbhs
-α,a,≁,m,_,(mah),r
+α,a,(zarshit),m,_,(mah),r
 SPACE
 n,a,b,a,(mun),l
 SPACE
@@ -12897,7 +12897,7 @@ SPACE
 Psalms 53:3 in vtrad vtbhs
 α,:∵,(mos),l,o,h,i,(rev),y,m.
 SPACE
-m,i,$,·sh,·,a,m,_,y,i,m.,~
+m,i,$,·sh,·,a,m,_,y,i,m.,(zarnor)
 SPACE
 h,i,$,·sh,:,q,i,(atn_h),y,p.
 SPACE
@@ -12916,7 +12916,7 @@ SPACE
 Psalms 53:4 in vtrad vtbhs
 k,·,u,l,·,(mer),v,o
 SPACE
-σ,a,g,~
+σ,a,g,(zarnor)
 SPACE
 y,_,x,:,d,·,a,(atn_h),v
 SPACE
@@ -12933,7 +12933,7 @@ g,·,_,m.,-,α,∵,x,a,(mos),d,(sopa)
 Psalms 53:5 in vtrad vtbhs
 h,:_,l,o,(mer),α
 SPACE
-y,a,d,:,3,v,·,~
+y,a,d,:,3,v,·,(zarnor)
 SPACE
 p,·,o,(mah),3,:_,l,‥,(ole),y
 SPACE
@@ -12959,7 +12959,7 @@ START/STOP lp-legarmeih
 SPACE
 p,·,a,(mer),x,:_,d,v,·
 SPACE
-p,_,x,_,d,~
+p,_,x,_,d,(zarnor)
 SPACE
 l,o,α,-,h,a,(atn_h),y,a,(ole),h
 SPACE
@@ -12984,7 +12984,7 @@ m,i,(mer),y
 START/STOP implicit-maqaf
 y,i,τ,·,‥,(mun),n.
 SPACE
-m,i,c,·,i,y,·,v,o,n.,~
+m,i,c,·,i,y,·,v,o,n.,(zarnor)
 SPACE
 y,:,$,·sh,u,3,(atn_h),v,o,τ
 SPACE
@@ -13408,7 +13408,7 @@ SPACE
 q,v,o,l,i,(mos),y,(sopa)
 
 Psalms 55:19 in vtrad vtbhs
-p,·,a,≁,d,a,(mah),h
+p,·,a,(zarshit),d,a,(mah),h
 SPACE
 b,:,$,·sh,a,l,(mun),v,o,m.
 SPACE
@@ -13429,7 +13429,7 @@ SPACE
 α,‥,(qom),l
 START/STOP lp-legarmeih
 SPACE
-v,:,(mos),y,_,3,:_,n,‥,m.,~
+v,:,(mos),y,_,3,:_,n,‥,m.,(zarnor)
 SPACE
 v,:,y,o,(mah),$,·sh,‥,(mer),b
 SPACE
@@ -13468,7 +13468,7 @@ START/STOP lp-legarmeih
 SPACE
 m,_,x,:,m,a,α,o,(mun),τ
 SPACE
-p,·,i,y,v,~
+p,·,i,y,v,(zarnor)
 SPACE
 v,·,(mos),q,:,r,a,b,-,l,i,(ole),b,·,(mer),v,o
 SPACE
@@ -13488,7 +13488,7 @@ SPACE
 3,_,l,-,y,:,h,o,v,a,(qom),h
 START/STOP lp-legarmeih
 SPACE
-y,:,h,a,b,:,k.,a,~
+y,:,h,a,b,:,k.,a,(zarnor)
 SPACE
 v,:,h,(atn_h),v,·,α
 SPACE
@@ -13593,7 +13593,7 @@ SPACE
 α,∵,b,:,θ,a,(mos),x,(sopa)
 
 Psalms 56:5 in vtrad vtbhs
-b,·,‥,α,l,o,h,i,y,m.,~
+b,·,‥,α,l,o,h,i,y,m.,(zarnor)
 SPACE
 α,:_,h,_,l,·,‥,(atn_h),l
 SPACE
@@ -13666,7 +13666,7 @@ SPACE
 α,:∵,l,o,h,i,(mos),y,m.,(sopa)
 
 Psalms 56:9 in vtrad vtbhs
-n,o,d,i,y,~
+n,o,d,i,y,(zarnor)
 SPACE
 σ,a,p,_,(atn_h),r,:,τ,·,a,(ole),h
 SPACE
@@ -13685,7 +13685,7 @@ b,·,:,σ,i,p,:,r,a,τ,∵,(mos),k.,a,(sopa)
 Psalms 56:10 in vtrad vtbhs
 α,a,(qom),z
 SPACE
-y,a,≁,$,·sh,(mah),v,·,b,v,·
+y,a,(zarshit),$,·sh,(mah),v,·,b,v,·
 SPACE
 α,v,o,y,:,b,_,(mun),y
 SPACE
@@ -13749,7 +13749,7 @@ h,i,c,·,_,(yby),l,:,τ,·,a
 SPACE
 n,_,p,:,$,·sh,i,(paz),y
 SPACE
-m,i,m,·,a,v,∵,τ,~
+m,i,m,·,a,v,∵,τ,(zarnor)
 SPACE
 h,:_,l,o,(mer),α
 SPACE
@@ -13793,7 +13793,7 @@ x,oa,n,·,‥,(rev),n,i,y
 SPACE
 k,·,i,(mer),y
 SPACE
-b,:,k.,a,~
+b,:,k.,a,(zarnor)
 SPACE
 x,a,σ,a,(atn_h),y,a,h
 SPACE
@@ -13850,7 +13850,7 @@ START/STOP lp-legarmeih
 SPACE
 b,·,:,τ,(mer),v,o,k.,:
 SPACE
-l,:,b,a,α,i,m.,~
+l,:,b,a,α,i,m.,(zarnor)
 SPACE
 α,∵,$,·sh,:,k,·,:,b,a,(atn_h),h
 SPACE
@@ -13889,7 +13889,7 @@ START/STOP lp-legarmeih
 SPACE
 h,‥,k,i,(mun),y,n,v,·
 SPACE
-l,i,p,:,3,a,m,_,y,~
+l,i,p,:,3,a,m,_,y,(zarnor)
 SPACE
 k,·,a,p,_,(atn_h),p.
 SPACE
@@ -13908,7 +13908,7 @@ SPACE
 σ,∵,(mos),l,a,h,(sopa)
 
 Psalms 57:8 in vtrad vtbhs
-n,a,≁,k,(mah),v,o,n.
+n,a,(zarshit),k,(mah),v,o,n.
 SPACE
 l,i,b,·,i,(mun),y
 SPACE
@@ -14000,7 +14000,7 @@ SPACE
 α,a,d,a,(mos),m.,(sopa)
 
 Psalms 58:3 in vtrad vtbhs
-α,_,p.,-,b,·,:,l,‥,b,~
+α,_,p.,-,b,·,:,l,‥,b,(zarnor)
 SPACE
 3,v,o,l,o,(atn_h),τ
 SPACE
@@ -14162,7 +14162,7 @@ START/STOP spi-pe2
 Psalms 59:1 in vtrad vtbhs
 l,_,m,:,n,_,c,·,‥,(mun),x,_
 SPACE
-α,_,l,-,τ,·,_,$,·sh,:,x,‥,τ,~
+α,_,l,-,τ,·,_,$,·sh,:,x,‥,τ,(zarnor)
 SPACE
 l,:,d,a,v,i,(atn_h),d
 SPACE
@@ -14243,7 +14243,7 @@ y,:,h,o,v,a,(mos),h,-,α,:∵,l,o,h,i,(mer),y,m.
 START/STOP lp-paseq
 c,:,b,a,α,(paz),v,o,τ
 SPACE
-α,:∵,l,o,≁,h,‥,(mah),y
+α,:∵,l,o,(zarshit),h,‥,(mah),y
 SPACE
 y,i,$,·si,:,r,a,α,‥,(rev),l
 SPACE
@@ -14278,7 +14278,7 @@ Psalms 59:8 in vtrad vtbhs
 h,i,n,·,‥,(mah),h
 START/STOP lp-legarmeih
 SPACE
-y,_,b,·,i,≁,y,3,(mah),v,·,n.
+y,_,b,·,i,(zarshit),y,3,(mah),v,·,n.
 SPACE
 b,·,:,p,i,y,h,∵,(rev),m.
 SPACE
@@ -14368,7 +14368,7 @@ y,:,σ,_,p,·,‥,(mos),r,v,·,(sopa)
 Psalms 59:14 in vtrad vtbhs
 k,·,_,l,·,‥,(mer),h
 SPACE
-b,:,x,‥,m,a,h,~
+b,:,x,‥,m,a,h,(zarnor)
 SPACE
 k,·,_,l,·,‥,(atn_h),h
 SPACE
@@ -14427,7 +14427,7 @@ START/STOP lp-legarmeih
 SPACE
 α,a,$,·sh,i,(mun),y,r
 SPACE
-3,u,z,·,∵,k.,a,~
+3,u,z,·,∵,k.,a,(zarnor)
 SPACE
 v,_,α,:_,r,_,n,·,‥,(mer),n.
 SPACE
@@ -14484,7 +14484,7 @@ SPACE
 START/STOP implicit-maqaf
 α,:_,r,_,(mun),m.
 SPACE
-n,_,h,:_,r,_,y,i,m.,~
+n,_,h,:_,r,_,y,i,m.,(zarnor)
 SPACE
 v,:,α,∵,τ,-,α,:_,r,_,(atn_h),m.
 SPACE
@@ -14546,7 +14546,7 @@ SPACE
 τ,·,_,r,:,3,‥,l,a,(mos),h,(sopa)
 
 Psalms 60:6 in vtrad vtbhs
-n,a,≁,τ,_,(mah),τ,·,a,h
+n,a,(zarshit),τ,_,(mah),τ,·,a,h
 SPACE
 l,·,i,y,r,‥,α,∵,(mun),y,k.,a
 SPACE
@@ -14866,7 +14866,7 @@ START/STOP lp-legarmeih
 SPACE
 τ,·,:,h,(mer),v,o,τ,:,τ,(mun),v,·
 SPACE
-3,_,l,-,α,i,y,$,·sh,~
+3,_,l,-,α,i,y,$,·sh,(zarnor)
 SPACE
 τ,·,:,r,a,c,·,:,x,(atn_h),v,·
 SPACE
@@ -14888,7 +14888,7 @@ START/STOP lp-legarmeih
 SPACE
 y,a,(mer),3,:_,c,(mun),v,·
 SPACE
-l,:,h,_,d,·,i,y,x,_,~
+l,:,h,_,d,·,i,y,x,_,(zarnor)
 SPACE
 y,i,r,:,c,(atn_h),v,·
 SPACE
@@ -14942,7 +14942,7 @@ SPACE
 b,·,‥,α,l,o,h,i,(mos),y,m.,(sopa)
 
 Psalms 62:9 in vtrad vtbhs
-b,·,i,θ,:,x,≁,v,·
+b,·,i,θ,:,x,(zarshit),v,·
 START/STOP implicit-maqaf
 b,(mah),v,o
 SPACE
@@ -14967,7 +14967,7 @@ START/STOP lp-legarmeih
 SPACE
 h,∵,(mer),b,∵,l
 SPACE
-b,·,:,n,‥,(mos),y,-,α,a,d,a,m.,~
+b,·,:,n,‥,(mos),y,-,α,a,d,a,m.,(zarnor)
 SPACE
 k,·,a,z,a,(atn_h),b
 SPACE
@@ -14988,7 +14988,7 @@ y,a,(mos),x,_,d,(sopa)
 Psalms 62:11 in vtrad vtbhs
 α,_,l,-,τ,·,i,b,:,θ,:,x,(mun),v,·
 SPACE
-b,:,3,o,$,·sh,∵,q,~
+b,:,3,o,$,·sh,∵,q,(zarnor)
 SPACE
 v,·,b,:,g,a,z,‥,(atn_h),l
 SPACE
@@ -15191,7 +15191,7 @@ SPACE
 y,i,h,:,y,(mos),v,·,(sopa)
 
 Psalms 63:12 in vtrad vtbhs
-v,:,h,_,m,·,∵,l,∵,k.,:,~
+v,:,h,_,m,·,∵,l,∵,k.,:,(zarnor)
 SPACE
 y,i,$,·si,:,m,_,(atn_h),x
 SPACE
@@ -15283,7 +15283,7 @@ Psalms 64:6 in vtrad vtbhs
 y,:,x,_,z,·,:,q,v,·,-,l,a,(qom),m,v,o
 START/STOP lp-legarmeih
 SPACE
-d,·,a,≁,b,a,(mah),r
+d,·,a,(zarshit),b,a,(mah),r
 SPACE
 r,a,(rev),3
 SPACE
@@ -15391,7 +15391,7 @@ d,u,(mos),m,i,y,·,a,(ilu),h
 SPACE
 τ,:,h,i,l,·,a,(sha),h
 SPACE
-α,:∵,l,o,≁,h,i,(mer),y,m.
+α,:∵,l,o,(zarshit),h,i,(mer),y,m.
 SPACE
 b,·,:,c,i,y,·,(atn),v,o,n.
 SPACE
@@ -15431,7 +15431,7 @@ START/STOP lp-legarmeih
 SPACE
 τ,·,i,(mer),b,:,x,_,(mun),r
 SPACE
-v,·,τ,:,q,a,r,‥,b,~
+v,·,τ,:,q,a,r,‥,b,(zarnor)
 SPACE
 y,i,$,·sh,:,k,·,o,(atn_h),n.
 SPACE
@@ -15694,7 +15694,7 @@ SPACE
 n,i,$,·si,:,m,:,x,a,h,-,b,·,(mos),v,o,(sopa)
 
 Psalms 66:7 in vtrad vtbhs
-m,o,≁,$,·sh,‥,(mah),l
+m,o,(zarshit),$,·sh,‥,(mah),l
 SPACE
 b,·,i,g,:,b,v,·,r,a,τ,(qom),v,o
 START/STOP lp-legarmeih
@@ -15808,7 +15808,7 @@ SPACE
 b,·,_,c,·,_,r,-,l,i,(mos),y,(sopa)
 
 Psalms 66:15 in vtrad vtbhs
-3,o,≁,l,(mah),v,o,τ
+3,o,(zarshit),l,(mah),v,o,τ
 SPACE
 m,‥,y,x,i,(mun),y,m.
 SPACE
@@ -15885,7 +15885,7 @@ SPACE
 SPACE
 α,:_,$,·sh,∵,(mer),r
 SPACE
-l,o,(mos),α,-,h,‥,σ,i,≁,y,r
+l,o,(mos),α,-,h,‥,σ,i,(zarshit),y,r
 START/STOP implicit-maqaf
 τ,·,:,p,i,l,·,a,τ,i,(mer),y
 SPACE
@@ -16066,7 +16066,7 @@ Psalms 68:5 in vtrad vtbhs
 $,·sh,i,(mah),y,r,v,·
 START/STOP lp-legarmeih
 SPACE
-l,‥,α,l,o,h,i,y,m.,~
+l,‥,α,l,o,h,i,y,m.,(zarnor)
 SPACE
 z,_,m,·,:,r,(atn_h),v,·
 SPACE
@@ -16105,7 +16105,7 @@ Psalms 68:7 in vtrad vtbhs
 α,:∵,l,o,h,i,(mah),y,m.
 START/STOP lp-legarmeih
 SPACE
-m,≁,v,o,$,·sh,i,(mah),y,b
+m,(zarshit),v,o,$,·sh,i,(mah),y,b
 SPACE
 y,:,x,i,y,d,i,(qom),y,m.
 START/STOP lp-legarmeih
@@ -16149,7 +16149,7 @@ START/STOP lp-legarmeih
 SPACE
 α,_,p.,-,$,·sh,a,m,_,(mun),y,i,m.
 SPACE
-n,a,θ,:,p,v,·,~
+n,a,θ,:,p,v,·,(zarnor)
 SPACE
 m,i,p,·,:,n,‥,(atn_h),y
 SPACE
@@ -16224,7 +16224,7 @@ SPACE
 $,·sh,a,l,a,(mos),l,(sopa)
 
 Psalms 68:14 in vtrad vtbhs
-α,i,(mos),m.,-,τ,·,i,$,·sh,:,k,·,:,b,v,·,n.,~
+α,i,(mos),m.,-,τ,·,i,$,·sh,:,k,·,:,b,v,·,n.,(zarnor)
 SPACE
 b,·,‥,(mah),y,n.
 SPACE
@@ -16245,11 +16245,11 @@ SPACE
 x,a,r,(mos),v,·,c.,(sopa)
 
 Psalms 68:15 in vtrad vtbhs
-b,·,:,p,a,≁,r,‥,(mah),$,·si
+b,·,:,p,a,(zarshit),r,‥,(mah),$,·si
 SPACE
 $,·sh,_,d,·,_,(sha),y
 SPACE
-m,:,l,a,≁,k,i,(mah),y,m.
+m,:,l,a,(zarshit),k,i,(mah),y,m.
 SPACE
 b,·,a,(rev),h,·
 SPACE
@@ -16272,7 +16272,7 @@ Psalms 68:17 in vtrad vtbhs
 l,a,(mah),m,·,a,h
 START/STOP lp-legarmeih
 SPACE
-τ,·,:,(mos),r,_,c,·,:,d,v,·,n.,~
+τ,·,:,(mos),r,_,c,·,:,d,v,·,n.,(zarnor)
 SPACE
 h,a,r,i,(atn_h),y,m.
 SPACE
@@ -16312,12 +16312,12 @@ SPACE
 b,·,_,q,·,o,(mos),d,∵,$,·sh,(sopa)
 
 Psalms 68:19 in vtrad vtbhs
-3,a,≁,l,i,(mah),y,τ,a
+3,a,(zarshit),l,i,(mah),y,τ,a
 SPACE
 l,_,m,·,a,r,(qom),v,o,m.
 START/STOP lp-legarmeih
 SPACE
-$,·sh,a,≁,b,i,(mah),y,τ,a
+$,·sh,a,(zarshit),b,i,(mah),y,τ,a
 SPACE
 $,·sh,·,∵,(rev),b,i,y
 SPACE
@@ -16341,7 +16341,7 @@ SPACE
 Psalms 68:20 in vtrad vtbhs
 b,·,a,(mah),r,(mun),v,·,k.,:
 SPACE
-α,:_,d,o,n,a,y,~
+α,:_,d,o,n,a,y,(zarnor)
 SPACE
 y,(mah),v,o,m.
 START/STOP lp-legarmeih
@@ -16350,7 +16350,7 @@ y,(mer),(ole),v,o,m.
 SPACE
 y,_,3,:_,m,oa,σ,-,l,a,(rev),n,v,·
 SPACE
-h,a,≁,α,‥,(mah),l
+h,a,(zarshit),α,‥,(mah),l
 SPACE
 y,:,(mos),$,·sh,v,·,3,a,τ,‥,(ilu),n,v,·
 SPACE
@@ -16359,7 +16359,7 @@ SPACE
 Psalms 68:21 in vtrad vtbhs
 h,a,(mah),α,‥,(mun),l
 START/STOP lp-paseq
-l,a,n,v,·,~
+l,a,n,v,·,(zarnor)
 SPACE
 α,‥,(mah),l
 SPACE
@@ -16376,7 +16376,7 @@ SPACE
 Psalms 68:22 in vtrad vtbhs
 α,_,k.,:,-,α,:∵,l,o,h,i,(rev),y,m.
 SPACE
-y,i,m,:,x,_,c.,~
+y,i,m,:,x,_,c.,(zarnor)
 SPACE
 r,o,(mah),α,$,·sh
 SPACE
@@ -16430,7 +16430,7 @@ h,:_,l,i,y,k,v,o,τ,∵,(mun),y,k.,a
 SPACE
 α,:∵,l,o,h,i,(atn),y,m.
 SPACE
-h,:_,l,i,≁,y,k,(mah),v,o,τ
+h,:_,l,i,(zarshit),y,k,(mah),v,o,τ
 SPACE
 α,‥,l,i,(tip),y
 SPACE
@@ -16682,7 +16682,7 @@ $,·sh,:,θ,a,p,a,(mos),τ,:,n,i,y,(sopa)
 Psalms 69:4 in vtrad vtbhs
 y,a,g,_,(mun),3,:,τ,·,i,y
 SPACE
-b,:,q,oa,r,:,α,i,y,~
+b,:,q,oa,r,:,α,i,y,(zarnor)
 SPACE
 n,i,x,_,(atn_h),r
 SPACE
@@ -16702,7 +16702,7 @@ START/STOP lp-legarmeih
 SPACE
 m,i,$,·si,·,_,3,:_,r,(mun),v,o,τ
 SPACE
-r,o,α,$,·sh,i,y,~
+r,o,α,$,·sh,i,y,(zarnor)
 SPACE
 $,·si,o,n,:,α,_,(atn_h),y
 SPACE
@@ -16740,12 +16740,12 @@ SPACE
 l,o,(mos),α,-,n,i,k,:,x,a,(mos),d,v,·,(sopa)
 
 Psalms 69:7 in vtrad vtbhs
-α,_,l,-,y,‥,≁,b,o,(mah),$,·sh,v,·
+α,_,l,-,y,‥,(zarshit),b,o,(mah),$,·sh,v,·
 SPACE
 b,i,(qom),y
 START/STOP lp-legarmeih
 SPACE
-q,o,v,∵,y,k.,a,~
+q,o,v,∵,y,k.,a,(zarnor)
 SPACE
 α,:_,d,o,n,a,(mer),y
 SPACE
@@ -17158,7 +17158,7 @@ SPACE
 α,:∵,l,o,h,i,(qom),y,m.
 START/STOP lp-legarmeih
 SPACE
-y,≁,v,o,$,·sh,i,(mah),y,3,_
+y,(zarshit),v,o,$,·sh,i,(mah),y,3,_
 SPACE
 c,i,y,·,(rev),v,o,n.
 SPACE
@@ -17209,7 +17209,7 @@ x,(mos),v,·,$,·sh,a,h,(sopa)
 Psalms 70:3 in vtrad vtbhs
 y,‥,b,o,(mun),$,·sh,v,·
 SPACE
-v,:,y,_,x,:,p,·,:,r,v,·,~
+v,:,y,_,x,:,p,·,:,r,v,·,(zarnor)
 SPACE
 m,:,b,_,q,:,$,·sh,‥,(atn_h),y
 SPACE
@@ -17234,12 +17234,12 @@ b,·,oa,$,·sh,:,τ,·,a,(atn),m.
 SPACE
 h,a,(ger_m),α,o,m,:,r,i,(rev),y,m.
 SPACE
-h,∵,≁,α,a,(mer),x
+h,∵,(zarshit),α,a,(mer),x
 START/STOP lp-paseq
 h,∵,α,a,(mos),x,(sopa)
 
 Psalms 70:5 in vtrad vtbhs
-y,a,≁,$,·si,i,(mah),y,$,·si,v,·
+y,a,(zarshit),$,·si,i,(mah),y,$,·si,v,·
 SPACE
 v,:,y,i,$,·si,:,m,:,x,(qom),v,·
 START/STOP lp-legarmeih
@@ -17266,7 +17266,7 @@ START/STOP lp-legarmeih
 SPACE
 3,a,n,i,(mun),y
 SPACE
-v,:,α,∵,b,:,y,v,o,n.,~
+v,:,α,∵,b,:,y,v,o,n.,(zarnor)
 SPACE
 α,:∵,l,o,h,i,(atn_h),y,m.
 SPACE
@@ -17468,7 +17468,7 @@ STOP kq
 Psalms 71:13 in vtrad vtbhs
 y,‥,b,o,(mun),$,·sh,v,·
 SPACE
-y,i,k,:,l,v,·,~
+y,i,k,:,l,v,·,(zarnor)
 SPACE
 $,·si,o,θ,:,n,‥,(atn_h),y
 SPACE
@@ -17549,7 +17549,7 @@ SPACE
 3,_,d,-,z,i,q,:,n,a,(qom),h
 START/STOP lp-legarmeih
 SPACE
-v,:,$,·si,‥,y,b,a,h,~
+v,:,$,·si,‥,y,b,a,h,(zarnor)
 SPACE
 α,:∵,l,o,h,i,(atn_h),y,m.
 SPACE
@@ -17636,7 +17636,7 @@ START/STOP lp-legarmeih
 SPACE
 α,v,o,d,:,k.,a,(mun)
 SPACE
-b,i,k,:,l,i,y,-,n,∵,b,∵,l,~
+b,i,k,:,l,i,y,-,n,∵,b,∵,l,(zarnor)
 SPACE
 α,:_,m,i,τ,·,:,k.,a,(atn_h)
 SPACE
@@ -17717,7 +17717,7 @@ y,i,$,·si,:,α,(mah),v,·
 SPACE
 h,a,r,i,(sha),y,m.
 SPACE
-$,·sh,a,≁,l,(mer),v,o,m.
+$,·sh,a,(zarshit),l,(mer),v,o,m.
 SPACE
 l,a,3,a,(atn),m.
 SPACE
@@ -17878,7 +17878,7 @@ b,·,:,3,‥,y,n,a,(mos),y,v,(sopa)
 Psalms 72:15 in vtrad vtbhs
 v,i,y,x,i,(rev),y
 SPACE
-v,:,y,i,τ,·,∵,n.,-,l,v,o,~
+v,:,y,i,τ,·,∵,n.,-,l,v,o,(zarnor)
 SPACE
 m,i,z,·,:,h,_,(atn_h),b
 SPACE
@@ -17900,7 +17900,7 @@ SPACE
 p,i,σ,·,_,τ,-,b,·,_,(qom),r
 START/STOP lp-legarmeih
 SPACE
-b,·,a,α,a,r,∵,c.,~
+b,·,a,α,a,r,∵,c.,(zarnor)
 SPACE
 b,·,:,r,o,(atn_h),α,$,·sh
 SPACE
@@ -17928,7 +17928,7 @@ START/STOP lp-legarmeih
 SPACE
 l,:,(mos),3,v,o,l,a,(rev),m.
 SPACE
-l,i,p,:,n,‥,y,-,$,·sh,∵,m,∵,$,·sh,~
+l,i,p,:,n,‥,y,-,$,·sh,∵,m,∵,$,·sh,(zarnor)
 SPACE
 START kq
 START kq-k
@@ -17985,7 +17985,7 @@ SPACE
 SPACE
 h,a,α,a,(rev),r,∵,c.
 SPACE
-α,a,≁,m,‥,(mer),n.
+α,a,(zarshit),m,‥,(mer),n.
 START/STOP lp-paseq
 v,:,α,a,m,‥,(mos),n.,(sopa)
 
@@ -18431,7 +18431,7 @@ SPACE
 3,:_,d,a,τ,:,k.,a,(qom)
 START/STOP lp-legarmeih
 SPACE
-q,a,≁,n,i,(mah),y,τ,a
+q,a,(zarshit),n,i,(mah),y,τ,a
 SPACE
 q,·,∵,(rev),d,∵,m.
 SPACE
@@ -18565,7 +18565,7 @@ y,:,x,a,(mun),r,∵,p.
 SPACE
 c,a,(atn),r
 SPACE
-y,:,n,a,≁,α,‥,(mah),c.
+y,:,n,a,(zarshit),α,‥,(mah),c.
 SPACE
 α,v,o,y,‥,(tip),b
 SPACE
@@ -18804,7 +18804,7 @@ SPACE
 $,·sh,i,(mos),y,r,(sopa)
 
 Psalms 75:2 in vtrad vtbhs
-h,≁,v,o,d,i,(mah),y,n,v,·
+h,(zarshit),v,o,d,i,(mah),y,n,v,·
 SPACE
 l,·,:,k.,a,(qom)
 START/STOP lp-legarmeih
@@ -18917,7 +18917,7 @@ START/STOP lp-legarmeih
 SPACE
 m,a,(mer),l,‥,α
 SPACE
-m,∵,σ,∵,k.,:,~
+m,∵,σ,∵,k.,:,(zarnor)
 SPACE
 v,_,y,·,_,g,·,‥,(atn_h),r
 SPACE
@@ -19106,7 +19106,7 @@ SPACE
 Psalms 76:12 in vtrad vtbhs
 n,i,(mer),d,:,r,(mun),v,·
 SPACE
-v,:,$,·sh,_,l,·,:,m,v,·,~
+v,:,$,·sh,_,l,·,:,m,v,·,(zarnor)
 SPACE
 l,_,y,h,o,v,a,(atn_h),h
 SPACE
@@ -19167,7 +19167,7 @@ SPACE
 Psalms 77:3 in vtrad vtbhs
 b,·,:,y,(mer),v,o,m.
 SPACE
-c,a,r,a,τ,i,y,~
+c,a,r,a,τ,i,y,(zarnor)
 SPACE
 α,:_,d,o,n,a,(atn_h),y
 SPACE
@@ -19370,7 +19370,7 @@ SPACE
 σ,∵,(mos),l,a,h,(sopa)
 
 Psalms 77:17 in vtrad vtbhs
-r,a,≁,α,(mah),v,·,k.,a
+r,a,(zarshit),α,(mah),v,·,k.,a
 SPACE
 m,·,_,(qom),y,i,m.
 START/STOP lp-legarmeih
@@ -19538,7 +19538,7 @@ START/STOP lp-legarmeih
 SPACE
 b,·,:,(mos),y,_,3,:_,q,o,(rev),b
 SPACE
-v,:,τ,v,o,r,a,h,~
+v,:,τ,v,o,r,a,h,(zarnor)
 SPACE
 $,·si,a,(mah),m.
 SPACE
@@ -19599,7 +19599,7 @@ START/STOP lp-legarmeih
 SPACE
 k,·,_,α,:_,b,v,o,τ,a,(rev),m.
 SPACE
-d,·,v,o,r,~
+d,·,v,o,r,(zarnor)
 SPACE
 σ,v,o,r,‥,(atn_h),r
 SPACE
@@ -19768,7 +19768,7 @@ START/STOP lp-legarmeih
 SPACE
 v,_,y,·,a,z,(mun),v,·,b,v,·
 SPACE
-m,_,y,i,m.,~
+m,_,y,i,m.,(zarnor)
 SPACE
 v,·,n,:,x,a,l,i,(atn_h),y,m.
 SPACE
@@ -19939,7 +19939,7 @@ SPACE
 α,:∵,l,o,h,i,(qom),y,m.
 START/STOP lp-legarmeih
 SPACE
-3,a,≁,l,a,(mah),h
+3,a,(zarshit),l,a,(mah),h
 SPACE
 b,a,h,∵,(rev),m.
 SPACE
@@ -20023,7 +20023,7 @@ START/STOP lp-legarmeih
 SPACE
 y,:,k,_,p,·,‥,(mer),r
 SPACE
-3,a,v,xxfv,n.,~
+3,a,v,xxfv,n.,(zarnor)
 SPACE
 v,:,(mos),l,o,α,-,y,_,(mos),(ole),$,·sh,:,x,i,(mer),y,τ
 SPACE
@@ -20545,7 +20545,7 @@ START/STOP lp-legarmeih
 SPACE
 k,·,_,m,·,_,(rev),y,i,m.
 SPACE
-σ,:,(mos),b,i,≁,y,b,(mah),v,o,τ
+σ,:,(mos),b,i,(zarshit),y,b,(mah),v,o,τ
 SPACE
 y,:,(mos),r,v,·,$,·sh,a,l,a,(rev),CGJ,i,m.
 SPACE
@@ -20586,7 +20586,7 @@ $,·sh,:,p,o,(mah),k.,:
 SPACE
 x,:_,m,a,τ,:,k.,a,(rev)
 SPACE
-α,∵,(mos),l,-,h,_,g,·,v,o,y,i,m.,~
+α,∵,(mos),l,-,h,_,g,·,v,o,y,i,m.,(zarnor)
 SPACE
 α,:_,$,·sh,∵,(atn_h),r
 SPACE
@@ -20616,7 +20616,7 @@ SPACE
 h,‥,$,·sh,_,(mos),m,·,v,·,(sopa)
 
 Psalms 79:8 in vtrad vtbhs
-α,_,(mos),l,-,τ,·,i,z,:,k,·,oa,r,-,l,a,n,v,·,~
+α,_,(mos),l,-,τ,·,i,z,:,k,·,oa,r,-,l,a,n,v,·,(zarnor)
 SPACE
 3,:_,v,xxfv,n,o,(atn_h),τ
 SPACE
@@ -20638,7 +20638,7 @@ Psalms 79:9 in vtrad vtbhs
 3,oa,z,:,r,‥,(mah),n,v,·
 START/STOP lp-legarmeih
 SPACE
-α,:∵,l,o,≁,h,‥,(mah),y
+α,:∵,l,o,(zarshit),h,‥,(mah),y
 SPACE
 y,i,$,·sh,:,3,‥,(rev),n,v,·
 SPACE
@@ -20662,7 +20662,7 @@ START/STOP lp-legarmeih
 SPACE
 y,o,α,m,:,r,(mun),v,·
 SPACE
-h,_,g,·,v,o,y,i,m.,~
+h,_,g,·,v,o,y,i,m.,(zarnor)
 SPACE
 α,_,y,·,‥,(atn_h),h
 SPACE
@@ -20690,7 +20690,7 @@ h,_,$,·sh,·,a,p,(mos),v,·,k.,:,(sopa)
 Psalms 79:11 in vtrad vtbhs
 τ,·,a,(mah),b,(mun),v,o,α
 SPACE
-l,:,p,a,n,∵,y,k.,a,~
+l,:,p,a,n,∵,y,k.,a,(zarnor)
 SPACE
 α,∵,n,:,q,_,(atn_h),τ
 SPACE
@@ -20707,7 +20707,7 @@ SPACE
 τ,:,m,v,·,τ,a,(mos),h,(sopa)
 
 Psalms 79:12 in vtrad vtbhs
-v,:,h,a,≁,$,·sh,‥,(mah),b
+v,:,h,a,(zarshit),$,·sh,‥,(mah),b
 SPACE
 l,i,$,·sh,:,k,‥,n,‥,(mun),y,n,v,·
 SPACE
@@ -20715,7 +20715,7 @@ $,·sh,i,(dex),b,:,3,a,τ,_,y,i,m.
 SPACE
 α,∵,l,-,x,‥,y,q,a,(atn),m.
 SPACE
-x,∵,r,:,p,·,a,≁,τ,a,(mah),m.
+x,∵,r,:,p,·,a,(zarshit),τ,a,(mah),m.
 SPACE
 α,:_,$,·sh,∵,(tip),r
 SPACE
@@ -20731,7 +20731,7 @@ START/STOP lp-legarmeih
 SPACE
 v,:,c,o,(mer),α,n.
 SPACE
-m,_,r,:,3,i,y,τ,∵,k.,a,~
+m,_,r,:,3,i,y,τ,∵,k.,a,(zarnor)
 SPACE
 n,(mah),v,o,d,∵,(mer),h
 SPACE
@@ -20760,7 +20760,7 @@ SPACE
 m,i,z,:,m,(mos),v,o,r,(sopa)
 
 Psalms 80:2 in vtrad vtbhs
-r,o,≁,3,‥,(mah),h
+r,o,(zarshit),3,‥,(mah),h
 SPACE
 y,i,$,·si,:,r,a,α,‥,(qom),l
 START/STOP lp-legarmeih
@@ -20785,7 +20785,7 @@ SPACE
 α,∵,p,:,r,_,(qom),y,i,m.
 START/STOP lp-legarmeih
 SPACE
-v,·,b,i,n,:,y,a,≁,m,i,(mah),n.
+v,·,b,i,n,:,y,a,(zarshit),m,i,(mah),n.
 SPACE
 v,·,m,:,n,_,$,·sh,·,∵,(rev),h
 SPACE
@@ -20943,7 +20943,7 @@ y,i,r,:,3,∵,(mos),n,·,a,h,(sopa)
 Psalms 80:15 in vtrad vtbhs
 α,:∵,l,o,h,i,(mun),y,m.
 SPACE
-c,:,b,a,α,v,o,τ,~
+c,:,b,a,α,v,o,τ,(zarnor)
 SPACE
 $,·sh,(mos),(ole),v,·,b
 START/STOP implicit-maqaf
@@ -21018,7 +21018,7 @@ SPACE
 n,i,q,:,r,a,(mos),α,(sopa)
 
 Psalms 80:20 in vtrad vtbhs
-y,:,≁,h,o,v,a,(mah),h
+y,:,(zarshit),h,o,v,a,(mah),h
 SPACE
 α,:∵,l,o,h,i,(mun),y,m.
 SPACE
@@ -21096,7 +21096,7 @@ Psalms 81:6 in vtrad vtbhs
 3,‥,d,(mah),v,·,τ
 START/STOP lp-legarmeih
 SPACE
-b,·,i,y,h,≁,v,o,σ,‥,(mah),p.
+b,·,i,y,h,(zarshit),v,o,σ,‥,(mah),p.
 SPACE
 $,·si,a,m,(rev),v,o
 SPACE
@@ -21180,7 +21180,7 @@ Psalms 81:11 in vtrad vtbhs
 α,a,(mos),n,o,k,i,(qom),y
 START/STOP lp-legarmeih
 SPACE
-y,:,≁,h,o,v,a,(mah),h
+y,:,(zarshit),h,o,v,a,(mah),h
 SPACE
 α,:∵,l,o,h,∵,(rev),y,k.,a
 SPACE
@@ -21649,7 +21649,7 @@ SPACE
 v,:,g,_,m.,-,k,·,a,l,:,τ,a,(qom),h
 START/STOP lp-legarmeih
 SPACE
-n,_,p,:,$,·sh,i,y,~
+n,_,p,:,$,·sh,i,y,(zarnor)
 SPACE
 l,:,x,_,c,:,r,(atn_h),v,o,τ
 SPACE
@@ -21682,7 +21682,7 @@ STOP letter-large
 n.
 STOP slh-word slhw-desc-0=קֵ֥ן slhw-desc-1=ק. slhw-desc-2=ג slhw-desc-3=ק/ג
 SPACE
-l,a,h,·,~
+l,a,h,·,(zarnor)
 SPACE
 α,:_,$,·sh,∵,r,-,$,·sh,a,(atn_h),τ,a,h
 SPACE
@@ -21756,7 +21756,7 @@ SPACE
 b,·,:,c,i,y,·,(mos),v,o,n.,(sopa)
 
 Psalms 84:9 in vtrad vtbhs
-y,:,≁,h,o,v,a,(mah),h
+y,:,(zarshit),h,o,v,a,(mah),h
 SPACE
 α,:∵,l,o,h,i,(mun),y,m.
 SPACE
@@ -21814,7 +21814,7 @@ SPACE
 $,·sh,∵,(qom),m,∵,$,·sh
 START/STOP lp-legarmeih
 SPACE
-v,·,m,a,g,‥,n.,~
+v,·,m,a,g,‥,n.,(zarnor)
 SPACE
 y,:,h,o,v,a,(atn_h),h
 SPACE
@@ -21952,7 +21952,7 @@ SPACE
 Psalms 85:9 in vtrad vtbhs
 α,∵,$,·sh,:,m,:,3,a,(rev),h
 SPACE
-m,_,h,-,y,:,d,_,b,·,‥,r,~
+m,_,h,-,y,:,d,_,b,·,‥,r,(zarnor)
 SPACE
 h,a,α,‥,(atn_h),l
 START/STOP lp-paseq
@@ -22059,7 +22059,7 @@ SPACE
 Psalms 86:2 in vtrad vtbhs
 $,·sh,oa,(mer),m,:,r,a,(mun),h
 SPACE
-n,_,p,:,$,·sh,i,y,~
+n,_,p,:,$,·sh,i,y,(zarnor)
 SPACE
 k,·,i,(mos),y,-,x,a,σ,i,(atn_h),y,d
 SPACE
@@ -22192,7 +22192,7 @@ SPACE
 l,:,b,_,d,·,∵,(mos),k.,a,(sopa)
 
 Psalms 86:11 in vtrad vtbhs
-h,≁,v,o,r,‥,(mah),n,i,y
+h,(zarshit),v,o,r,‥,(mah),n,i,y
 SPACE
 y,:,h,o,v,a,(qom),h
 START/STOP lp-legarmeih
@@ -22246,7 +22246,7 @@ Psalms 86:14 in vtrad vtbhs
 α,:∵,l,o,h,i,(mah),y,m.
 START/STOP lp-legarmeih
 SPACE
-z,‥,≁,d,i,(mah),y,m.
+z,‥,(zarshit),d,i,(mah),y,m.
 SPACE
 q,a,m,v,·,-,3,a,l,_,(rev),y
 SPACE
@@ -22657,7 +22657,7 @@ SPACE
 m,i,m,·,∵,(mos),n,·,i,y,(sopa)
 
 Psalms 88:16 in vtrad vtbhs
-3,a,≁,n,i,(mah),y
+3,a,(zarshit),n,i,(mah),y
 SPACE
 α,:_,n,i,(mun),y
 SPACE
@@ -22783,7 +22783,7 @@ SPACE
 σ,∵,(mos),l,a,h,(sopa)
 
 Psalms 89:6 in vtrad vtbhs
-v,:,y,≁,v,o,d,(mah),v,·
+v,:,y,(zarshit),v,o,d,(mah),v,·
 SPACE
 $,·sh,a,m,_,(mun),y,i,m.
 SPACE
@@ -22833,7 +22833,7 @@ Psalms 89:9 in vtrad vtbhs
 y,:,h,o,v,a,(mah),h
 START/STOP lp-legarmeih
 SPACE
-α,:∵,l,o,≁,h,‥,(mah),y
+α,:∵,l,o,(zarshit),h,‥,(mah),y
 SPACE
 c,:,b,a,α,(rev),v,o,τ
 SPACE
@@ -23459,12 +23459,12 @@ y,:,h,o,v,a,(mer),h
 SPACE
 l,:,3,v,o,l,a,(rev),m.
 SPACE
-α,a,≁,m,‥,(mer),n.
+α,a,(zarshit),m,‥,(mer),n.
 START/STOP lp-paseq
 v,:,α,a,m,‥,(mos),n.,(sopa)
 
 Psalms 90:1 in vtrad vtbhs
-τ,·,:,p,i,l,·,a,h,~
+τ,·,:,p,i,l,·,a,h,(zarnor)
 SPACE
 l,:,m,o,$,·sh,∵,(atn_h),h
 SPACE
@@ -23488,7 +23488,7 @@ Psalms 90:2 in vtrad vtbhs
 b,·,:,θ,∵,(mah),r,∵,m.
 START/STOP lp-legarmeih
 SPACE
-h,a,≁,r,i,(mah),y,m.
+h,a,(zarshit),r,i,(mah),y,m.
 SPACE
 y,u,l,·,a,(rev),d,v,·
 SPACE
@@ -23619,7 +23619,7 @@ SPACE
 b,·,i,g,:,b,v,·,r,o,(qom),τ
 START/STOP lp-legarmeih
 SPACE
-$,·sh,:,m,≁,v,o,n,i,(mah),y,m.
+$,·sh,:,m,(zarshit),v,o,n,i,(mah),y,m.
 SPACE
 $,·sh,a,n,a,(rev),h
 SPACE
@@ -24181,7 +24181,7 @@ START/STOP spi-pe2
 Psalms 93:1 in vtrad vtbhs
 y,:,h,o,v,a,(mun),h
 SPACE
-m,a,l,a,k.,:,~
+m,a,l,a,k.,:,(zarnor)
 SPACE
 g,·,‥,α,(atn_h),v,·,τ
 SPACE
@@ -24672,7 +24672,7 @@ SPACE
 3,o,$,·si,‥,(mos),n,v,·,(sopa)
 
 Psalms 95:7 in vtrad vtbhs
-k,·,i,≁,y
+k,·,i,(zarshit),y
 START/STOP implicit-maqaf
 h,(mah),v,·,α
 SPACE
@@ -24721,12 +24721,12 @@ SPACE
 p,oa,3,:a,l,i,(mos),y,(sopa)
 
 Psalms 95:10 in vtrad vtbhs
-α,_,r,:,b,·,a,≁,3,i,(mah),y,m.
+α,_,r,:,b,·,a,(zarshit),3,i,(mah),y,m.
 SPACE
 $,·sh,a,n,a,(qom),h
 START/STOP lp-legarmeih
 SPACE
-α,a,≁,q,(mah),v,·,θ
+α,a,(zarshit),q,(mah),v,·,θ
 SPACE
 b,·,:,d,(rev),v,o,r
 SPACE
@@ -24800,7 +24800,7 @@ n,i,p,:,l,:,α,v,o,τ,a,(mos),y,v,(sopa)
 Psalms 96:4 in vtrad vtbhs
 k,·,i,(mer),y
 START/STOP implicit-maqaf
-g,a,≁,d,(mah),v,o,l
+g,a,(zarshit),d,(mah),v,o,l
 SPACE
 y,:,h,o,v,a,(mun),h
 SPACE
@@ -24892,7 +24892,7 @@ SPACE
 b,_,g,·,v,o,y,i,(qom),m.
 START/STOP lp-legarmeih
 SPACE
-y,:,≁,h,o,v,a,(mah),h
+y,:,(zarshit),h,o,v,a,(mah),h
 SPACE
 m,a,l,a,(rev),k.,:
 SPACE
@@ -24948,7 +24948,7 @@ b,a,(rev),α
 SPACE
 k,·,i,(mer),y
 SPACE
-b,a,α,~
+b,a,α,(zarnor)
 SPACE
 l,i,$,·sh,:,p,·,o,(atn_h),θ
 SPACE
@@ -25186,12 +25186,12 @@ SPACE
 c,i,d,:,q,a,τ,(mos),v,o,(sopa)
 
 Psalms 98:3 in vtrad vtbhs
-z,a,≁,k,_,(mah),r
+z,a,(zarshit),k,_,(mah),r
 SPACE
 x,_,σ,:,d,·,(qom),v,o
 START/STOP lp-legarmeih
 SPACE
-v,∵,(mer),α,:∵,(mos),m,v,·,n,a,τ,v,o,~
+v,∵,(mer),α,:∵,(mos),m,v,·,n,a,τ,v,o,(zarnor)
 SPACE
 l,:,b,‥,(atn_h),y,τ
 SPACE
@@ -25280,7 +25280,7 @@ y,:,h,o,v,a,(rev),h
 SPACE
 k,·,i,(mer),y
 SPACE
-b,a,α,~
+b,a,α,(zarnor)
 SPACE
 l,i,$,·sh,:,p,·,o,(atn_h),θ
 SPACE
@@ -25341,7 +25341,7 @@ h,(mos),v,·,α,(sopa)
 Psalms 99:4 in vtrad vtbhs
 v,:,3,o,(mer),z
 SPACE
-m,∵,l,∵,k.,:,~
+m,∵,l,∵,k.,:,(zarnor)
 SPACE
 m,i,$,·sh,:,p,·,a,(atn_h),θ
 SPACE
@@ -25367,7 +25367,7 @@ SPACE
 Psalms 99:5 in vtrad vtbhs
 r,v,o,m,:,m,(paz),v,·
 SPACE
-y,:,≁,h,o,v,a,(mah),h
+y,:,(zarshit),h,o,v,a,(mah),h
 SPACE
 α,:∵,l,o,h,‥,(rev),y,n,v,·
 SPACE
@@ -25382,7 +25382,7 @@ SPACE
 h,(mos),v,·,α,(sopa)
 
 Psalms 99:6 in vtrad vtbhs
-m,o,≁,$,·sh,∵,(mah),h
+m,o,(zarshit),$,·sh,∵,(mah),h
 SPACE
 v,:,α,_,h,:_,r,o,(qom),n.
 START/STOP lp-legarmeih
@@ -25423,7 +25423,7 @@ n,a,(mos),τ,_,n.,-,l,a,(mos),m,v,o,(sopa)
 Psalms 99:8 in vtrad vtbhs
 y,:,h,o,v,a,(mun),h
 SPACE
-α,:∵,l,o,h,‥,y,n,v,·,~
+α,:∵,l,o,h,‥,y,n,v,·,(zarnor)
 SPACE
 α,_,τ,·,a,(atn_h),h
 SPACE
@@ -25444,7 +25444,7 @@ SPACE
 Psalms 99:9 in vtrad vtbhs
 r,v,o,m,:,m,(paz),v,·
 SPACE
-y,:,≁,h,o,v,a,(mah),h
+y,:,(zarshit),h,o,v,a,(mah),h
 SPACE
 α,:∵,l,o,h,‥,(rev),y,n,v,·
 SPACE
@@ -25488,7 +25488,7 @@ b,·,i,r,:,n,a,n,a,(mos),h,(sopa)
 Psalms 100:3 in vtrad vtbhs
 d,·,:,3,(rev),v,·
 SPACE
-k,·,i,(mos),y,-,y,:,h,o,v,a,h,~
+k,·,i,(mos),y,-,y,:,h,o,v,a,h,(zarnor)
 SPACE
 h,(mah),v,·,α
 SPACE
@@ -25632,7 +25632,7 @@ SPACE
 b,_,σ,·,‥,(qom),τ,∵,r
 START/STOP lp-legarmeih
 SPACE
-r,‥,3,‥,h,v,·,~
+r,‥,3,‥,h,v,·,(zarnor)
 SPACE
 α,v,o,τ,(atn_h),v,o
 SPACE
@@ -25654,7 +25654,7 @@ Psalms 101:6 in vtrad vtbhs
 3,‥,y,n,_,(mah),y
 START/STOP lp-legarmeih
 SPACE
-b,·,:,n,∵,(mos),α,∵,m,:,n,‥,y,-,α,∵,r,∵,c.,~
+b,·,:,n,∵,(mos),α,∵,m,:,n,‥,y,-,α,∵,r,∵,c.,(zarnor)
 SPACE
 l,a,$,·sh,∵,(atn_h),b,∵,τ
 SPACE
@@ -25676,7 +25676,7 @@ START/STOP lp-legarmeih
 SPACE
 b,·,:,q,∵,(mer),r,∵,b
 SPACE
-b,·,‥,y,τ,i,y,~
+b,·,‥,y,τ,i,y,(zarnor)
 SPACE
 3,o,$,·si,‥,(atn_h),h
 SPACE
@@ -25742,7 +25742,7 @@ SPACE
 p,·,a,n,∵,(qom),y,k.,a
 START/STOP lp-legarmeih
 SPACE
-m,i,m,·,∵,n,·,i,y,~
+m,i,m,·,∵,n,·,i,y,(zarnor)
 SPACE
 b,·,:,y,(atn_h),v,o,m.
 SPACE
@@ -26075,7 +26075,7 @@ Psalms 102:27 in vtrad vtbhs
 h,‥,(mah),m,·,a,h
 START/STOP lp-legarmeih
 SPACE
-y,o,α,b,‥,d,v,·,~
+y,o,α,b,‥,d,v,·,(zarnor)
 SPACE
 v,:,α,_,τ,·,a,(atn_h),h
 SPACE
@@ -26766,7 +26766,7 @@ START/STOP lp-legarmeih
 SPACE
 h,_,y,·,a,(mer),m.
 SPACE
-g,·,a,d,v,o,l,~
+g,·,a,d,v,o,l,(zarnor)
 SPACE
 v,·,r,:,x,_,(atn_h),b
 SPACE
@@ -26828,7 +26828,7 @@ SPACE
 Psalms 104:29 in vtrad vtbhs
 τ,·,_,σ,:,τ,·,i,(mer),y,r
 SPACE
-p,·,a,n,∵,y,k.,a,~
+p,·,a,n,∵,y,k.,a,(zarnor)
 SPACE
 y,i,(mos),b,·,a,h,‥,(ole),l,(mer),v,·,n.
 SPACE
@@ -27572,7 +27572,7 @@ Psalms 106:5 in vtrad vtbhs
 l,i,r,:,α,(mah),v,o,τ
 START/STOP lp-legarmeih
 SPACE
-b,·,:,θ,≁,v,o,b,_,(mah),τ
+b,·,:,θ,(zarshit),v,o,b,_,(mah),τ
 SPACE
 b,·,:,x,i,y,r,∵,(rev),y,k.,a
 SPACE
@@ -27596,7 +27596,7 @@ SPACE
 h,i,r,:,$,·sh,a,(mos),3,:,n,v,·,(sopa)
 
 Psalms 106:7 in vtrad vtbhs
-α,:_,b,≁,v,o,τ,‥,(mah),y,n,v,·
+α,:_,b,(zarshit),v,o,τ,‥,(mah),y,n,v,·
 SPACE
 b,:,m,i,c,:,r,_,(qom),y,i,m.
 START/STOP lp-legarmeih
@@ -27803,7 +27803,7 @@ l,:,(mos),h,_,$,·sh,:,m,i,(ole),y,d,a,(mer),m.
 SPACE
 l,v,·,l,‥,(paz),y
 SPACE
-m,o,≁,$,·sh,∵,(mah),h
+m,o,(zarshit),$,·sh,∵,(mah),h
 SPACE
 b,:,x,i,y,r,(rev),v,o
 SPACE
@@ -27984,7 +27984,7 @@ d,a,(yby),m.
 SPACE
 n,a,q,i,(paz),y
 SPACE
-d,·,_,m.,-,b,·,:,n,‥,≁,y,h,∵,(mah),m.
+d,·,_,m.,-,b,·,:,n,‥,(zarshit),y,h,∵,(mah),m.
 SPACE
 v,·,(mos),b,:,n,v,o,τ,‥,y,h,∵,(rev),m.
 SPACE
@@ -28103,11 +28103,11 @@ Psalms 106:47 in vtrad vtbhs
 h,(mos),v,o,$,·sh,i,y,3,‥,(qom),n,v,·
 START/STOP lp-legarmeih
 SPACE
-y,:,≁,h,o,v,a,(mah),h
+y,:,(zarshit),h,o,v,a,(mah),h
 SPACE
 α,:∵,l,o,h,‥,(rev),y,n,v,·
 SPACE
-v,:,q,_,b,·,:,c,‥,n,v,·,~
+v,:,q,_,b,·,:,c,‥,n,v,·,(zarnor)
 SPACE
 m,i,(mos),n.,-,h,_,g,·,(ole),v,o,y,i,(mer),m.
 SPACE
@@ -28945,7 +28945,7 @@ SPACE
 τ,:,p,i,l,·,a,(mos),h,(sopa)
 
 Psalms 109:5 in vtrad vtbhs
-v,_,y,·,a,≁,$,·si,i,(mah),y,m,v,·
+v,_,y,·,a,(zarshit),$,·si,i,(mah),y,m,v,·
 SPACE
 3,a,l,_,(mun),y
 SPACE
@@ -29096,7 +29096,7 @@ START/STOP lp-legarmeih
 SPACE
 l,o,(mer),α
 SPACE
-z,a,k,_,r,~
+z,a,k,_,r,(zarnor)
 SPACE
 3,:_,$,·si,(atn_h),v,o,τ
 SPACE
@@ -29180,7 +29180,7 @@ Psalms 109:21 in vtrad vtbhs
 v,:,α,_,τ,·,a,(mah),h
 START/STOP lp-legarmeih
 SPACE
-y,:∵,≁,h,o,v,i,(mah),h
+y,:∵,(zarshit),h,o,v,i,(mah),h
 SPACE
 α,:_,d,o,n,a,(rev),y
 SPACE
@@ -29272,7 +29272,7 @@ SPACE
 3,:_,$,·si,i,y,τ,a,(mos),h,·,(sopa)
 
 Psalms 109:28 in vtrad vtbhs
-y,:,q,_,(mos),l,:,l,v,·,-,h,‥,m,·,a,h,~
+y,:,q,_,(mos),l,:,l,v,·,-,h,‥,m,·,a,h,(zarnor)
 SPACE
 v,:,α,_,τ,·,a,(atn_h),h
 SPACE
@@ -29301,7 +29301,7 @@ SPACE
 b,·,oa,$,·sh,:,τ,·,a,(mos),m.,(sopa)
 
 Psalms 109:30 in vtrad vtbhs
-α,≁,v,o,d,∵,(mah),h
+α,(zarshit),v,o,d,∵,(mah),h
 SPACE
 y,:,h,o,v,a,(mun),h
 SPACE
@@ -29371,7 +29371,7 @@ SPACE
 Psalms 110:3 in vtrad vtbhs
 3,_,m,·,:,k.,a,(mun)
 SPACE
-n,:,d,a,b,o,τ,~
+n,:,d,a,b,o,τ,(zarnor)
 SPACE
 b,·,:,y,(atn_h),v,o,m.
 SPACE
@@ -29562,7 +29562,7 @@ Psalms 111:9 in vtrad vtbhs
 p,·,:,d,(mah),v,·,τ
 START/STOP lp-legarmeih
 SPACE
-$,·sh,a,≁,l,_,(mah),x
+$,·sh,a,(zarshit),l,_,(mah),x
 SPACE
 l,:,3,_,m,·,(rev),v,o
 SPACE
@@ -29577,7 +29577,7 @@ SPACE
 $,·sh,:,m,(mos),v,o,(sopa)
 
 Psalms 111:10 in vtrad vtbhs
-r,‥,≁,α,$,·sh,i,(mah),y,τ
+r,‥,(zarshit),α,$,·sh,i,(mah),y,τ
 SPACE
 x,oa,k,:,m,a,(qom),h
 START/STOP lp-legarmeih
@@ -29644,7 +29644,7 @@ SPACE
 l,a,3,_,(mos),d,(sopa)
 
 Psalms 112:4 in vtrad vtbhs
-z,a,≁,r,_,(mah),x
+z,a,(zarshit),r,_,(mah),x
 SPACE
 b,·,_,x,o,(mun),$,·sh,∵,k.,:
 SPACE
@@ -29720,7 +29720,7 @@ Psalms 112:9 in vtrad vtbhs
 p,·,i,z,·,_,(mah),r
 START/STOP lp-legarmeih
 SPACE
-n,a,≁,τ,_,(mah),n.
+n,a,(zarshit),τ,_,(mah),n.
 SPACE
 l,a,α,∵,b,:,y,v,o,n,i,(rev),y,m.
 SPACE
@@ -29737,7 +29737,7 @@ SPACE
 b,·,:,k,a,b,(mos),v,o,d,(sopa)
 
 Psalms 112:10 in vtrad vtbhs
-r,a,≁,$,·sh,a,(mah),3
+r,a,(zarshit),$,·sh,a,(mah),3
 SPACE
 y,i,r,:,α,∵,(qom),h
 START/STOP lp-legarmeih
@@ -30134,7 +30134,7 @@ SPACE
 h,(mos),v,·,α,(sopa)
 
 Psalms 115:12 in vtrad vtbhs
-y,:,h,o,v,a,h,~
+y,:,h,o,v,a,h,(zarnor)
 SPACE
 z,:,k,a,r,a,(atn_h),n,v,·
 SPACE
@@ -30217,7 +30217,7 @@ Psalms 115:18 in vtrad vtbhs
 v,_,α,:_,n,_,(mah),x,:,n,v,·
 START/STOP lp-legarmeih
 SPACE
-n,:,b,a,≁,r,‥,(mah),k.,:
+n,:,b,a,(zarshit),r,‥,(mah),k.,:
 SPACE
 y,a,(rev),h,·
 SPACE
@@ -30415,7 +30415,7 @@ l,_,x,:_,σ,i,y,d,a,(mos),y,v,(sopa)
 Psalms 116:16 in vtrad vtbhs
 α,a,n,·,a,(mun),h
 SPACE
-y,:,h,o,v,a,h,~
+y,:,h,o,v,a,h,(zarnor)
 SPACE
 k,·,i,y,-,α,:_,n,i,(atn_h),y
 SPACE
@@ -30461,7 +30461,7 @@ b,·,‥,(mah),y,τ
 SPACE
 y,:,h,o,v,a,(rev),h
 SPACE
-b,·,:,(mos),τ,≁,v,o,k,‥,(mah),k,i,y
+b,·,:,(mos),τ,(zarshit),v,o,k,‥,(mah),k,i,y
 SPACE
 y,:,(mos),r,v,·,$,·sh,a,l,a,(rev),CGJ,i,m.
 SPACE
@@ -30482,7 +30482,7 @@ k,·,oa,l,-,h,a,α,u,m,·,i,(mos),y,m.,(sopa)
 Psalms 117:2 in vtrad vtbhs
 k,·,i,(mer),y
 START/STOP implicit-maqaf
-g,a,≁,b,_,(mah),r
+g,a,(zarshit),b,_,(mah),r
 SPACE
 3,a,l,‥,(qom),y,n,v,·
 START/STOP lp-legarmeih
@@ -30812,7 +30812,7 @@ Psalms 118:25 in vtrad vtbhs
 SPACE
 y,:,(dex),h,o,v,a,h
 SPACE
-h,v,o,$,·sh,i,≁,y,3,a,(mer),h
+h,v,o,$,·sh,i,(zarshit),y,3,a,(mer),h
 SPACE
 n,·,a,(atn),α
 SPACE
@@ -30820,7 +30820,7 @@ SPACE
 SPACE
 y,:,(ger_m),h,o,v,a,(rev),h
 SPACE
-h,_,c,:,l,i,≁,y,x,a,(mer),h
+h,_,c,:,l,i,(zarshit),y,x,a,(mer),h
 SPACE
 n,·,a,(mos),α,(sopa)
 
@@ -30843,7 +30843,7 @@ Psalms 118:27 in vtrad vtbhs
 α,‥,(mah),l
 START/STOP lp-legarmeih
 SPACE
-y,:,h,o,v,a,h,~
+y,:,h,o,v,a,h,(zarnor)
 SPACE
 v,_,y,·,a,(atn_h),α,∵,(ole),r
 SPACE
@@ -31462,7 +31462,7 @@ SPACE
 n,a,θ,i,(mos),y,τ,i,y,(sopa)
 
 Psalms 119:52 in vtrad vtbhs
-z,a,≁,k,_,(mah),r,:,τ,·,i,y
+z,a,(zarshit),k,_,(mah),r,:,τ,·,i,y
 SPACE
 m,i,$,·sh,:,p,·,a,θ,∵,(tip),y,k.,a
 SPACE
@@ -31495,7 +31495,7 @@ SPACE
 m,:,g,v,·,r,a,(mos),y,(sopa)
 
 Psalms 119:55 in vtrad vtbhs
-z,a,≁,k,_,(mah),r,:,τ,·,i,y
+z,a,(zarshit),k,_,(mah),r,:,τ,·,i,y
 SPACE
 b,_,l,·,_,(mun),y,:,l,a,h
 SPACE
@@ -33340,7 +33340,7 @@ SPACE
 SPACE
 k,·,:,3,‥,y,n,‥,(mun),y
 SPACE
-$,·sh,i,p,:,x,a,h,~
+$,·sh,i,p,:,x,a,h,(zarnor)
 SPACE
 α,∵,l,-,y,_,(atn_h),d
 SPACE
@@ -33372,7 +33372,7 @@ SPACE
 b,(mos),v,·,z,(sopa)
 
 Psalms 123:4 in vtrad vtbhs
-r,_,b,·,_,τ,~
+r,_,b,·,_,τ,(zarnor)
 SPACE
 $,·si,a,(mos),b,:,3,a,h,-,l,·,a,(atn_h),h,·
 SPACE
@@ -33486,7 +33486,7 @@ n,_,p,:,$,·sh,‥,(rev),n,v,·
 SPACE
 k,·,:,c,i,p,·,(mer),v,o,r
 SPACE
-n,i,m,:,l,:,θ,a,h,~
+n,i,m,:,l,:,θ,a,h,(zarnor)
 SPACE
 m,i,p,·,_,(atn_h),x
 SPACE
@@ -33534,7 +33534,7 @@ y,‥,$,·sh,‥,(mos),b,(sopa)
 Psalms 125:2 in vtrad vtbhs
 y,:,(mos),r,v,·,$,·sh,a,l,_,(rev),CGJ,i,m.
 SPACE
-h,a,r,i,y,m.,~
+h,a,r,i,y,m.,(zarnor)
 SPACE
 σ,a,b,i,(atn_h),y,b
 SPACE
@@ -33561,7 +33561,7 @@ $,·sh,‥,(mah),b,∵,θ
 SPACE
 h,a,r,∵,(rev),$,·sh,_,3
 SPACE
-3,_,l,~
+3,_,l,(zarnor)
 SPACE
 g,·,v,o,r,_,(atn_h),l
 SPACE
@@ -33630,7 +33630,7 @@ y,i,m,·,a,l,‥,(yby),α
 SPACE
 $,·si,:,x,(paz),v,o,q
 SPACE
-p,·,i,y,n,v,·,~
+p,·,i,y,n,v,·,(zarnor)
 SPACE
 v,·,l,:,$,·sh,v,o,n,‥,(atn_h),n,v,·
 SPACE
@@ -33692,12 +33692,12 @@ SPACE
 y,i,q,:,c,o,(mos),r,v,·,(sopa)
 
 Psalms 126:6 in vtrad vtbhs
-h,a,≁,l,(mah),v,o,k.,:
+h,a,(zarshit),l,(mah),v,o,k.,:
 SPACE
 y,‥,l,‥,(qom),k.,:
 START/STOP lp-legarmeih
 SPACE
-v,·,b,a,k,o,h,~
+v,·,b,a,k,o,h,(zarnor)
 SPACE
 n,o,$,·si,‥,(atn_h),α
 SPACE
@@ -33854,7 +33854,7 @@ START/STOP lp-legarmeih
 SPACE
 k,·,:,g,∵,(mer),p,∵,n.
 SPACE
-p,·,o,r,i,y,·,a,h,~
+p,·,o,r,i,y,·,a,h,(zarnor)
 SPACE
 b,·,:,y,_,r,:,k,·,:,τ,‥,(atn_h),y
 SPACE
@@ -34042,7 +34042,7 @@ SPACE
 y,:,h,o,v,a,(mos),h,(sopa)
 
 Psalms 130:2 in vtrad vtbhs
-α,:_,d,o,n,a,y,~
+α,:_,d,o,n,a,y,(zarnor)
 SPACE
 $,·sh,i,m,:,3,a,(atn_h),h
 SPACE
@@ -34318,7 +34318,7 @@ START/STOP lp-legarmeih
 SPACE
 l,:,d,a,v,i,(paz),d
 SPACE
-α,:∵,m,∵,τ,~
+α,:∵,m,∵,τ,(zarnor)
 SPACE
 l,o,α,-,y,a,$,·sh,(atn_h),v,·,b
 SPACE
@@ -34338,7 +34338,7 @@ SPACE
 b,a,n,∵,(qom),y,k.,a
 START/STOP lp-legarmeih
 SPACE
-b,·,:,r,i,y,τ,i,y,~
+b,·,:,r,i,y,τ,i,y,(zarnor)
 SPACE
 v,:,3,‥,d,o,τ,i,(mer),y
 SPACE
@@ -34475,7 +34475,7 @@ m,i,d,·,v,o,τ,a,(mos),y,v,(sopa)
 Psalms 133:3 in vtrad vtbhs
 k,·,:,θ,_,l,-,x,∵,r,:,m,(rev),v,o,n.
 SPACE
-$,·sh,∵,y,·,o,r,‥,d,~
+$,·sh,∵,y,·,o,r,‥,d,(zarnor)
 SPACE
 3,_,l,-,h,_,r,:,r,‥,(atn_h),y
 SPACE
@@ -34636,7 +34636,7 @@ v,:,k,oa,l,-,τ,·,:,h,o,m,(mos),v,o,τ,(sopa)
 Psalms 135:7 in vtrad vtbhs
 m,_,3,:_,l,∵,(mun),h
 SPACE
-n,:,$,·si,i,α,i,y,m.,~
+n,:,$,·si,i,α,i,y,m.,(zarnor)
 SPACE
 m,i,q,:,c,‥,(atn_h),h
 SPACE
@@ -34842,14 +34842,14 @@ SPACE
 α,∵,τ,-,y,:,h,o,v,a,(mos),h,(sopa)
 
 Psalms 135:21 in vtrad vtbhs
-b,·,a,≁,r,(mah),v,·,k.,:
+b,·,a,(zarshit),r,(mah),v,·,k.,:
 SPACE
 y,:,h,o,v,a,(qom),h
 START/STOP lp-legarmeih
 SPACE
 m,i,c,·,i,y,·,(rev),v,o,n.
 SPACE
-$,·sh,o,≁,k,‥,(mah),n.
+$,·sh,o,(zarshit),k,‥,(mah),n.
 SPACE
 y,:,(mos),r,v,·,$,·sh,a,l,a,(rev),CGJ,i,m.
 SPACE
@@ -34896,7 +34896,7 @@ SPACE
 x,_,σ,:,d,·,(mos),v,o,(sopa)
 
 Psalms 136:4 in vtrad vtbhs
-l,:,3,o,≁,$,·si,‥,(mah),h
+l,:,3,o,(zarshit),$,·si,‥,(mah),h
 SPACE
 n,i,p,:,l,a,α,(mun),v,o,τ
 SPACE
@@ -35045,7 +35045,7 @@ SPACE
 x,_,σ,:,d,·,(mos),v,o,(sopa)
 
 Psalms 136:15 in vtrad vtbhs
-v,:,n,i,≁,3,‥,(mah),r
+v,:,n,i,(zarshit),3,‥,(mah),r
 SPACE
 p,·,_,r,:,3,o,(mun),h
 SPACE
@@ -35277,7 +35277,7 @@ Psalms 137:6 in vtrad vtbhs
 τ,·,i,d,:,b,·,_,(mos),q,-,l,:,$,·sh,v,o,n,i,(qom),y
 START/STOP lp-legarmeih
 SPACE
-l,:,x,i,k,·,i,y,~
+l,:,x,i,k,·,i,y,(zarnor)
 SPACE
 α,i,m.,-,l,o,(atn_h),α
 SPACE
@@ -35305,7 +35305,7 @@ l,i,b,:,n,‥,(ilu),y
 SPACE
 α,:∵,d,(rev),v,o,m.
 SPACE
-α,‥,τ,~
+α,‥,τ,(zarnor)
 SPACE
 y,(mah),v,o,m.
 SPACE
@@ -35373,7 +35373,7 @@ SPACE
 SPACE
 q,oa,d,:,$,·sh,:,k.,a,(paz)
 SPACE
-v,:,α,≁,v,o,d,∵,(mah),h
+v,:,α,(zarshit),v,o,d,∵,(mah),h
 SPACE
 α,∵,τ,-,$,·sh,:,m,∵,(rev),k.,a
 SPACE
@@ -35466,7 +35466,7 @@ SPACE
 y,:,m,i,y,n,∵,(mos),k.,a,(sopa)
 
 Psalms 138:8 in vtrad vtbhs
-y,:,h,o,v,a,h,~
+y,:,h,o,v,a,h,(zarnor)
 SPACE
 y,i,g,:,m,o,(atn_h),r
 SPACE
@@ -35638,7 +35638,7 @@ SPACE
 b,·,_,3,:_,d,‥,(mos),n,i,y,(sopa)
 
 Psalms 139:12 in vtrad vtbhs
-g,·,_,m.,-,x,o,$,·sh,∵,k.,:,~
+g,·,_,m.,-,x,o,$,·sh,∵,k.,:,(zarnor)
 SPACE
 l,o,α,-,y,_,x,:,$,·sh,i,(atn_h),y,k.,:
 SPACE
@@ -35709,11 +35709,11 @@ Psalms 139:16 in vtrad vtbhs
 g,·,oa,l,:,m,i,(mah),y
 START/STOP lp-legarmeih
 SPACE
-r,a,≁,α,(mah),v,·
+r,a,(zarshit),α,(mah),v,·
 SPACE
 3,‥,y,n,∵,(rev),y,k.,a
 SPACE
-v,:,3,_,(mos),l,-,σ,i,p,:,r,:,k.,a,~
+v,:,3,_,(mos),l,-,σ,i,p,:,r,:,k.,a,(zarnor)
 SPACE
 k,·,u,l,·,a,(atn_h),m.
 SPACE
@@ -35885,7 +35885,7 @@ m,i,l,:,x,a,m,(mos),v,o,τ,(sopa)
 Psalms 140:4 in vtrad vtbhs
 $,·sh,a,(mer),n,:,n,(mun),v,·
 SPACE
-l,:,$,·sh,v,o,n,a,m.,~
+l,:,$,·sh,v,o,n,a,m.,(zarnor)
 SPACE
 k,·,:,(mos),m,v,o,-,n,a,(ole),x,a,(mer),$,·sh
 SPACE
@@ -35905,7 +35905,7 @@ SPACE
 y,:,h,o,v,a,(qom),h
 START/STOP lp-legarmeih
 SPACE
-m,i,≁,y,d,‥,(mah),y
+m,i,(zarshit),y,d,‥,(mah),y
 SPACE
 r,a,$,·sh,a,(rev),3
 SPACE
@@ -36040,7 +36040,7 @@ b,·,_,l,-,y,a,q,(mos),v,·,m,v,·,(sopa)
 Psalms 140:12 in vtrad vtbhs
 α,i,(mer),y,$,·sh
 SPACE
-l,a,$,·sh,v,o,n.,~
+l,a,$,·sh,v,o,n.,(zarnor)
 SPACE
 b,·,_,l,-,y,i,k,·,(atn_h),v,o,n.
 SPACE
@@ -36148,7 +36148,7 @@ l,:,d,a,b,a,(yby),r
 START/STOP lp-paseq
 r,a,(paz),3
 SPACE
-l,:,h,i,τ,:,3,≁,v,o,l,‥,(mah),l
+l,:,h,i,τ,:,3,(zarshit),v,o,l,‥,(mah),l
 SPACE
 3,:_,l,i,l,(qom),v,o,τ
 START/STOP lp-legarmeih
@@ -36315,7 +36315,7 @@ START/STOP lp-legarmeih
 SPACE
 r,v,·,x,i,(rev),y
 SPACE
-v,:,α,_,τ,·,a,h,~
+v,:,α,_,τ,·,a,h,(zarnor)
 SPACE
 y,a,d,_,(atn_h),3,:,τ,·,a
 SPACE
@@ -36337,7 +36337,7 @@ SPACE
 y,a,m,i,(qom),y,n.
 START/STOP lp-legarmeih
 SPACE
-v,·,r,:,α,‥,h,~
+v,·,r,:,α,‥,h,(zarnor)
 SPACE
 v,:,α,‥,(mos),y,n.,-,l,i,(atn_h),y
 SPACE
@@ -36378,7 +36378,7 @@ Psalms 142:7 in vtrad vtbhs
 h,_,q,:,$,·sh,i,(mah),y,b,a,h
 START/STOP lp-legarmeih
 SPACE
-α,∵,(mos),l,-,r,i,n,·,a,τ,i,y,~
+α,∵,(mos),l,-,r,i,n,·,a,τ,i,y,(zarnor)
 SPACE
 k,·,i,(mos),y,-,d,_,l,·,(atn_h),v,o,τ,i,(ole),y
 SPACE
@@ -36395,12 +36395,12 @@ SPACE
 m,i,m,·,∵,(mos),n,·,i,y,(sopa)
 
 Psalms 142:8 in vtrad vtbhs
-h,≁,v,o,c,i,(mah),y,α,a,h
+h,(zarshit),v,o,c,i,(mah),y,α,a,h
 SPACE
 m,i,m,·,_,σ,:,g,·,‥,(qom),r
 START/STOP lp-legarmeih
 SPACE
-n,_,p,:,$,·sh,i,y,~
+n,_,p,:,$,·sh,i,y,(zarnor)
 SPACE
 l,:,h,v,o,d,(atn_h),v,o,τ
 SPACE
@@ -36459,7 +36459,7 @@ k,oa,l,-,x,a,(mos),y,(sopa)
 Psalms 143:3 in vtrad vtbhs
 k,·,i,(mer),y
 SPACE
-r,a,≁,d,_,(mah),p.
+r,a,(zarshit),d,_,(mah),p.
 SPACE
 α,v,o,y,‥,(qom),b
 START/STOP lp-legarmeih
@@ -36494,7 +36494,7 @@ SPACE
 l,i,b,·,i,(mos),y,(sopa)
 
 Psalms 143:5 in vtrad vtbhs
-z,a,≁,k,_,(mah),r,:,τ,·,i,y
+z,a,(zarshit),k,_,(mah),r,:,τ,·,i,y
 SPACE
 y,a,m,i,(qom),y,m.
 START/STOP lp-legarmeih
@@ -36528,12 +36528,12 @@ SPACE
 σ,∵,(mos),l,a,h,(sopa)
 
 Psalms 143:7 in vtrad vtbhs
-m,_,≁,h,‥,(mah),r
+m,_,(zarshit),h,‥,(mah),r
 SPACE
 3,:_,n,‥,(qom),n,i,y
 START/STOP lp-legarmeih
 SPACE
-y,:,h,o,v,a,h,~
+y,:,h,o,v,a,h,(zarnor)
 SPACE
 k,·,a,l,:,τ,a,(atn_h),h
 SPACE
@@ -36552,12 +36552,12 @@ SPACE
 b,(mos),v,o,r,(sopa)
 
 Psalms 143:8 in vtrad vtbhs
-h,_,$,·sh,:,m,i,≁,y,3,‥,(mah),n,i,y
+h,_,$,·sh,:,m,i,(zarshit),y,3,‥,(mah),n,i,y
 SPACE
 b,_,b,·,o,(qom),q,∵,r
 START/STOP lp-legarmeih
 SPACE
-x,_,σ,:,d,·,∵,k.,a,~
+x,_,σ,:,d,·,∵,k.,a,(zarnor)
 SPACE
 k,·,i,(mos),y,-,b,:,k.,a,(atn_h)
 SPACE
@@ -36592,7 +36592,7 @@ START/STOP lp-legarmeih
 SPACE
 l,_,(mer),3,:_,$,·si,(mun),v,o,τ
 SPACE
-r,:,c,v,o,n,∵,k.,a,~
+r,:,c,v,o,n,∵,k.,a,(zarnor)
 SPACE
 k,·,i,(mos),y,-,α,_,τ,·,a,(atn_h),h
 SPACE
@@ -36625,7 +36625,7 @@ SPACE
 n,_,p,:,$,·sh,i,(mos),y,(sopa)
 
 Psalms 143:12 in vtrad vtbhs
-v,·,(mos),b,:,x,_,σ,:,d,·,:,k.,a,~
+v,·,(mos),b,:,x,_,σ,:,d,·,:,k.,a,(zarnor)
 SPACE
 τ,·,_,c,:,m,i,(atn_h),y,τ
 SPACE
@@ -36648,7 +36648,7 @@ Psalms 144:1 in vtrad vtbhs
 l,:,d,a,v,i,(qom),d
 START/STOP lp-legarmeih
 SPACE
-b,·,a,≁,r,(mah),v,·,k.,:
+b,·,a,(zarshit),r,(mah),v,·,k.,:
 SPACE
 y,:,h,o,v,a,(qom),h
 START/STOP lp-legarmeih
@@ -36668,7 +36668,7 @@ l,_,m,·,i,l,:,x,a,m,a,(mos),h,(sopa)
 Psalms 144:2 in vtrad vtbhs
 x,_,σ,:,d,·,i,(mer),y
 SPACE
-v,·,m,:,c,v,·,d,a,τ,i,y,~
+v,·,m,:,c,v,·,d,a,τ,i,y,(zarnor)
 SPACE
 m,i,$,·si,:,g,·,_,b,·,i,(atn_h),y
 SPACE
@@ -36809,7 +36809,7 @@ r,a,3,a,(mos),h,(sopa)
 Psalms 144:11 in vtrad vtbhs
 p,·,:,c,‥,(mer),n,i,y
 SPACE
-v,:,h,_,c,·,i,y,l,‥,n,i,y,~
+v,:,h,_,c,·,i,y,l,‥,n,i,y,(zarnor)
 SPACE
 m,i,y,·,_,(atn_h),d
 SPACE
@@ -36833,7 +36833,7 @@ SPACE
 b,·,a,n,‥,(qom),y,n,v,·
 START/STOP lp-legarmeih
 SPACE
-k,·,i,n,:,θ,i,3,i,y,m.,~
+k,·,i,n,:,θ,i,3,i,y,m.,(zarnor)
 SPACE
 m,:,g,u,d,·,a,l,i,(atn_h),y,m.
 SPACE
@@ -36852,7 +36852,7 @@ h,‥,y,k,a,(mos),l,(sopa)
 Psalms 144:13 in vtrad vtbhs
 m,:,z,a,v,‥,(mun),y,n,v,·
 SPACE
-m,:,l,‥,α,i,y,m.,~
+m,:,l,‥,α,i,y,m.,(zarnor)
 SPACE
 m,:,p,i,y,q,i,(mer),y,m.
 SPACE
@@ -36938,7 +36938,7 @@ SPACE
 v,a,3,∵,(mos),d,(sopa)
 
 Psalms 145:3 in vtrad vtbhs
-g,·,a,≁,d,(mah),v,o,l
+g,·,a,(zarshit),d,(mah),v,o,l
 SPACE
 y,:,h,o,v,a,(mun),h
 SPACE
@@ -37261,7 +37261,7 @@ Psalms 146:6 in vtrad vtbhs
 3,o,$,·si,∵,(mah),h
 START/STOP lp-legarmeih
 SPACE
-$,·sh,a,≁,m,_,(mah),y,i,m.
+$,·sh,a,(zarshit),m,_,(mah),y,i,m.
 SPACE
 v,a,α,a,(rev),r,∵,c.
 SPACE
@@ -37299,7 +37299,7 @@ Psalms 146:8 in vtrad vtbhs
 y,:,h,o,v,a,(mah),h
 START/STOP lp-legarmeih
 SPACE
-p,·,o,≁,q,‥,(mah),x,_
+p,·,o,(zarshit),q,‥,(mah),x,_
 SPACE
 3,i,v,:,r,i,(rev),y,m.
 SPACE
@@ -37319,7 +37319,7 @@ Psalms 146:9 in vtrad vtbhs
 y,:,h,o,v,a,(mah),h
 START/STOP lp-legarmeih
 SPACE
-$,·sh,o,≁,m,‥,(mah),r
+$,·sh,o,(zarshit),m,‥,(mah),r
 SPACE
 α,∵,τ,-,g,·,‥,r,i,(rev),y,m.
 SPACE
@@ -37616,7 +37616,7 @@ SPACE
 l,:,y,i,$,·si,:,r,a,α,‥,(mos),l,(sopa)
 
 Psalms 147:20 in vtrad vtbhs
-l,o,≁,α
+l,o,(zarshit),α
 START/STOP implicit-maqaf
 3,a,(mah),$,·si,a,h
 SPACE
