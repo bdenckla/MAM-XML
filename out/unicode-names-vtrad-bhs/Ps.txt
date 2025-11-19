@@ -36458,7 +36458,7 @@ k,oa,l,-,x,a,(mos),y,(sopa)
 
 Psalms 143:3 in vtrad vtbhs
 k,·,i,(mer),y
-SPACE
+START/STOP implicit-maqaf
 r,a,(zarshit),d,_,(mah),p.
 SPACE
 α,v,o,y,‥,(qom),b

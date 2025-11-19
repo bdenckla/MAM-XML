@@ -14620,7 +14620,7 @@ SPACE
 
 Job 40:10 in vtrad vtmam
 3,:_,d,‥,(mer),h
-SPACE
+START/STOP implicit-maqaf
 n,a,(mun),α
 SPACE
 g,a,α,(mun),v,o,n.

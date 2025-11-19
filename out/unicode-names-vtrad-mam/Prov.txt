@@ -9121,7 +9121,7 @@ SPACE
 
 Proverbs 22:17 in vtrad vtmam
 h,_,(mer),θ
-SPACE
+START/STOP implicit-maqaf
 α,oa,z,:,n,:,k.,a,(rev)
 SPACE
 v,·,(dex),$,·sh,:,m,_,3
