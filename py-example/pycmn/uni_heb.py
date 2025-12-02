@@ -135,8 +135,10 @@ _HE_AND_NONHE_POINT_PAIRS = (
 )
 _HE_AND_NONHE_ACC_PAIRS = (
     # These first three are the only ones not of the form (ha.X, "(x)")
-    (ha.Z_OR_TSOR, "(zarnor)"),  # zarqa or tsinnor; see: Note on zinor
-    (ha.ZSH_OR_TSIT, "(zarshit)"),  # zarqa stress helper or tsinnorit; see: Note on zinor
+    (ha.Z_OR_TSOR, "(zarnor)"),
+    # Above is zarqa or tsinnor; see: Note on zinor
+    (ha.ZSH_OR_TSIT, "(zarshit)"),
+    # Above is zarqa stress helper or tsinnorit; see: Note on zinor
     (hpo.MTGOSLQ, "(mos)"),
     # Above is meteg or silluq; here we consider it an accent not a point
     # The ones below are all of the form (ha.X, "(x)")

@@ -210,7 +210,7 @@ START/STOP implicit-maqaf
 α,‥,l,_,(mer),y
 SPACE
 b,·,:,n,i,(mer),y
-SPACE
+START/STOP implicit-maqaf
 α,_,(atn),τ,·,a,h
 SPACE
 α,:_,(ger_m),n,i,(rev),y
@@ -635,7 +635,7 @@ k,·,i,(mah),y
 START/STOP lp-legarmeih
 SPACE
 l,o,(mah),α
-SPACE
+START/STOP implicit-maqaf
 α,‥,(mos),l,-,x,a,p,‥,(zarshit),c.
 START/STOP implicit-maqaf
 r,∵,(mer),$,·sh,_,3
@@ -6860,7 +6860,7 @@ v,a,b,(mos),v,·,z,(sopa)
 
 Psalms 31:20 in vtrad vtmam
 m,a,(mah),h
-SPACE
+START/STOP implicit-maqaf
 r,_,(mos),b,-,θ,v,·,b,:,k.,a,(zarnor)
 SPACE
 α,:_,$,·sh,∵,r,-,c,a,p,_,(atn_h),n,:,τ,·,a
@@ -9325,7 +9325,7 @@ SPACE
 b,i,l,:,$,·sh,(ole),v,o,n,i,(mer),y
 SPACE
 α,∵,$,·sh,:,m,:,r,a,(mer),h
-SPACE
+START/STOP implicit-maqaf
 l,:,p,i,(mer),y
 SPACE
 m,_,x,:,σ,(atn),v,o,m.

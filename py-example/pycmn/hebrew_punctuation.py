@@ -7,6 +7,8 @@ GERSHAYIM = "\N{HEBREW PUNCTUATION GERSHAYIM}"  # ״
 UPDOT = "\N{HEBREW MARK UPPER DOT}"  # aka extraordinary upper dot
 LODOT = "\N{HEBREW MARK LOWER DOT}"  # aka extraordinary lower dot
 MCIRC = "\N{HEBREW MARK MASORA CIRCLE}"
+#
+MAQ_RE = r"\u05be"
 
 
 def split_at_maq(string):
