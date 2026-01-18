@@ -41,3 +41,6 @@ The `contents-corresponds-to` attribute can take on one of three values:
 The `osisID-of-MAM-src` attribute complements the first two cases
 above. It says _which_ verse in MAM this verse fully or partially
 corresponds to.
+
+
+Questions? Email maintainer@miqra.simplelogin.com.
