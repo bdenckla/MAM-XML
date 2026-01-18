@@ -169,8 +169,18 @@ def sl_map_even_odd(foc_pair, the_sequence):
 
 
 def my_groupby(iterable, keyfunc):
-    groups = groupby(iterable, keyfunc)
-    return {k: list(v) for k, v in groups}
+    # I used to implement this using itertools.groupby.
+    # But it does something different than what we need.
+    # If input=[(1, 10), (1, 11), (2, 12), (1, 13)]
+    # and output=[(x, list(y)) for x,y in groupby(input, lambda z: z[0])],
+    # then output is a list having the following values:
+    #    (1, [(1, 10), (1, 11)]),
+    #    (2, [(2, 12)]),
+    #    (1, [(1, 13)])
+    out = {}
+    for elem in iterable:
+        append_at_key(out, keyfunc(elem), elem)
+    return out
 
 
 def sum_of_seqs(seq_of_seqs):
