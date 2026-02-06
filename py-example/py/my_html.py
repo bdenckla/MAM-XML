@@ -322,7 +322,7 @@ def _do_space_asserts(tag, fs_contents):
     assert not _has_lt_space(fs_contents), (fs_contents[0], fs_contents[-1])
     for htel in fs_contents:
         if isinstance(htel, str):
-            assert not "  " in htel, _double_space_helper(htel)
+            assert "  " not in htel, _double_space_helper(htel)
 
 
 def _double_space_helper(string: str):
