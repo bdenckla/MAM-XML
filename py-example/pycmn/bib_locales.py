@@ -85,7 +85,7 @@ def short_bcv(bcv):
     Note that, to minimize string length, there is no space between the
     (short) book name and the chapter.
     """
-    return short(bcv[0]) + str(bcv[1]) + ":" + str(bcv[2])
+    return f"{short(bcv[0])}{bcv[1]}:{bcv[2]}"
 
 
 def parse_short_bcv(short_bcv):
@@ -318,20 +318,6 @@ def std_from_short(short_book_name):
     return _SHORT_TO_STD[short_book_name]
 
 
-def _is_prose_section_of_job(bcvt):
-    if bcvt_get_bk39id(bcvt) != BK_JOB:
-        return False
-    chnu = bcvt_get_chnu(bcvt)
-    if chnu in (1, 2):
-        return True
-    vrnu = bcvt_get_vrnu(bcvt)
-    if chnu == 3 and vrnu < 2:
-        return True
-    if chnu == 42 and vrnu > 6:
-        return True
-    return False
-
-
 def is_bcvt(obj):
     return (
         isinstance(obj, tuple)
@@ -368,6 +354,20 @@ def ordered_short(bk39id):  # E.g. 'A1' for GENESIS, 'FD' for SND_CHRONICLES
     is assumed. E.g. B1 (Joshua) comes before BA (1Samuel).
     """
     return _bkprop_ordered_short(_BK39_PROPERTIES[bk39id])
+
+
+def _is_prose_section_of_job(bcvt):
+    if bcvt_get_bk39id(bcvt) != BK_JOB:
+        return False
+    chnu = bcvt_get_chnu(bcvt)
+    if chnu in (1, 2):
+        return True
+    vrnu = bcvt_get_vrnu(bcvt)
+    if chnu == 3 and vrnu < 2:
+        return True
+    if chnu == 42 and vrnu > 6:
+        return True
+    return False
 
 
 def _max_width_for_chnu(bk39id):

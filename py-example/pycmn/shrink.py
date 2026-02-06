@@ -1,7 +1,9 @@
-"""Exports shrink, shrink_xml"""
+"""Coalesce adjacent strings in mixed iterables."""
 
 import copy
 import xml.etree.ElementTree as ET
+
+__all__ = ["shrink", "shrink_xml"]
 
 
 def shrink(parts):

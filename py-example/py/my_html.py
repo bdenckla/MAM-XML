@@ -110,9 +110,9 @@ def caption(contents):
     return htel_mk("caption", flex_contents=contents)
 
 
-def table_row(contents):
+def table_row(contents, attr=None):
     """Make a <tr> element."""
-    return htel_mk("tr", flex_contents=contents)
+    return htel_mk("tr", attr=attr, flex_contents=contents)
 
 
 def table_row_of_data(tdconts, tdattrs=None):
@@ -293,6 +293,27 @@ def htel_mk(tag: str, attr=None, flex_contents=None):
     return {"_htel_tag": tag, **opts2}
 
 
+def anchor_h(contents, href_val):
+    return anchor(contents, {"href": href_val})
+
+
+def htel_get_tag(html_el):
+    """Get the tag of an HTML element."""
+    return html_el["_htel_tag"]
+
+
+def htel_get_class_attr(html_el):
+    """Get the class attribute of an HTML element."""
+    return html_el["attr"]["class"]
+
+
+def is_htel(obj):
+    return isinstance(obj, dict) and "_htel_tag" in obj
+
+
+###########################################################
+
+
 def _do_space_asserts(tag, fs_contents):
     if not fs_contents:
         return
@@ -309,28 +330,11 @@ def _double_space_helper(string: str):
     return match and (match.group(0), string)
 
 
-def anchor_h(contents, href_val):
-    return anchor(contents, {"href": href_val})
-
-
 def _has_lt_space(xs):
     """Does this have either leading or trailing space?"""
     if xs[0] == sd.OCTO_NBSP:
         return False  # make an exception for OCTO_NBSP
     return _iswlts(xs[0], str.lstrip) or _iswlts(xs[-1], str.rstrip)
-
-
-def htel_get_tag(html_el):
-    """Get the tag of an HTML element."""
-    return html_el["_htel_tag"]
-
-
-def htel_get_class_attr(html_el):
-    """Get the class attribute of an HTML element."""
-    return html_el["attr"]["class"]
-
-
-###########################################################
 
 
 def _iswlts(x, strip_fn):
@@ -339,11 +343,7 @@ def _iswlts(x, strip_fn):
 
 
 def _is_str_or_htel(obj):
-    return isinstance(obj, str) or _is_htel(obj)
-
-
-def _is_htel(obj):
-    return isinstance(obj, dict) and "_htel_tag" in obj
+    return isinstance(obj, str) or is_htel(obj)
 
 
 def _write_callback(add_wbr, html_el, out_fp):

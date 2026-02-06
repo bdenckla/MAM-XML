@@ -1,12 +1,4 @@
-"""
-This module exports:
-    shunna
-    accent_names
-    rm_mtgoslq
-    he_char_name
-    join_shunnas
-    t_shunnas
-"""
+"""Hebrew Unicode utilities."""
 
 import unicodedata
 from pycmn import hebrew_letters as hl
@@ -14,6 +6,15 @@ from pycmn import hebrew_points as hpo
 from pycmn import hebrew_punctuation as hpu
 from pycmn import hebrew_accents as ha
 from pycmn import str_defs as sd
+
+__all__ = [
+    "shunna",
+    "accent_names",
+    "rm_mtgoslq",
+    "he_char_name",
+    "join_shunnas",
+    "t_shunnas",
+]
 
 
 def shunna(string):

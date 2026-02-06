@@ -164,7 +164,7 @@ def snd_map(foc, the_seq):
 
 
 def sl_map_even_odd(foc_pair, the_sequence):
-    # Like sl_map, but with a different foc for even- & odd-indexed elements.
+    """Like sl_map, but with a different foc for even- & odd-indexed elements."""
     return sl_map((_even_odd_foc, foc_pair), enumerate(the_sequence))
 
 

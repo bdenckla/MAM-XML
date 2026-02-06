@@ -10,6 +10,8 @@ MCIRC = "\N{HEBREW MARK MASORA CIRCLE}"
 #
 MAQ_RE = r"\u05be"
 
+NU_GMAQ = "~"  # non-unicode gray maqaf (tilde)
+
 
 def split_at_maq(string):
     return string.split(MAQ)

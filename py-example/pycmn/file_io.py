@@ -1,13 +1,11 @@
-"""
-Exports:
-    with_tmp_openw
-    json_dump_to_file_path
-"""
+"""File I/O utilities."""
 
 import os
 import pathlib
 import json
 import time
+
+__all__ = ["with_tmp_openw", "json_dump_to_file_path"]
 
 
 def with_tmp_openw(out_path: str, kwargs_dic, write_fun, *write_fun_args):
