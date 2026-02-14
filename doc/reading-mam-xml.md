@@ -1,7 +1,5 @@
 # Reading MAM-XML
 
-> **Note:** This documentation was AI-generated and has been briefly human-reviewed. No errors have been found so far, but some may remain.
-
 This document describes the XML format used in MAM-XML and how to extract text from it.
 
 ## File Layout
