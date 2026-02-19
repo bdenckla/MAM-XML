@@ -78,7 +78,8 @@ interspersed with markup elements:
 | `<letter-small>` | Small letter (contains `<text>` children) |
 | `<letter-large>` | Large letter (contains `<text>` children) |
 | `<letter-hung>` | Hung/suspended letter (contains `<text>` children) |
-| `<kq>` | Ketiv/Qere pair |
+| `<slh-word>` | Suspended-letter word (see below) |
+| `<kq>` | Ketiv/Qere pair (see below) |
 | `<kq-k>` | Ketiv portion |
 | `<kq-q>` | Qere portion |
 | `<kq-trivial>` | Trivial Ketiv/Qere |
@@ -93,6 +94,38 @@ interspersed with markup elements:
 | `<spi-samekh2>`, `<spi-samekh3>` | Samekh parashah markers |
 | `<spi-pe2>`, `<spi-pe3>` | Pe parashah markers |
 | `<spi-invnun>` | Inverted nun |
+
+### Suspended-letter words (`<slh-word>`)
+
+An `<slh-word>` wraps a word that contains a small, large, or hung letter. It has descriptive attributes:
+
+| Attribute | Meaning |
+|-----------|--------|
+| `slhw-desc-0` | Full word text (consonants only, no accents/vowels) |
+| `slhw-desc-1` | Dot-masked form showing only the special letter position |
+| `slhw-desc-2` | Letter size category: `ג` (large), `ק` (small), `ת` (hung) |
+| `slhw-desc-3` | Both: letter/category |
+
+Its children are `<text>`, `<letter-small>`, `<letter-large>`, and/or `<letter-hung>` elements that spell out the word with markup on the special letter.
+
+`<slh-word>` usually appears as a direct child of `<verse>`, but can also appear inside `<kq-k>` (see below).
+
+### Ketiv/Qere elements
+
+`<kq>` contains a `<kq-k>` (ketiv) and `<kq-q>` (qere) child. Both `<kq-k>` and `<kq-q>` **usually** have a `text` attribute with the word text, but not always. A `<kq-k>` may instead contain an `<slh-word>` child, in which case the word text is in the `<slh-word>`’s `slhw-desc-0` attribute. Example (Job 7:5):
+
+```xml
+<kq>
+  <kq-k>
+    <slh-word slhw-desc-0="וגיש" slhw-desc-2="ק" ...>
+      <text text="ו"/><letter-small text="ג"/><text text="יש"/>
+    </slh-word>
+  </kq-k>
+  <kq-q text="וַגִּישָּׁ֔ה"/>
+</kq>
+```
+
+When extracting ketiv text, always try the `text` attribute first, then fall back to a child `<slh-word>`’s `slhw-desc-0`. Do not silently skip if neither is found.
 
 ## Verse Attributes
 
