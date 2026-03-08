@@ -1,6 +1,6 @@
 """ Exports HANDLERS """
 
-from py import my_html
+from py_misc import my_html
 from pycmn import str_defs as sd
 from pycmn import hebrew_punctuation as hpu
 from pycmn import shrink

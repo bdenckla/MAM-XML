@@ -4,11 +4,11 @@ Exports:
     bkg_path
 """
 
-from py import my_html
+from py_misc import my_html
 from pycmn import file_io
 from pycmn import my_utils
 from pycmn import uni_heb as uh
-from py import verse_and_friends as vaf
+from py_misc import verse_and_friends as vaf
 from pycmn import bib_locales as tbn
 from pycmn import str_defs as sd
 

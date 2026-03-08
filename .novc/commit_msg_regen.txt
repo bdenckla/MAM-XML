@@ -1,0 +1,5 @@
+Move py-example/py/ to py_misc/ and regenerate outputs
+
+Rename the copied library directory from py/ to py_misc/ to match
+upstream. Update pysefaria imports accordingly. Regenerate all XML
+and unicode-names outputs.

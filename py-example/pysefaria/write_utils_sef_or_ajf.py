@@ -4,7 +4,7 @@ Exports:
 """
 
 import csv
-from py import my_html
+from py_misc import my_html
 from pycmn import file_io
 from pycmn import my_utils
 from pysefaria import sef_header

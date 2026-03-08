@@ -7614,7 +7614,7 @@ START kq-k
 v,y,α,m,r
 STOP kq-k
 START kq-q
-v,_,y,·,o,(mos),α,m,:,r,(mun),v,·
+v,_,y,·,o,α,m,:,r,(mun),v,·
 STOP kq-q
 STOP kq
 SPACE
