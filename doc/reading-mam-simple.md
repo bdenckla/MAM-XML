@@ -1,6 +1,6 @@
-# Reading MAM-XML
+# Reading MAM-simple
 
-This document describes the XML format used in MAM-XML and how to extract text from it.
+This document describes the XML format used in MAM-simple and how to extract text from it.
 
 ## File Layout
 
@@ -140,11 +140,11 @@ see the handler-based approach in `py-example/pysefaria/mam4sef_handlers.py`.
 ## The `py-example/` Program
 
 The `py-example/` directory contains a complete working example
-of reading MAM-XML and producing the MAM-for-Sefaria CSV/HTML output.
+of reading MAM-simple and producing the MAM-for-Sefaria CSV/HTML output.
 It uses a recursive handler pattern where each element type
 has a registered handler function:
 
 - **`mam4sef_or_ajf.py`** — reads XML, walks the tree with `_handle()`
 - **`mam4sef_handlers.py`** — handler functions for every element type, keyed by `(tag, class)` tuple
 
-This is the canonical reference for how to process the full range of MAM-XML element types.
+This is the canonical reference for how to process the full range of MAM-simple element types.
