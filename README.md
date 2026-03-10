@@ -1,9 +1,16 @@
 # MAM-simple
-This repo has an extract of MAM in an XML format that is simple but not complete. See:
-* `out/xml-vtrad-bhs` for files in this XML format that use BHS versification
-* `out/xml-vtrad-sef` for files in this XML format that use Sefaria versification
+This repo has an extract of MAM in XML and JSON formats that are simple but not complete. See:
+* `out/xml-vtrad-bhs` for XML files that use BHS versification
+* `out/xml-vtrad-sef` for XML files that use Sefaria versification
+* `out/xml-vtrad-mam` for XML files that use MAM native versification
+* `out/json-vtrad-bhs` for JSON files that use BHS versification
+* `out/json-vtrad-sef` for JSON files that use Sefaria versification
+* `out/json-vtrad-mam` for JSON files that use MAM native versification
 
-For a detailed guide to the XML structure, element types, and how to extract text,
+The JSON format mirrors the XML structure (same hierarchy and element types,
+expressed as nested JSON objects instead of XML elements).
+
+For a detailed guide to the structure, element types, and how to extract text,
 see [Reading MAM-simple](doc/reading-mam-simple.md).
 
 This repo also has a program, `py-example/main_mam4sef.py`,

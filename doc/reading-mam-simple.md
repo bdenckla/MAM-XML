@@ -1,18 +1,23 @@
 # Reading MAM-simple
 
-This document describes the XML format used in MAM-simple and how to extract text from it.
+This document describes the XML and JSON formats used in MAM-simple and how to extract text from them.
 
 ## File Layout
 
 ```
 out/
-  xml-vtrad-bhs/    # BHS versification
-  xml-vtrad-sef/    # Sefaria versification
-  xml-vtrad-mam/    # MAM native versification
+  xml-vtrad-bhs/    # XML, BHS versification
+  xml-vtrad-sef/    # XML, Sefaria versification
+  xml-vtrad-mam/    # XML, MAM native versification
+  json-vtrad-bhs/   # JSON, BHS versification
+  json-vtrad-sef/   # JSON, Sefaria versification
+  json-vtrad-mam/   # JSON, MAM native versification
 ```
 
-Each folder contains one XML file per book group (e.g., `Job.xml`, `Gen.xml`, `1Sam2Sam.xml`).
-The three folders differ only in versification — the text content is the same.
+Each folder contains one file per book group (e.g., `Job.xml` / `Job.json`, `Gen.xml` / `Gen.json`, `1Sam2Sam.xml` / `1Sam2Sam.json`).
+Within each format, the three versification folders differ only in versification — the text content is the same.
+
+The JSON format mirrors the XML structure: the same hierarchy (book group → book → chapter → verse → child elements) and the same element types appear in both, with XML elements and attributes mapped to JSON objects and fields. See [JSON Structure](#json-structure) below.
 
 ## XML Element Hierarchy
 
@@ -148,3 +153,71 @@ has a registered handler function:
 - **`mam4sef_handlers.py`** — handler functions for every element type, keyed by `(tag, class)` tuple
 
 This is the canonical reference for how to process the full range of MAM-simple element types.
+
+## JSON Structure
+
+The JSON format mirrors the XML structure.
+The root object has two fields:
+
+| Field | Value |
+|-------|-------|
+| `versification-tradition` | `"vtbhs"`, `"vtsef"`, or `"vtmam"` |
+| `contents` | Array of `book39` objects |
+
+### Book39 object
+
+```json
+{
+  "type": "book39",
+  "osisID": "Ruth",
+  "contents": [ ... ]
+}
+```
+
+`contents` is an array of chapter objects and parashah-marker objects (same types as in XML).
+
+### Chapter object
+
+```json
+{
+  "type": "chapter",
+  "osisID": "Ruth.1",
+  "contents": [ ... ]
+}
+```
+
+`contents` is an array of verse objects and parashah-marker objects.
+
+### Verse objects
+
+Simple verses (no special markup) have a `text` field directly:
+
+```json
+{
+  "osisID": "Ruth.1.1",
+  "yeivinID": "Rut 1:1",
+  "text": "וַיְהִ֗י בִּימֵי֙ ..."
+}
+```
+
+Complex verses (with legarmeih, ketiv/qere, etc.) have a `contents` array instead:
+
+```json
+{
+  "osisID": "Ruth.1.2",
+  "yeivinID": "Rut 1:2",
+  "contents": [
+    { "type": "text", "text": "וְשֵׁ֣ם הָאִ֣ישׁ ..." },
+    { "type": "lp-legarmeih" },
+    { "type": "text", "text": " מַחְל֤וֹן ..." }
+  ]
+}
+```
+
+### Rule for extracting plain text (JSON)
+
+1. If the verse object has a `text` field → use it directly.
+2. Otherwise → concatenate the `text` fields of all objects in `contents` where `type == "text"`, in order.
+
+The full set of child element types is the same as in XML (see [Child Element Types](#child-element-types) above).
+Parashah-marker objects (e.g., `{ "type": "spi-pe2" }`) can appear as children of `book39`, `chapter`, or `verse` `contents` arrays.
