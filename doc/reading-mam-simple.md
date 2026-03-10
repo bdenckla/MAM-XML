@@ -77,8 +77,8 @@ interspersed with markup elements:
 | Element | Meaning |
 |---------|---------|
 | `<text text="..."/>` | A run of Hebrew text |
-| `<lp-legarmeih/>` | Legarmeih punctuation (legacy paseq) |
-| `<lp-paseq/>` | Paseq punctuation |
+| `<lp-legarmeih/>` | Legarmeih |
+| `<lp-paseq/>` | Paseq |
 | `<implicit-maqaf/>` | Maqaf that is implicit in the manuscript |
 | `<letter-small>` | Small letter (contains `<text>` children) |
 | `<letter-large>` | Large letter (contains `<text>` children) |
@@ -89,12 +89,15 @@ interspersed with markup elements:
 | `<kq-trivial>` | Trivial Ketiv/Qere |
 | `<kq-k-velo-q>` | Ketiv with no Qere |
 | `<kq-q-velo-k>` | Qere with no Ketiv |
-| `<cant-combined>` | Combined cantillation |
-| `<cant-all-three>` | All three cantillation systems |
-| `<cant-alef>`, `<cant-bet>` | Individual cantillation systems |
+| `<cant-all-three>` | Wraps combined, alef, and bet |
+| `<cant-combined>` | Combined cantillation (1 of 3)|
+| `<cant-alef>` | Alef cantillation (2 of 3) |
+| `<cant-bet>` | Bet cantillation (3 of 3) |
 | `<shirah-space/>` | Shirah (song) spacing |
 | `<good-ending>` | Alternative ending |
-| `<scrdfftar>` | Scroll-difference-from-target (contains `<sdt-target>` and `<sdt-note>`) |
+| `<scrdfftar>` | Targeted scroll-difference note |
+| `<sdt-target>` | The `<scrdfftar>` target |
+| `<sdt-note>` | The `<scrdfftar>` note itself |
 | `<spi-samekh2>`, `<spi-samekh3>` | Samekh parashah markers |
 | `<spi-pe2>`, `<spi-pe3>` | Pe parashah markers |
 | `<spi-invnun>` | Inverted nun |
