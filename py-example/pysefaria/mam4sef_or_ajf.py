@@ -42,7 +42,7 @@ def _read_book_group(variant, bkg_name):
         tbn.VT_SEF: "xml-vtrad-sef",
     }
     xml_vtrad_xxx = xml_vtrad_xxx_dic[vtrad]
-    xml_path = f"../MAM-XML/out/{xml_vtrad_xxx}/{bkg_name}.xml"
+    xml_path = f"../MAM-simple/out/{xml_vtrad_xxx}/{bkg_name}.xml"
     tree = ET.parse(xml_path)
     return tree.getroot()
 
