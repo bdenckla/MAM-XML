@@ -80,9 +80,9 @@ interspersed with markup elements:
 | `<lp-legarmeih/>` | Legarmeih |
 | `<lp-paseq/>` | Paseq |
 | `<implicit-maqaf/>` | Maqaf that is implicit in the manuscript |
-| `<letter-small>` | Small letter (contains `<text>` children) |
-| `<letter-large>` | Large letter (contains `<text>` children) |
-| `<letter-hung>` | Hung/suspended letter (contains `<text>` children) |
+| `<letter-small>` | Small letter |
+| `<letter-large>` | Large letter |
+| `<letter-hung>` | Hung (aka suspended) letter |
 | `<kq>` | Ketiv/Qere pair |
 | `<kq-k>` | Ketiv portion |
 | `<kq-q>` | Qere portion |
