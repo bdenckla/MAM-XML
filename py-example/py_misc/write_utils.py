@@ -28,42 +28,50 @@ def write_bkg_in_un_fmt(variant, bkg_name, verses, rv_cant_that_covers):
 # discoverable by search.
 _FOLDERS = {
     "": {
+        "vff-json": "json",
         "vff-unicode-names": "unicode-names",
         "vff-csv": "csv",
         "vff-xml": "xml",
     },
     "vpq-vtrad-bhs": {
+        "vff-json": "json-vtrad-bhs",
         "vff-unicode-names": "unicode-names-vtrad-bhs",
         "vff-csv": "csv-vtrad-bhs",
         "vff-xml": "xml-vtrad-bhs",
     },
     "vpq-vtrad-sef": {
+        "vff-json": "json-vtrad-sef",
         "vff-unicode-names": "unicode-names-vtrad-sef",
         "vff-csv": "csv-vtrad-sef",
         "vff-xml": "xml-vtrad-sef",
     },
     "vpq-vtrad-mam": {
+        "vff-json": "json-vtrad-mam",
         "vff-unicode-names": "unicode-names-vtrad-mam",
         "vff-csv": "csv-vtrad-mam",
         "vff-xml": "xml-vtrad-mam",
     },
     "vpq-ajf": {
+        "vff-json": "json-ajf",
         "vff-unicode-names": "unicode-names-ajf",
         "vff-csv": "csv-ajf",
         "vff-xml": "xml-ajf",
     },
 }
 _EXTENSIONS = {
+    "vff-json": ".json",
     "vff-unicode-names": ".txt",
     "vff-csv": ".csv",
     "vff-xml": ".xml",
 }
 
 
-def bkg_path(variant, bkg_name, fmt_is_unicode_names=False):
+def bkg_path(variant, bkg_name, fmt_is_unicode_names=False, fmt_override=None):
     """Return path based on book group name bkg_name."""
     if fmt_is_unicode_names:
         fmt = "vff-unicode-names"
+    elif fmt_override is not None:
+        fmt = fmt_override
     else:
         fmt = variant.get("variant-file-format") or "vff-csv"
     path_qual = variant.get("variant-path-qual") or ""

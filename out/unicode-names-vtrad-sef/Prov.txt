@@ -10121,6 +10121,7 @@ SPACE
 m,‥,3,a,l,a,(mun),y,v
 SPACE
 α,_,p,·,(mos),v,o,(sopa)
+START/STOP spi-pe2
 
 Proverbs 24:19 in vtrad vtsef
 α,_,l,-,τ,·,i,τ,:,x,_,(mer),r

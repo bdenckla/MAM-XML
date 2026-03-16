@@ -89,7 +89,7 @@ def short_bcv(bcv):
 
 
 def parse_short_bcv(short_bcv):
-    bcv_patt = r"([A-z0-9][A-z]?)" + r"(\d+)" + ":" + r"(\d+)"
+    bcv_patt = r"([A-Za-z0-9][A-Za-z]?)" + r"(\d+)" + ":" + r"(\d+)"
     match = re.fullmatch(bcv_patt, short_bcv)
     assert match is not None
     book_name_short, bcv_chnu_str, bcv_vrnu_str = match.groups()
