@@ -42344,7 +42344,7 @@ START kq-k
 v,y,τ,n,h
 STOP kq-k
 START kq-q
-v,:,y,i,τ,·,:,n,v,·,(rev),h,v,·
+v,:,y,i,τ,·,:,n,(rev),v,·,h,v,·
 STOP kq-q
 STOP kq
 SPACE

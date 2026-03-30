@@ -21944,6 +21944,7 @@ START kq-q
 m,‥,α,i,τ,·,i,(mos),y
 STOP kq-q
 STOP kq
+SPACE
 (sopa)
 
 Isaiah 44:25 in vtrad vtsef

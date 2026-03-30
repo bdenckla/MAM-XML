@@ -4125,7 +4125,9 @@ b,‥,l,:,θ,:,$,·sh,_,α,c,·,_,r,(pash)
 SPACE
 v,:,α,a,m,_,(zaq_q),r
 SPACE
+START kq-trivial
 m,a,r,i,(zaq_g),α,y
+STOP kq-trivial
 SPACE
 x,∵,l,:,m,a,(mer),α
 SPACE

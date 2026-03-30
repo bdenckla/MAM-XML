@@ -1,4 +1,4 @@
-""" Exports VerseAndFriends """
+"""Exports VerseAndFriends"""
 
 from dataclasses import dataclass
 

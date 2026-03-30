@@ -1,7 +1,6 @@
-""" Exports SEF_BKNA """
+"""Exports SEF_BKNA"""
 
 from pycmn import bib_locales as tbn
-
 
 _SEF_BOOK_PROPERTIES = {
     tbn.BK_GENESIS: ("Genesis",),

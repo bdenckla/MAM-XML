@@ -1,4 +1,4 @@
-""" Exports various HTML utilities """
+"""Exports various HTML utilities"""
 
 import xml.etree.ElementTree as ET
 import re
@@ -21,7 +21,9 @@ class WriteCtx:
     path: str
     head_style: Union[str, None] = None
     css_hrefs: tuple = ()
+    body_class: Union[str, None] = None
     add_wbr: bool = False
+    html_comment: Union[str, None] = None
 
 
 def write_html_to_file(body_contents, wc: WriteCtx):
@@ -32,9 +34,11 @@ def write_html_to_file(body_contents, wc: WriteCtx):
             * a title
             * an output path
     """
-    other = {"head_style": wc.head_style}
+    other = {"head_style": wc.head_style, "body_class": wc.body_class}
     html_el = html_el2(wc.title, body_contents, wc.css_hrefs, other=other)
-    file_io.with_tmp_openw(wc.path, {}, _write_callback, wc.add_wbr, html_el)
+    file_io.with_tmp_openw(
+        wc.path, {}, _write_callback, wc.add_wbr, wc.html_comment, html_el
+    )
 
 
 def el_to_str_for_sef(html_el):
@@ -72,7 +76,7 @@ def add_htel_to_etxml(etxml_parent, htel):
 
 def html_el2(title_text, body_contents, css_hrefs=(), other=None):
     """Make an <html> element."""
-    other_defaults = {"lang": "en", "head_style": None}
+    other_defaults = {"lang": "en", "head_style": None, "body_class": None}
     if other is None:
         other = {}
     other = {**other_defaults, **other}
@@ -86,7 +90,8 @@ def html_el2(title_text, body_contents, css_hrefs=(), other=None):
         style_els = (style_el,)
     head_cont = (meta, title) + style_els + links_to_css
     _head = htel_mk("head", flex_contents=head_cont)
-    _body = htel_mk("body", flex_contents=body_contents)
+    body_attr = {"class": other["body_class"]} if other["body_class"] else None
+    _body = htel_mk("body", attr=body_attr, flex_contents=body_contents)
     return _html_el1({"lang": other["lang"]}, (_head, _body))
 
 
@@ -346,8 +351,10 @@ def _is_str_or_htel(obj):
     return isinstance(obj, str) or is_htel(obj)
 
 
-def _write_callback(add_wbr, html_el, out_fp):
+def _write_callback(add_wbr, html_comment, html_el, out_fp):
     out_fp.write("<!doctype html>\n")
+    if html_comment:
+        out_fp.write(f"<!-- {html_comment} -->\n")
     hgl_opts = {
         "hgl-add-wbr": add_wbr,
         "hgl-max-line-len": 100,

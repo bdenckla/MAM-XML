@@ -1,5 +1,8 @@
 """Exports some useful Unicode constants"""
 
+LDQM = "\N{LEFT DOUBLE QUOTATION MARK}"
+RDQM = "\N{RIGHT DOUBLE QUOTATION MARK}"
+
 NBSP = "\N{NO-BREAK SPACE}"
 OCTO_NBSP = NBSP * 8
 THSP = "\N{THIN SPACE}"

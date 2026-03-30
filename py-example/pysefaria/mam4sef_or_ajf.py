@@ -1,4 +1,4 @@
-""" Exports main_helper """
+"""Exports main_helper"""
 
 import xml.etree.ElementTree as ET
 from py_misc import my_utils_for_mainish as my_utils_fm
