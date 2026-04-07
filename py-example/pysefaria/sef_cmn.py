@@ -1,7 +1,20 @@
-"""Exports SEF_BKNA"""
+"""Sefaria-specific book-title mappings.
+
+Exports:
+    SEF_BKNA — map canonical internal bk39 ids to Sefaria's external
+               English book titles
+
+The keys in this module are the project's canonical bk39 ids from
+`pycmn.bib_locales`. The values are Sefaria-facing titles such as
+`I Samuel` and `Leviticus` that are required at the Sefaria boundary.
+
+This module is an external adapter, not a second source of truth for the
+project's internal book naming.
+"""
 
 from pycmn import bib_locales as tbn
 
+# Canonical internal bk39 id -> external Sefaria title.
 _SEF_BOOK_PROPERTIES = {
     tbn.BK_GENESIS: ("Genesis",),
     tbn.BK_EXODUS: ("Exodus",),
