@@ -28534,7 +28534,10 @@ v,·,$,·sh,:,m,o,n,∵,(mer),h
 SPACE
 m,_,3,:_,l,(tip),v,o,τ
 SPACE
-m,_,3,:_,l,a,(mos),v,(sopa)
+START kq-trivial
+m,_,3,:_,l,a,(mos),v
+STOP kq-trivial
+(sopa)
 
 Ezekiel 40:38 in vtrad vtsef
 v,:,l,i,$,·sh,:,k,·,a,(mun),h
@@ -33483,7 +33486,9 @@ SPACE
 SPACE
 h,_,m,·,v,·,c,a,α,i,(tip),y,m.
 SPACE
-v,:,n,i,r,:,p,·,(mer),α,v,·
+START kq-trivial
+v,:,n,i,r,:,p,·,(mer),α,‾,v,·
+STOP kq-trivial
 SPACE
 h,_,m,·,a,(mos),y,i,m.,(sopa)
 
@@ -34598,7 +34603,10 @@ v,·,m,i,q,:,d,·,_,(mer),$,·sh
 SPACE
 h,_,b,·,_,(tip),y,i,τ
 SPACE
-b,·,:,τ,v,o,k,o,(mos),h,(sopa)
+START kq-trivial
+b,·,:,τ,v,o,k,o,(mos),h
+STOP kq-trivial
+(sopa)
 
 Ezekiel 48:22 in vtrad vtsef
 v,·,m,‥,α,:_,x,u,z,·,_,(mah),τ
