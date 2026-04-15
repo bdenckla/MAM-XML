@@ -17512,7 +17512,14 @@ y,:,b,oa,z,·,(zaq_q),v,·,m.
 SPACE
 v,:,y,∵,(mer),τ,∵,r
 SPACE
-g,·,v,o,y,i,(tip)
+START kq
+START kq-k
+g,v,y
+STOP kq-k
+START kq-q
+g,·,v,o,y,i,(tip),y
+STOP kq-q
+STOP kq
 SPACE
 y,i,n,:,x,a,l,(mos),v,·,m.,(sopa)
 

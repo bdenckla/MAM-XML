@@ -7323,7 +7323,14 @@ SPACE
 SPACE
 h,_,m,·,i,l,:,x,a,m,a,h,(pash)
 SPACE
-h,∵,h,a,l,:,k,(mun),v,·,α
+START kq
+START kq-k
+h,h,l,k,v,α
+STOP kq-k
+START kq-q
+h,∵,h,a,l,:,k,(mun),v,·
+STOP kq-q
+STOP kq
 SPACE
 α,i,τ,·,(zaq_q),v,o
 SPACE
