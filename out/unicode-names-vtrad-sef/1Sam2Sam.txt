@@ -25498,7 +25498,9 @@ v,_,y,·,i,p,·,oa,l,-,$,·sh,a,(tip),m.
 SPACE
 v,_,y,·,a,(mun),m,oa,τ
 SPACE
+START kq-trivial
 τ,·,_,x,:,τ,·,a,(atn),v
+STOP kq-trivial
 SPACE
 v,_,y,:,h,i,(paz),y
 SPACE
