@@ -1,10 +1,12 @@
 """Exports main_helper"""
 
+import os
 import xml.etree.ElementTree as ET
 from py_misc import my_utils_for_mainish as my_utils_fm
 from py_misc import osis_book_abbrevs
 from pysefaria import sef_cmn
 from pycmn import bib_locales as tbn
+from pycmn import provenance
 from py_misc import write_utils
 from pysefaria import write_utils_sef_or_ajf
 from pycmn import shrink
@@ -14,8 +16,29 @@ def main_helper(variant):
     """Create the Sefaria MAM or AJF MAM from the XML MAM."""
     bkids = my_utils_fm.get_bk39_tuple_from_argparse()
     bkgs = osis_book_abbrevs.bk24_bkgs(bkids)
+    _write_output_provenance(variant, bkgs)
     for bkg in bkgs:
         _do_one_book_group(variant, bkg)
+
+
+def _write_output_provenance(variant, bkgs):
+    if not bkgs:
+        return
+    sample_name = sef_cmn.SEF_BKNA[bkgs[0]["bkg-bkids"][0]]
+    csv_dir = os.path.dirname(write_utils.bkg_path(variant, sample_name))
+    unicode_dir = os.path.dirname(
+        write_utils.bkg_path(variant, sample_name, fmt_is_unicode_names=True)
+    )
+    provenance.write_directory_provenance(
+        csv_dir,
+        __file__,
+        "Sefaria CSV exports",
+    )
+    provenance.write_directory_provenance(
+        unicode_dir,
+        __file__,
+        "Sefaria Unicode-name exports",
+    )
 
 
 def _handle(handlers, etel):  # etel: ElementTree element
