@@ -4,12 +4,12 @@ import os
 import xml.etree.ElementTree as ET
 from py_misc import my_utils_for_mainish as my_utils_fm
 from py_misc import osis_book_abbrevs
-from pysefaria import sef_cmn
-from pycmn import bib_locales as tbn
-from pycmn import provenance
+from mb_sefaria import sef_cmn
+from mb_cmn import bib_locales as tbn
+from mb_cmn import provenance
 from py_misc import write_utils
-from pysefaria import write_utils_sef_or_ajf
-from pycmn import shrink
+from mb_sefaria import write_utils_sef_or_ajf
+from mb_cmn import shrink
 
 
 def main_helper(variant):

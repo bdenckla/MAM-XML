@@ -1,7 +1,7 @@
 import argparse
 import os
 
-from pycmn import bib_locales as tbn
+from mb_cmn import bib_locales as tbn
 
 
 def get_bk39_tuple_from_argparse():

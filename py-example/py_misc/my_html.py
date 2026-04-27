@@ -5,12 +5,12 @@ import re
 from dataclasses import dataclass
 from typing import Union
 
-from pycmn import file_io
+from mb_cmn import file_io
 from py_misc import my_html_get_lines as hgl
-from pycmn import str_defs as sd
-from pycmn.my_utils import st_map
-from pycmn.my_utils import sum_of_map
-from pycmn import shrink
+from mb_cmn import str_defs as sd
+from mb_cmn.my_utils import st_map
+from mb_cmn.my_utils import sum_of_map
+from mb_cmn import shrink
 
 
 @dataclass

@@ -5,7 +5,7 @@ import pathlib
 import json
 import time
 
-from pycmn import provenance
+from mb_cmn import provenance
 
 __all__ = ["with_tmp_openw", "json_dump_to_file_path"]
 

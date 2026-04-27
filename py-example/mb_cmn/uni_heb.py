@@ -1,11 +1,11 @@
 """Hebrew Unicode utilities."""
 
 import unicodedata
-from pycmn import hebrew_letters as hl
-from pycmn import hebrew_points as hpo
-from pycmn import hebrew_punctuation as hpu
-from pycmn import hebrew_accents as ha
-from pycmn import str_defs as sd
+from mb_cmn import hebrew_letters as hl
+from mb_cmn import hebrew_points as hpo
+from mb_cmn import hebrew_punctuation as hpu
+from mb_cmn import hebrew_accents as ha
+from mb_cmn import str_defs as sd
 
 __all__ = [
     "shunna",

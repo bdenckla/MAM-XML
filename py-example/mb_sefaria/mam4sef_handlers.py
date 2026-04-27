@@ -1,9 +1,9 @@
 """Exports HANDLERS"""
 
 from py_misc import my_html
-from pycmn import str_defs as sd
-from pycmn import hebrew_punctuation as hpu
-from pycmn import shrink
+from mb_cmn import str_defs as sd
+from mb_cmn import hebrew_punctuation as hpu
+from mb_cmn import shrink
 
 # etel: ElementTree element
 # ofc1: output for all children, summed together

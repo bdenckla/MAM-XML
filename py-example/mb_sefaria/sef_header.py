@@ -1,6 +1,6 @@
 """Exports sef_header"""
 
-from pysefaria import sef_cmn
+from mb_sefaria import sef_cmn
 from py_misc import ws_urls
 
 

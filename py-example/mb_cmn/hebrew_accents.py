@@ -1,6 +1,6 @@
 """Exports names for Unicode Hebrew accents"""
 
-from pycmn import cantsys
+from mb_cmn import cantsys
 
 ATN = "\N{HEBREW ACCENT ETNAHTA}"
 SEG_A = "\N{HEBREW ACCENT SEGOL}"

@@ -1,7 +1,7 @@
 import html
-from pycmn import hebrew_punctuation as hpu
-from pycmn import str_defs as sd
-from pycmn.my_utils import sum_of_map
+from mb_cmn import hebrew_punctuation as hpu
+from mb_cmn import str_defs as sd
+from mb_cmn.my_utils import sum_of_map
 
 
 def get_lines_from_html_el(hgl_opts, html_el):
