@@ -1,59 +1,15 @@
 # MAM-simple
-This repo houses a version of MAM that is simple but not complete.
-(See [MAM-parsed](https://github.com/bdenckla/MAM-parsed) for complete versions).
-This repo's simple version of MAM is available in both XML and JSON formats.
-Each of these two formats is, in turn, available in three versifications.
-This yields a total of six flavors of MAM-simple:
 
-<!-- sync: folder table also appears in doc/reading-mam-simple.md ##File-Layout -->
-folder | format | versification
----- | ---- | ----
-`xml-vtrad-bhs` | XML | BHS
-`xml-vtrad-sef` | XML | Sefaria
-`xml-vtrad-mam` | XML | MAM native
-`json-vtrad-bhs` | JSON | BHS
-`json-vtrad-sef` | JSON | Sefaria
-`json-vtrad-mam` | JSON | MAM native
+MAM-simple is now a product tree in
+[MAM-basics](https://github.com/bdenckla/MAM-basics/tree/main/MAM-simple).
+The MAM-simple data, documentation, example programs, and generated example
+output are maintained there.
 
-The JSON format mirrors the XML structure: it has the same hierarchy and element types.
+Read the product from the
+[MAM-basics MAM-simple source tree](https://github.com/bdenckla/MAM-basics/tree/main/MAM-simple)
+or its [published MAM-simple pages](https://bdenckla.github.io/MAM-basics/MAM-simple/).
 
-For a detailed guide to the hierarchy and element types of both formats,
-see [Reading MAM-simple](doc/reading-mam-simple.md).
-
-For the versification and cantillation choices behind this extract, the two Decalogues
-above all, see
-[Versification and cantillation](https://bdenckla.github.io/MAM-simple/versification-and-cantillation.html),
-a page served from this repo's `gh-pages/` directory.
-
-One property of the text is worth knowing before you write any code against it:
-**the Hebrew is in neither NFC nor NFD, and normalizing it will silently corrupt it.**
-The combining marks of a letter are in MAM's order, in which shin dot, sin dot, dagesh
-and rafe come first — so a dagesh comes before its vowel, where Unicode's canonical
-order puts the vowel first.
-The two orders render identically and no error is raised, so a pipeline that normalizes
-by reflex, as many tools do on save, changes tens of thousands of code points with
-nothing to show for it until something compares bytes.
-For the full statement, including what the guarantee does and does not cover, see
-[Three invariants worth relying on](doc/reading-mam-simple-xml.md#three-invariants-worth-relying-on).
-
-This repo also has example programs. They are found under `py-examples/`:
-
-<!-- sync: bullet list of example programs also appears in doc/reading-mam-simple.md ##The-py-examples-Programs -->
-* The [`main_mam4sef_example.py`](py-examples/main_mam4sef_example.py) program
-creates the Sefaria edition of MAM, using the JSON format as its input.
-* The [`main_mam_osis_example.py`](py-examples/main_mam_osis_example.py) program
-creates the OSIS edition of MAM, using the XML format as its input.
-* The [`main_letter_small_job_example.py`](py-examples/main_letter_small_job_example.py) program
-reports all of the `<letter-small>` elements in `Job.xml`,
-writing output to `py-examples-out/letter-small-job.txt`.
-
-As I said above, MAM-simple is not complete.
-It is an extract of MAM, not a full version of MAM.
-For versions of MAM that are complete (but therefore far from simple),
-see [MAM-parsed](https://github.com/bdenckla/MAM-parsed).
-
-MAM-simple is available under CC BY-SA 4.0.
-See [LICENSE.md](LICENSE.md) for the licence text and for the attribution it asks for,
-which differs between Hebrew and every other language.
-
-Questions? Email maintainer@miqra.simplelogin.com.
+This repository remains only as a redirect host for legacy GitHub Pages URLs.
+Its `gh-pages/index.html`, `gh-pages/versification-and-cantillation.html`, and
+`gh-pages/404.html` are generated redirect stubs. Do not add product content to
+this repository.
