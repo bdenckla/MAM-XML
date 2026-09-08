@@ -1,6 +1,6 @@
 # MAM-simple
 
-MAM-simple is now a product tree in
+On 2026-09-06, MAM-simple became a product tree in
 [MAM-basics](https://github.com/bdenckla/MAM-basics/tree/main/MAM-simple).
 The MAM-simple data, documentation, example programs, and generated example
 output are maintained there.
